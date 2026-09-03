@@ -1,0 +1,587 @@
+{
+  "_note": "Valutazioni fatte a mano, dal file 'Resoconto bandi a cui possiamo partecipare.docx'. Questo file NON viene mai riscritto dal monitor: il verdetto qui dentro vince sempre sulla classificazione automatica. verdetto: 'si' = ci partecipiamo, 'rete' = da girare a un'azienda della rete, 'forse' = possibile ma con riserve, 'no' = scartato. priorita: 'A' = puntiamo forte, 'B' = probabile o da girare alla rete con provvigione, 'C' = marginale o scartato. 'perche' = perché possiamo usufruirne, 'come' = come si partecipa in concreto: il sito li mostra cliccando sul bando. Le chiavi che iniziano con _ vengono ignorate.",
+  "_da_agganciare": "Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs — apre il 21/22 settembre 2026, scade il 2 febbraio 2027. CSA: si entra in consorzio, non finanzia R&D ma reti e studi. Startup e PMI innovative sono il target esplicito; doppio ruolo possibile (partner del consorzio per la voce delle startup, o beneficiario end-user delle infrastrutture). Aggiungere l'id del topic appena compare nel portale.",
+  "eu-HORIZON-JU-CBE-2026-IA-04": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico",
+    "nota": "Il più adatto in assoluto sul lato materiali: termoindurenti bio-based per edilizia. Portiamo l'acetato di cellulosa dai mozziconi e i Comuni calabresi come utilizzatori finali dei pannelli (CAM).",
+    "perche": [
+      "Innovation Action CBE JU da ~7 M€ a progetto: finanzia dimostrazione pre-industriale e conversione in prodotti finali di materiali termoindurenti bio-based o riciclati — esattamente i pannelli termoisolanti in acetato di cellulosa di Human Maple.",
+      "Il bando chiede progettazione circular-by-design con recupero a fine vita: il nostro modello (rifiuto tossico → materia prima seconda → pannello CAM) è la risposta da manuale.",
+      "Il bando richiede di coinvolgere gli utilizzatori finali fin dall'inizio: i Comuni calabresi possono testare i pannelli negli edifici pubblici (TRL 6), ed è la nostra merce di scambio."
+    ],
+    "come": [
+      "Cercare consorzi in formazione che includano produttori di resine e grandi aziende di materiali per l'edilizia, oltre a istituti di ricerca sui materiali.",
+      "Pitch: 'siamo la startup che recupera l'acetato di cellulosa dai mozziconi e abbiamo i Comuni italiani pronti a testare e acquistare i pannelli isolanti bio-based'.",
+      "Coinvolgere Unical per la validazione delle schede tecniche e l'analisi LCA."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-JU-CBE-2026-IA-02": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico",
+    "nota": "Bando top tier: la CBE JU è la casa naturale di Human Maple, l'acetato di cellulosa è un polimero bio-based. Ruolo tecnologico centrale, non marginale.",
+    "perche": [
+      "Le Innovation Action CBE JU finanziano scalabilità di processi che trasformano scarti e biopolimeri in prodotti bio-based ad alto valore: il processo brevettato di estrazione dell'acetato dai filtri risponde in pieno alla missione (evitare discarica/incenerimento di materiale cellulosico).",
+      "Richiede l'integrazione dell'intera catena del valore, dall'approvvigionamento al mercato: noi copriamo raccolta tracciata (Comuni + posacenere smart), trasformazione e fornitura ai manifatturieri.",
+      "Possiamo ricoprire un ruolo centrale da Technology Provider / Demo Partner con un work package dedicato a estrazione, igienizzazione e valorizzazione dell'acetato riciclato."
+    ],
+    "come": [
+      "Costruire un consorzio di filiera: grandi industrie manifatturiere (moda sostenibile, tessuti tecnici, isolanti) come end-user, noi come PMI tecnologica, centri di ricerca (Unical, CNR, Fraunhofer, VTT) per validazione e LCA, i Comuni calabresi per la logistica urbana.",
+      "Dimostrare la fornitura continua di materia prima con il modello di raccolta differenziata e tracciata dei Comuni della rete.",
+      "Preparare schede prestazionali e dati dell'impianto pilota per il dossier tecnico."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-LIFE-2026-SAP-ENV-ENVIRONMENT": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico + territorio",
+    "nota": "Il più abbordabile: LIFE finanzia dimostrazione sul campo, non ricerca, e permette un consorzio tutto italiano (noi + 2-3 Comuni calabresi + Unical).",
+    "perche": [
+      "LIFE SAP ENV finanzia proprio startup e PMI con una tecnologia innovativa che devono fare scale-up verso un impianto pilota o un modello pre-commerciale: il caso di Human Maple.",
+      "A differenza di Horizon basta un consorzio snello e anche tutto italiano (3-4 partner): noi + 2 Comuni calabresi + Unical per le analisi ambientali.",
+      "Adora le partnership pubblico-privato locali: possiamo presentare un 'modello integrato di economia circolare urbana per i Comuni del Sud Italia' con le altre aziende della rete su altre frazioni di rifiuto."
+    ],
+    "come": [
+      "Raccogliere fin da subito i dati di impatto ambientale (tonnellate sottratte alla discarica, CO2, microplastiche evitate): LIFE vuole KPI misurabili, non paper scientifici.",
+      "Far firmare lettere di intenti (Letter of Support) ai Comuni calabresi con cui stiamo parlando.",
+      "Presentare un business plan che dimostri che, finito il finanziamento, la società sta in piedi da sola.",
+      "Possibile ruolo di coordinatore: qui il carico burocratico è sostenibile anche per una startup."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico + territorio",
+    "nota": "Economia circolare nelle costruzioni, dagli edifici alla scala urbana. Obbliga a testare in almeno tre città di Stati membri diversi, che devono stare nel consorzio: i Comuni calabresi sono la nostra merce di scambio.",
+    "perche": [
+      "Innovation Action ponte tra CCRI e New European Bauhaus: finanzia riuso e riciclo di materiali edili, urban mining e materiali secondari bio-based — il nostro pannello in acetato è esattamente il 'materiale secondario' che il bando promuove.",
+      "Obbligo di testare in almeno 3 città di Stati membri diversi, che devono essere beneficiarie nel consorzio: i coordinatori europei hanno un disperato bisogno di Comuni disposti a sperimentare, e noi li abbiamo.",
+      "Doppio ruolo: fornitori del materiale isolante innovativo da testare negli edifici e intermediari territoriali che portano le città pilota."
+    ],
+    "come": [
+      "Blindare i Comuni: spiegare alle amministrazioni calabresi l'opportunità di entrare in un grande progetto europeo sull'edilizia circolare con fondi diretti per la loro città.",
+      "Usare le piattaforme di brokerage UE e gli atenei partner per intercettare i coordinatori che stanno scrivendo il progetto.",
+      "Proporsi come il partner italiano che risolve due problemi in un colpo: il materiale circolare e le città pilota."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-10": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "living lab con i Comuni",
+    "nota": "Accettazione sociale dei prodotti bio-based. I consorzi devono includere PMI e startup 'newcomers': siamo il partner ideale per gamification, sensibilizzazione e Living Lab in Calabria.",
+    "perche": [
+      "RIA da 4-6 M€ che finanzia campagne di educazione, co-creazione con i cittadini e test comportamentali sui prodotti bio-based: la gamification e le campagne sul littering sono esattamente le 'strategie di cambiamento comportamentale' richieste.",
+      "I consorzi devono includere obbligatoriamente PMI e startup 'newcomers' (mai o da poco nei bandi Horizon): siamo una preda ambita per i grandi enti di ricerca.",
+      "I ricercatori europei sanno inventare i materiali ma non hanno i Comuni per i test: noi portiamo la rete calabrese come territorio pilota e il pannello in acetato come caso studio di accettazione sociale."
+    ],
+    "come": [
+      "Preparare un pitch deck di 3 slide in inglese: 'startup italiana esperta in gamification ambientale e public engagement, con una rete di Comuni nel Sud Italia pronti a fare da Living Lab'.",
+      "Cercare sul portale Funding & Tenders gli enti che stanno formando consorzi per CIRCBIO-10 e inviare la presentazione.",
+      "Proporsi per organizzare workshop di co-creazione territoriali con cittadini, enti pubblici e aziende locali."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-01-two-stage": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "living lab con i Comuni",
+    "nota": "Versione 'Living labs in cities and regions' (non quella sugli imballaggi flessibili). Scritto su misura: un Comune calabrese come Living Lab, le aziende della rete nel consorzio, Unical per la validazione.",
+    "perche": [
+      "Innovation Action della Circular Cities and Regions Initiative: implementa su scala reale soluzioni circolari sistemiche che colleghino amministrazioni, aziende e cittadini — il nostro mestiere di intermediari.",
+      "Un Comune (o consorzio di Comuni) calabrese può fare da Living Lab per l'intero ecosistema: posacenere, gamification, logistica di raccolta, pannelli CAM negli edifici pubblici.",
+      "Possiamo presentare una vera 'soluzione sistemica': Human Maple sui mozziconi, le altre aziende della rete su altri rifiuti urbani, il Comune come banco di prova per tutti."
+    ],
+    "come": [
+      "Proporre ai Comuni partner (o alla Regione) di entrare nel progetto come partner istituzionali.",
+      "Inserire nel consorzio le aziende di economia circolare della rete e un ateneo (Unical) per la validazione scientifica.",
+      "Attenzione alla procedura a due fasi: prima un concept sintetico, poi la proposta completa. Non confondere con la versione single-stage sugli imballaggi."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-07": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico",
+    "nota": "Linea CIRCBIO sul bio-based abilitato da biotecnologie e biomanufacturing: perfetto per il core business dentro un consorzio UE, con la filiera di raccolta dei Comuni come prova di approvvigionamento.",
+    "perche": [
+      "La linea CIRCBIO è il cuore operativo UE per l'upcycling di flussi di rifiuti complessi o trascurati in materie prime seconde di qualità: il recupero dell'acetato di cellulosa dai mozziconi risponde in pieno alla 'chiusura del cerchio' su matrici complesse.",
+      "Il bando valorizza tracciabilità e logistica inversa (RFID, Digital Product Passport): con i partner RFID del catalogo offriamo il pacchetto completo raccolta tracciata → trattamento → prodotto finale.",
+      "La rete di Comuni calabresi con posacenere smart dimostra la fattibilità della raccolta a monte, cruciale per la valutazione."
+    ],
+    "come": [
+      "Entrare in un consorzio guidato da centri di ricerca su chimica verde o ingegneria dei materiali (ENEA, CNR, Unical, Fraunhofer).",
+      "Posizionarsi come partner tecnologico con brevetto di separazione/riciclo e produzione del semilavorato.",
+      "Portare end-user industriali a valle (tessile, moda, edilizia) e i Comuni calabresi come Living Lab dimostrativo."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-02-two-stage": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "living lab con i Comuni",
+    "nota": "Urban manufacturing circolare (CCRI + Clean Industrial Deal): trasformare scarti urbani in prodotti dentro il tessuto cittadino. Uno dei bandi più centrati sia per la tecnologia sia per il ruolo di intermediari.",
+    "perche": [
+      "Finanzia la valorizzazione di scarti urbani in manufatti ad alto valore dentro il tessuto urbano: raccogliere mozziconi in piazze e spiagge e trasformarli in pannelli e arredo urbano è la definizione da manuale di urban manufacturing circolare.",
+      "Il coinvolgimento della CCRI mette gli enti locali al centro: la rete di Comuni calabresi è l'asset che i consorzi cercano.",
+      "Possiamo costruire un hub circolare locale coinvolgendo le altre aziende della rete (plastica, organico, tessili, software di tracciamento)."
+    ],
+    "come": [
+      "Candidare i Comuni calabresi (o la Regione) come territorio pilota CCRI dentro un consorzio internazionale.",
+      "Entrare come startup che dimostra fattibilità tecnica ed economica della trasformazione di uno scarto urbano.",
+      "Presentare un modello integrato di urban manufacturing che chiude i cicli delle risorse sul territorio calabrese."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2027-01-CIRCBIO-02-two-stage": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "living lab con i Comuni",
+    "nota": "Ripubblicazione 2027 dell'open topic CCRI sull'urban manufacturing: valgono le stesse ragioni della tornata 2026, con più tempo per preparare il consorzio.",
+    "perche": [
+      "Stesso topic della tornata 2026: valorizzare scarti urbani in manufatti ad alto valore dentro città e regioni, con la CCRI e i Living Labs al centro.",
+      "Mozziconi → acetato → pannelli e arredo urbano è urban manufacturing da manuale; i Comuni calabresi sono il territorio pilota che i consorzi cercano.",
+      "La scadenza 2027 lascia il tempo di consolidare lettere di intenti e rete di aziende."
+    ],
+    "come": [
+      "Stessa strategia della tornata 2026: Comuni come territorio pilota, noi come startup tecnologica, aziende della rete per le altre frazioni.",
+      "Procedura two-stage: primo concept sintetico su impatto e visione sistemica.",
+      "Monitorare i portali di partner search già dal 2026 per entrare nei consorzi in formazione."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2027-01-CIRCBIO-01-two-stage": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "living lab con i Comuni",
+    "nota": "'SÌ assoluto': living labs CCRI 2027, tra i migliori in assoluto da perseguire. Servono 2 città dimostratrici + 3 replicatrici nel consorzio: i Comuni calabresi valgono oro.",
+    "perche": [
+      "Pilastro della CCRI: valida e diffonde soluzioni circolari sistemiche nei territori, senza imporre un settore — si sceglie la filiera in base alle esigenze delle città coinvolte.",
+      "Richiede obbligatoriamente almeno 2 città/regioni dimostratrici e 3 replicatrici nel consorzio: possiamo portare una rete pronta di Comuni del Sud Italia.",
+      "Combina tutte le nostre componenti: tecnologia sui mozziconi, gamification, e soprattutto la rete istituzionale con i Comuni."
+    ],
+    "come": [
+      "Ottenere manifestazioni di interesse informali dai Comuni a partecipare come Living Labs (dimostratori o replicatori).",
+      "Cercare consorzi internazionali in formazione proponendoci come partner per l'ingaggio dei cittadini e l'accesso ai Living Labs comunali.",
+      "La modalità two-stage riduce l'onere iniziale: primo concept incentrato su impatto e visione sistemica."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL4-2027-01-MAT-PROD-06": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico",
+    "nota": "Materiali avanzati circolari dal design al mercato (RIA), con focus obbligato su edilizia o energia: l'acetato riciclato per pannelli è un IAM circolare da manuale.",
+    "perche": [
+      "Il bando chiede materiali avanzati circular-by-design con focus dichiarato su edilizia o energia: l'acetato di cellulosa riciclato per pannelli termoisolanti e fonoassorbenti rientra esattamente nella definizione.",
+      "Finanzia sviluppo dei processi produttivi e dimostrazione di scalabilità e sostenibilità: quello che serve al nostro impianto.",
+      "I progetti devono validare le prestazioni sul campo: la rete di Comuni offre siti pilota per la posa nei edifici pubblici (scuole, municipi) integrando i CAM."
+    ],
+    "come": [
+      "Entrare nel consorzio come startup proprietaria della tecnologia di recupero, affiancata da centri di ricerca sui materiali ed enti di certificazione.",
+      "Dichiarare l'area di applicazione 'Construction' e preparare la caratterizzazione termoacustica del pannello.",
+      "Offrire i Comuni calabresi come siti pilota di riqualificazione."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2027-01-CIRCBIO-09": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico",
+    "nota": "Upcycling e riciclo bio-based ad alto valore (IA 2027, concreta e tecnologica, diversa dall'omonima 2026 teorica): il processo Human Maple è l'esempio perfetto.",
+    "perche": [
+      "Innovation Action concreta: tecnologie di riciclo e upcycling di residui bio-based in materiali ad alto valore — l'acetato di cellulosa dei filtri è un polimero di origine cellulosica, quindi pienamente bio-based.",
+      "Il processo brevettato (mozziconi → pannelli/imbottiture) è upcycling ad alto valore aggiunto da manuale, con simbiosi industriale.",
+      "Richiede dimostrazione sul campo a TRL elevato: i Comuni calabresi come testbed per logistica di raccolta e posa dei pannelli."
+    ],
+    "come": [
+      "Cercare consorzi su upcycling bio-based; portare anche startup calabresi che valorizzano scarti agricoli o agroalimentari per presentare un hub territoriale bio-based.",
+      "Preparare i dati di sostenibilità economica, tecnica e ambientale del processo su scala pilota.",
+      "Non confondere con il CIRCBIO-09 del 2026 (studio macroeconomico sull'agricoltura, scartato)."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2027-01-CIRCBIO-02": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico",
+    "nota": "Ecodesign e circolarità dei prodotti da costruzione: isolanti da materie prime seconde urbane sono esattamente il perimetro del topic.",
+    "perche": [
+      "Finanzia prodotti da costruzione in ecodesign con integrazione di materie prime seconde e scarti urbani (isolanti termici/acustici inclusi): il pannello da mozziconi rientra esattamente nel perimetro.",
+      "Innovation Action vicina al mercato (TRL 6-8) con test sul campo: i Comuni calabresi come Living Lab per l'installazione sugli edifici pubblici.",
+      "Il nostro ruolo di ponte tra enti locali, Unical e aziende circolari permette di presentare la filiera completa, dalla raccolta al riutilizzo nell'edilizia."
+    ],
+    "come": [
+      "Consolidare caratterizzazione tecnica e certificazioni del pannello (isolamento termico, reazione al fuoco, schede di sicurezza).",
+      "Partecipare agli eventi di matchmaking Horizon Cluster 6 sui materiali da costruzione sostenibili.",
+      "Mappare 1-2 Comuni disponibili come siti dimostrativi per la posa negli interventi di riqualificazione energetica."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-NEB-2027-01-REGEN-02": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico + territorio",
+    "nota": "Bando eccellente (New European Bauhaus): cantieri sostenibili, salubri e integrati con la comunità. Materiale circolare + Comuni pilota + community engagement: il pacchetto completo.",
+    "perche": [
+      "Finanzia soluzioni per cantieri ecologici con materiali circolari a zero sprechi: trasformare il mozzicone in pannello termoisolante è l'innovazione 'disruptive' che il NEB cerca.",
+      "Il NEB esige impatto reale sulle comunità: i Comuni calabresi come cantiere pilota nella ristrutturazione di un edificio pubblico.",
+      "Gamification, app e posacenere interattivi rispecchiano la filosofia Bauhaus del coinvolgimento dei cittadini: il cantiere diventa un'iniziativa che educa e aggrega il quartiere."
+    ],
+    "come": [
+      "RIA Horizon: serve un consorzio internazionale (almeno 3 enti di 3 Paesi). Non da coordinatori: da partner strategico che fornisce il materiale e coordina il territorio.",
+      "Sfruttare Unical e le collaborazioni esistenti per entrare in consorzi guidati da grandi università, fondazioni per il design o colossi delle costruzioni.",
+      "Vendere il pacchetto completo: materiale circolare + territorio pilota in Calabria + expertise di community engagement.",
+      "Apertura prevista a maggio 2027: usare il tempo per ultimare la R&S con l'università e blindare brevetti e alleanze."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-NEB-2027-01-BUSINESS-01": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "partner tecnologico + territorio",
+    "nota": "Prefabbricazione modulare off-site con materiali riciclati (IA): priorità molto alta, prodotto + mercato. Il nostro isolante dentro i moduli prefabbricati, i Comuni come sito pilota.",
+    "perche": [
+      "Innovation Action che finanzia componenti edilizi modulari prefabbricati con materiali bio-based e materie prime seconde: i nostri pannelli possono essere il core dell'isolamento nei moduli (facciate, cappotti, pareti).",
+      "Il bando premia scarti urbani e simbiosi industriale: un rifiuto cittadino che diventa materia prima per moduli edilizi risponde in pieno alla visione NEB.",
+      "Richiede tassativamente siti pilota reali su edifici pubblici: possiamo offrire gli edifici comunali della rete calabrese come dimostratore nel Sud Europa."
+    ],
+    "come": [
+      "Cercare consorzi con produttori industriali di edilizia prefabbricata off-site, studi di architettura/ecodesign e centri di ricerca sui materiali (Unical).",
+      "Posizionarsi come fornitore della materia prima seconda isolante + gestore del Living Lab calabrese con community engagement.",
+      "Rispetto al gemello BUSINESS-03 (ricerca/governance), questo è quello con priorità di crescita molto alta: prodotto + mercato."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL2-2027-01-HERITAGE-03": {
+    "verdetto": "si",
+    "priorita": "B",
+    "ruolo": "living lab con i Comuni",
+    "nota": "Crafting routes (Cluster 2 Cultura): leva culturale e comportamentale per la transizione circolare. Molto interessante per gamification, engagement e territorio.",
+    "perche": [
+      "Lavora sull'intersezione tra cultura, design e economia circolare in linea col New European Bauhaus: sensibilizzazione, coinvolgimento dei cittadini, modelli di consumo sostenibile.",
+      "Le nostre campagne, la gamification e i posacenere interattivi si sposano perfettamente con il community engagement richiesto.",
+      "La rete di Comuni calabresi può testare nuovi modelli di governance e coinvolgimento su economia circolare e decoro urbano, mostrando la filiera completa fino all'arredo in ecodesign."
+    ],
+    "come": [
+      "Ruolo raccomandato: partner per community engagement, pilot implementation e dissemination, gestendo la fase dimostrativa sul territorio calabrese.",
+      "Cercare consorzi guidati da dipartimenti di scienze sociali, architettura/design o fondazioni culturali europee interessate al NEB.",
+      "Coinvolgere Unical per la valutazione d'impatto e i Comuni come nodi della sperimentazione sociale."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-NEB-2027-01-PARTICIPATION-02": {
+    "verdetto": "si",
+    "priorita": "B",
+    "ruolo": "living lab con i Comuni",
+    "nota": "Quartieri intergenerazionali NEB: non industriale puro, ma ottimo posizionamento per arredo urbano circolare, gamification e i borghi calabresi come Living Lab.",
+    "perche": [
+      "Finanzia la riprogettazione di spazi condivisi per la convivenza tra generazioni: possiamo fornire arredo urbano in ecodesign da materie prime seconde (cestini interattivi, sedute da riciclo).",
+      "I nostri strumenti di gamification possono ingaggiare giovani e anziani in sfide di decoro urbano e tutela del territorio.",
+      "La Calabria è il contesto perfetto per i criteri del bando: invecchiamento demografico, borghi da rivitalizzare, giovani da coinvolgere — la rete di Comuni pilota rende la proposta molto competitiva."
+    ],
+    "come": [
+      "Consorzio tipo: università di sociologia/architettura sociale come coordinatore, i Comuni calabresi come siti pilota, noi come partner per tecnologie di coinvolgimento civico e micro-arredo circolare, più il terzo settore locale (associazioni giovanili, centri anziani).",
+      "Proporre i borghi della rete come casi studio contro lo spopolamento."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "calabria-57880": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "intermediazione con provvigione",
+    "nota": "FEERI (efficienza energetica e rinnovabili, scadenza 30/12/2026): il bando perfetto per monetizzare subito il modello di intermediazione — provvigioni 3-8% sui contratti dei fornitori tecnici, più cross-selling dei pannelli.",
+    "perche": [
+      "Fondo regionale da 45 M€ con copertura fino al 100% tra fondo perduto e finanziamento all'1%: un'esca fortissima per le PMI calabresi energivore, che rende facilissimo il nostro lavoro di segnalazione.",
+      "Modello di revenue immediato: accordi provvigionali con impiantisti, ESCo e fornitori di macchinari (3-8% del valore della commessa, su impianti da 100k a oltre 1M€), più success fee con le società di finanza agevolata.",
+      "Cross-selling: se il progetto include l'isolamento dell'immobile (Linea A.2) possiamo inserire nel computo metrico i nostri pannelli termoisolanti circolari.",
+      "Ci accredita come punto di riferimento per la transizione ecologica ed energetica in Calabria."
+    ],
+    "come": [
+      "Mappare le PMI industriali calabresi con alti consumi o capannoni da riqualificare e presentare loro il pacchetto chiavi in mano: bando FEERI + partner tecnici qualificati + supporto alla candidatura.",
+      "Stringere a monte gli accordi provvigionali con impiantisti fotovoltaico, ESCo e fornitori, definendo quando matura il compenso (accettazione preventivo o pagamento SAL).",
+      "Tutele contrattuali indispensabili: accordo di segnalazione madre, patto di non elusione (NCNDA), clausola di esclusione di responsabilità operativa (la responsabilità tecnica resta a fornitori e azienda richiedente).",
+      "Coinvolgere uno studio di europrogettazione per diagnosi energetica e presentazione della domanda."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "calabria-56415": {
+    "verdetto": "si",
+    "priorita": "B",
+    "ruolo": "beneficiaria diretta",
+    "nota": "Certificazione parità di genere: fondo perduto al 100% (fino a 4.600 € per microimprese), a sportello. Serve almeno 1 dipendente subordinato e sede operativa in Calabria.",
+    "perche": [
+      "Copre al 100% a fondo perduto consulenza e certificazione UNI/PdR 125:2022 (fino a 2.200 € + 2.400 € per una microimpresa).",
+      "Per chi lavora con i Comuni vale doppio: punteggi premiali nelle gare d'appalto pubbliche (D.Lgs. 36/2023), riduzione del 30% della garanzia fideiussoria, sgravio INPS dell'1%.",
+      "Molti bandi regionali ed europei danno premialità alle imprese certificate genere/ESG: rafforza tutte le altre candidature."
+    ],
+    "come": [
+      "Prerequisiti: MPMI attiva al Registro Imprese, sede operativa in Calabria e almeno 1 dipendente subordinato (anche part-time o apprendista) al momento della domanda — i soli amministratori non bastano.",
+      "Procedura a sportello su piattaforma FinCalabra fino a esaurimento risorse: muoversi appena si ha il dipendente.",
+      "Dopo l'ammissione ci sono 15 mesi per completare consulenza e certificazione. Richiedibili insieme la Linea 1 (consulenza) e la Linea 2 (ente certificatore)."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "calabria-55126": {
+    "verdetto": "si",
+    "priorita": "C",
+    "ruolo": "beneficiaria diretta",
+    "nota": "Dunamis (incentivi assunzioni, a sportello): formalmente possiamo, ma appena costituiti difficilmente ne usufruiamo subito. Da riprendere quando assumeremo personale operativo in Calabria.",
+    "perche": [
+      "Fondo perduto del 50-75% dei costi salariali per 12-24 mesi sulle assunzioni a tempo indeterminato di disoccupati calabresi (svantaggiati, molto svantaggiati o con disabilità), più contributo per la formazione.",
+      "Utile quando assumeremo personale operativo sul territorio: logistica posacenere/cassonetti, coordinamento con i Comuni, account territoriali, sviluppo software/TARIP.",
+      "Aperto a imprese di qualsiasi dimensione con sede o unità operativa in Calabria (ammesso anche smart working di residenti)."
+    ],
+    "come": [
+      "A sportello (ordine cronologico su piattaforma FinCalabra) fino a esaurimento risorse: attivarsi quando l'assunzione è concreta.",
+      "Attenzione ai vincoli: niente familiari/affini di primo grado dei soci, serve la DID del lavoratore al CPI; non vale per i compensi da amministratore (co.co.co. o partita IVA)."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "mimit-ipcei-sulla-chimica-biotecnologica-e-i-materiali-avanzati-circolari-biochem-e-cam": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "sub-fornitore di tecnologia",
+    "nota": "IPCEI BIOCHEM e CAM (scadenze 22 e 24/9/2026, via PEC al MIMIT): tematicamente perfetti ma i budget da decine di milioni li rendono impraticabili da soli. Solo agganciandosi a un grande player industriale.",
+    "perche": [
+      "Formalmente possono candidarsi anche startup e PMI, e chi recupera matrici complesse come l'acetato dai mozziconi è perfettamente in target sia per BIOCHEM sia per CAM.",
+      "Ma gli IPCEI finanziano impianti pilota e prima scala industriale con budget di decine di milioni, cofinanziamento privato obbligatorio, impatto sistemico europeo da dimostrare e doppio vaglio MIMIT + Commissione: fuori portata come capofila."
+    ],
+    "come": [
+      "Non candidarsi da soli: aggregarsi al progetto di un grande player della chimica, dei rifiuti o dei polimeri (Versalis/Eni, Novamont, multi-utilities) inserendo il nostro processo come modulo del loro piano.",
+      "In alternativa usare il ruolo di intermediari: segnalare l'avviso a partner industriali strutturati negoziando una quota di R&D, fornitura di materia prima seconda o test con Unical."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-03": {
+    "verdetto": "rete",
+    "priorita": "B",
+    "ruolo": "segnalazione alla rete",
+    "nota": "RAEE e materie prime critiche: non abbiamo la tecnologia. Da proporre ad aziende che trattano rifiuti elettronici, offrendo i Comuni come area di raccolta sperimentale e incassando l'intermediazione.",
+    "perche": [
+      "RIA sul recupero di terre rare e materiali critici dai RAEE: non è il nostro flusso, ma è il bando perfetto per attrarre nella rete aziende del settore elettronico.",
+      "Un bando europeo sul tavolo rende molto più disponibili sia l'azienda tecnologica sia i Comuni: per ogni contratto concluso incassiamo la provvigione."
+    ],
+    "come": [
+      "Identificare startup e aziende (calabresi o italiane) che gestiscono RAEE o sviluppano tecnologie di selezione e smontaggio, e segnalare loro il bando.",
+      "Proporre i Comuni della rete come area pilota per raccolta sperimentale e sensibilizzazione sul conferimento dei RAEE: l'azienda sviluppa il processo, il Comune fornisce la materia prima.",
+      "Formalizzare l'intermediazione con accordo provvigionale e patto di non elusione prima di mettere in contatto le parti."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-04": {
+    "verdetto": "rete",
+    "priorita": "B",
+    "ruolo": "segnalazione alla rete",
+    "nota": "Raccolta e riuso dei tessili a livello di città (CCRI, ~5 M€ a progetto). Non è il nostro flusso, ma portiamo i Comuni come città pilota e coinvolgiamo chi raccoglie e ricicla abiti usati.",
+    "perche": [
+      "Innovation Action verticale sulla filiera degli indumenti post-consumo: raccolta, selezione per il riuso, riparazione a scala cittadina — perfetta per aziende e cooperative del tessile della rete.",
+      "Il bando chiede esplicitamente strategie locali con città o regioni coinvolte: la nostra rete di Comuni calabresi è l'asset che fa la differenza per un consorzio.",
+      "Angolo Human Maple marginale ma spendibile: i materiali da mozziconi per la moda (imbottiture) come esempio di upcycling estremo nelle iniziative di sensibilizzazione."
+    ],
+    "come": [
+      "Cercare e coinvolgere startup e cooperative sociali (molto attive al Sud) che raccolgono e selezionano abiti usati, proponendo loro il bando.",
+      "Proporre ai Comuni partner di aderire al consorzio come città pilota per i nuovi sistemi di raccolta e riuso.",
+      "Chiudere accordi provvigionali con le aziende segnalate prima di aprire i contatti coi Comuni."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-SMP-FOOD-2026-FW-STAKEHOLDERS-PJ": {
+    "verdetto": "rete",
+    "priorita": "B",
+    "ruolo": "segnalazione alla rete",
+    "nota": "Spreco alimentare: filiera chiusa per noi, ma ottima carta per allargare la rete a startup antispreco e proporre le mense scolastiche dei Comuni; la gamification è spendibile come partner tecnico.",
+    "perche": [
+      "Circa 4 M€ per prevenire lo spreco alimentare dei consumatori: per i mozziconi non c'è spazio, ma per startup food della rete sì.",
+      "Il bando finanzia interventi 'fuori casa', ad esempio nelle mense scolastiche comunali: possiamo proporre i Comuni partner.",
+      "Richiede esplicitamente cambiamento comportamentale: la nostra piattaforma di gamification può essere adattata per educare a ridurre lo spreco di cibo."
+    ],
+    "come": [
+      "Cercare startup calabresi o nazionali su recupero eccedenze, app antispreco o bioplastiche da scarti alimentari e fare da ponte con le amministrazioni.",
+      "Proporre ai Comuni l'adesione a un consorzio per azzerare lo spreco nelle loro mense scolastiche.",
+      "Eventualmente entrare come partner tecnico per la gamification, con accordo provvigionale sui contratti generati."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL6-2027-01-CIRCBIO-03": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "da valutare con Unical",
+    "nota": "Riciclo biotech di plastiche complesse (RIA): il nostro processo è chimico-fisico, non enzimatico, e in fase di ricerca non c'è spazio per i Living Lab comunali. Solo se parte una linea R&S bio con Unical.",
+    "perche": [
+      "Il bando richiede espressamente soluzioni biotecnologiche/enzimatiche per il riciclo dei polimeri: il processo brevettato Human Maple è prevalentemente chimico-fisico e meccanico.",
+      "Essendo una RIA, finanzia ricerca e validazione in laboratorio, non roll-out sul mercato: i Comuni e il ruolo di intermediari non troverebbero spazio."
+    ],
+    "come": [
+      "Rivalutare solo se con Unical o altri centri parte una linea di R&S sul trattamento bio/enzimatico dei filtri o delle plastiche ricavate."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL5-2027-05-D4-07": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "data provider e siti pilota",
+    "nota": "LCA per la ristrutturazione (Built4People): finanzia software di calcolo, non materiali. Partecipazione di nicchia come fornitori di dati LCA del pannello e di cantieri comunali come testbed.",
+    "perche": [
+      "Il bando sviluppa modelli e software LCA per l'edilizia circolare, non il materiale in sé: parzialmente in target.",
+      "I consorzi hanno però bisogno di dati reali su materiali circolari innovativi: possiamo fornire LCA e caratterizzazione tecnica dei pannelli in acetato riciclato.",
+      "Gli strumenti vanno testati su cantieri veri: gli edifici pubblici dei Comuni calabresi possono fare da testbed."
+    ],
+    "come": [
+      "Proporsi ai consorzi come case study e data provider, non come sviluppatori.",
+      "Offrire scuole o municipi da riqualificare come banchi di prova per gli strumenti digitali di diagnosi circolare."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-NEB-2027-01-BUSINESS-03": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "living lab territoriale",
+    "nota": "Foresight sui quartieri del futuro (RIA): guidato da urbanisti e sociologi, non finanzia macchinari né materiali. Solo ruolo socio-territoriale; il gemello BUSINESS-01 è molto più adatto a noi.",
+    "perche": [
+      "Finanzia metodologie e modelli predittivi per la pianificazione dei quartieri, non lo scaling industriale di prodotti da costruzione.",
+      "Restiamo però competitivi come territorio reale (Comuni calabresi, aree interne del Sud) per testare le metodologie, e con gamification e posacenere interattivi come strumenti di ingaggio civico."
+    ],
+    "come": [
+      "Solo come partner di consorzi guidati da università di urbanistica/scienze sociali o network di città: portare i Comuni come caso studio e gli strumenti di citizen engagement.",
+      "Priorità alle energie sul gemello BUSINESS-01 (prefabbricati con materiali riciclati): prodotto + mercato."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-NEB-2026-01-BUSINESS-02": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "caso studio territoriale",
+    "nota": "Finanza per i progetti NEB: bando per esperti di finanza d'impatto, non per noi. Al massimo la rete calabrese come caso pilota di un consorzio altrui; meglio puntare su REGEN e BUSINESS-01.",
+    "perche": [
+      "Studia il disallineamento tra capitali e progetti di rigenerazione urbana NEB: non finanzia macchinari, materiali né impianti di riciclo.",
+      "L'unico aggancio è offrire l'ecosistema Calabria (Comuni + startup circolari) come caso pilota per validare modelli di investimento a impatto locale."
+    ],
+    "come": [
+      "Non scrivere la proposta: cercare consorzi aperti sui portali di matchmaking NEB e proporsi solo come territorio pilota.",
+      "Le energie vanno sui bandi NEB REGEN e BUSINESS-01, molto più adatti a pannelli e test sul territorio."
+    ],
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-CL4-2026-SPACE-03-31": {
+    "titolo": "Digital enablers and building-blocks for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)",
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Osservazione della Terra e telecomunicazioni satellitari: fuori dal nostro campo.",
+    "aggiornato": "2026-07-30"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-01": {
+    "titolo": "Improving the circularity of flexible plastic packaging for food (single-stage)",
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Versione single-stage sugli imballaggi alimentari flessibili. Da non confondere con la two-stage sui living lab, che invece ci interessa.",
+    "aggiornato": "2026-07-30"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-02": {
+    "titolo": "Advancing recycling technologies for mixed post-consumer textiles waste from blended products",
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Riciclo chimico/meccanico di tessili misti: serve una tecnologia che non abbiamo.",
+    "aggiornato": "2026-07-30"
+  },
+  "eu-HORIZON-CL6-2026-01-CIRCBIO-09": {
+    "titolo": "Balancing food security, bioeconomy, climate and biodiversity objectives to unlock sustainable value chains",
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Sicurezza alimentare, bioeconomia e biodiversità: filiera agroalimentare, non la nostra.",
+    "aggiornato": "2026-07-30"
+  },
+  "eu-LIFE-2026-PLP-NAT-ENV": {
+    "titolo": "Projects on Legislative and Policy Priorities in the fields of Nature & Biodiversity and Circular Economy & Quality of Life",
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Progetti su priorità legislative e di policy: destinati a enti e organizzazioni che supportano l'attuazione normativa.",
+    "aggiornato": "2026-07-30"
+  },
+  "eu-HORIZON-JU-CBE-2026-IA-05": {
+    "titolo": "Films and coatings for circular packaging",
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Film e rivestimenti per imballaggi: non è il nostro materiale.",
+    "aggiornato": "2026-07-30"
+  },
+  "eu-EDF-2026-DA-ENERENV-AWC-STEP": {
+    "titolo": "Ammunition Waste Collection and Disposal Unmanned Platform",
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Raccolta e smaltimento di munizioni con piattaforma senza pilota: difesa.",
+    "aggiornato": "2026-07-30"
+  },
+  "calabria-58524": {
+    "titolo": "TecSTEP – Fondo Tecnologie STEP per il sostegno e l attrazione degli investimenti STEP",
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "TecSTEP: fondo per tecnologie critiche e attrazione di investimenti, requisiti fuori dalla nostra portata attuale.",
+    "aggiornato": "2026-07-30"
+  },
+  "eu-HORIZON-CL6-2027-01-CIRCBIO-01": {
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Ecodesign dell'elettronica di consumo (filiera RAEE dei dispositivi): non abbiamo né la tecnologia né, per ora, un partner industriale di quel settore nella rete. Da rivalutare solo se ne entra uno.",
+    "aggiornato": "2026-08-21"
+  },
+  "eu-HORIZON-EIC-2026-PATHFINDERCHALLENGES-01-01": {
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Materiali avanzati per energy harvesting miniaturizzato: fuori dal nostro campo.",
+    "aggiornato": "2026-08-21"
+  },
+  "calabria-60531": {
+    "verdetto": "no",
+    "priorita": "C",
+    "ruolo": "segnalazione ai Comuni",
+    "nota": "Dote occupazionale art. 16 L. 56/87: beneficiari solo enti pubblici, imprese escluse. Da segnalare ai Comuni partner: possono assumere a costo abbattuto personale operativo per servizi ambientali (raccolta mozziconi, decoro, pulizia spiagge).",
+    "aggiornato": "2026-08-21"
+  },
+  "manuale-agenda-urbana-cosenza-rende-2026": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "beneficiario diretto",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
+    "nota": "Il bando più vicino a noi che sia mai passato dal monitor: il territorio è esattamente quello dove apriamo. ATTENZIONE al requisito soggettivo: l'avviso è per micro, piccole e medie imprese, e la nostra è ancora una SRLS in costituzione. Prima di qualunque altra cosa va letto sul testo dell'avviso se ammette le imprese costituite dopo la pubblicazione e con quale termine. Scade il 15 settembre 2026.",
+    "perche": [
+      "La sede operativa che vogliamo aprire è a Rende, uno dei due Comuni dell'avviso: il requisito territoriale, che di solito è l'ostacolo, qui è il nostro punto di forza.",
+      "È un contributo a fondo perduto a una singola impresa: non serve un consorzio, non servono partner europei, non serve un progetto di ricerca. È il tipo di bando in cui siamo beneficiari diretti e non intermediari.",
+      "Finanzia l'avvio e lo sviluppo economico di imprese sul territorio: copre le spese di partenza di una società di servizi come la nostra, che ha bisogno di attrezzature, software e struttura più che di impianti.",
+      "Ci mette in rapporto diretto con i due Comuni proprio mentre stiamo costruendo la rete di enti da portare nei bandi europei come territorio pilota: il rapporto vale quanto il contributo."
+    ],
+    "come": [
+      "Per prima cosa leggere il testo integrale dell'avviso e le FAQ pubblicate dal Comune di Cosenza, che è capofila, e verificare se una società in costituzione è ammissibile e a quali condizioni.",
+      "Se la costituzione va perfezionata prima della domanda, capire subito dal notaio quanto tempo serve: mancano meno di due settimane alla scadenza del 15 settembre.",
+      "Preparare i preventivi delle spese: è il documento che richiede più tempo e per cui l'avviso è già stato prorogato una volta.",
+      "Chiedere assistenza a Confcommercio o Confartigianato Cosenza, che hanno entrambe pubblicato il bando e assistono gratuitamente gli associati nella compilazione."
+    ],
+    "aggiornato": "2026-09-02"
+  },
+  "manuale-cciaacs-doppia-transizione-2026": {
+    "verdetto": "forse",
+    "priorita": "B",
+    "ruolo": "beneficiario diretto",
+    "partecipazione": "singola",
+    "partner": "Nessuno: il voucher camerale va a una singola impresa iscritta al Registro Imprese di Cosenza.",
+    "nota": "Adatto a noi come oggetto, ma con due ostacoli concreti: serve l'iscrizione al Registro Imprese di Cosenza (quindi la società va costituita prima) e al 2 settembre risultano già 30 domande per 262.000 euro richiesti contro 100.000 di stanziamento. Se la graduatoria è a sportello cronologico, arrivare adesso serve a poco; se è a punteggio, vale la pena provarci. Scade il 30 settembre 2026.",
+    "perche": [
+      "L'oggetto è in pieno centro al nostro modello: digitalizzazione usata per la transizione ecologica. Le piattaforme TARIP e i sistemi RFID che proponiamo ai Comuni sono esattamente 'tecnologie digitali al servizio della sostenibilità'.",
+      "Finanzia anche consulenze e formazione, non solo acquisti: per una società di intermediazione che vende competenza è la voce di spesa più utile.",
+      "L'autovalutazione Selfi4.0 richiesta dal bando è un lavoro che ci serve comunque, e che possiamo poi rivendere come servizio ai clienti."
+    ],
+    "come": [
+      "Verificare per prima cosa il criterio di assegnazione sul testo del bando: a sportello cronologico o a punteggio. Con 262.000 euro già richiesti su 100.000 disponibili, questo decide se ha senso partecipare.",
+      "Serve l'iscrizione al Registro Imprese della provincia di Cosenza: senza società costituita non si può presentare domanda.",
+      "Fare il report Selfi4.0 sul portale puntoimpresadigitale.camcom.it: deve essere svolto nei tre mesi precedenti la domanda e va ripetuto in fase di rendicontazione.",
+      "La domanda si presenta solo dalla piattaforma ReStart di Infocamere, con firma digitale del legale rappresentante e marca da bollo da 16 euro."
+    ],
+    "aggiornato": "2026-09-02"
+  }
+}

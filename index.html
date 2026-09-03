@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bandi Monitor – Economia Circolare</title>
+    <meta name="description" content="Monitoraggio bandi e opportunità di finanziamento per società operanti nell'economia circolare in Calabria e in Europa.">
+    <meta name="theme-color" content="#0a0e17">
+
+    <!-- Anteprima del link quando lo apri dall'email o lo condividi -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="♻️ Bandi Monitor – Economia Circolare">
+    <meta property="og:description" content="I bandi nuovi, quelli a cui puoi partecipare e quelli che stanno per scadere, aggiornati ogni giorno.">
+    <meta property="og:locale" content="it_IT">
+    <meta name="twitter:card" content="summary">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>♻️</text></svg>">
+</head>
+<body>
+
+    <!-- Animated background particles -->
+    <div class="bg-particles" id="bgParticles"></div>
+
+    <!-- Header -->
+    <header class="header" id="header">
+        <div class="header-inner">
+            <div class="logo">
+                <div class="logo-icon">♻️</div>
+                <div class="logo-text">
+                    <h1>Bandi Monitor</h1>
+                    <span class="logo-subtitle">Economia Circolare</span>
+                </div>
+            </div>
+            <div class="header-stats" id="headerStats">
+                <a class="stat-pill" href="#sezione-nuovi">
+                    <span class="stat-icon">🆕</span>
+                    <span class="stat-label">Nuovi</span>
+                    <span class="stat-value" id="statNuovi">–</span>
+                </a>
+                <a class="stat-pill highlight" href="#sezione-solo">
+                    <span class="stat-icon">👤</span>
+                    <span class="stat-label">Da soli</span>
+                    <span class="stat-value" id="statSolo">–</span>
+                </a>
+                <a class="stat-pill" href="#sezione-partner">
+                    <span class="stat-icon">🤝</span>
+                    <span class="stat-label">Con partner</span>
+                    <span class="stat-value" id="statPartner">–</span>
+                </a>
+                <a class="stat-pill" href="#sezione-scadenza">
+                    <span class="stat-icon">⏳</span>
+                    <span class="stat-label">In scadenza</span>
+                    <span class="stat-value" id="statScadenza">–</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Filters Bar -->
+    <section class="filters-bar">
+        <div class="filters-inner">
+            <div class="search-container">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                </svg>
+                <input type="text" id="searchInput" class="search-input" placeholder="Cerca bandi per parola chiave..." autocomplete="off">
+            </div>
+            <!-- Da soli o con partner: è la prima domanda pratica davanti a un
+                 bando, perché decide se il lavoro è di due settimane o di mesi -->
+            <div class="source-filters partecipazione-filters" id="partecipazioneFilters" hidden></div>
+            <!-- Europei / nazionali / regionali / locali: risponde a colpo
+                 d'occhio alla domanda "stiamo guardando solo l'Europa?" -->
+            <div class="source-filters ambito-filters" id="ambitoFilters" hidden></div>
+            <div class="source-filters" id="sourceFilters">
+                <button class="source-btn active" data-source="all">Tutte le fonti</button>
+            </div>
+            <div class="source-filters programma-filters" id="programmaFilters" hidden></div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="main-content">
+
+        <!-- Loading State -->
+        <div class="loading-state" id="loadingState">
+            <div class="loading-spinner">
+                <div class="spinner-ring"></div>
+                <div class="spinner-ring"></div>
+                <div class="spinner-ring"></div>
+            </div>
+            <p class="loading-text">Caricamento bandi in corso...</p>
+            <p class="loading-subtext" id="loadingSubtext">Un attimo solo…</p>
+        </div>
+
+        <!-- Error State: sostituisce lo spinner infinito quando i dati non arrivano -->
+        <div class="error-state" id="errorState" hidden>
+            <div class="error-icon">📡</div>
+            <h3>Non riesco a caricare i bandi</h3>
+            <p id="errorMessage">Controlla la connessione e riprova.</p>
+            <button class="btn-primary" id="retryButton">Riprova</button>
+            <p class="error-detail" id="errorDetail"></p>
+        </div>
+
+        <!-- Le tre sezioni -->
+        <div id="sections" hidden>
+
+            <!-- Navigazione tra le schermate -->
+            <nav class="view-tabs" id="viewTabs" aria-label="Schermate">
+                <button class="view-tab active" data-view="panoramica">
+                    <span class="view-tab-icon">🎯</span> Adatti a noi
+                    <span class="tab-count" id="tabCountNostri">0</span>
+                </button>
+                <button class="view-tab" data-view="rete">
+                    <span class="view-tab-icon">🤝</span> Da girare ad altri
+                    <span class="tab-count" id="tabCountRete">0</span>
+                </button>
+                <button class="view-tab" data-view="tutti">
+                    <span class="view-tab-icon">📋</span> Tutti i bandi
+                    <span class="tab-count" id="tabCountTutti">0</span>
+                </button>
+                <button class="view-tab" data-view="archivio">
+                    <span class="view-tab-icon">🗄️</span> Archivio
+                    <span class="tab-count" id="tabCountArchivio">0</span>
+                </button>
+            </nav>
+
+            <div class="view" id="viewPanoramica">
+
+            <section class="section" id="sezione-nuovi">
+                <div class="section-head">
+                    <h2 class="section-title">
+                        <span class="section-emoji">🆕</span> Nuovi bandi
+                        <span class="section-count" id="countNuovi">0</span>
+                    </h2>
+                    <p class="section-sub">Pubblicati negli ultimi giorni e in linea con quello che facciamo</p>
+                </div>
+                <div class="bandi-grid" id="gridNuovi"></div>
+                <div class="section-empty" id="emptyNuovi" hidden>Nessun bando nuovo al momento. Continuo a controllare ogni giorno.</div>
+            </section>
+
+            <!-- I bandi che puoi presentare adesso, senza dipendere da nessuno:
+                 aiuti alle imprese, voucher, Agenda Urbana. Sono i più concreti
+                 e vanno prima di tutto il resto. -->
+            <section class="section" id="sezione-solo">
+                <div class="section-head">
+                    <h2 class="section-title">
+                        <span class="section-emoji">👤</span> Possiamo partecipare da soli
+                        <span class="section-count" id="countSolo">0</span>
+                    </h2>
+                    <p class="section-sub">Si presentano come impresa singola: nessun partner obbligatorio, dal più urgente</p>
+                </div>
+                <div class="bandi-grid" id="gridSolo"></div>
+                <div class="section-empty" id="emptySolo" hidden>Nessun bando da presentare da soli in questo momento.</div>
+            </section>
+
+            <!-- Qui il lavoro comincia dai partner, non dalla domanda: mesi,
+                 non settimane. Tenerli separati evita di confondere le due cose. -->
+            <section class="section" id="sezione-partner">
+                <div class="section-head">
+                    <h2 class="section-title">
+                        <span class="section-emoji">🤝</span> Serve un partner o un consorzio
+                        <span class="section-count" id="countPartner">0</span>
+                    </h2>
+                    <p class="section-sub">Prima di candidarsi bisogna trovare gli altri: apri il bando per sapere quanti e di quali Paesi</p>
+                </div>
+                <div class="bandi-grid" id="gridPartner"></div>
+                <div class="section-empty" id="emptyPartner" hidden>Nessun bando in consorzio aperto in questo momento.</div>
+            </section>
+
+            <!-- Quando la fonte dà solo il titolo non si può sapere: meglio
+                 dirlo che indovinare, una domanda inammissibile costa di più. -->
+            <section class="section" id="sezione-daverificare">
+                <div class="section-head">
+                    <h2 class="section-title">
+                        <span class="section-emoji">❓</span> Modalità da verificare
+                        <span class="section-count" id="countDaVerificare">0</span>
+                    </h2>
+                    <p class="section-sub">Dal titolo non si capisce se serva un partner: va letto l'avviso</p>
+                </div>
+                <div class="bandi-grid" id="gridDaVerificare"></div>
+                <div class="section-empty" id="emptyDaVerificare" hidden>Nessuno: per tutti i bandi aperti sappiamo come si partecipa.</div>
+            </section>
+
+            <section class="section" id="sezione-scadenza">
+                <div class="section-head">
+                    <h2 class="section-title">
+                        <span class="section-emoji">⏳</span> In scadenza
+                        <span class="section-count" id="countScadenza">0</span>
+                    </h2>
+                    <p class="section-sub">Scadono entro <span id="scadenzaGiorni">30</span> giorni: se ti interessano, muoviti</p>
+                </div>
+                <div class="bandi-grid" id="gridScadenza"></div>
+                <div class="section-empty" id="emptyScadenza" hidden>Nessuna scadenza imminente.</div>
+            </section>
+
+            </div><!-- /viewPanoramica -->
+
+            <!-- Bandi per le aziende della rete: noi facciamo da tramite -->
+            <div class="view" id="viewRete" hidden>
+                <section class="section">
+                    <div class="section-head">
+                        <h2 class="section-title">
+                            <span class="section-emoji">🤝</span> Da girare ad altri
+                            <span class="section-count" id="countRete">0</span>
+                        </h2>
+                        <p class="section-sub">Non fanno per noi ma per le aziende della rete: segnalali, offri i Comuni come territorio pilota e prenditi l'intermediazione</p>
+                    </div>
+                    <div class="bandi-grid" id="gridRete"></div>
+                    <div class="section-empty" id="emptyRete" hidden>Nessuna opportunità da girare in questo momento.</div>
+                </section>
+            </div>
+
+            <!-- Tutti i bandi aperti, di tutte le fonti -->
+            <div class="view" id="viewTutti" hidden>
+                <section class="section">
+                    <div class="section-head">
+                        <h2 class="section-title">
+                            <span class="section-emoji">📋</span> Tutti i bandi aperti
+                            <span class="section-count" id="countTutti">0</span>
+                        </h2>
+                        <p class="section-sub">Ogni bando ancora aperto, da tutte le fonti, dal più urgente</p>
+                    </div>
+                    <div class="bandi-grid" id="gridTutti"></div>
+                    <div class="section-empty" id="emptyTutti" hidden>Nessun bando corrisponde ai filtri.</div>
+                </section>
+            </div>
+
+            <!-- Archivio: bandi chiusi o scaduti -->
+            <div class="view" id="viewArchivio" hidden>
+                <section class="section">
+                    <div class="section-head">
+                        <h2 class="section-title">
+                            <span class="section-emoji">🗄️</span> Archivio
+                            <span class="section-count" id="countArchivio">0</span>
+                        </h2>
+                        <p class="section-sub">Bandi già scaduti o chiusi: non ci si può più candidare, restano qui come storico</p>
+                    </div>
+                    <div class="bandi-grid" id="gridArchivio"></div>
+                    <div class="section-empty" id="emptyArchivio" hidden>L'archivio è ancora vuoto.</div>
+                </section>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Pannello impostazioni -->
+    <div class="modal-overlay" id="settingsModal" hidden>
+        <div class="modal-card">
+            <div class="modal-header">
+                <h2>⚙️ Ogni quanto ti scrivo</h2>
+                <button class="modal-close" id="modalClose" aria-label="Chiudi">&times;</button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Come è configurato l'invio. In sola lettura: si cambia dal
+                     workflow "Impostazioni email" su GitHub, non da qui. -->
+                <div class="settings-summary">
+                    <div class="summary-row"><span>Cadenza attuale</span><strong id="sumCadenza">–</strong></div>
+                    <div class="summary-row"><span>Bandi nuovi</span><strong id="sumNuovi">–</strong></div>
+                    <div class="summary-row"><span>Avviso scadenze</span><strong id="sumScadenze">–</strong></div>
+                    <div class="summary-row"><span>Resoconto mensile</span><strong id="sumMensile">–</strong></div>
+                    <div class="summary-row"><span>Ultimo cambiamento nei dati</span><strong id="sumUltimoCheck">–</strong></div>
+                    <div class="summary-row"><span>Ultima email</span><strong id="sumUltimaEmail">–</strong></div>
+                    <div class="summary-row"><span>Prossima email</span><strong id="sumProssimaEmail">–</strong></div>
+                </div>
+
+                <p class="modal-info">
+                    Il controllo dei bandi gira <strong>tutti i giorni</strong>, così questa pagina è sempre aggiornata.
+                    Queste impostazioni decidono solo <strong>quando ti arriva l'email</strong>.
+                </p>
+
+                <div class="settings-save">
+                    <p class="modal-info">
+                        Per cambiarle: <strong>Actions → Impostazioni email → Run workflow</strong>.
+                        Si fa anche dal telefono. Può farlo chi ha accesso al repository, quindi
+                        non serve nessuna password. Il sito mostra i valori nuovi un minuto dopo.
+                    </p>
+                    <a class="btn-primary" href="https://github.com/luigi-00-tt/bandi-monitor/actions/workflows/impostazioni.yml" target="_blank" rel="noopener">Cambia su GitHub →</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Dettaglio bando: perché possiamo usufruirne e come partecipare -->
+    <div class="modal-overlay" id="bandoModal" hidden>
+        <div class="modal-card bando-modal-card">
+            <div class="modal-header">
+                <h2 id="bandoModalTitolo">Dettaglio bando</h2>
+                <button class="modal-close" id="bandoModalClose" aria-label="Chiudi">&times;</button>
+            </div>
+            <div class="modal-body" id="bandoModalBody"></div>
+        </div>
+    </div>
+
+    <!-- Floating Action Button -->
+    <button class="fab" id="fabSettings" title="Ogni quanto ricevere le email" aria-label="Impostazioni notifiche email">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+            <polyline points="22,6 12,13 2,6"/>
+        </svg>
+    </button>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <div class="footer-info">
+                <p>♻️ Bandi Monitor – Economia Circolare</p>
+                <p class="footer-sub">Controllo automatico ogni giorno</p>
+                <p class="footer-sub" id="footerScartati" hidden></p>
+            </div>
+            <div class="footer-sources">
+                <span>Fonti:</span>
+                <a href="https://calabriaeuropa.regione.calabria.it/bandi/" target="_blank" rel="noopener">Calabria Europa</a>
+                <a href="https://www.regione.calabria.it/bandi-e-avvisi-di-gara/" target="_blank" rel="noopener">Regione Calabria</a>
+                <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search" target="_blank" rel="noopener">EU Funding &amp; Tenders</a>
+                <a href="https://www.mimit.gov.it/it/incentivi" target="_blank" rel="noopener">MIMIT</a>
+                <a href="https://www.een-italia.eu/" target="_blank" rel="noopener">EEN Italia</a>
+            </div>
+            <div class="footer-update">
+                Ultimo cambiamento nei bandi: <span id="lastUpdate">–</span>
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

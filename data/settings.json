@@ -1,0 +1,7 @@
+{
+  "emailIntervalDays": 7,
+  "notifyNewImmediately": true,
+  "expiringAlertDays": 30,
+  "monthlyReport": true,
+  "updatedAt": null
+}

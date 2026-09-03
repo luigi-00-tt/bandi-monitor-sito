@@ -1,0 +1,414 @@
+{
+  "_note": "Analisi automatiche fatte da Claude (server/analisi-ai.js) sui bandi che nessuno ha ancora valutato a mano. Un bando viene analizzato una volta sola. I verdetti di valutazioni.json vincono sempre su queste voci. Per rifare un'analisi, cancella la voce e rilancia il monitor.",
+  "calabria-61061": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "beneficiaria diretta",
+    "nota": "Bando regionale calabrese per nuove imprese promosse da donne, giovani e soggetti svantaggiati con impatto sociale: è la finestra più adatta per capitalizzare la SRLS in costituzione, se la compagine soci rientra nei requisiti anagrafici/di categoria.",
+    "perche": [
+      "La società è una SRLS in costituzione in Calabria: è esattamente il target di un avviso regionale dedicato a nuove imprese e start-up del territorio.",
+      "L'attività (economia circolare, raccolta differenziata, tariffazione puntuale, riciclo mozziconi con Human Maple) produce effetti socialmente desiderabili e beni pubblici misurabili: decoro urbano, riduzione rifiuti dispersi, risparmio per i Comuni.",
+      "Il know-how di gamification, campagne comportamentali e community engagement con atenei e Comuni è la parte 'sociale' più facile da documentare nel piano d'impresa.",
+      "È uno dei pochi bandi in cui si partecipa da soli come beneficiaria diretta, senza dover costruire consorzi europei: risorse per costituzione, primi contratti e struttura commerciale."
+    ],
+    "come": [
+      "Verificare subito i requisiti soggettivi: quota di under 35/donne/soggetti svantaggiati nella compagine e negli organi, forma giuridica ammessa (SRLS ordinaria o impresa sociale) e data di costituzione richiesta; se serve, ricalibrare quote e cariche prima di costituire.",
+      "Preparare il business plan sul modello di intermediazione: catalogo dei 19 fornitori RFID/TARIP, esclusiva Human Maple, Junker, Iotilize, con ricavi da provvigione e proiezioni sui Comuni già in contatto.",
+      "Allegare lettere di interesse dei Comuni calabresi e il contratto quadro R&S con Unical come prova di mercato e di impatto sociale/territoriale.",
+      "Impostare le spese ammissibili su ciò che serve davvero: costituzione, software di gestione lead, campagne di engagement, primi lotti dimostrativi di posacenere smart e pannelli CAM."
+    ],
+    "aggiornato": "2026-08-21T17:16:35.012Z"
+  },
+  "calabria-61173": {
+    "verdetto": "rete",
+    "priorita": "A",
+    "ruolo": "intermediazione Comuni-fornitori",
+    "nota": "Bando regionale per Comuni su raccolta differenziata e centri di raccolta: non siamo beneficiari diretti, ma è la leva commerciale perfetta per il catalogo RFID/retrofit/TARIP sulla rete di Comuni calabresi.",
+    "perche": [
+      "I beneficiari sono gli enti locali, quindi la SRLS non può candidarsi in proprio: il valore sta nell'accompagnare i Comuni e nel piazzare i fornitori del catalogo.",
+      "Il perimetro finanziato (sistemi di raccolta differenziata, centri di raccolta) coincide esattamente con le 19 aziende mappate: RFID porta a porta, retrofit contenitori, piattaforme TARIP.",
+      "La rete di contatti con molti Comuni calabresi permette di arrivare prima della concorrenza, quando l'ente sta ancora definendo il fabbisogno e il progetto da presentare.",
+      "Junker e le campagne di gamification/community engagement sono componenti soft che rafforzano le domande dei Comuni (comunicazione ai cittadini, aumento delle rese di differenziata).",
+      "Scadenza lontana (settembre 2026): c'è tempo per costruire il pacchetto e chiudere gli accordi con i fornitori prima di aprire i contatti."
+    ],
+    "come": [
+      "Prima di tutto: firmare accordo provvigionale e patto di non elusione con i fornitori RFID/retrofit/TARIP e con Junker, con provvigione sul contratto concluso e clausola di durata sui Comuni presentati.",
+      "Preparare un dossier di due pagine per i sindaci/uffici tecnici: cosa finanzia l'avviso, schema di intervento tipo (contenitori con tag RFID + software TARIP + centro di raccolta + campagna cittadini) e voci di spesa ammissibili.",
+      "Mappare i Comuni target per fascia demografica e stato attuale della differenziata, partendo dai contatti già attivi, e proporre un incontro tecnico gratuito per la definizione del progetto.",
+      "Verificare sul testo dell'avviso beneficiari ammissibili, spese ammissibili e regole sugli affidamenti a valle, per capire quali fornitori possono essere effettivamente contrattualizzati e con quali procedure."
+    ],
+    "aggiornato": "2026-08-21T17:16:54.481Z"
+  },
+  "eu-HORIZON-CL4-2027-01-MAT-PROD-22": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "partner dimostrativo marginale",
+    "nota": "Bando Horizon IA centrato sulla riduzione della dipendenza da materie prime critiche e strategiche: tema lontano dall'acetato di cellulosa da mozziconi, che non sostituisce CRM. Possibile solo un ruolo marginale in un consorzio già formato, con scadenza lontana (2027).",
+    "perche": [
+      "Il cuore del topic sono i CRM/SRM (metalli critici, terre rare, magneti, materiali per batterie ed elettronica): non è il nostro dominio, il pannello isolante da acetato di cellulosa non sostituisce nessuna materia prima critica.",
+      "È una Innovation Action a TRL alto: richiede impianti pilota, capacità produttiva industriale e partner manifatturieri pesanti, requisiti che una SRLS in costituzione non copre da sola.",
+      "L'unico aggancio possibile è indiretto: materiale bio-based da rifiuto urbano come alternativa a materiali di origine fossile o critica in edilizia, e disponibilità di siti calabresi per la fase dimostrativa.",
+      "Le partnership Innovative Advanced Materials e Processes4Planet hanno consorzi consolidati (centri di ricerca e grandi industrie): l'ingresso di un nuovo attore piccolo è realistico solo su un pacchetto di lavoro accessorio."
+    ],
+    "come": [
+      "Non investire tempo di scrittura: monitorare il draft del work programme 2027 e verificare se compaiono riferimenti espliciti a materiali da riciclo non metallico o edilizia; solo in quel caso rivalutare.",
+      "Se emerge un aggancio, proporsi a Unical (contratto quadro già esistente) come partner di un consorzio guidato da un centro materiali, con ruolo limitato a caratterizzazione e demo dei pannelli.",
+      "Tenere pronta una scheda tecnica in inglese del materiale Human Maple (CAM, prestazioni termoacustiche, LCA) riutilizzabile su call più pertinenti (CBE JU, LIFE, edilizia circolare).",
+      "Dirottare l'energia sui topic realmente compatibili invece che su questo: qui il fit è sotto soglia."
+    ],
+    "aggiornato": "2026-08-21T17:17:15.953Z"
+  },
+  "eu-HORIZON-CL4-2027-02-MAT-PROD-32-two-stage": {
+    "verdetto": "no",
+    "priorita": "C",
+    "ruolo": null,
+    "nota": "Bando Horizon per l'industria di processo energivora (chimica, cemento, acciaio, vetro): riguarda input energetico rinnovabile e gestione dell'energia negli impianti produttivi, un ambito in cui non abbiamo né tecnologia né sito industriale da offrire. Fuori perimetro.",
+    "perche": [
+      "L'oggetto è l'efficientamento energetico e l'integrazione di rinnovabili in impianti di processo su larga scala: non trattiamo energia né gestione di plant industriali.",
+      "È una Innovation Action a TRL alto, con consorzi guidati da grandi industrie di processo e fornitori di tecnologie energetiche: nessuno spazio per un intermediario commerciale.",
+      "Il segnale 'materiali bio-based e avanzati' del filtro è fuorviante: qui i materiali sono strumentali all'efficienza energetica dei forni/reattori, non prodotti da riciclo come i pannelli in acetato di cellulosa.",
+      "Il territorio calabrese e i Comuni non servono: non è un bando con living lab urbani o engagement dei cittadini."
+    ],
+    "come": [
+      "Concentrare l'attenzione sui topic CL4 dedicati a materiali circolari e riciclo chimico-fisico, sulla CBE JU (acetato di cellulosa) e su LIFE, dove il consorzio può essere tutto italiano."
+    ],
+    "aggiornato": "2026-08-21T17:17:30.349Z"
+  },
+  "eu-HORIZON-CL5-2027-02-D2-05": {
+    "verdetto": "no",
+    "priorita": "C",
+    "ruolo": null,
+    "nota": "Topic della partnership BATT4EU sul riciclo delle batterie: richiede impianti e processi idro/pirometallurgici e attori della filiera celle, competenze e partner che non abbiamo. Fuori perimetro.",
+    "perche": [
+      "Il tema è il miglioramento di processi industriali esistenti di riciclo batterie al litio (idrometallurgia, pretrattamento celle, recupero materiali critici): nulla a che vedere con l'acetato di cellulosa da mozziconi né con la raccolta differenziata urbana.",
+      "I consorzi BATT4EU sono costruiti su impiantisti, gigafactory, riciclatori di black mass e centri di ricerca sui materiali per batterie: nessun ruolo credibile per un intermediario commerciale.",
+      "La componente 'living lab con i Comuni' non è spendibile: qui il pilota è di stabilimento, non territoriale, e la raccolta di pile/accumulatori è già gestita da consorzi EPR nazionali.",
+      "Nel catalogo (RFID, retrofit contenitori, TARIP, Junker, pannolini) non c'è alcun operatore di riciclo batterie o RAEE da attivare come provvigione."
+    ],
+    "come": [
+      "Lasciar perdere il topic e monitorare invece, sullo stesso Cluster 5 e su CBE JU/LIFE, i bandi su materiali da rifiuto per edilizia e CAM, dove l'acetato di cellulosa ha fit reale."
+    ],
+    "aggiornato": "2026-08-21T17:17:48.569Z"
+  },
+  "eu-HORIZON-JU-CBE-2026-RIA-03": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "fornitore feedstock e caso studio",
+    "nota": "Bando CBE JU su nuove fibre tessili bio-based: programma giusto (l'acetato di cellulosa è materia CBE) ma applicazione sbagliata, perché noi produciamo pannelli edilizi, non filati. Entrabile solo come fornitore di feedstock cellulosico da mozziconi o come caso studio di raccolta urbana, se un consorzio ci cerca.",
+    "perche": [
+      "La CBE JU è il programma naturale per l'acetato di cellulosa e Human Maple padroneggia l'estrazione da mozziconi: il materiale di partenza è coerente con una filiera di fibre cellulosiche.",
+      "Il core del bando è però lo sviluppo di fibre tessili (filatura, spinning, performance tessile): competenza che non abbiamo né noi né i partner mappati, tutti su raccolta differenziata, RFID e TARIP.",
+      "Il segnale 'tessile post-consumo' non tocca il nostro catalogo: non abbiamo in rete un'azienda di riciclo tessile a cui girare il bando con provvigione.",
+      "Un RIA Horizon richiede 3 enti di 3 Paesi UE e un ruolo scientifico riconoscibile: come SRLS in costituzione senza laboratorio tessile pesiamo poco."
+    ],
+    "come": [
+      "Verificare con Human Maple e Unical (contratto quadro esistente) se l'acetato recuperato dai mozziconi ha grado e purezza compatibili con una linea fibre: se sì, produrre una scheda tecnica di 2 pagine da offrire come feedstock secondario ai consorzi.",
+      "Monitorare i partner search CBE JU su questa topic e candidarsi solo come task minore (fornitura materia prima seconda + caso studio di raccolta urbana), non come core partner.",
+      "Se emergesse un riciclatore tessile calabrese o italiano interessato, girargli il bando e offrire i Comuni come bacino di raccolta, ma solo dopo accordo provvigionale e patto di non elusione firmati.",
+      "Non investire ore di scrittura proposta: tenere il bando in watchlist e concentrare le risorse sulle topic CBE JU e LIFE su materiali da costruzione e CAM."
+    ],
+    "aggiornato": "2026-08-21T17:18:11.095Z"
+  },
+  "eu-HORIZON-CL4-2027-01-MAT-PROD-17": {
+    "verdetto": "rete",
+    "priorita": "C",
+    "ruolo": "segnalazione alla rete RAEE",
+    "nota": "Rete di esperti UE sulle materie prime critiche: tema lontano dall'acetato di cellulosa e dai servizi TARIP, ma potenzialmente utile alle aziende RAEE della rete che recuperano CRM dall'elettronica. Per noi solo segnalazione, non partecipazione diretta.",
+    "perche": [
+      "Le materie prime critiche (terre rare, litio, cobalto, grafite) non c'entrano con il nostro flusso: l'acetato di cellulosa da mozziconi non è un CRM e i pannelli isolanti non rientrano nella catena del valore CRM.",
+      "Una CSA \"expert network\" si costruisce con servizi geologici nazionali, centri di ricerca sui materiali, associazioni industriali e ministeri: profili che non abbiamo e che non lasciano spazio a un intermediario commerciale.",
+      "Non c'è nemmeno il ruolo di living lab con i Comuni: qui non si sperimenta raccolta o engagement dei cittadini, si mappano competenze e dati di filiera.",
+      "L'unico aggancio reale è indiretto: le aziende RAEE del nostro catalogo, che dall'elettronica a fine vita estraggono metalli critici, possono avere interesse a entrare in una rete di esperti UE per visibilità e contatti."
+    ],
+    "come": [
+      "Girare la scheda del bando alle aziende RAEE/recupero metalli della rete, verificando se hanno già relazioni con consorzi europei sui CRM.",
+      "Prima di qualunque presentazione, far firmare accordo provvigionale e patto di non elusione, così da coprire eventuali contratti operativi che nascessero dai contatti generati.",
+      "Non investire tempo di scrittura progettuale: al massimo mettere a disposizione dati sui flussi di raccolta dei Comuni calabresi se un partner lo chiede come contributo minore.",
+      "Tenere il bando in monitoraggio passivo e concentrare le energie su LIFE e CBE JU, dove l'acetato di cellulosa ha un fit reale."
+    ],
+    "aggiornato": "2026-08-21T17:18:27.716Z"
+  },
+  "eu-HORIZON-CL4-2027-01-MAT-PROD-08": {
+    "verdetto": "rete",
+    "priorita": "B",
+    "ruolo": "segnalazione alla rete e living lab",
+    "nota": "Bando Horizon IA sul riciclo tessile avanzato: la tecnologia non è la nostra (acetato da mozziconi, non fibre), ma possiamo girarlo alle aziende tessili della rete e offrire i Comuni calabresi come territorio pilota per la raccolta differenziata dei tessili.",
+    "perche": [
+      "Il cuore del topic è il processing e il manufacturing avanzato delle fibre tessili post-consumo: non abbiamo né impianti né know-how di riciclo tessile, quindi non siamo partner tecnologico credibile.",
+      "Un consorzio Horizon IA su questo tema ha però sempre bisogno di flussi reali in ingresso e di siti di raccolta: la raccolta separata obbligatoria dei tessili nei Comuni è un tassello scoperto e noi abbiamo i Comuni.",
+      "Il catalogo RFID/retrofit contenitori/TARIP è direttamente spendibile per tracciare e qualificare il flusso tessile in ingresso (dato di composizione e provenienza, molto richiesto nei progetti di circolarità tessile).",
+      "Gamification e campagne comportamentali servono a far conferire correttamente i cittadini: pacchetto di work package 'engagement' che nessun tecnologo del consorzio vuole gestire."
+    ],
+    "come": [
+      "Mappare 2-3 operatori del riciclo/preparazione al riutilizzo tessile (anche fuori Calabria) e proporre loro il topic prima che si chiudano i consorzi: prima del contatto far firmare accordo provvigionale e patto di non elusione.",
+      "Preparare una scheda 'Calabria living lab tessile' in inglese: numero di Comuni disponibili, abitanti serviti, dotazione RFID/TARIP proponibile, lettera di endorsement di 2-3 sindaci.",
+      "Cercare sui portali di partner search i coordinatori dei progetti Textiles for the Future e candidarsi come sito dimostratore/replicator con budget su raccolta, tracciabilità e comunicazione.",
+      "Se non si aggancia un consorzio entro l'estate 2026, non insistere: tenere il bando come leva commerciale per vendere RFID e TARIP ai Comuni sul tema raccolta tessili."
+    ],
+    "aggiornato": "2026-08-21T17:18:49.028Z"
+  },
+  "rcal-procedura-aperta-ai-sensi-dellart-71-del-d-lgs-36-2023-in-modalita-telematica-per-laffidamento-dei-lavori-di-ricostruzione-dellauditorium-nicola-calipari-e-delle-a": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "fornitore materiali CAM",
+    "nota": "Non è un bando a fondo perduto ma un appalto di lavori pubblici: la società non può concorrere (serve qualificazione SOA da impresa edile). L'unico aggancio è commerciale: proporre i pannelli termoisolanti/fonoassorbenti CAM di Human Maple alle imprese che concorrono o all'aggiudicatario.",
+    "perche": [
+      "Si tratta di una procedura aperta per l'affidamento di lavori di ricostruzione: richiede requisiti da impresa esecutrice (SOA, fatturato lavori, cantiere), che la SRLS in costituzione non ha.",
+      "Nessun contributo a fondo perduto e nessuno spazio per un ruolo da partner tecnologico o living lab: è un contratto di appalto, non un progetto di innovazione.",
+      "Esiste però un aggancio reale sui CAM edilizia: un auditorium pubblico deve rispettare i criteri ambientali minimi su isolamento termico e acustico, esattamente il segmento dei pannelli in acetato di cellulosa da mozziconi.",
+      "La committenza è il Consiglio regionale della Calabria: opera di alta visibilità, utile come referenza territoriale per il prodotto."
+    ],
+    "come": [
+      "Recuperare dal capitolato/computo metrico le voci di isolamento termico e correzione acustica e verificare se le schede tecniche Human Maple soddisfano i requisiti CAM richiesti (conduttività, reazione al fuoco, marcatura, EPD).",
+      "Individuare le imprese edili calabresi che tipicamente concorrono a gare di questa dimensione e proporsi come fornitore/subfornitore in fase di offerta, quando i migliorativi ambientali pesano sul punteggio tecnico.",
+      "Prima di girare contatti o schede a imprese e progettisti, formalizzare con Human Maple accordo provvigionale ed esclusiva Calabria più patto di non elusione.",
+      "Usare l'occasione per costruire una scheda 'pannelli CAM per edilizia pubblica' riutilizzabile su tutti i prossimi appalti di riqualificazione di scuole e sale pubbliche in regione."
+    ],
+    "aggiornato": "2026-08-22T10:49:05.945Z"
+  },
+  "eu-LIFE-2026-CET-BETTERRENO": {
+    "verdetto": "forse",
+    "priorita": "B",
+    "ruolo": "living lab e engagement territoriale",
+    "nota": "Bando LIFE-CET focalizzato su mercati, strumenti finanziari e domanda aggregata per la riqualificazione energetica: non è un topic su materiali, quindi i pannelli da mozziconi entrano solo come soluzione dimostrativa. Possibile ingresso come partner territoriale con i Comuni calabresi e con le campagne di engagement, in un consorzio guidato da agenzie per l'energia.",
+    "perche": [
+      "Il tema centrale è l'attivazione del mercato della ristrutturazione (schemi finanziari, aggregazione della domanda, one-stop-shop), non lo sviluppo di prodotti: il nostro pannello termoisolante e fonoassorbente CAM può fare da soluzione mostrata nei casi pilota, non da cuore del progetto.",
+      "La rete di Comuni calabresi è spendibile come area pilota per aggregare la domanda di riqualificazione dell'edilizia pubblica e residenziale in un contesto del Sud, tipicamente sottorappresentato in questi consorzi.",
+      "Il know-how di gamification, campagne comportamentali e community engagement copre la parte di attivazione di cittadini e proprietari, che in questi topic pesa quanto gli strumenti finanziari.",
+      "Ci manca la competenza core su ESCO, contratti EPC e ingegneria finanziaria: senza un capofila che la porti non siamo credibili, e le regole LIFE-CET di solito richiedono partner di più Paesi (da verificare sul topic)."
+    ],
+    "come": [
+      "Leggere il testo completo del topic per capire se sono ammessi partner dimostratori di soluzioni CAM e quale composizione minima di consorzio è richiesta, prima di investire tempo.",
+      "Cercare come capofila un'agenzia energetica o un'ESCO italiana già attiva su LIFE-CET (rete FEDARENE, agenzie regionali) e proporsi come partner per il pilota calabrese e la parte di ingaggio dei cittadini.",
+      "Preparare una scheda territorio di 2 pagine: numero di Comuni raggiungibili, patrimonio edilizio pubblico potenzialmente coinvolgibile, lettere di interesse dei sindaci e riferimento al contratto quadro con Unical.",
+      "Inserire Human Maple come fornitore di materiale isolante conforme ai CAM per gli interventi dimostrativi, con accordo provvigionale e patto di non elusione firmati prima di presentare il partner al consorzio."
+    ],
+    "aggiornato": "2026-08-28T18:25:36.962Z"
+  },
+  "rcal-impianto-di-trattamento-e-recupero-rifiutri-non-pericolosi-a-matrice-inerte-provenienti-da-costruzione-e-demolizione": {
+    "verdetto": "no",
+    "priorita": "C",
+    "ruolo": null,
+    "nota": "Non è un bando ma un procedimento autorizzativo ambientale (VIA/AIA) su istanza di una ditta privata per un impianto di trattamento inerti da costruzione e demolizione a Petilia Policastro: non c'è nulla da candidare né fondo perduto da intercettare.",
+    "perche": [
+      "Si tratta di una pubblicazione di procedimento autorizzativo/valutazione ambientale della Regione Calabria, non di un avviso con contributo o selezione di beneficiari.",
+      "Non esiste una domanda di partecipazione: l'unico atto possibile sarebbe l'osservazione del pubblico, che non porta né contratti né provvigioni.",
+      "Il tema (inerti da C&D) è fuori dal nostro catalogo: non abbiamo fornitori di frantumazione/vagliatura inerti né tecnologie per aggregati riciclati.",
+      "Il segnale 'edilizia circolare e CAM' del filtro è un falso positivo: il nostro aggancio CAM riguarda pannelli isolanti da acetato di cellulosa, non aggregati da demolizione."
+    ],
+    "come": [
+      "Uso solo come lead commerciale: schedare Autotrasporti e Costruzioni Rizzuti SRL tra i possibili interlocutori per l'edilizia circolare in provincia di Crotone e ricontattarla quando usciranno bandi regionali PMI su materiali da costruzione riciclati e forniture CAM."
+    ],
+    "aggiornato": "2026-08-31T13:13:20.488Z"
+  },
+  "fincalabra-gerace-porta-del-sole-intervento-1-incentivi-finalizzati-a-s": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "beneficiaria diretta (solo con unità locale a Gerace)",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola società; da verificare solo l'obbligo di sede/unità locale nel Comune di Gerace",
+    "nota": "Incentivo Fincalabra a fondo perduto per nuove imprese, ma quasi certamente vincolato al territorio del Comune di Gerace (RC): con sede operativa a Rende siamo fuori, a meno di aprire un'unità locale lì. Da leggere prima di investire tempo.",
+    "perche": [
+      "La tipologia è quella giusta per noi: aiuti a nuove imprese e sviluppo imprenditoriale, contributo a fondo perduto, presentazione in forma singola senza consorzio.",
+      "Il vincolo probabile è territoriale: si tratta di un progetto 'Porta del Sole' legato al borgo di Gerace, quindi con obbligo di sede o unità operativa nel Comune; la nostra sede è a Rende (CS) e nessun socio risiede nel reggino.",
+      "La società è ancora in costituzione e non iscritta al Registro Imprese: molti di questi avvisi richiedono impresa già attiva o costituita entro un termine preciso.",
+      "Aprire un'unità locale a Gerace solo per il bando non è coerente con il modello di intermediazione, che vive sui contatti con i Comuni del cosentino/catanzarese."
+    ],
+    "come": [
+      "Scaricare l'avviso Fincalabra e verificare due punti: ammissibilità di una società appena costituita (o non ancora iscritta) e obbligo di sede/unità locale nel Comune di Gerace, con relativi termini e documenti.",
+      "Se il vincolo territoriale è confermato e non aggirabile, archiviare e concentrare le energie sugli avvisi Fincalabra/Agenda Urbana e sui voucher camerali validi su Rende-Cosenza.",
+      "Se invece il bando ammette imprese con unità locale attivabile dopo la concessione, valutare un presidio leggero a Gerace da abbinare a un'offerta di raccolta differenziata smart/TARIP per il Comune e i borghi vicini.",
+      "In ogni caso segnalare l'avviso alle aziende della rete che abbiano già sede o interessi nella Locride, con accordo provvigionale e patto di non elusione firmati prima di presentare i contatti."
+    ],
+    "aggiornato": "2026-09-03T10:58:24.469Z"
+  },
+  "fincalabra-avviso-pubblico-safe-aiuti-alle-imprese-per-il-caro-energia": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola società, senza consorzio né capofila.",
+    "nota": "Aiuto regionale Fincalabra sul caro energia: si presenta da soli ed è sul nostro territorio, ma quasi certamente richiede impresa già attiva con bollette e consumi energetici storici, che una società in costituzione non ha. Da verificare in dettaglio prima di investirci tempo.",
+    "perche": [
+      "È un aiuto diretto alle imprese calabresi gestito da Fincalabra: sede operativa a Rende (CS) e soci residenti in regione ci mettono nel perimetro territoriale giusto.",
+      "Si presenta in forma singola come beneficiaria diretta, senza bisogno di consorzi: tempi di preparazione brevi, tipicamente poche settimane.",
+      "Il punto critico è la natura della misura: i ristori/aiuti sul caro energia si calcolano di norma sull'incremento dei costi energetici rispetto a periodi precedenti, documentati da fatture e bilanci che una società in costituzione non possiede.",
+      "Il nostro profilo è di servizi di intermediazione a bassa intensità energetica: anche se ammessi, la base di calcolo del contributo sarebbe minima e non giustificherebbe il lavoro istruttorio."
+    ],
+    "come": [
+      "Verificare per prima cosa sull'avviso Fincalabra se è ammessa un'impresa appena costituita o non ancora iscritta al Registro Imprese, con quale data-limite di iscrizione e quali documenti (visura, dichiarazione di inizio attività, codice ATECO ammissibile).",
+      "Leggere la sezione su spese ammissibili e periodo di riferimento: se il contributo si basa su costi energetici sostenuti in annualità passate, la misura è esclusa per noi e va archiviata senza ulteriore lavoro.",
+      "Se invece l'avviso ammette investimenti in efficienza energetica prospettici, preparare preventivi (impianti, efficientamento della sede di Rende) e valutare la domanda dopo l'iscrizione al Registro Imprese.",
+      "In parallelo segnalare l'avviso alle aziende della rete già attive e con consumi rilevanti (retrofit contenitori, impianti di riciclo, futuro impianto pannolini), previo accordo provvigionale e patto di non elusione."
+    ],
+    "aggiornato": "2026-09-03T10:58:43.600Z"
+  },
+  "fincalabra-programma-di-accelerazione-startup-calabria": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola società (o il team dei tre soci, se il programma ammette anche aspiranti imprenditori non ancora iscritti al Registro Imprese).",
+    "nota": "Programma regionale di accelerazione per startup calabresi: è il bando più adatto alla nostra fase, perché i percorsi di accelerazione sono tra i pochi che accettano imprese appena costituite o addirittura team in costituzione. Da candidare come società con sede a Rende.",
+    "perche": [
+      "Fincalabra è il soggetto attuatore regionale calabrese e la sede operativa è a Rende (CS), con i tre soci residenti tra Cosenza, Vibo Valentia e Maida: requisito territoriale pienamente soddisfatto.",
+      "I programmi di accelerazione, a differenza degli aiuti alle imprese classici, sono in genere aperti a startup neo-costituite e talvolta a team non ancora iscritti al Registro Imprese: è la finestra giusta per una società ancora in costituzione.",
+      "Il modello di business (intermediario di economia circolare con esclusiva Human Maple, catalogo di 19 fornitori RFID/TARIP, Junker, Iotilize, riciclo pannolini) è raccontabile come startup innovativa con ricavi da provvigione, mercato già mappato e contatti con i Comuni calabresi.",
+      "Oltre al contributo, l'accelerazione porta mentorship, visibilità regionale e credibilità verso Comuni e fornitori: leva commerciale diretta sul nostro core business."
+    ],
+    "come": [
+      "Verificare subito in avviso se sono ammesse società costituite da poco o non ancora iscritte al Registro Imprese, con quale termine di costituzione/iscrizione post-selezione e quali documenti servono (visura, atto costitutivo, codice ATECO); se il termine è successivo alla selezione, candidarsi come team.",
+      "Chiudere la formalizzazione dell'esclusiva calabrese Human Maple e mettere per iscritto gli accordi con i partner di rete: sono gli asset che rendono credibile il pitch.",
+      "Preparare il pacchetto standard di questi programmi: pitch deck, business plan a 3 anni con ricavi da provvigione, CV dei tre soci, lettere di interesse di 3-5 Comuni calabresi e di 2-3 fornitori del catalogo.",
+      "Contattare direttamente lo sportello Fincalabra per capire ATECO ammissibili, eventuale requisito di innovatività (iscrizione sezione speciale startup innovative) e regime de minimis, valorizzando il contratto quadro R&S con Unical."
+    ],
+    "aggiornato": "2026-09-03T10:59:02.825Z"
+  },
+  "fincalabra-avviso-pubblico-energia-rinnovabile-microimprese": {
+    "verdetto": "forse",
+    "priorita": "B",
+    "ruolo": "beneficiaria diretta / segnalazione alla rete",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola impresa; da verificare solo il titolo di disponibilità dell'immobile su cui installare l'impianto",
+    "nota": "Aiuto regionale Fincalabra per l'autoproduzione da fonti rinnovabili nelle microimprese calabresi: tema lontano dal core (economia circolare) ma perfettamente nel nostro territorio e presentabile da soli. Utile se apriamo davvero una sede operativa a Rende con spese energetiche da abbattere, altrimenti da girare alle microimprese della rete.",
+    "perche": [
+      "Bando regionale calabrese per microimprese: la sede operativa di Rende (CS) e i soci residenti in Calabria ci collocano nel perimetro territoriale, e la procedura è a domanda singola, veloce da preparare.",
+      "Il tema è energia rinnovabile per autoconsumo, non economia circolare: il fit con Human Maple, RFID/TARIP e gamification è nullo, quindi il valore è solo di dotazione aziendale (riduzione costi, credenziali di sostenibilità), non strategico.",
+      "Ostacolo forte: la società è ancora in costituzione e questi avvisi di norma richiedono impresa attiva, iscritta al Registro Imprese, spesso con codice ATECO ammissibile e a volte anzianità minima.",
+      "In alternativa è una buona leva commerciale: molte microimprese calabresi con cui parliamo (fornitori, gestori di impianti, piccoli operatori del riciclo) possono usarlo, e la segnalazione ci apre la porta con provvigione sui contratti collegati."
+    ],
+    "come": [
+      "Prima di tutto verificare nell'avviso l'ammissibilità di una società di nuova costituzione: data limite di iscrizione al Registro Imprese, ATECO ammessi, eventuale requisito di bilanci o di attività già avviata; se serve impresa attiva, accelerare la costituzione prima della scadenza.",
+      "Verificare il titolo di disponibilità dell'immobile di Rende (proprietà o contratto di locazione con consenso del proprietario all'installazione) e il consumo energetico effettivo: senza sede propria e senza bollette rilevanti l'investimento non regge la valutazione economica.",
+      "Chiedere un preventivo a un installatore fotovoltaico locale e costruire un mini business plan energetico (potenza, autoconsumo stimato, payback) da allegare alla domanda.",
+      "In parallelo mappare le microimprese calabresi del network potenzialmente beneficiarie, segnalare loro l'avviso e formalizzare accordo provvigionale e patto di non elusione prima di presentare fornitori o consulenti."
+    ],
+    "aggiornato": "2026-09-03T10:59:26.352Z"
+  },
+  "fincalabra-fovec-fondo-di-venture-capital-avviso-in-preinformazione": {
+    "verdetto": "si",
+    "priorita": "B",
+    "ruolo": "beneficiaria diretta (target di investimento)",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si candida la sola società; utile però un advisor finanziario e lettere di intento di Comuni/fornitori a supporto del piano industriale",
+    "nota": "Fondo di venture capital regionale Fincalabra in preinformazione: strumento pensato per imprese giovani calabresi, quindi uno dei pochi canali dove essere neocostituiti non è un ostacolo. Da monitorare, valutando bene la diluizione dei tre soci.",
+    "perche": [
+      "Strumento regionale calabrese rivolto a nuove imprese e startup: a differenza dei classici aiuti alle PMI, il venture capital guarda in avanti e spesso ammette (o preferisce) società appena costituite, come la nostra con sede a Rende.",
+      "Il modello di intermediazione di economia circolare, con esclusiva Human Maple, catalogo di 19 fornitori RFID/TARIP e rete di Comuni, si racconta bene in chiave di scalabilità e ricavi ricorrenti da provvigioni: è il linguaggio che un fondo capisce.",
+      "Un ingresso di Fincalabra darebbe capitale iniziale e credibilità istituzionale davanti a Comuni e fornitori, che è la vera leva commerciale.",
+      "Attenzione: è equity, non fondo perduto. Comporta diluizione, patti parasociali e obblighi di exit per tre soci che oggi controllano tutto."
+    ],
+    "come": [
+      "Verificare subito, appena esce l'avviso definitivo, i requisiti soggettivi: iscrizione al Registro Imprese richiesta al momento della domanda o consentita entro un termine, eventuale requisito di startup innovativa e relativa iscrizione alla sezione speciale.",
+      "Completare la costituzione della SRLS e valutare l'iscrizione come startup innovativa (R&S con Unical, contratto quadro esistente, come elemento qualificante).",
+      "Preparare il pacchetto tipico da fondo: business plan a 3-5 anni con pipeline di Comuni e aziende, marginalità delle provvigioni, contratto di esclusiva Human Maple firmato, lettere di intento di Comuni calabresi e fornitori del catalogo.",
+      "Chiedere un incontro preliminare a Fincalabra per capire ticket, percentuale di partecipazione, governance e meccanismi di uscita prima di impegnarsi; in parallelo tenere aperti i canali a fondo perduto regionali come alternativa non diluitiva."
+    ],
+    "aggiornato": "2026-09-03T10:59:48.615Z"
+  },
+  "fincalabra-avviso-sostegno-alle-imprese-femminili": {
+    "verdetto": "forse",
+    "priorita": "B",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "Nessun partner obbligatorio: si presenta la sola società, purché rispetti il requisito di imprenditoria femminile",
+    "nota": "Aiuto regionale Fincalabra a fondo perduto per PMI: si presenta da soli e sarebbe perfetto per l'avvio della sede di Rende, ma è ammissibile solo se la compagine societaria risulta a prevalenza femminile. Da verificare subito questo punto e l'ammissibilità di una società in costituzione.",
+    "perche": [
+      "È un aiuto diretto a fondo perduto per imprese calabresi, con la società che sarebbe beneficiaria unica: nessun consorzio, tempi di presentazione brevi, sede operativa a Rende in target territoriale.",
+      "Le spese tipiche di questi avvisi (avvio, attrezzature, digitalizzazione, consulenze, comunicazione) coprono esattamente i costi di partenza dell'attività di intermediazione: piattaforma di mappatura fornitori, campagne verso Comuni e aziende, materiale demo Human Maple.",
+      "Il vincolo dirimente è soggettivo: l'avviso è riservato a imprese femminili (di norma maggioranza di quote e/o cariche in capo a donne). Se i tre soci non soddisfano il requisito, il bando è inaccessibile a prescindere dal merito del progetto.",
+      "Secondo ostacolo: la società non è ancora iscritta al Registro Imprese e molti avvisi regionali chiedono impresa attiva o consentono la costituzione solo entro un termine dalla concessione."
+    ],
+    "come": [
+      "Verificare in avviso l'ammissibilità di una società appena costituita o in costituzione: se è ammessa la domanda da costituenda, entro quale termine va perfezionata l'iscrizione al Registro Imprese e con quali documenti (visura, atto costitutivo, apertura partita IVA).",
+      "Leggere la definizione esatta di 'impresa femminile' usata dall'avviso (percentuale di quote, numero di amministratrici, eventuale requisito di residenza in Calabria) e, se serve e i soci sono d'accordo, valutare in fase di costituzione un assetto societario coerente col requisito — decisione da prendere prima del rogito, non dopo.",
+      "Se il requisito è soddisfacibile, preparare il pacchetto standard: business plan triennale del modello a provvigione con i 19 fornitori mappati e Human Maple, piano spese ammissibili, lettere di interesse di Comuni calabresi come clienti potenziali.",
+      "Fissare un contatto con lo sportello Fincalabra per confermare a voce ammissibilità del soggetto e finestra di presentazione, evitando di lavorare una domanda inammissibile."
+    ],
+    "aggiornato": "2026-09-03T11:00:09.043Z"
+  },
+  "cciaacs-05-bando-nuove-imprese-iv": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "nessuno: si presenta la sola società, come nuova impresa con sede in provincia di Cosenza",
+    "nota": "Bando camerale di Cosenza dedicato alle nuove imprese: territorio e profilo coincidono con la nostra situazione (sede operativa a Rende, società appena costituita). Da presentare da soli, è una delle occasioni più rapide e concrete.",
+    "perche": [
+      "La sede operativa si apre a Rende (CS): il requisito territoriale della CCIAA di Cosenza è soddisfatto in pieno, non è un ripiego.",
+      "È un bando pensato per le NUOVE imprese: per una volta l'essere appena costituiti è un vantaggio anziché un ostacolo, purché l'iscrizione al Registro Imprese avvenga nei termini richiesti.",
+      "Si presenta da soli come beneficiaria diretta: nessun consorzio, tempi di preparazione di poche settimane.",
+      "Il contributo copre tipicamente spese di avvio (attrezzature, software, consulenze, comunicazione): utile per licenza/dotazioni Human Maple, posacenere smart, piattaforma TARIP demo e materiale commerciale per Comuni e aziende."
+    ],
+    "come": [
+      "PRIMA COSA: leggere il regolamento per verificare l'ammissibilità di una società appena costituita — data limite di iscrizione al Registro Imprese, eventuale finestra (es. iscritte dopo una certa data), obbligo di sede legale e/o operativa in provincia di Cosenza, regolarità del diritto annuale e DURC.",
+      "Chiudere la costituzione della SRLS e l'iscrizione alla CCIAA di Cosenza con sede a Rende prima della domanda, verificando l'ordine corretto tra iscrizione e presentazione.",
+      "Preparare il piano di investimento con voci coerenti alle spese ammissibili: attrezzature e posacenere smart, licenza/kit Human Maple, software di gestione e TARIP demo, sito e materiali commerciali, consulenze tecniche.",
+      "Predisporre SPID/firma digitale, cassetto digitale e accesso alla piattaforma telematica camerale (di norma Telemaco/Webtelemaco) e verificare il regime de minimis residuo dei soci."
+    ],
+    "aggiornato": "2026-09-03T11:00:27.905Z"
+  },
+  "confcommcs-229647": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
+    "nota": "Voucher digitale fino a 20.000 euro sul territorio di Cosenza: occasione da prima fila per finanziare la nostra infrastruttura cloud, CRM e sicurezza dati. Nodo unico: l'ammissibilità di una società ancora in costituzione.",
+    "perche": [
+      "Bando su territorio Cosenza, dove apriamo la sede operativa a Rende: siamo esattamente nel perimetro dei beneficiari",
+      "Si presenta da soli, senza consorzi: istruttoria e domanda gestibili in poche settimane, a differenza dei bandi europei",
+      "Il nostro modello di intermediazione vive su strumenti cloud: CRM per Comuni e fornitori, gestione dati TARIP/RFID, dashboard di monitoraggio, integrazioni con Junker e Iotilize; la cybersecurity è un requisito reale trattando dati di enti pubblici",
+      "Un fondo perduto sulle spese digitali abbatte i costi fissi di avvio della SRLS senza intaccare la liquidità necessaria all'attività commerciale"
+    ],
+    "come": [
+      "Verificare come primo passo se una società appena costituita o in costituzione è ammissibile: data limite di iscrizione al Registro Imprese, eventuale anzianità minima, codice ATECO ammesso, iscrizione/regolarità con la Camera di commercio di Cosenza e con il diritto annuale; se serve, accelerare la costituzione presso il notaio prima della scadenza",
+      "Recuperare il testo integrale e l'ente gestore effettivo (Confcommercio è il canale informativo, il bando è probabilmente camerale o regionale): sportello a graduatoria o a sportello, percentuale di contributo, spesa minima ammissibile",
+      "Preparare il pacchetto tecnico: preventivi da fornitori ICT qualificati per CRM/gestionale in cloud, backup, MFA e protezione dati, con descrizione degli output attesi (piattaforma di gestione contratti e provvigioni, portale per i Comuni)",
+      "Predisporre in anticipo documenti societari, DURC, SPID/firma digitale del legale rappresentante e conto dedicato, per non perdere la finestra di presentazione"
+    ],
+    "aggiornato": "2026-09-03T11:00:49.729Z"
+  },
+  "calabria-58265": {
+    "verdetto": "si",
+    "priorita": "B",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "Nessun partner obbligatorio: si presenta la sola società; serve però quasi certamente una banca convenzionata che deliberi la quota di finanziamento bancario abbinata al fondo rotativo.",
+    "nota": "Fondo rotativo regionale per investimenti delle imprese in Calabria, a sportello: strumento utile per attrezzare la sede di Rende e la piattaforma di servizi, ma è finanza agevolata (prestito) e va verificato se una società appena costituita passa il vaglio bancario.",
+    "perche": [
+      "È un aiuto diretto alle imprese del territorio calabrese, dove avremo sede operativa (Rende, CS), e si presenta da soli senza consorzi: tempi brevi rispetto ai bandi europei.",
+      "Procedura a sportello: chi è pronto con il progetto d'investimento e la delibera bancaria entra subito, senza aspettare graduatorie.",
+      "Copre investimenti che ci servono davvero: allestimento sede/showroom, hardware e licenze per le piattaforme TARIP e RFID, dotazione per la linea posacenere smart e per la demo dei pannelli Human Maple.",
+      "Attenzione: il FRI è tipicamente finanziamento agevolato rimborsabile abbinato a quota bancaria, non fondo perduto puro; una SRLS in costituzione senza bilanci ha un merito creditizio debole."
+    ],
+    "come": [
+      "Primo passo obbligato: verificare sul testo del bando se sono ammesse imprese di nuova costituzione (iscrizione al Registro Imprese entro quale data, eventuale anzianità minima, bilanci richiesti) e concludere subito la costituzione per avere partita IVA e visura.",
+      "Chiarire la natura dello strumento: quota a fondo perduto vs. quota di finanziamento agevolato, investimento minimo ammissibile, spese ammesse (attrezzature, software, opere) e durata del rimborso.",
+      "Aprire il dialogo con una banca convenzionata al fondo rotativo e verificare quali garanzie chiede a una neo-costituita (Fondo di Garanzia PMI, garanzie dei soci, apporto di mezzi propri).",
+      "Preparare un piano d'investimento e un business plan coerenti con il modello di intermediazione: catalogo dei 19 fornitori RFID/TARIP, esclusiva Human Maple, contratto quadro Unical e lettere d'interesse dei Comuni calabresi come base dei ricavi previsti."
+    ],
+    "aggiornato": "2026-09-03T11:01:10.892Z"
+  },
+  "federterziario-6788": {
+    "verdetto": "si",
+    "priorita": "B",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola società; eventualmente serve solo un ente/organismo di formazione accreditato come fornitore del percorso, non come partner di domanda",
+    "nota": "Contributo al 50% sulla formazione del personale: strumento semplice e a domanda singola per far crescere le competenze dei tre soci su TARIP, RFID, CAM e vendita ai Comuni. Il nodo è l'ammissibilità di una società appena costituita.",
+    "perche": [
+      "È un aiuto a PMI a domanda singola, senza consorzi: si prepara in poche settimane e non pesa sul lavoro sui bandi europei.",
+      "La formazione è un fabbisogno reale e immediato: tariffazione puntuale TARIP e regolamenti comunali, CAM e requisiti dei materiali per l'edilizia, gestione dati RFID/piattaforme, tecniche commerciali e di community engagement verso enti pubblici.",
+      "Competenze certificate rafforzano la credibilità dell'intermediario davanti a Comuni e fornitori del catalogo (Human Maple, Junker, Iotilize) e sostengono la trattativa sull'esclusiva calabrese.",
+      "Copertura al 50% a fondo perduto: costo netto contenuto anche per una struttura di tre soci."
+    ],
+    "come": [
+      "Primo passo: verificare l'ammissibilità di una società appena costituita o in costituzione — iscrizione al Registro Imprese richiesta alla domanda o entro un termine, eventuale anzianità minima, presenza di dipendenti o ammissibilità della formazione dei soci lavoratori; se l'anzianità è ostativa, accelerare la costituzione prima dell'apertura dello sportello.",
+      "Leggere il bando reale sul sito Invitalia (il titolo circolato da Federterziario Calabria va riscontrato): soggetti ammessi, spese ammissibili, se serve un ente di formazione accreditato, regime de minimis e modalità a sportello o a graduatoria.",
+      "Costruire un piano formativo coerente con il modello di business: moduli su TARIP e regolamenti comunali, CAM e prestazioni dei pannelli in acetato di cellulosa, gestione dati RFID e piattaforme, project management di bandi europei.",
+      "Raccogliere preventivi dai fornitori formativi e, dove possibile, coinvolgere Unical sul contratto quadro esistente per i moduli tecnici, così da rafforzare anche la relazione di R&S."
+    ],
+    "aggiornato": "2026-09-03T11:01:28.125Z"
+  }
+}

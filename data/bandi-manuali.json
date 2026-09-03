@@ -1,0 +1,31 @@
+[
+  {
+    "_note": "Bandi trovati a mano, che nessuna fonte pubblica in una forma raccoglibile automaticamente. Il monitor li legge e li tratta come tutti gli altri: classificazione, scadenze, email, sito, Excel. Campi minimi: id, title, link — una voce senza tutti e tre viene ignorata, come questa. 'deadline' in formato ISO, in ora UTC (l'Italia d'estate è avanti di due ore: le 23:59 del 15 settembre si scrivono 21:59Z). Per dare un verdetto a uno di questi, aggiungi una voce con lo stesso id in valutazioni.json."
+  },
+  {
+    "id": "manuale-agenda-urbana-cosenza-rende-2026",
+    "title": "Agenda Urbana Cosenza-Rende – Avviso \"Promuovere lo sviluppo economico delle città di Cosenza e Rende – Aiuti alle imprese\"",
+    "link": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
+    "date": "2026-07-09T00:00:00.000Z",
+    "deadline": "2026-09-15T21:59:00.000Z",
+    "source": "Comune di Cosenza",
+    "ambito": "locale",
+    "programma": "Comuni e Agenda Urbana",
+    "statoLabel": "Aperto",
+    "isOpen": true,
+    "detailedDescription": "Avviso pubblico dei Comuni di Cosenza (capofila) e Rende nell'ambito della Strategia di Sviluppo Urbano Sostenibile Agenda Urbana Cosenza-Rende 2021-2027, finanziata dal PR Calabria FESR FSE+ 2021-2027. Contributi a fondo perduto alle micro, piccole e medie imprese per lo sviluppo economico dei due territori comunali. Il termine per la presentazione delle domande è stato prorogato alle ore 23:59 del 15 settembre 2026 (la proroga è stata decisa per le difficoltà nel reperire preventivi e documentazione tecnica nel periodo estivo). Importi, percentuali di contributo, requisiti di ammissibilità delle imprese e spese finanziabili vanno letti sul testo dell'avviso e sulle FAQ pubblicate dal Comune di Cosenza."
+  },
+  {
+    "id": "manuale-cciaacs-doppia-transizione-2026",
+    "title": "CCIAA Cosenza – Bando Doppia Transizione 2026, I Edizione",
+    "link": "https://www.cs.camcom.it/it/content/service/014-bando-doppia-transizione-anno-2026-i-edizione",
+    "date": "2026-07-08T00:00:00.000Z",
+    "deadline": "2026-09-30T19:00:00.000Z",
+    "source": "CCIAA Cosenza",
+    "ambito": "locale",
+    "programma": "Comuni e Agenda Urbana",
+    "statoLabel": "Attivo",
+    "isOpen": true,
+    "detailedDescription": "Bando della Camera di Commercio di Cosenza per sostenere le micro, piccole e medie imprese nell'adozione di soluzioni tecnologiche avanzate e nell'attivazione di processi di sostenibilità aziendale, con progetti coerenti con il Piano Nazionale Transizione 5.0. Spese ammissibili: tecnologie, consulenze, formazione. Stanziamento 100.000 euro. Domande solo per via telematica sulla piattaforma ReStart di Infocamere, dalle ore 10:00 del 28/07/2026 alle ore 21:00 del 30/09/2026. Richiesto il report di autovalutazione digitale Selfi4.0 svolto nei tre mesi precedenti la domanda. Al 2 settembre 2026 risultano 30 domande presentate per 262.371 euro richiesti, contro uno stanziamento di 100.000 euro."
+  }
+]
