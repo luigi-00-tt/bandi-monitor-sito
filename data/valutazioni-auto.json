@@ -410,5 +410,110 @@
       "Raccogliere preventivi dai fornitori formativi e, dove possibile, coinvolgere Unical sul contratto quadro esistente per i moduli tecnici, così da rafforzare anche la relazione di R&S."
     ],
     "aggiornato": "2026-09-03T11:01:28.125Z"
+  },
+  "federterziario-6786": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "soggetto ospitante tirocinante",
+    "partecipazione": "singola",
+    "partner": "Nessun partner obbligatorio: si presenta la sola società come soggetto ospitante, con l'ente promotore (Federterziario/agenzia accreditata) come intermediario procedurale",
+    "nota": "Non è un contributo a fondo perduto: è il servizio di attivazione di un tirocinio extracurriculare con indennità e costi a carico dell'azienda ospitante. Può servire per inserire una figura junior su mappatura fornitori e rapporti con i Comuni, ma non porta cassa.",
+    "perche": [
+      "Non è un bando di finanziamento ma un servizio di attivazione tirocinio 'autofinanziato': l'indennità mensile, l'assicurazione e i costi di gestione restano interamente a carico nostro, quindi zero leva commerciale sui bandi a fondo perduto",
+      "Con tre soci e nessun dipendente, una figura junior (raccolta dati sui Comuni, aggiornamento catalogo fornitori, supporto alle campagne di gamification) sarebbe comunque utile a costo contenuto",
+      "La sede operativa a Rende (CS) e i soci residenti in regione rendono l'operazione territorialmente coerente: i tirocini extracurriculari calabresi richiedono sede o unità operativa in Calabria",
+      "Ostacolo dirimente: la società è ancora in costituzione e non iscritta al Registro Imprese, condizione normalmente indispensabile per essere soggetto ospitante (serve anche posizione INAIL, DURC e adempimenti sicurezza)"
+    ],
+    "come": [
+      "Verificare prima di tutto se una società appena costituita può essere soggetto ospitante: iscrizione al Registro Imprese, apertura posizione INAIL/INPS, DURC regolare e rispetto dei limiti numerici tirocinanti rispetto ai dipendenti in forza",
+      "Chiedere a Federterziario Calabria il costo effettivo del servizio e l'importo minimo dell'indennità mensile prevista dalla normativa regionale, per capire il costo pieno mensile",
+      "Verificare in parallelo se esistono misure regionali o camerali che rimborsano tutta o parte dell'indennità di tirocinio (Garanzia Giovani, incentivi occupazione Regione Calabria): in quel caso la stessa operazione diventa a costo quasi nullo e sale di priorità",
+      "Rinviare la decisione a dopo la costituzione e la prima commessa con provvigione incassata: senza flusso di cassa ricorrente un tirocinio autofinanziato è un costo fisso non giustificato"
+    ],
+    "aggiornato": "2026-09-03T20:22:34.062Z"
+  },
+  "confcommcs-229588": {
+    "verdetto": "si",
+    "priorita": "B",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola società; al massimo va scelto un ente formativo accreditato tra quelli ammessi dal bando.",
+    "nota": "Incentivo alla formazione digitale e green per PMI del territorio di Cosenza: si presenta da soli, importi contenuti ma utile per formare i tre soci su TARIP, RFID e CAM. Da verificare subito se una società appena costituita è ammessa.",
+    "perche": [
+      "Bando sul territorio di Cosenza-Rende, dove apriamo la sede operativa: siamo nel perimetro naturale dei beneficiari e la vicinanza con Confcommercio locale facilita l'istruttoria.",
+      "Si presenta come impresa singola, senza consorzi: tempi brevi e carico di lavoro compatibile con una società in avvio.",
+      "Il tema formazione digitale e green coincide con le competenze che dobbiamo strutturare: piattaforme TARIP, RFID porta a porta, CAM in edilizia, rendicontazione ambientale e vendita consulenziale ai Comuni.",
+      "Un percorso formativo finanziato dà anche credibilità commerciale quando ci presentiamo a Comuni e aziende come intermediari di economia circolare."
+    ],
+    "come": [
+      "Primo passo: verificare con lo sportello Confcommercio Cosenza se una SRLS in costituzione (non ancora iscritta al Registro Imprese) è ammissibile, entro quale data deve risultare attiva e se serve l'adesione associativa; chiedere per iscritto.",
+      "Chiudere l'iscrizione al Registro Imprese e aprire la posizione INPS/INAIL prima della domanda, e recuperare visura, DURC e dichiarazioni de minimis.",
+      "Definire un piano formativo per i tre soci su temi concreti e documentabili: tariffazione puntuale e software TARIP, tecnologie RFID e retrofit contenitori, CAM edilizia per i pannelli da acetato di cellulosa, digital marketing e CRM per la rete clienti.",
+      "Individuare l'ente di formazione accreditato e farsi rilasciare preventivo e programma con ore e costi, così da allegare un progetto formativo già quantificato."
+    ],
+    "aggiornato": "2026-09-03T20:22:50.170Z"
+  },
+  "confartcs-9158": {
+    "verdetto": "si",
+    "priorita": "A",
+    "ruolo": "beneficiaria diretta",
+    "partecipazione": "singola",
+    "partner": "Nessuno: si presenta la sola società; eventuale fornitore ICT solo come venditore della soluzione, non come partner di domanda",
+    "nota": "Bando di digitalizzazione per piccole imprese sul territorio di Cosenza: siamo beneficiari diretti con sede a Rende, domanda presentabile da soli in poche settimane. L'unico vero nodo è l'iscrizione al Registro Imprese, ancora in corso.",
+    "perche": [
+      "Sede operativa a Rende (CS) e soci residenti in Calabria: bando sul nostro territorio di riferimento, non un ripiego.",
+      "Beneficiaria diretta come PMI, nessun consorzio richiesto: è il tipo di bando più rapido e concreto da presentare.",
+      "Abbiamo spese digitali reali e coerenti: CRM per la gestione dei contatti con Comuni e fornitori, piattaforma di matching del catalogo dei 19 fornitori, dashboard dati TARIP/raccolta differenziata, sito e strumenti di gamification e community engagement.",
+      "Un investimento digitale finanziato rafforza proprio l'asset centrale del modello: la capacità di mappare bisogni degli enti e proporre il fornitore giusto."
+    ],
+    "come": [
+      "Verificare subito in Confartigianato Cosenza / presso l'ente gestore se una società appena costituita è ammissibile: data minima di iscrizione al Registro Imprese, eventuale anzianità richiesta, codice ATECO ammesso; se serve impresa già attiva, accelerare l'iscrizione prima della scadenza.",
+      "Recuperare il testo integrale del bando (soggetto gestore, dotazione, percentuale di contributo, spese ammissibili, regime de minimis, finestra di presentazione).",
+      "Preparare il pacchetto documentale standard: visura, DURC, dichiarazioni de minimis, piano di investimento digitale con 2-3 preventivi per voce (CRM, piattaforma di matching fornitori/Comuni, dashboard dati, sito e app di engagement).",
+      "Chiedere ai fornitori tecnologici della rete (Iotilize, Junker, piattaforme TARIP) preventivi intestati e coerenti con le voci ammissibili, tenendo distinta la nostra spesa agevolata dai contratti su cui prendiamo provvigione."
+    ],
+    "aggiornato": "2026-09-03T20:23:08.201Z"
+  },
+  "confcommcs-229371": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "target di investimento",
+    "partecipazione": "daVerificare",
+    "partner": "Non siamo beneficiari diretti: serve un incubatore o acceleratore certificato (es. TechNest Unical) disposto a investire nella nostra società; da verificare sul testo chi può presentare domanda e se i",
+    "nota": "Misura rivolta a incubatori e acceleratori certificati, non a una PMI in costituzione: per noi vale solo come leva indiretta per attrarre un investimento da un incubatore certificato del territorio (TechNest Unical). Da approfondire, priorità marginale.",
+    "perche": [
+      "Il beneficio fiscale spetta a incubatori/acceleratori certificati o a chi investe tramite loro: la nostra SRLS in costituzione non è tra i soggetti ammessi come beneficiaria.",
+      "Interesse indiretto reale: se ci iscriviamo come startup innovativa, un incubatore certificato che investe in noi ottiene il credito d'imposta, quindi la misura rende più conveniente finanziarci.",
+      "Abbiamo un contratto quadro di R&S con Unical, che ha un incubatore certificato in ateneo: canale già aperto per proporsi come target di investimento.",
+      "Nessun contributo diretto a fondo perduto per la società: non sostituisce i bandi regionali per PMI, che restano la priorità."
+    ],
+    "come": [
+      "Leggere il testo della misura per capire esattamente chi presenta domanda (incubatore certificato o investitore) e se esistono requisiti sulla startup partecipata: se la beneficiaria non possiamo essere noi, il bando esce dal radar operativo.",
+      "Verificare tempi e requisiti per costituire la società e iscriverla alla sezione speciale startup innovative del Registro Imprese (oggetto sociale con R&S, requisiti di spesa in innovazione): è il presupposto per qualsiasi investimento agevolato.",
+      "Contattare l'incubatore certificato dell'Unical e altri acceleratori regionali presentando il progetto Human Maple (pannelli CAM da mozziconi) e il portafoglio Comuni, proponendo un ingresso in equity agevolato dal credito d'imposta.",
+      "Preparare un pitch e un piano economico a due anni con provvigioni attese sui contratti mappati, da usare sia con gli incubatori sia con le banche."
+    ],
+    "aggiornato": "2026-09-03T20:23:36.022Z"
+  },
+  "cnacal-6658": {
+    "verdetto": "rete",
+    "priorita": "B",
+    "ruolo": "segnalazione alla rete",
+    "partecipazione": "singola",
+    "partner": "Nessun consorzio richiesto: si candida la singola impresa tessile calabrese; noi non abbiamo codice ATECO né produzione tessile, quindi non siamo beneficiari diretti",
+    "nota": "Selezione CNA Calabria riservata a imprese tessili del territorio: non siamo ammissibili come beneficiari, ma è un'occasione per entrare in relazione con CNA Calabria e con le imprese tessili locali da agganciare al filone del tessile post-consumo.",
+    "perche": [
+      "Il bando seleziona imprese tessili calabresi: la società è un intermediario di economia circolare, non un'impresa manifatturiera tessile, quindi non ha i requisiti di beneficiaria diretta.",
+      "Il tema tessile post-consumo è però un filone della rete (riciclo e valorizzazione di frazioni tessili): le imprese selezionate diventano potenziali clienti o fornitori da mappare.",
+      "CNA Calabria è un moltiplicatore utile: presidia le PMI del territorio ed è un canale per far conoscere l'offerta (RFID porta a porta, TARIP, Junker, pannelli Human Maple per l'edilizia) alle imprese associate.",
+      "La rete di Comuni calabresi resta spendibile come territorio pilota per eventuali filoni dimostrativi del progetto."
+    ],
+    "come": [
+      "Chiedere a CNA Calabria il regolamento di HERITAGETEX (requisiti, benefici per le imprese selezionate, se esiste un ruolo per fornitori di servizi tecnologici o per partner di progetto).",
+      "Individuare nel catalogo e tra i contatti le imprese tessili calabresi candidabili e segnalare loro il bando, firmando prima accordo provvigionale e patto di non elusione.",
+      "Proporsi a CNA Calabria come supporto tecnico su circolarità, tracciabilità e CAM per le imprese selezionate (workshop, scouting fornitori), aprendo un canale stabile con l'associazione.",
+      "Registrare l'occasione come contatto di rete e non come progetto proprio: non impegnare ore di lavoro oltre lo scouting, la priorità resta sui bandi in cui siamo beneficiari diretti."
+    ],
+    "aggiornato": "2026-09-03T20:23:55.066Z"
   }
 }

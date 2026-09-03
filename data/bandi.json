@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:01:30.173Z",
+  "generatedAt": "2026-09-03T20:23:55.087Z",
   "lastEmailSentAt": "2026-09-03T11:01:30.172Z",
   "nextEmailDueAt": "2026-09-10T11:01:30.172Z",
   "settings": {
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 31,
+    "nuovi": 22,
     "attivi": 50,
     "inScadenza": 15,
     "scaduti": 22,
     "totale": 72,
     "nostri": 42,
     "rete": 8,
-    "fuoriTema": 141
+    "fuoriTema": 140
   },
   "perFonte": {
     "Calabria Europa": {
@@ -71,9 +71,9 @@
     "nazionale": 1
   },
   "perPartecipazione": {
-    "daVerificare": 7,
-    "singola": 16,
-    "partenariato": 27
+    "daVerificare": 5,
+    "singola": 17,
+    "partenariato": 28
   },
   "bandi": [
     {
@@ -131,68 +131,6 @@
     },
     {
       "attivo": true,
-      "id": "manuale-agenda-urbana-cosenza-rende-2026",
-      "title": "Agenda Urbana Cosenza-Rende – Avviso \"Promuovere lo sviluppo economico delle città di Cosenza e Rende – Aiuti alle imprese\"",
-      "link": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
-      "source": "Comune di Cosenza",
-      "sourceUrl": "https://www.comune.cosenza.it/it/novita/avvisi",
-      "ambito": "locale",
-      "programma": "Comuni e Agenda Urbana",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
-      "ancheSu": [
-        {
-          "fonte": "Comune di Cosenza",
-          "link": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione"
-        },
-        {
-          "fonte": "Federterziario Calabria",
-          "link": "https://www.federterziariocalabria.it/bando-agenda-urbana-cosenza-rende/"
-        },
-        {
-          "fonte": "Confartigianato Cosenza",
-          "link": "https://www.confartigianatocosenza.it/2026/06/16/agenda-urbana-cosenza-rende-2021-2027/"
-        }
-      ],
-      "date": "2026-07-09T00:00:00.000Z",
-      "deadline": "2026-09-15T21:59:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "beneficiario diretto",
-      "motivi": [
-        "inserito a mano"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "beneficiario diretto",
-        "nota": "Il bando più vicino a noi che sia mai passato dal monitor: il territorio è esattamente quello dove apriamo. ATTENZIONE al requisito soggettivo: l'avviso è per micro, piccole e medie imprese, e la nostra è ancora una SRLS in costituzione. Prima di qualunque altra cosa va letto sul testo dell'avviso se ammette le imprese costituite dopo la pubblicazione e con quale termine. Scade il 15 settembre 2026.",
-        "perche": [
-          "La sede operativa che vogliamo aprire è a Rende, uno dei due Comuni dell'avviso: il requisito territoriale, che di solito è l'ostacolo, qui è il nostro punto di forza.",
-          "È un contributo a fondo perduto a una singola impresa: non serve un consorzio, non servono partner europei, non serve un progetto di ricerca. È il tipo di bando in cui siamo beneficiari diretti e non intermediari.",
-          "Finanzia l'avvio e lo sviluppo economico di imprese sul territorio: copre le spese di partenza di una società di servizi come la nostra, che ha bisogno di attrezzature, software e struttura più che di impianti.",
-          "Ci mette in rapporto diretto con i due Comuni proprio mentre stiamo costruendo la rete di enti da portare nei bandi europei come territorio pilota: il rapporto vale quanto il contributo."
-        ],
-        "come": [
-          "Per prima cosa leggere il testo integrale dell'avviso e le FAQ pubblicate dal Comune di Cosenza, che è capofila, e verificare se una società in costituzione è ammissibile e a quali condizioni.",
-          "Se la costituzione va perfezionata prima della domanda, capire subito dal notaio quanto tempo serve: mancano meno di due settimane alla scadenza del 15 settembre.",
-          "Preparare i preventivi delle spese: è il documento che richiede più tempo e per cui l'avviso è già stato prorogato una volta.",
-          "Chiedere assistenza a Confcommercio o Confartigianato Cosenza, che hanno entrambe pubblicato il bando e assistono gratuitamente gli associati nella compilazione."
-        ],
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
-        "aggiornato": "2026-09-02T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
       "id": "calabria-61061",
       "title": "Avviso per il sostegno allo sviluppo di imprese che producano effetti socialmente desiderabili e beni pubblici promosse da donne, giovani e svantaggiati in genere",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-per-il-sostegno-allo-sviluppo-di-imprese-che-producano-effetti-socialmente-desiderabili-e-beni-pubblici-promosse-da-donne-giovani-e-svantaggiati-in-genere/",
@@ -244,6 +182,64 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.418Z"
+    },
+    {
+      "attivo": true,
+      "id": "manuale-agenda-urbana-cosenza-rende-2026",
+      "title": "Agenda Urbana Cosenza-Rende – Avviso \"Promuovere lo sviluppo economico delle città di Cosenza e Rende – Aiuti alle imprese\"",
+      "link": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
+      "source": "Comune di Cosenza",
+      "sourceUrl": "https://www.comune.cosenza.it/it/novita/avvisi",
+      "ambito": "locale",
+      "programma": "Comuni e Agenda Urbana",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
+      "ancheSu": [
+        {
+          "fonte": "Federterziario Calabria",
+          "link": "https://www.federterziariocalabria.it/bando-agenda-urbana-cosenza-rende/"
+        },
+        {
+          "fonte": "Confartigianato Cosenza",
+          "link": "https://www.confartigianatocosenza.it/2026/06/16/agenda-urbana-cosenza-rende-2021-2027/"
+        }
+      ],
+      "date": "2026-07-09T00:00:00.000Z",
+      "deadline": "2026-09-15T21:59:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "nostro",
+      "ruolo": "beneficiario diretto",
+      "motivi": [
+        "inserito a mano"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "beneficiario diretto",
+        "nota": "Il bando più vicino a noi che sia mai passato dal monitor: il territorio è esattamente quello dove apriamo. ATTENZIONE al requisito soggettivo: l'avviso è per micro, piccole e medie imprese, e la nostra è ancora una SRLS in costituzione. Prima di qualunque altra cosa va letto sul testo dell'avviso se ammette le imprese costituite dopo la pubblicazione e con quale termine. Scade il 15 settembre 2026.",
+        "perche": [
+          "La sede operativa che vogliamo aprire è a Rende, uno dei due Comuni dell'avviso: il requisito territoriale, che di solito è l'ostacolo, qui è il nostro punto di forza.",
+          "È un contributo a fondo perduto a una singola impresa: non serve un consorzio, non servono partner europei, non serve un progetto di ricerca. È il tipo di bando in cui siamo beneficiari diretti e non intermediari.",
+          "Finanzia l'avvio e lo sviluppo economico di imprese sul territorio: copre le spese di partenza di una società di servizi come la nostra, che ha bisogno di attrezzature, software e struttura più che di impianti.",
+          "Ci mette in rapporto diretto con i due Comuni proprio mentre stiamo costruendo la rete di enti da portare nei bandi europei come territorio pilota: il rapporto vale quanto il contributo."
+        ],
+        "come": [
+          "Per prima cosa leggere il testo integrale dell'avviso e le FAQ pubblicate dal Comune di Cosenza, che è capofila, e verificare se una società in costituzione è ammissibile e a quali condizioni.",
+          "Se la costituzione va perfezionata prima della domanda, capire subito dal notaio quanto tempo serve: mancano meno di due settimane alla scadenza del 15 settembre.",
+          "Preparare i preventivi delle spese: è il documento che richiede più tempo e per cui l'avviso è già stato prorogato una volta.",
+          "Chiedere assistenza a Confcommercio o Confartigianato Cosenza, che hanno entrambe pubblicato il bando e assistono gratuitamente gli associati nella compilazione."
+        ],
+        "partecipazione": "singola",
+        "partner": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
+        "aggiornato": "2026-09-02T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": true,
@@ -2287,7 +2283,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "partnerRichiesti": "Nessun partner obbligatorio: si presenta la sola società come soggetto ospitante, con l'ente promotore (Federterziario/agenzia accreditata) come intermediario procedurale",
       "ancheSu": null,
       "date": "2026-08-07T16:32:49.000Z",
       "deadline": null,
@@ -2299,12 +2295,33 @@
         "calabria"
       ],
       "classe": "nostro",
-      "ruolo": "beneficiario diretto",
+      "ruolo": "soggetto ospitante tirocinante",
       "motivi": [
         "incentivi all'occupazione"
       ],
       "decisoDaTe": false,
-      "valutazione": null,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "soggetto ospitante tirocinante",
+        "partecipazione": "singola",
+        "partner": "Nessun partner obbligatorio: si presenta la sola società come soggetto ospitante, con l'ente promotore (Federterziario/agenzia accreditata) come intermediario procedurale",
+        "nota": "Non è un contributo a fondo perduto: è il servizio di attivazione di un tirocinio extracurriculare con indennità e costi a carico dell'azienda ospitante. Può servire per inserire una figura junior su mappatura fornitori e rapporti con i Comuni, ma non porta cassa.",
+        "perche": [
+          "Non è un bando di finanziamento ma un servizio di attivazione tirocinio 'autofinanziato': l'indennità mensile, l'assicurazione e i costi di gestione restano interamente a carico nostro, quindi zero leva commerciale sui bandi a fondo perduto",
+          "Con tre soci e nessun dipendente, una figura junior (raccolta dati sui Comuni, aggiornamento catalogo fornitori, supporto alle campagne di gamification) sarebbe comunque utile a costo contenuto",
+          "La sede operativa a Rende (CS) e i soci residenti in regione rendono l'operazione territorialmente coerente: i tirocini extracurriculari calabresi richiedono sede o unità operativa in Calabria",
+          "Ostacolo dirimente: la società è ancora in costituzione e non iscritta al Registro Imprese, condizione normalmente indispensabile per essere soggetto ospitante (serve anche posizione INAIL, DURC e adempimenti sicurezza)"
+        ],
+        "come": [
+          "Verificare prima di tutto se una società appena costituita può essere soggetto ospitante: iscrizione al Registro Imprese, apertura posizione INAIL/INPS, DURC regolare e rispetto dei limiti numerici tirocinanti rispetto ai dipendenti in forza",
+          "Chiedere a Federterziario Calabria il costo effettivo del servizio e l'importo minimo dell'indennità mensile prevista dalla normativa regionale, per capire il costo pieno mensile",
+          "Verificare in parallelo se esistono misure regionali o camerali che rimborsano tutta o parte dell'indennità di tirocinio (Garanzia Giovani, incentivi occupazione Regione Calabria): in quel caso la stessa operazione diventa a costo quasi nullo e sale di priorità",
+          "Rinviare la decisione a dopo la costituzione e la prima commessa con provvigione incassata: senza flusso di cassa ricorrente un tirocinio autofinanziato è un costo fisso non giustificato"
+        ],
+        "aggiornato": "2026-09-03T20:22:34.062Z",
+        "automatica": true
+      },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
@@ -2318,7 +2335,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "partnerRichiesti": "Nessuno: si presenta la sola società; al massimo va scelto un ente formativo accreditato tra quelli ammessi dal bando.",
       "ancheSu": null,
       "date": "2026-07-22T11:13:18.000Z",
       "deadline": null,
@@ -2335,12 +2352,33 @@
         "digital"
       ],
       "classe": "nostro",
-      "ruolo": "beneficiario diretto",
+      "ruolo": "beneficiaria diretta",
       "motivi": [
         "aiuti a PMI e nuove imprese"
       ],
       "decisoDaTe": false,
-      "valutazione": null,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "B",
+        "ruolo": "beneficiaria diretta",
+        "partecipazione": "singola",
+        "partner": "Nessuno: si presenta la sola società; al massimo va scelto un ente formativo accreditato tra quelli ammessi dal bando.",
+        "nota": "Incentivo alla formazione digitale e green per PMI del territorio di Cosenza: si presenta da soli, importi contenuti ma utile per formare i tre soci su TARIP, RFID e CAM. Da verificare subito se una società appena costituita è ammessa.",
+        "perche": [
+          "Bando sul territorio di Cosenza-Rende, dove apriamo la sede operativa: siamo nel perimetro naturale dei beneficiari e la vicinanza con Confcommercio locale facilita l'istruttoria.",
+          "Si presenta come impresa singola, senza consorzi: tempi brevi e carico di lavoro compatibile con una società in avvio.",
+          "Il tema formazione digitale e green coincide con le competenze che dobbiamo strutturare: piattaforme TARIP, RFID porta a porta, CAM in edilizia, rendicontazione ambientale e vendita consulenziale ai Comuni.",
+          "Un percorso formativo finanziato dà anche credibilità commerciale quando ci presentiamo a Comuni e aziende come intermediari di economia circolare."
+        ],
+        "come": [
+          "Primo passo: verificare con lo sportello Confcommercio Cosenza se una SRLS in costituzione (non ancora iscritta al Registro Imprese) è ammissibile, entro quale data deve risultare attiva e se serve l'adesione associativa; chiedere per iscritto.",
+          "Chiudere l'iscrizione al Registro Imprese e aprire la posizione INPS/INAIL prima della domanda, e recuperare visura, DURC e dichiarazioni de minimis.",
+          "Definire un piano formativo per i tre soci su temi concreti e documentabili: tariffazione puntuale e software TARIP, tecnologie RFID e retrofit contenitori, CAM edilizia per i pannelli da acetato di cellulosa, digital marketing e CRM per la rete clienti.",
+          "Individuare l'ente di formazione accreditato e farsi rilasciare preventivo e programma con ore e costi, così da allegare un progetto formativo già quantificato."
+        ],
+        "aggiornato": "2026-09-03T20:22:50.170Z",
+        "automatica": true
+      },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
@@ -2353,8 +2391,8 @@
       "sourceUrl": "https://calabria.cna.it/categorie/bandi-finanziamenti-agevolati-leggi-di-incentivo/",
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessun consorzio richiesto: si candida la singola impresa tessile calabrese; noi non abbiamo codice ATECO né produzione tessile, quindi non siamo beneficiari diretti",
       "ancheSu": null,
       "date": "2026-07-22T11:06:48.000Z",
       "deadline": null,
@@ -2373,7 +2411,28 @@
         "tessile post-consumo"
       ],
       "decisoDaTe": false,
-      "valutazione": null,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete",
+        "partecipazione": "singola",
+        "partner": "Nessun consorzio richiesto: si candida la singola impresa tessile calabrese; noi non abbiamo codice ATECO né produzione tessile, quindi non siamo beneficiari diretti",
+        "nota": "Selezione CNA Calabria riservata a imprese tessili del territorio: non siamo ammissibili come beneficiari, ma è un'occasione per entrare in relazione con CNA Calabria e con le imprese tessili locali da agganciare al filone del tessile post-consumo.",
+        "perche": [
+          "Il bando seleziona imprese tessili calabresi: la società è un intermediario di economia circolare, non un'impresa manifatturiera tessile, quindi non ha i requisiti di beneficiaria diretta.",
+          "Il tema tessile post-consumo è però un filone della rete (riciclo e valorizzazione di frazioni tessili): le imprese selezionate diventano potenziali clienti o fornitori da mappare.",
+          "CNA Calabria è un moltiplicatore utile: presidia le PMI del territorio ed è un canale per far conoscere l'offerta (RFID porta a porta, TARIP, Junker, pannelli Human Maple per l'edilizia) alle imprese associate.",
+          "La rete di Comuni calabresi resta spendibile come territorio pilota per eventuali filoni dimostrativi del progetto."
+        ],
+        "come": [
+          "Chiedere a CNA Calabria il regolamento di HERITAGETEX (requisiti, benefici per le imprese selezionate, se esiste un ruolo per fornitori di servizi tecnologici o per partner di progetto).",
+          "Individuare nel catalogo e tra i contatti le imprese tessili calabresi candidabili e segnalare loro il bando, firmando prima accordo provvigionale e patto di non elusione.",
+          "Proporsi a CNA Calabria come supporto tecnico su circolarità, tracciabilità e CAM per le imprese selezionate (workshop, scouting fornitori), aprendo un canale stabile con l'associazione.",
+          "Registrare l'occasione come contatto di rete e non come progetto proprio: non impegnare ore di lavoro oltre lo scouting, la priorità resta sui bandi in cui siamo beneficiari diretti."
+        ],
+        "aggiornato": "2026-09-03T20:23:55.066Z",
+        "automatica": true
+      },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
@@ -2387,7 +2446,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "partnerRichiesti": "Nessuno: si presenta la sola società; eventuale fornitore ICT solo come venditore della soluzione, non come partner di domanda",
       "ancheSu": null,
       "date": "2026-07-22T10:41:46.000Z",
       "deadline": null,
@@ -2402,13 +2461,34 @@
         "lavoro"
       ],
       "classe": "nostro",
-      "ruolo": "beneficiario diretto",
+      "ruolo": "beneficiaria diretta",
       "motivi": [
         "aiuti a PMI e nuove imprese",
         "digitalizzazione e competenze"
       ],
       "decisoDaTe": false,
-      "valutazione": null,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "beneficiaria diretta",
+        "partecipazione": "singola",
+        "partner": "Nessuno: si presenta la sola società; eventuale fornitore ICT solo come venditore della soluzione, non come partner di domanda",
+        "nota": "Bando di digitalizzazione per piccole imprese sul territorio di Cosenza: siamo beneficiari diretti con sede a Rende, domanda presentabile da soli in poche settimane. L'unico vero nodo è l'iscrizione al Registro Imprese, ancora in corso.",
+        "perche": [
+          "Sede operativa a Rende (CS) e soci residenti in Calabria: bando sul nostro territorio di riferimento, non un ripiego.",
+          "Beneficiaria diretta come PMI, nessun consorzio richiesto: è il tipo di bando più rapido e concreto da presentare.",
+          "Abbiamo spese digitali reali e coerenti: CRM per la gestione dei contatti con Comuni e fornitori, piattaforma di matching del catalogo dei 19 fornitori, dashboard dati TARIP/raccolta differenziata, sito e strumenti di gamification e community engagement.",
+          "Un investimento digitale finanziato rafforza proprio l'asset centrale del modello: la capacità di mappare bisogni degli enti e proporre il fornitore giusto."
+        ],
+        "come": [
+          "Verificare subito in Confartigianato Cosenza / presso l'ente gestore se una società appena costituita è ammissibile: data minima di iscrizione al Registro Imprese, eventuale anzianità richiesta, codice ATECO ammesso; se serve impresa già attiva, accelerare l'iscrizione prima della scadenza.",
+          "Recuperare il testo integrale del bando (soggetto gestore, dotazione, percentuale di contributo, spese ammissibili, regime de minimis, finestra di presentazione).",
+          "Preparare il pacchetto documentale standard: visura, DURC, dichiarazioni de minimis, piano di investimento digitale con 2-3 preventivi per voce (CRM, piattaforma di matching fornitori/Comuni, dashboard dati, sito e app di engagement).",
+          "Chiedere ai fornitori tecnologici della rete (Iotilize, Junker, piattaforme TARIP) preventivi intestati e coerenti con le voci ammissibili, tenendo distinta la nostra spesa agevolata dai contratti su cui prendiamo provvigione."
+        ],
+        "aggiornato": "2026-09-03T20:23:08.201Z",
+        "automatica": true
+      },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
@@ -2421,8 +2501,8 @@
       "sourceUrl": "https://www.mimit.gov.it/it/incentivi",
       "ambito": "nazionale",
       "programma": "Nazionali",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "Il bando parla di consorzio o partenariato: serve almeno un partner.",
       "ancheSu": null,
       "date": "2026-07-15T14:31:31.000Z",
       "deadline": null,
@@ -2595,13 +2675,34 @@
         "credito"
       ],
       "classe": "nostro",
-      "ruolo": "beneficiario diretto",
+      "ruolo": "target di investimento",
       "motivi": [
         "contributo a fondo perduto",
         "aiuti a PMI e nuove imprese"
       ],
       "decisoDaTe": false,
-      "valutazione": null,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "target di investimento",
+        "partecipazione": "daVerificare",
+        "partner": "Non siamo beneficiari diretti: serve un incubatore o acceleratore certificato (es. TechNest Unical) disposto a investire nella nostra società; da verificare sul testo chi può presentare domanda e se i",
+        "nota": "Misura rivolta a incubatori e acceleratori certificati, non a una PMI in costituzione: per noi vale solo come leva indiretta per attrarre un investimento da un incubatore certificato del territorio (TechNest Unical). Da approfondire, priorità marginale.",
+        "perche": [
+          "Il beneficio fiscale spetta a incubatori/acceleratori certificati o a chi investe tramite loro: la nostra SRLS in costituzione non è tra i soggetti ammessi come beneficiaria.",
+          "Interesse indiretto reale: se ci iscriviamo come startup innovativa, un incubatore certificato che investe in noi ottiene il credito d'imposta, quindi la misura rende più conveniente finanziarci.",
+          "Abbiamo un contratto quadro di R&S con Unical, che ha un incubatore certificato in ateneo: canale già aperto per proporsi come target di investimento.",
+          "Nessun contributo diretto a fondo perduto per la società: non sostituisce i bandi regionali per PMI, che restano la priorità."
+        ],
+        "come": [
+          "Leggere il testo della misura per capire esattamente chi presenta domanda (incubatore certificato o investitore) e se esistono requisiti sulla startup partecipata: se la beneficiaria non possiamo essere noi, il bando esce dal radar operativo.",
+          "Verificare tempi e requisiti per costituire la società e iscriverla alla sezione speciale startup innovative del Registro Imprese (oggetto sociale con R&S, requisiti di spesa in innovazione): è il presupposto per qualsiasi investimento agevolato.",
+          "Contattare l'incubatore certificato dell'Unical e altri acceleratori regionali presentando il progetto Human Maple (pannelli CAM da mozziconi) e il portafoglio Comuni, proponendo un ingresso in equity agevolato dal credito d'imposta.",
+          "Preparare un pitch e un piano economico a due anni con provvigioni attese sui contratti mappati, da usare sia con gli incubatori sia con le banche."
+        ],
+        "aggiornato": "2026-09-03T20:23:36.022Z",
+        "automatica": true
+      },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
