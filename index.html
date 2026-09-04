@@ -63,22 +63,38 @@
     <!-- Filters Bar -->
     <section class="filters-bar">
         <div class="filters-inner">
-            <div class="search-container">
-                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
-                </svg>
-                <input type="text" id="searchInput" class="search-input" placeholder="Cerca bandi per parola chiave..." autocomplete="off">
+            <!-- Sempre visibile c'è solo questa riga. I bottoni dei filtri
+                 stavano tutti qui aperti: con undici fonti e dodici programmi
+                 andavano a capo su cinque righe e, sommati all'intestazione,
+                 tenevano occupata mezza pagina anche mentre si leggevano i
+                 bandi. Ora si aprono quando servono. -->
+            <div class="filtri-riga">
+                <div class="search-container">
+                    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                    </svg>
+                    <input type="text" id="searchInput" class="search-input" placeholder="Cerca bandi per parola chiave..." autocomplete="off">
+                </div>
+                <button type="button" class="filtri-toggle" id="filtriToggle" aria-expanded="false" aria-controls="filtriPannello">
+                    <span aria-hidden="true">⚙️</span> Filtri
+                    <span class="filtri-badge" id="filtriBadge" hidden>0</span>
+                    <span class="filtri-freccia" aria-hidden="true">▾</span>
+                </button>
+                <button type="button" class="filtri-azzera" id="filtriAzzera" hidden>Azzera</button>
             </div>
-            <!-- Da soli o con partner: è la prima domanda pratica davanti a un
-                 bando, perché decide se il lavoro è di due settimane o di mesi -->
-            <div class="source-filters partecipazione-filters" id="partecipazioneFilters" hidden></div>
-            <!-- Europei / nazionali / regionali / locali: risponde a colpo
-                 d'occhio alla domanda "stiamo guardando solo l'Europa?" -->
-            <div class="source-filters ambito-filters" id="ambitoFilters" hidden></div>
-            <div class="source-filters" id="sourceFilters">
-                <button class="source-btn active" data-source="all">Tutte le fonti</button>
+
+            <div class="filtri-pannello" id="filtriPannello" hidden>
+                <!-- Da soli o con partner: è la prima domanda pratica davanti a un
+                     bando, perché decide se il lavoro è di due settimane o di mesi -->
+                <div class="source-filters partecipazione-filters" id="partecipazioneFilters" hidden></div>
+                <!-- Europei / nazionali / regionali / locali: risponde a colpo
+                     d'occhio alla domanda "stiamo guardando solo l'Europa?" -->
+                <div class="source-filters ambito-filters" id="ambitoFilters" hidden></div>
+                <div class="source-filters" id="sourceFilters">
+                    <button class="source-btn active" data-source="all">Tutte le fonti</button>
+                </div>
+                <div class="source-filters programma-filters" id="programmaFilters" hidden></div>
             </div>
-            <div class="source-filters programma-filters" id="programmaFilters" hidden></div>
         </div>
     </section>
 
@@ -137,6 +153,7 @@
                         <span class="section-count" id="countNuovi">0</span>
                     </h2>
                     <p class="section-sub">Pubblicati negli ultimi giorni e in linea con quello che facciamo</p>
+                    <div class="prio-filters" id="prioNuovi" hidden></div>
                 </div>
                 <div class="bandi-grid" id="gridNuovi"></div>
                 <div class="section-empty" id="emptyNuovi" hidden>Nessun bando nuovo al momento. Continuo a controllare ogni giorno.</div>
@@ -152,6 +169,7 @@
                         <span class="section-count" id="countSolo">0</span>
                     </h2>
                     <p class="section-sub">Si presentano come impresa singola: nessun partner obbligatorio, dal più urgente</p>
+                    <div class="prio-filters" id="prioSolo" hidden></div>
                 </div>
                 <div class="bandi-grid" id="gridSolo"></div>
                 <div class="section-empty" id="emptySolo" hidden>Nessun bando da presentare da soli in questo momento.</div>
@@ -166,6 +184,7 @@
                         <span class="section-count" id="countPartner">0</span>
                     </h2>
                     <p class="section-sub">Prima di candidarsi bisogna trovare gli altri: apri il bando per sapere quanti e di quali Paesi</p>
+                    <div class="prio-filters" id="prioPartner" hidden></div>
                 </div>
                 <div class="bandi-grid" id="gridPartner"></div>
                 <div class="section-empty" id="emptyPartner" hidden>Nessun bando in consorzio aperto in questo momento.</div>
@@ -180,6 +199,7 @@
                         <span class="section-count" id="countDaVerificare">0</span>
                     </h2>
                     <p class="section-sub">Dal titolo non si capisce se serva un partner: va letto l'avviso</p>
+                    <div class="prio-filters" id="prioDaVerificare" hidden></div>
                 </div>
                 <div class="bandi-grid" id="gridDaVerificare"></div>
                 <div class="section-empty" id="emptyDaVerificare" hidden>Nessuno: per tutti i bandi aperti sappiamo come si partecipa.</div>
@@ -192,6 +212,7 @@
                         <span class="section-count" id="countScadenza">0</span>
                     </h2>
                     <p class="section-sub">Scadono entro <span id="scadenzaGiorni">30</span> giorni: se ti interessano, muoviti</p>
+                    <div class="prio-filters" id="prioScadenza" hidden></div>
                 </div>
                 <div class="bandi-grid" id="gridScadenza"></div>
                 <div class="section-empty" id="emptyScadenza" hidden>Nessuna scadenza imminente.</div>
@@ -208,6 +229,7 @@
                             <span class="section-count" id="countRete">0</span>
                         </h2>
                         <p class="section-sub">Non fanno per noi ma per le aziende della rete: segnalali, offri i Comuni come territorio pilota e prenditi l'intermediazione</p>
+                        <div class="prio-filters" id="prioRete" hidden></div>
                     </div>
                     <div class="bandi-grid" id="gridRete"></div>
                     <div class="section-empty" id="emptyRete" hidden>Nessuna opportunità da girare in questo momento.</div>
@@ -223,6 +245,7 @@
                             <span class="section-count" id="countTutti">0</span>
                         </h2>
                         <p class="section-sub">Ogni bando ancora aperto, da tutte le fonti, dal più urgente</p>
+                        <div class="prio-filters" id="prioTutti" hidden></div>
                     </div>
                     <div class="bandi-grid" id="gridTutti"></div>
                     <div class="section-empty" id="emptyTutti" hidden>Nessun bando corrisponde ai filtri.</div>
@@ -238,6 +261,7 @@
                             <span class="section-count" id="countArchivio">0</span>
                         </h2>
                         <p class="section-sub">Bandi già scaduti o chiusi: non ci si può più candidare, restano qui come storico</p>
+                        <div class="prio-filters" id="prioArchivio" hidden></div>
                     </div>
                     <div class="bandi-grid" id="gridArchivio"></div>
                     <div class="section-empty" id="emptyArchivio" hidden>L'archivio è ancora vuoto.</div>

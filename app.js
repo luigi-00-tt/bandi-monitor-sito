@@ -148,7 +148,14 @@ const state = {
     activePartecipazione: 'all',
     activeView: 'panoramica',
     searchQuery: '',
-    modalitaRipiego: false
+    modalitaRipiego: false,
+    // Il pannello dei filtri: chiuso finche' non lo si apre, e la scelta
+    // resta (localStorage) perché chi lo tiene aperto lo vuole aperto.
+    filtriAperti: false,
+    // La priorità è scelta sezione per sezione: chiave della sezione ->
+    // 'all' | 'A' | 'B' | 'C'. "Dei bandi da soli fammi vedere solo gli A"
+    // è una domanda diversa da quella che ci si fa sull'archivio.
+    prioritaSezione: {}
 };
 
 // === DOM ===
@@ -164,6 +171,12 @@ const elements = {
     sections: el('sections'),
     viewTabs: el('viewTabs'),
     searchInput: el('searchInput'),
+    header: el('header'),
+    filtersBar: document.querySelector('.filters-bar'),
+    filtriToggle: el('filtriToggle'),
+    filtriBadge: el('filtriBadge'),
+    filtriAzzera: el('filtriAzzera'),
+    filtriPannello: el('filtriPannello'),
     partecipazioneFilters: el('partecipazioneFilters'),
     ambitoFilters: el('ambitoFilters'),
     sourceFilters: el('sourceFilters'),
@@ -194,14 +207,14 @@ const elements = {
 
 // Le griglie da riempire: chiave del gruppo → elementi della pagina
 const SEZIONI = [
-    { key: 'nuovi', grid: 'gridNuovi', count: 'countNuovi', empty: 'emptyNuovi' },
-    { key: 'solo', grid: 'gridSolo', count: 'countSolo', empty: 'emptySolo' },
-    { key: 'partner', grid: 'gridPartner', count: 'countPartner', empty: 'emptyPartner' },
-    { key: 'daVerificare', grid: 'gridDaVerificare', count: 'countDaVerificare', empty: 'emptyDaVerificare' },
-    { key: 'scadenza', grid: 'gridScadenza', count: 'countScadenza', empty: 'emptyScadenza' },
-    { key: 'rete', grid: 'gridRete', count: 'countRete', empty: 'emptyRete' },
-    { key: 'tutti', grid: 'gridTutti', count: 'countTutti', empty: 'emptyTutti' },
-    { key: 'archivio', grid: 'gridArchivio', count: 'countArchivio', empty: 'emptyArchivio' }
+    { key: 'nuovi', grid: 'gridNuovi', count: 'countNuovi', empty: 'emptyNuovi', prio: 'prioNuovi' },
+    { key: 'solo', grid: 'gridSolo', count: 'countSolo', empty: 'emptySolo', prio: 'prioSolo' },
+    { key: 'partner', grid: 'gridPartner', count: 'countPartner', empty: 'emptyPartner', prio: 'prioPartner' },
+    { key: 'daVerificare', grid: 'gridDaVerificare', count: 'countDaVerificare', empty: 'emptyDaVerificare', prio: 'prioDaVerificare' },
+    { key: 'scadenza', grid: 'gridScadenza', count: 'countScadenza', empty: 'emptyScadenza', prio: 'prioScadenza' },
+    { key: 'rete', grid: 'gridRete', count: 'countRete', empty: 'emptyRete', prio: 'prioRete' },
+    { key: 'tutti', grid: 'gridTutti', count: 'countTutti', empty: 'emptyTutti', prio: 'prioTutti' },
+    { key: 'archivio', grid: 'gridArchivio', count: 'countArchivio', empty: 'emptyArchivio', prio: 'prioArchivio' }
 ];
 
 // Le schermate fra cui si naviga
@@ -250,6 +263,15 @@ function partecipazioneDi(bando) {
     return 'daVerificare';
 }
 
+/**
+ * La fascia A/B/C, quando qualcuno l'ha assegnata (a mano in valutazioni.json
+ * o dall'analisi automatica). Chi non ce l'ha compare solo sotto "Tutte".
+ */
+function prioritaDi(bando) {
+    const p = bando.valutazione?.priorita;
+    return PRIORITA[p] ? p : null;
+}
+
 /** La riga che spiega cosa serve, quando qualcuno l'ha scritta. */
 function partnerRichiestiDi(bando) {
     return bando.valutazione?.partner || bando.partnerRichiesti || null;
@@ -266,6 +288,8 @@ function programmaDi(bando) {
 document.addEventListener('DOMContentLoaded', () => {
     initParticles();
     initEventListeners();
+    initFiltri();
+    misuraBarre();
     loadBandi();
 });
 
@@ -339,6 +363,26 @@ function initEventListeners() {
     elements.bandoModal.addEventListener('click', e => {
         if (e.target === elements.bandoModal) chiudiDettaglio();
     });
+    // Priorita': i bottoni sono ricostruiti a ogni render, quindi l'ascolto
+    // sta sul contenitore, non sui singoli bottoni.
+    elements.sections.addEventListener('click', e => {
+        const btn = e.target.closest('.prio-btn');
+        if (!btn) return;
+        const sezione = SEZIONI.find(s => s.prio === btn.closest('.prio-filters')?.id);
+        if (!sezione) return;
+        state.prioritaSezione[sezione.key] = btn.dataset.priorita;
+        render();
+    });
+
+    // Le barre fisse cambiano altezza col riquadro (sotto i 768px
+    // l'intestazione va a colonna): il CSS la deve sapere, non indovinare.
+    window.addEventListener('resize', debounce(misuraBarre, 150));
+    if (window.ResizeObserver) {
+        const osservatore = new ResizeObserver(misuraBarre);
+        if (elements.header) osservatore.observe(elements.header);
+        if (elements.filtersBar) osservatore.observe(elements.filtersBar);
+    }
+
     elements.sections.addEventListener('keydown', e => {
         if (e.key !== 'Enter' && e.key !== ' ') return;
         const card = e.target.closest('.bando-card[data-id]');
@@ -347,6 +391,97 @@ function initEventListeners() {
             apriDettaglio(card.dataset.id);
         }
     });
+}
+
+// === Barra dei filtri ===
+const CHIAVE_FILTRI = 'bandi-monitor:filtri-aperti';
+
+/**
+ * Scrive nel CSS quanto sono alte davvero le due barre fisse.
+ *
+ * Erano due numeri scritti a mano (72px l'intestazione, 90px il margine di
+ * scorrimento) e sbagliavano in entrambi i versi: sotto i 768px
+ * l'intestazione va a colonna e diventa quasi il doppio, e la barra dei
+ * filtri cambia altezza ogni volta che si apre o si chiude.
+ */
+function misuraBarre() {
+    const radice = document.documentElement;
+    if (elements.header) radice.style.setProperty('--header-h', elements.header.offsetHeight + 'px');
+    if (elements.filtersBar) radice.style.setProperty('--filters-h', elements.filtersBar.offsetHeight + 'px');
+}
+
+/**
+ * I filtri stavano tutti aperti sotto l'intestazione: con undici fonti e
+ * dodici programmi i bottoni andavano a capo su cinque righe e tenevano
+ * occupata mezza pagina anche mentre si leggevano i bandi. Ora si aprono
+ * quando servono, e il sito ricorda come li hai lasciati.
+ */
+function initFiltri() {
+    try {
+        state.filtriAperti = localStorage.getItem(CHIAVE_FILTRI) === 'si';
+    } catch (e) {
+        // Navigazione privata o cookie bloccati: si parte con i filtri chiusi.
+    }
+
+    applicaAperturaFiltri();
+
+    elements.filtriToggle.addEventListener('click', () => {
+        state.filtriAperti = !state.filtriAperti;
+        try { localStorage.setItem(CHIAVE_FILTRI, state.filtriAperti ? 'si' : 'no'); } catch (e) { /* vedi sopra */ }
+        applicaAperturaFiltri();
+    });
+
+    elements.filtriAzzera.addEventListener('click', azzeraFiltri);
+}
+
+function applicaAperturaFiltri() {
+    elements.filtriPannello.hidden = !state.filtriAperti;
+    elements.filtriToggle.setAttribute('aria-expanded', String(state.filtriAperti));
+    misuraBarre();
+}
+
+/** Quanti filtri sono accesi: è il numero sul bottone "Filtri". */
+function filtriAttivi() {
+    const globali = [
+        state.activeSource !== 'all',
+        state.activeProgramma !== 'all',
+        state.activeAmbito !== 'all',
+        state.activePartecipazione !== 'all',
+        state.searchQuery !== ''
+    ].filter(Boolean).length;
+
+    // Anche le priorità scelte dentro le sezioni contano: se no "Azzera"
+    // sparisce proprio quando servirebbe.
+    const perSezione = SEZIONI.filter(s => (state.prioritaSezione[s.key] || 'all') !== 'all').length;
+
+    return globali + perSezione;
+}
+
+function aggiornaStatoFiltri() {
+    const quanti = filtriAttivi();
+    elements.filtriBadge.hidden = quanti === 0;
+    elements.filtriBadge.textContent = quanti;
+    elements.filtriAzzera.hidden = quanti === 0;
+}
+
+function azzeraFiltri() {
+    state.activeSource = 'all';
+    state.activeProgramma = 'all';
+    state.activeAmbito = 'all';
+    state.activePartecipazione = 'all';
+    state.searchQuery = '';
+    SEZIONI.forEach(s => { state.prioritaSezione[s.key] = 'all'; });
+    elements.searchInput.value = '';
+
+    // I bottoni dei filtri in cima sono ricostruiti solo quando cambiano i
+    // dati, non a ogni render: qui si riaccende a mano il primo di ogni
+    // gruppo, che è sempre quello che dice "tutto".
+    [elements.partecipazioneFilters, elements.ambitoFilters, elements.sourceFilters, elements.programmaFilters]
+        .forEach(gruppo => {
+            gruppo?.querySelectorAll('.source-btn').forEach((b, i) => b.classList.toggle('active', i === 0));
+        });
+
+    render();
 }
 
 // === Caricamento dati ===
@@ -756,6 +891,38 @@ function costruisciFiltriProgramma() {
     });
 }
 
+/**
+ * I bottoni della priorità di una sezione, costruiti sui bandi che la
+ * sezione contiene davvero. Stessa forma dei filtri in cima: con una sola
+ * fascia presente il selettore non sceglie niente e resta nascosto.
+ */
+function costruisciFiltriPriorita(key, prioId, lista) {
+    const contenitore = el(prioId);
+    if (!contenitore) return;
+
+    const presenti = Object.keys(PRIORITA).filter(p => lista.some(b => prioritaDi(b) === p));
+
+    if (presenti.length < 2) {
+        contenitore.hidden = true;
+        contenitore.innerHTML = '';
+        // Senza bottoni non si potrebbe più togliere un filtro rimasto acceso
+        // da prima (per esempio dopo una ricerca che lascia due soli bandi).
+        state.prioritaSezione[key] = 'all';
+        return;
+    }
+
+    const scelta = state.prioritaSezione[key] || 'all';
+    const quanti = p => lista.filter(b => prioritaDi(b) === p).length;
+    const bottone = (valore, classe, testo, numero) =>
+        `<button type="button" class="prio-btn ${classe}${scelta === valore ? ' active' : ''}" data-priorita="${valore}">` +
+        `${escapeHTML(testo)}<span class="prio-conteggio">${numero}</span></button>`;
+
+    contenitore.hidden = false;
+    contenitore.innerHTML =
+        bottone('all', '', 'Tutte le priorità', lista.length) +
+        presenti.map(p => bottone(p, PRIORITA[p].classe, PRIORITA[p].label, quanti(p))).join('');
+}
+
 function bandiFiltrati() {
     return state.bandi.filter(b => {
         if (state.activeSource !== 'all' && b.source !== state.activeSource) return false;
@@ -813,19 +980,29 @@ function render() {
         archivio: scaduti
     };
 
-    SEZIONI.forEach(({ key, grid, count, empty }) => {
+    SEZIONI.forEach(({ key, grid, count, empty, prio }) => {
         const lista = gruppi[key];
         const gridEl = el(grid);
         const emptyEl = el(empty);
 
         if (!gridEl) return;
 
-        el(count).textContent = lista.length;
-        gridEl.innerHTML = lista.map(b => cardBando(b, key === 'archivio')).join('');
-        gridEl.hidden = lista.length === 0;
-        emptyEl.hidden = lista.length > 0;
+        // Prima i bottoni (che possono spegnere una scelta rimasta senza
+        // bandi), poi la lista che ne esce.
+        costruisciFiltriPriorita(key, prio, lista);
+        const scelta = state.prioritaSezione[key] || 'all';
+        const visibili = scelta === 'all' ? lista : lista.filter(b => prioritaDi(b) === scelta);
 
-        if (lista.length === 0 && (state.searchQuery || state.activeSource !== 'all')) {
+        // Con la priorità accesa il numero accanto al titolo direbbe una
+        // bugia: si mostra "visti su totali".
+        el(count).innerHTML = scelta === 'all'
+            ? String(lista.length)
+            : `${visibili.length}<span class="conteggio-totale"> / ${lista.length}</span>`;
+        gridEl.innerHTML = visibili.map(b => cardBando(b, key === 'archivio')).join('');
+        gridEl.hidden = visibili.length === 0;
+        emptyEl.hidden = visibili.length > 0;
+
+        if (visibili.length === 0 && (state.searchQuery || state.activeSource !== 'all' || scelta !== 'all')) {
             emptyEl.textContent = 'Nessun bando corrisponde ai filtri.';
         }
     });
@@ -848,6 +1025,9 @@ function render() {
         elements.footerScartati.textContent =
             `${fuoriTema} band${fuoriTema === 1 ? 'o' : 'i'} scartat${fuoriTema === 1 ? 'o' : 'i'} perché fuori tema`;
     }
+
+    aggiornaStatoFiltri();
+    misuraBarre();
 }
 
 /**
@@ -1032,6 +1212,26 @@ function ancheSuHTML(bando) {
         </div>`;
 }
 
+/**
+ * Avviso, modulistica e FAQ, quando li abbiamo scritti in bandi-manuali.json.
+ *
+ * Sono i file che servono davvero per presentare la domanda. Il bando
+ * dell'Agenda Urbana è nato così: il link portava al comunicato della
+ * proroga, e da lì non si arrivava né all'avviso né agli allegati.
+ */
+function documentiHTML(bando) {
+    const documenti = bando.documenti || [];
+    if (!documenti.length) return '';
+
+    return `
+        <section class="dettaglio-sezione">
+            <h3>📎 Documenti e allegati</h3>
+            <ul class="dettaglio-lista dettaglio-documenti">
+                ${documenti.map(d => `<li><a href="${escapeAttr(d.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(d.label)}</a></li>`).join('')}
+            </ul>
+        </section>`;
+}
+
 function dettaglioBando(bando) {
     const v = bando.valutazione;
     const status = bando.deadlineStatus || {};
@@ -1107,9 +1307,11 @@ function dettaglioBando(bando) {
             ${bando.ruolo ? `<span class="meta-item"><span class="meta-icon">${bando.classe === 'rete' ? '🤝' : '🎯'}</span> Ruolo: <strong>${escapeHTML(bando.ruolo)}</strong></span>` : ''}
             ${bando.programma ? `<span class="meta-item"><span class="meta-icon">🗂️</span> Programma: <strong>${escapeHTML(bando.programma)}</strong></span>` : ''}
         </div>
+        ${documentiHTML(bando)}
         ${ancheSuHTML(bando)}
         <div class="dettaglio-azioni">
             <a href="${escapeAttr(bando.link)}" target="_blank" rel="noopener noreferrer" class="btn-primary dettaglio-vai">Vai al bando ufficiale →</a>
+            ${bando.linkNotizia ? `<a href="${escapeAttr(bando.linkNotizia)}" target="_blank" rel="noopener noreferrer" class="card-source-link">La notizia dell'ente</a>` : ''}
             ${bando.sourceUrl ? `<a href="${escapeAttr(bando.sourceUrl)}" target="_blank" rel="noopener noreferrer" class="card-source-link">Vedi sul sito della fonte</a>` : ''}
         </div>
     `;

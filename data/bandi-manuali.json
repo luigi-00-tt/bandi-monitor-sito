@@ -1,11 +1,11 @@
 [
   {
-    "_note": "Bandi trovati a mano, che nessuna fonte pubblica in una forma raccoglibile automaticamente. Il monitor li legge e li tratta come tutti gli altri: classificazione, scadenze, email, sito, Excel. Campi minimi: id, title, link — una voce senza tutti e tre viene ignorata, come questa. 'deadline' in formato ISO, in ora UTC (l'Italia d'estate è avanti di due ore: le 23:59 del 15 settembre si scrivono 21:59Z). Per dare un verdetto a uno di questi, aggiungi una voce con lo stesso id in valutazioni.json."
+    "_note": "Bandi trovati a mano, che nessuna fonte pubblica in una forma raccoglibile automaticamente. Il monitor li legge e li tratta come tutti gli altri: classificazione, scadenze, email, sito, Excel. Campi minimi: id, title, link — una voce senza tutti e tre viene ignorata, come questa. 'deadline' in formato ISO, in ora UTC (l'Italia d'estate è avanti di due ore: le 23:59 del 15 settembre si scrivono 21:59Z). Campi facoltativi: 'documenti' (elenco di { label, url }: avviso, modulistica, FAQ — il sito li mostra nella scheda del bando) e 'linkNotizia' (la notizia sul sito dell'ente, quando il bando vero sta altrove). 'link' deve puntare alla pagina da cui si scarica l'avviso, mai a un comunicato. Per dare un verdetto a uno di questi, aggiungi una voce con lo stesso id in valutazioni.json."
   },
   {
     "id": "manuale-agenda-urbana-cosenza-rende-2026",
     "title": "Agenda Urbana Cosenza-Rende – Avviso \"Promuovere lo sviluppo economico delle città di Cosenza e Rende – Aiuti alle imprese\"",
-    "link": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
+    "link": "https://www.agendaurbana-cosenzarende.it/avviso-pubblico-aiuti-alle-imprese-agenda-urbana/",
     "date": "2026-07-09T00:00:00.000Z",
     "deadline": "2026-09-15T21:59:00.000Z",
     "source": "Comune di Cosenza",
@@ -13,7 +13,50 @@
     "programma": "Comuni e Agenda Urbana",
     "statoLabel": "Aperto",
     "isOpen": true,
-    "detailedDescription": "Avviso pubblico dei Comuni di Cosenza (capofila) e Rende nell'ambito della Strategia di Sviluppo Urbano Sostenibile Agenda Urbana Cosenza-Rende 2021-2027, finanziata dal PR Calabria FESR FSE+ 2021-2027. Contributi a fondo perduto alle micro, piccole e medie imprese per lo sviluppo economico dei due territori comunali. Il termine per la presentazione delle domande è stato prorogato alle ore 23:59 del 15 settembre 2026 (la proroga è stata decisa per le difficoltà nel reperire preventivi e documentazione tecnica nel periodo estivo). Importi, percentuali di contributo, requisiti di ammissibilità delle imprese e spese finanziabili vanno letti sul testo dell'avviso e sulle FAQ pubblicate dal Comune di Cosenza."
+    "detailedDescription": "Avviso pubblico dei Comuni di Cosenza (capofila) e Rende nell'ambito della Strategia di Sviluppo Urbano Sostenibile Agenda Urbana Cosenza-Rende 2021-2027, finanziata dal PR Calabria FESR FSE+ 2021-2027. Contributi a fondo perduto alle micro, piccole e medie imprese per lo sviluppo economico dei due territori comunali. Il termine per la presentazione delle domande è stato prorogato alle ore 23:59 del 15 settembre 2026 (la proroga è stata decisa per le difficoltà nel reperire preventivi e documentazione tecnica nel periodo estivo). Importi, percentuali di contributo, requisiti di ammissibilità delle imprese e spese finanziabili vanno letti sul testo dell'avviso e sulle FAQ pubblicate dal Comune di Cosenza.",
+    "linkNotizia": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
+    "documenti": [
+      {
+        "label": "Avviso pubblico (PDF)",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Avviso-Pubblico-Aiuti-alle-Imprese.pdf"
+      },
+      {
+        "label": "Allegato 1 – Modello di domanda (rettificato)",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-1-Modello-di-Domanda_RETTIFICATO.docx"
+      },
+      {
+        "label": "Allegato 2 – Formulario (rettificato)",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-2-Formulario_RETTIFICATO.docx"
+      },
+      {
+        "label": "Allegati 3-4-5",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegati-3-4-5.docx"
+      },
+      {
+        "label": "Allegato 6 – Dichiarazione de minimis",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-6-Dichiarazione-de-minimis.docx"
+      },
+      {
+        "label": "Allegato 7 – Principio DNSH",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-7-Principio-DNSH.docx"
+      },
+      {
+        "label": "Allegato 8 – Codici ATECO ammessi (rettificato)",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-8_Codici-ATECO_RETTIFICATO.pdf"
+      },
+      {
+        "label": "Allegato 9 – Delimitazione del centro storico",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-9-Delimitazione-Centro-Storico.pdf"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/FAQ-Avviso-Aiuti-alle-Imprese.pdf"
+      },
+      {
+        "label": "FAQ 2",
+        "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/08/FAQ-2-Avviso-Aiuti-alle-Imprese.pdf"
+      }
+    ]
   },
   {
     "id": "manuale-cciaacs-doppia-transizione-2026",

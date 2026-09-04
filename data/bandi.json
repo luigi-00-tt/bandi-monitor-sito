@@ -187,7 +187,7 @@
       "attivo": true,
       "id": "manuale-agenda-urbana-cosenza-rende-2026",
       "title": "Agenda Urbana Cosenza-Rende – Avviso \"Promuovere lo sviluppo economico delle città di Cosenza e Rende – Aiuti alle imprese\"",
-      "link": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
+      "link": "https://www.agendaurbana-cosenzarende.it/avviso-pubblico-aiuti-alle-imprese-agenda-urbana/",
       "source": "Comune di Cosenza",
       "sourceUrl": "https://www.comune.cosenza.it/it/novita/avvisi",
       "ambito": "locale",
@@ -239,7 +239,50 @@
         "aggiornato": "2026-09-02T00:00:00.000Z"
       },
       "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
+      "segnalatoIl": "2026-09-03T11:01:30.164Z",
+      "documenti": [
+        {
+          "label": "Avviso pubblico (PDF)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Avviso-Pubblico-Aiuti-alle-Imprese.pdf"
+        },
+        {
+          "label": "Allegato 1 – Modello di domanda (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-1-Modello-di-Domanda_RETTIFICATO.docx"
+        },
+        {
+          "label": "Allegato 2 – Formulario (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-2-Formulario_RETTIFICATO.docx"
+        },
+        {
+          "label": "Allegati 3-4-5",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegati-3-4-5.docx"
+        },
+        {
+          "label": "Allegato 6 – Dichiarazione de minimis",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-6-Dichiarazione-de-minimis.docx"
+        },
+        {
+          "label": "Allegato 7 – Principio DNSH",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-7-Principio-DNSH.docx"
+        },
+        {
+          "label": "Allegato 8 – Codici ATECO ammessi (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-8_Codici-ATECO_RETTIFICATO.pdf"
+        },
+        {
+          "label": "Allegato 9 – Delimitazione del centro storico",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-9-Delimitazione-Centro-Storico.pdf"
+        },
+        {
+          "label": "FAQ",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/FAQ-Avviso-Aiuti-alle-Imprese.pdf"
+        },
+        {
+          "label": "FAQ 2",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/08/FAQ-2-Avviso-Aiuti-alle-Imprese.pdf"
+        }
+      ],
+      "linkNotizia": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione"
     },
     {
       "attivo": true,
