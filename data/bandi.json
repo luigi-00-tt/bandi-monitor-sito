@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-04T11:00:19.539Z",
-  "lastEmailSentAt": "2026-09-03T11:01:30.172Z",
-  "nextEmailDueAt": "2026-09-10T11:01:30.172Z",
+  "generatedAt": "2026-09-05T10:20:34.275Z",
+  "lastEmailSentAt": "2026-09-05T10:20:34.274Z",
+  "nextEmailDueAt": "2026-09-12T10:20:34.274Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -14,14 +14,14 @@
     "inScadenza": 15,
     "scaduti": 22,
     "totale": 72,
-    "nostri": 42,
-    "rete": 8,
-    "fuoriTema": 143
+    "nostri": 41,
+    "rete": 9,
+    "fuoriTema": 141
   },
   "perFonte": {
     "Calabria Europa": {
-      "totale": 14,
-      "attivi": 6
+      "totale": 12,
+      "attivi": 5
     },
     "Comune di Cosenza": {
       "totale": 1,
@@ -36,8 +36,8 @@
       "attivi": 2
     },
     "Fincalabra": {
-      "totale": 10,
-      "attivi": 6
+      "totale": 12,
+      "attivi": 7
     },
     "Confcommercio Cosenza": {
       "totale": 4,
@@ -71,8 +71,8 @@
     "nazionale": 1
   },
   "perPartecipazione": {
-    "daVerificare": 5,
-    "singola": 17,
+    "daVerificare": 4,
+    "singola": 18,
     "partenariato": 28
   },
   "bandi": [
@@ -83,6 +83,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-allo-sviluppo-dei-sistemi-di-raccolta-differenziata-e-dei-centri-di-raccolta/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "daVerificare",
@@ -136,6 +138,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-per-il-sostegno-allo-sviluppo-di-imprese-che-producano-effetti-socialmente-desiderabili-e-beni-pubblici-promosse-da-donne-giovani-e-svantaggiati-in-genere/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "daVerificare",
@@ -190,6 +194,49 @@
       "link": "https://www.agendaurbana-cosenzarende.it/avviso-pubblico-aiuti-alle-imprese-agenda-urbana/",
       "source": "Comune di Cosenza",
       "sourceUrl": "https://www.comune.cosenza.it/it/novita/avvisi",
+      "documenti": [
+        {
+          "label": "Avviso pubblico (PDF)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Avviso-Pubblico-Aiuti-alle-Imprese.pdf"
+        },
+        {
+          "label": "Allegato 1 – Modello di domanda (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-1-Modello-di-Domanda_RETTIFICATO.docx"
+        },
+        {
+          "label": "Allegato 2 – Formulario (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-2-Formulario_RETTIFICATO.docx"
+        },
+        {
+          "label": "Allegati 3-4-5",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegati-3-4-5.docx"
+        },
+        {
+          "label": "Allegato 6 – Dichiarazione de minimis",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-6-Dichiarazione-de-minimis.docx"
+        },
+        {
+          "label": "Allegato 7 – Principio DNSH",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-7-Principio-DNSH.docx"
+        },
+        {
+          "label": "Allegato 8 – Codici ATECO ammessi (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-8_Codici-ATECO_RETTIFICATO.pdf"
+        },
+        {
+          "label": "Allegato 9 – Delimitazione del centro storico",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-9-Delimitazione-Centro-Storico.pdf"
+        },
+        {
+          "label": "FAQ",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/FAQ-Avviso-Aiuti-alle-Imprese.pdf"
+        },
+        {
+          "label": "FAQ 2",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/08/FAQ-2-Avviso-Aiuti-alle-Imprese.pdf"
+        }
+      ],
+      "linkNotizia": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
       "ambito": "locale",
       "programma": "Comuni e Agenda Urbana",
       "partecipazione": "singola",
@@ -239,50 +286,7 @@
         "aggiornato": "2026-09-02T00:00:00.000Z"
       },
       "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z",
-      "documenti": [
-        {
-          "label": "Avviso pubblico (PDF)",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Avviso-Pubblico-Aiuti-alle-Imprese.pdf"
-        },
-        {
-          "label": "Allegato 1 – Modello di domanda (rettificato)",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-1-Modello-di-Domanda_RETTIFICATO.docx"
-        },
-        {
-          "label": "Allegato 2 – Formulario (rettificato)",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-2-Formulario_RETTIFICATO.docx"
-        },
-        {
-          "label": "Allegati 3-4-5",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegati-3-4-5.docx"
-        },
-        {
-          "label": "Allegato 6 – Dichiarazione de minimis",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-6-Dichiarazione-de-minimis.docx"
-        },
-        {
-          "label": "Allegato 7 – Principio DNSH",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-7-Principio-DNSH.docx"
-        },
-        {
-          "label": "Allegato 8 – Codici ATECO ammessi (rettificato)",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-8_Codici-ATECO_RETTIFICATO.pdf"
-        },
-        {
-          "label": "Allegato 9 – Delimitazione del centro storico",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-9-Delimitazione-Centro-Storico.pdf"
-        },
-        {
-          "label": "FAQ",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/FAQ-Avviso-Aiuti-alle-Imprese.pdf"
-        },
-        {
-          "label": "FAQ 2",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/08/FAQ-2-Avviso-Aiuti-alle-Imprese.pdf"
-        }
-      ],
-      "linkNotizia": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione"
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": true,
@@ -291,6 +295,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-CET-BETTERRENO",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "LIFE – ambiente",
       "partecipazione": "partenariato",
@@ -341,6 +347,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-03",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -389,6 +397,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-04",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -439,6 +449,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-07",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -488,6 +500,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-10",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -538,6 +552,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-ENV-ENVIRONMENT",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "LIFE – ambiente",
       "partecipazione": "partenariato",
@@ -590,6 +606,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-IA-04",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "CBE JU – industrie bio-based",
       "partecipazione": "partenariato",
@@ -639,6 +657,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-IA-02",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "CBE JU – industrie bio-based",
       "partecipazione": "partenariato",
@@ -686,6 +706,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-RIA-03",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "CBE JU – industrie bio-based",
       "partecipazione": "partenariato",
@@ -736,6 +758,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-02-two-stage",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -793,6 +817,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-01-two-stage",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -851,6 +877,8 @@
       "link": "https://www.cs.camcom.it/it/content/service/014-bando-doppia-transizione-anno-2026-i-edizione",
       "source": "CCIAA Cosenza",
       "sourceUrl": "https://www.cs.camcom.it/it/content/service/versoleimprese-bandi-2026",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "locale",
       "programma": "Comuni e Agenda Urbana",
       "partecipazione": "singola",
@@ -916,6 +944,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
@@ -967,6 +997,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Altri programmi europei",
       "partecipazione": "partenariato",
@@ -1016,6 +1048,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-BUSINESS-02",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
@@ -1056,63 +1090,69 @@
     },
     {
       "attivo": true,
-      "id": "calabria-57880",
+      "id": "fincalabra-feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-impre",
       "title": "“FEERI” - Fondo Efficienza Energetica e Rinnovabili per le Imprese",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/",
-      "source": "Calabria Europa",
-      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "source": "Fincalabra",
+      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessun partner obbligatorio: si presenta la singola impresa calabrese beneficiaria; noi restiamo intermediari e non firmatari della domanda",
       "ancheSu": [
         {
-          "fonte": "Fincalabra",
-          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+          "fonte": "Calabria Europa",
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/"
         }
       ],
-      "date": "2026-06-16T17:42:25.000Z",
+      "date": "2026-09-05T10:18:55.953Z",
       "deadline": "2026-12-30T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 6,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 31,
       "relevanceKeywords": [
+        "ambiente",
+        "ambientale",
+        "sostenibilit",
+        "pmi",
         "imprese",
-        "rinnovabil",
-        "efficienza energetica"
+        "energia"
       ],
-      "classe": "nostro",
-      "ruolo": "intermediazione con provvigione",
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete e intermediazione",
       "motivi": [
         "investimenti e innovazione d'impresa",
         "aiuti a PMI e nuove imprese",
         "contributo a fondo perduto"
       ],
-      "decisoDaTe": true,
+      "decisoDaTe": false,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "intermediazione con provvigione",
-        "nota": "FEERI (efficienza energetica e rinnovabili, scadenza 30/12/2026): il bando perfetto per monetizzare subito il modello di intermediazione — provvigioni 3-8% sui contratti dei fornitori tecnici, più cross-selling dei pannelli.",
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete e intermediazione",
+        "partecipazione": "singola",
+        "partner": "Nessun partner obbligatorio: si presenta la singola impresa calabrese beneficiaria; noi restiamo intermediari e non firmatari della domanda",
+        "nota": "Fondo regionale Fincalabra per efficienza energetica e rinnovabili nelle imprese: per noi, società di servizi in costituzione e senza impianti, il fit diretto è debole. Vale invece come leva commerciale da girare alle aziende calabresi della rete (piattaforme di trattamento rifiuti, impianti di riciclo, futuro sito produttivo pannelli Human Maple).",
         "perche": [
-          "Fondo regionale da 45 M€ con copertura fino al 100% tra fondo perduto e finanziamento all'1%: un'esca fortissima per le PMI calabresi energivore, che rende facilissimo il nostro lavoro di segnalazione.",
-          "Modello di revenue immediato: accordi provvigionali con impiantisti, ESCo e fornitori di macchinari (3-8% del valore della commessa, su impianti da 100k a oltre 1M€), più success fee con le società di finanza agevolata.",
-          "Cross-selling: se il progetto include l'isolamento dell'immobile (Linea A.2) possiamo inserire nel computo metrico i nostri pannelli termoisolanti circolari.",
-          "Ci accredita come punto di riferimento per la transizione ecologica ed energetica in Calabria."
+          "Il bando finanzia investimenti fisici in efficienza energetica e fonti rinnovabili: una SRLS di intermediazione con un ufficio a Rende ha spese ammissibili minime e nessun processo energivoro da efficientare.",
+          "La società è ancora in costituzione e non iscritta al Registro Imprese: quasi certamente fuori dai requisiti di impresa attiva con sede operativa in Calabria richiesti da Fincalabra.",
+          "È invece un'ottima leva verso i clienti e i fornitori calabresi: impianti di riciclo, piattaforme di trattamento rifiuti e aziende manifatturiere della rete hanno bolletta energetica alta e possono usare il fondo per accompagnare un contratto con noi.",
+          "Se Human Maple o l'azienda di riciclo pannolini localizzassero una linea produttiva in Calabria, il FEERI diventerebbe uno strumento diretto per finanziarne fotovoltaico e efficientamento, con noi come facilitatori sul territorio."
         ],
         "come": [
-          "Mappare le PMI industriali calabresi con alti consumi o capannoni da riqualificare e presentare loro il pacchetto chiavi in mano: bando FEERI + partner tecnici qualificati + supporto alla candidatura.",
-          "Stringere a monte gli accordi provvigionali con impiantisti fotovoltaico, ESCo e fornitori, definendo quando matura il compenso (accettazione preventivo o pagamento SAL).",
-          "Tutele contrattuali indispensabili: accordo di segnalazione madre, patto di non elusione (NCNDA), clausola di esclusione di responsabilità operativa (la responsabilità tecnica resta a fornitori e azienda richiedente).",
-          "Coinvolgere uno studio di europrogettazione per diagnosi energetica e presentazione della domanda."
+          "Scaricare il regolamento Fincalabra e verificare: forma dell'agevolazione (fondo perduto, finanziamento agevolato o misto), requisito di impresa attiva e di anzianità minima, sede operativa in Calabria, codici ATECO ammessi e spese finanziabili (diagnosi energetica, fotovoltaico, sostituzione impianti).",
+          "Selezionare dal catalogo delle 19 aziende e dai partner (Human Maple, riciclo pannolini, Iotilize) quelle con sede o insediamento previsto in Calabria e consumi energetici rilevanti, e mandare una scheda sintetica del bando.",
+          "Prima di aprire i contatti far firmare accordo provvigionale e patto di non elusione, definendo la provvigione sull'investimento intermediato e non solo sul contributo ottenuto.",
+          "Verificare se la localizzazione di una linea produttiva Human Maple in Calabria (pannelli CAM da acetato di cellulosa) possa essere costruita in modo da usare il FEERI sulla componente energetica, abbinandolo ad altre misure regionali sugli investimenti produttivi."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "aggiornato": "2026-09-05T10:20:32.240Z",
+        "automatica": true
       },
       "fasi": null,
-      "segnalatoIl": "2026-07-26T10:59:50.419Z"
+      "segnalatoIl": "2026-09-05T10:20:34.262Z"
     },
     {
       "attivo": true,
@@ -1121,6 +1161,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-22",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL4 – materiali e manifattura",
       "partecipazione": "partenariato",
@@ -1171,6 +1213,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-17",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL4 – materiali e manifattura",
       "partecipazione": "partenariato",
@@ -1219,6 +1263,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-08",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL4 – materiali e manifattura",
       "partecipazione": "partenariato",
@@ -1270,6 +1316,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-06",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL4 – materiali e manifattura",
       "partecipazione": "partenariato",
@@ -1320,6 +1368,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-07",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL5 – clima ed energia",
       "partecipazione": "partenariato",
@@ -1370,6 +1420,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-09",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -1421,6 +1473,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-02",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -1471,6 +1525,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-03",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
@@ -1515,6 +1571,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-HERITAGE-03",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Horizon CL2 – cultura e società",
       "partecipazione": "partenariato",
@@ -1565,6 +1623,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-REGEN-02",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
@@ -1615,6 +1675,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-BUSINESS-01",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
@@ -1664,6 +1726,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-BUSINESS-03",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
@@ -1709,6 +1773,8 @@
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-PARTICIPATION-02",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
@@ -1755,6 +1821,8 @@
       "link": "http://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11488&catid=2",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -1814,6 +1882,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-safe-aiuti-a-imprese-per-il-caro-energia/",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -1872,6 +1942,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/programma-di-accelerazione-startup-calabria",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -1929,6 +2001,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-energia-rinnovabile-microimprese",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -1986,6 +2060,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/preinformazione-avviso-fovec-fondo-di-venture-capital-fondo-a-carattere-rotativo-di-equity-investment-a-supporto-delle-imprese-in-una-fase-preliminare-o-iniziale-di-sviluppo-aziendale-con",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -2044,6 +2120,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-sostegno-alle-imprese-femminili",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -2103,6 +2181,8 @@
       "link": "https://www.cs.camcom.gov.it/it/content/service/05-bando-nuove-imprese-iv",
       "source": "CCIAA Cosenza",
       "sourceUrl": "https://www.cs.camcom.it/it/content/service/versoleimprese-bandi-2026",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "locale",
       "programma": "Comuni e Agenda Urbana",
       "partecipazione": "singola",
@@ -2156,6 +2236,8 @@
       "link": "https://confcommerciocosenza.it/voucher-cloud-e-cybersecurity-contributi-fino-a-20-000-euro-per-le-imprese/",
       "source": "Confcommercio Cosenza",
       "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2214,6 +2296,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/fri-calabria/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -2267,6 +2351,8 @@
       "link": "https://www.federterziariocalabria.it/bando-sviluppo-competenze-2026/",
       "source": "Federterziario Calabria",
       "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2323,6 +2409,8 @@
       "link": "https://www.federterziariocalabria.it/tirocinio-extracurriculare-autofinanziato-calabria-attivalo/",
       "source": "Federterziario Calabria",
       "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2375,6 +2463,8 @@
       "link": "https://confcommerciocosenza.it/sviluppo-competenze-pmi-incentivi-per-formazione-digitale-e-green/",
       "source": "Confcommercio Cosenza",
       "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2432,6 +2522,8 @@
       "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
       "source": "CNA Calabria",
       "sourceUrl": "https://calabria.cna.it/categorie/bandi-finanziamenti-agevolati-leggi-di-incentivo/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2486,6 +2578,8 @@
       "link": "https://www.confartigianatocosenza.it/2026/07/22/investo-digitale-agevolazioni-per-la-digitalizzazione-delle-piccole-imprese/",
       "source": "Confartigianato Cosenza",
       "sourceUrl": "https://www.confartigianatocosenza.it/categoria/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2542,6 +2636,8 @@
       "link": "https://www.mimit.gov.it/it/incentivi/ipcei-sulla-chimica-biotecnologica-e-i-materiali-avanzati-circolari-biochem-e-cam",
       "source": "MIMIT",
       "sourceUrl": "https://www.mimit.gov.it/it/incentivi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "nazionale",
       "programma": "Nazionali",
       "partecipazione": "partenariato",
@@ -2590,6 +2686,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/dunamis-calabria-incentivi-alloccupazione-alle-imprese-per-nuove-assunzioni/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "daVerificare",
@@ -2597,11 +2695,11 @@
       "ancheSu": [
         {
           "fonte": "Fincalabra",
-          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/dunamis-calabria-incentivi-alloccupazione-alle-imprese-per-nuove-assunzioni/"
         },
         {
           "fonte": "Fincalabra",
-          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-kaire-calabria-incentivi-alloccupazione-alle-imprese-che-operano-nella-filiera-turistica/"
         }
       ],
       "date": "2026-07-10T14:57:18.000Z",
@@ -2651,6 +2749,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-la-concessione-di-contributi-alle-pmi-per-la-certificazione-della-parita-di-genere/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "daVerificare",
@@ -2700,6 +2800,8 @@
       "link": "https://confcommerciocosenza.it/credito-dimposta-per-incubatori-e-acceleratori-certificati-al-via-le-domande/",
       "source": "Confcommercio Cosenza",
       "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2756,6 +2858,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/tirocini-europei-percorsi-di-mobilita-transnazionale-progettocalalma/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -2785,6 +2889,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/incentivi-per-lo-sviluppo-di-filiere-produttive-innovative-per-il-riutilizzo-il-riciclaggio-e-il-recupero-di-materia-dai-rifiuti/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "daVerificare",
@@ -2820,6 +2926,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-per-il-sostegno-alla-creazione-e-al-consolidamento-di-startup-innovative-ad-alta-intensita-di-conoscenza/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -2852,6 +2960,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/voucher-per-la-transizione-digitale-delle-pmi/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -2886,48 +2996,13 @@
     },
     {
       "attivo": false,
-      "id": "calabria-53664",
-      "title": "Avviso pubblico per il sostegno a progetti di internazionalizzazione delle PMI e loro aggregazioni",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/",
-      "source": "Calabria Europa",
-      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
-      "ancheSu": [
-        {
-          "fonte": "Fincalabra",
-          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
-        }
-      ],
-      "date": "2026-04-20T09:40:10.000Z",
-      "deadline": "2026-05-31T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "pmi"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiario diretto",
-      "motivi": [
-        "aiuti a PMI e nuove imprese",
-        "investimenti e innovazione d'impresa"
-      ],
-      "decisoDaTe": false,
-      "valutazione": null,
-      "fasi": null,
-      "segnalatoIl": "2026-07-26T10:59:50.419Z"
-    },
-    {
-      "attivo": false,
       "id": "federterziario-5980",
       "title": "Investimenti innovativi e sostenibili PMI MIMIT 2026: fino al 75% per le imprese",
       "link": "https://www.federterziariocalabria.it/investimenti-innovativi-e-sostenibili-pmi-mimit-2026/",
       "source": "Federterziario Calabria",
       "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2963,6 +3038,8 @@
       "link": "https://www.federterziariocalabria.it/bonus-assunzioni-2026-incentivi-per-donne-giovani-e-zes/",
       "source": "Federterziario Calabria",
       "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -2996,6 +3073,8 @@
       "link": "https://www.federterziariocalabria.it/simest-transizione-digitale-ecologica-2026/",
       "source": "Federterziario Calabria",
       "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -3033,6 +3112,8 @@
       "link": "https://unindustriacalabria.it/2026/05/25/favorire-lautoproduzione-di-energia-e-le-rinnovabili-presentato-in-confindustria-cosenza-lavviso-per-le-imprese-con-il-ministero-dellambiente-invitalia-e-gse/",
       "source": "Unindustria Calabria",
       "sourceUrl": "https://unindustriacalabria.it/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -3068,6 +3149,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/linee-guida-operative-per-il-sostegno-ai-dottorati-in-rete-tra-universita-istituti-afam-ed-enti-di-ricerca-anche-in-partnership-con-imprese/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "daVerificare",
@@ -3103,6 +3186,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/lavoro-giovani-calabria/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": null,
       "partecipazione": "singola",
@@ -3136,6 +3221,8 @@
       "link": "https://confcommerciocosenza.it/economia-circolare-calabria-incentivi-per-filiere-innovative/",
       "source": "Confcommercio Cosenza",
       "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "daVerificare",
@@ -3173,6 +3260,8 @@
       "link": "https://www.federterziariocalabria.it/bando-lavoro-giovani-calabria-2026-tirocini-retribuiti-under-35/",
       "source": "Federterziario Calabria",
       "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -3207,6 +3296,8 @@
       "link": "https://www.confartigianatocosenza.it/2026/04/03/autoimpiego-per-contrastare-il-lavoro-sommerso/",
       "source": "Confartigianato Cosenza",
       "sourceUrl": "https://www.confartigianatocosenza.it/categoria/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -3238,6 +3329,8 @@
       "link": "https://www.federterziariocalabria.it/zes-unica-2026-credito-imposta-70-imprese-sud/",
       "source": "Federterziario Calabria",
       "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
@@ -3268,11 +3361,56 @@
     },
     {
       "attivo": false,
+      "id": "fincalabra-avviso-pubblico-per-il-sostegno-a-progetti-di-internazionali",
+      "title": "Avviso pubblico per il sostegno a progetti di internazionalizzazione delle PMI e loro aggregazioni",
+      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/",
+      "source": "Fincalabra",
+      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "ancheSu": [
+        {
+          "fonte": "Calabria Europa",
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/"
+        }
+      ],
+      "date": "2026-09-05T10:18:55.953Z",
+      "deadline": "2026-03-15T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 9,
+      "relevanceKeywords": [
+        "pmi",
+        "piccole e medie imprese",
+        "imprese",
+        "digital",
+        "agevolazione"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiario diretto",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "investimenti e innovazione d'impresa"
+      ],
+      "decisoDaTe": false,
+      "valutazione": null,
+      "fasi": null,
+      "segnalatoIl": "2026-09-05T10:20:34.262Z"
+    },
+    {
+      "attivo": false,
       "id": "calabria-58719",
       "title": "Avviso pubblico per la prevenzione e riduzione dei rifiuti",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-la-prevenzione-e-riduzione-di-rifiuti/",
       "source": "Calabria Europa",
       "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": null,
       "partecipazione": "daVerificare",
@@ -3306,6 +3444,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/fondo-competitivita-imprese-fci/",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -3344,6 +3484,8 @@
       "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi/66-contenuti-statici/11564-avviso-n-2-gerace-porta-del-sole-intervento-1-incentivi-finalizzati-a-sviluppo-imprenditoriale-nuova-occupazione-e-formazione-concessi-nel-rispetto-della-normativa-in-materia-di-aiuti-stato",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -3382,6 +3524,8 @@
       "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi/66-contenuti-statici/11564-avviso-n-2-gerace-porta-del-sole-intervento-1-incentivi-finalizzati-a-sviluppo-imprenditoriale-nuova-occupazione-e-formazione-concessi-nel-rispetto-della-normativa-in-materia-di-aiuti-stato",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -3420,6 +3564,8 @@
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-attivita-di-ricerca-sviluppo-e-innovazione/",
       "source": "Fincalabra",
       "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
@@ -3458,6 +3604,8 @@
       "link": "https://www.mimit.gov.it/it/incentivi/fondo-di-garanzia-per-le-pmi",
       "source": "MIMIT",
       "sourceUrl": "https://www.mimit.gov.it/it/incentivi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "nazionale",
       "programma": "Nazionali",
       "partecipazione": "singola",
@@ -3489,6 +3637,8 @@
       "link": "https://www.mimit.gov.it/it/incentivi/credito-d-imposta-r-s",
       "source": "MIMIT",
       "sourceUrl": "https://www.mimit.gov.it/it/incentivi",
+      "documenti": null,
+      "linkNotizia": null,
       "ambito": "nazionale",
       "programma": "Nazionali",
       "partecipazione": "daVerificare",
