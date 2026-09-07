@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T10:38:26.995Z",
-  "lastEmailSentAt": "2026-09-05T10:20:34.274Z",
-  "nextEmailDueAt": "2026-09-12T10:20:34.274Z",
+  "generatedAt": "2026-09-07T10:02:36.442Z",
+  "lastEmailSentAt": "2026-09-07T10:02:36.441Z",
+  "nextEmailDueAt": "2026-09-14T10:02:36.441Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,19 +9,23 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 22,
-    "attivi": 50,
-    "inScadenza": 15,
-    "scaduti": 22,
-    "totale": 72,
-    "nostri": 41,
-    "rete": 9,
-    "fuoriTema": 140
+    "nuovi": 26,
+    "attivi": 52,
+    "inScadenza": 16,
+    "scaduti": 23,
+    "totale": 75,
+    "nostri": 42,
+    "rete": 10,
+    "fuoriTema": 159
   },
   "perFonte": {
     "Calabria Europa": {
-      "totale": 12,
-      "attivi": 5
+      "totale": 13,
+      "attivi": 6
+    },
+    "CNA Calabria": {
+      "totale": 1,
+      "attivi": 1
     },
     "Comune di Cosenza": {
       "totale": 1,
@@ -35,21 +39,21 @@
       "totale": 2,
       "attivi": 2
     },
+    "Interreg Grecia-Italia": {
+      "totale": 2,
+      "attivi": 2
+    },
     "Fincalabra": {
       "totale": 12,
       "attivi": 7
     },
     "Confcommercio Cosenza": {
       "totale": 4,
-      "attivi": 3
+      "attivi": 2
     },
     "Federterziario Calabria": {
       "totale": 7,
       "attivi": 2
-    },
-    "CNA Calabria": {
-      "totale": 1,
-      "attivi": 1
     },
     "Confartigianato Cosenza": {
       "totale": 2,
@@ -67,13 +71,13 @@
   "perAmbito": {
     "regionale": 19,
     "locale": 3,
-    "europeo": 27,
+    "europeo": 29,
     "nazionale": 1
   },
   "perPartecipazione": {
     "daVerificare": 4,
     "singola": 18,
-    "partenariato": 28
+    "partenariato": 30
   },
   "bandi": [
     {
@@ -130,6 +134,71 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
+    },
+    {
+      "attivo": true,
+      "id": "manuale-heritagetex-tessile-calabria-2026",
+      "title": "HERITAGETEX – CNA Calabria: selezione delle imprese tessili e artigiane calabresi (manifestazione di interesse)",
+      "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
+      "source": "CNA Calabria",
+      "sourceUrl": "https://calabria.cna.it/categorie/bandi-finanziamenti-agevolati-leggi-di-incentivo/",
+      "documenti": [
+        {
+          "label": "Modulo di candidatura online",
+          "url": "https://forms.gle/eXDBwWHyL12iCAof8"
+        }
+      ],
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Interreg",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
+      "ancheSu": [
+        {
+          "fonte": "Fincalabra",
+          "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
+        },
+        {
+          "fonte": "CNA Calabria",
+          "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/"
+        }
+      ],
+      "date": "2026-07-22T11:06:48.000Z",
+      "deadline": "2026-09-11T21:59:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "nostro",
+      "ruolo": "stakeholder di progetto",
+      "motivi": [
+        "inserito a mano"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "stakeholder di progetto",
+        "nota": "La cosa più conveniente vista finora in rapporto allo sforzo: gratuita, non competitiva, si aderisce con un modulo online. Non porta un euro di contributo, porta la cosa che a noi serve davvero — stare dentro la mappatura CNA della filiera tessile calabrese, cioè l'elenco delle aziende con cui poi si fanno i contratti. Il testo ammette esplicitamente i \"servizi collegati alla filiera\", quindi un intermediario ci sta. L'ostacolo è il solito: chiede imprese \"operanti in Calabria\", e la SRLS è ancora in costituzione. SCADE VENERDÌ 11 SETTEMBRE 2026: se la società non è costituita in tempo, vale l",
+        "perche": [
+          "Il tessile è una delle filiere del nostro modello: il riciclo dei tessili è già fra i flussi mappati, e qui c'è un progetto europeo che raduna le aziende calabresi del settore in un elenco solo.",
+          "Costo zero e nessuna competizione: non c'è una graduatoria da vincere, si viene selezionati come stakeholder. Il ritorno è tutto relazionale, che è esattamente il nostro business.",
+          "I seminari sono su sostenibilità, economia circolare e strumenti digitali: è il nostro discorso commerciale, fatto davanti alle aziende giuste da un soggetto terzo e credibile come CNA.",
+          "Apre un canale su Interreg Grecia-Italia, il programma europeo più vicino a noi (la Calabria è area ammissibile e l'obiettivo 2.6 è l'economia circolare), attraverso un progetto già finanziato e già in corso."
+        ],
+        "come": [
+          "Compilare il modulo online https://forms.gle/eXDBwWHyL12iCAof8 entro venerdì 11 settembre 2026.",
+          "Prima di compilarlo, chiamare CNA Calabria e chiarire due cose: se un'impresa in costituzione può aderire, e se un operatore di servizi collegati alla filiera (non un produttore tessile) rientra fra i destinatari.",
+          "Nel modulo presentarsi per quello che siamo: intermediari di economia circolare che portano alle aziende tessili i servizi di raccolta e riciclo dei tessili e i Comuni come interlocutori. Non fingersi produttori.",
+          "Una volta dentro, usare i workshop e gli incontri di networking per raccogliere i contatti delle aziende della filiera: è quello il valore vero dell'adesione."
+        ],
+        "partecipazione": "singola",
+        "partner": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
+        "aggiornato": "2026-09-07T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-07T10:02:36.429Z"
     },
     {
       "attivo": true,
@@ -992,6 +1061,78 @@
     },
     {
       "attivo": true,
+      "id": "manuale-interreg-grecia-italia-8-call-part-a-2026",
+      "title": "Interreg Grecia-Italia – 8th call for Small Scale Projects, Part A: economia circolare (SO 2.6) e turismo sostenibile (SO 4.6)",
+      "link": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/",
+      "source": "Interreg Grecia-Italia",
+      "sourceUrl": "https://www.greece-italy.eu/calls/",
+      "documenti": [
+        {
+          "label": "Pagina della call (Part A)",
+          "url": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/"
+        },
+        {
+          "label": "Part B della stessa call (capacità istituzionale, ISO 6.1 e 6.4)",
+          "url": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-b-has-been-launched/"
+        }
+      ],
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Interreg",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "Obbligatorio un partenariato transfrontaliero italo-greco. Noi non possiamo essere beneficiari: servono un Comune calabrese (o un altro ente pubblico) come partner italiano e un soggetto greco. Il nos",
+      "ancheSu": [
+        {
+          "fonte": "Unical – Bandi europei",
+          "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/24572-interreg-vi-a-greece-italy-programme-8th-call-for-small-scale-project-proposals-part-a-part-b/"
+        },
+        {
+          "fonte": "Interreg Grecia-Italia",
+          "link": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-b-has-been-launched/"
+        },
+        {
+          "fonte": "Interreg Grecia-Italia",
+          "link": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/"
+        }
+      ],
+      "date": "2026-07-29T00:00:00.000Z",
+      "deadline": "2026-10-09T12:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "rete",
+      "ruolo": "partner tecnico di un ente pubblico",
+      "motivi": [
+        "inserito a mano"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "partner tecnico di un ente pubblico",
+        "nota": "IMPORTANTE: le imprese private e le PMI NON sono beneficiari ammissibili — solo enti pubblici, organismi di diritto pubblico, organismi privati senza scopo di lucro e GECT. Quindi non si partecipa da soli, e non ha senso provarci come società. Ha senso invece proporlo ai Comuni con cui parliamo: l'obiettivo specifico 2.6 è la transizione all'economia circolare, la Calabria è entrata nell'area del programma con tutte e quattro le province, e la dotazione è di 4,46 milioni. Scade il 9 ottobre 2026 alle 14:00. Da qui è nato HERITAGETEX, che è il modo più rapido di capire come funziona il programm",
+        "perche": [
+          "È il programma europeo più vicino a noi che finora non passava da nessuna fonte: area ammissibile Cosenza, Catanzaro, Crotone e Reggio Calabria, e un obiettivo specifico dedicato all'economia circolare.",
+          "I progetti small scale sono piccoli e brevi: per un Comune sono molto più abbordabili di un Horizon, e a noi serve un Comune che dica sì, non un consorzio da dodici partner.",
+          "Un progetto finanziato qui diventa poi il canale per le imprese del territorio, come dimostra HERITAGETEX di CNA Calabria: è il modello che conosciamo, applicato a un'altra filiera."
+        ],
+        "come": [
+          "Non presentare domanda come società: non saremmo ammissibili. Individuare invece un Comune calabrese interessato (la rete dei Comuni è la nostra merce di scambio) e proporgli il progetto.",
+          "Servono un partner greco e un partenariato transfrontaliero: la strada corta è passare da chi è già dentro il programma — CNA Calabria è partner di HERITAGETEX e ha i contatti greci.",
+          "Con i tempi stretti (9 ottobre) questa edizione è realisticamente un'occasione per farsi conoscere e prepararsi alla prossima call, non per costruire un partenariato da zero.",
+          "Leggere le regole di ammissibilità sul sito del programma prima di muovere qualunque Comune: interreg@mou.gr risponde alle domande fino a 20 giorni prima della scadenza."
+        ],
+        "partecipazione": "partenariato",
+        "partner": "Obbligatorio un partenariato transfrontaliero italo-greco. Noi non possiamo essere beneficiari: servono un Comune calabrese (o un altro ente pubblico) come partner italiano e un soggetto greco. Il nos",
+        "aggiornato": "2026-09-07T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-07T10:02:36.429Z"
+    },
+    {
+      "attivo": true,
       "id": "eu-SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
       "title": "EU support to Stakeholders to improve measurement of food waste and help implement food waste prevention in their operations and organisation - 2026-2027",
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
@@ -1040,6 +1181,70 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": true,
+      "id": "manuale-mera-net-call-2026-calabria",
+      "title": "M-ERA.NET Call 2026 – progetti di ricerca sui materiali innovativi, co-finanziamento regionale per beneficiari con sede in Calabria",
+      "link": "https://calabriaeuropa.regione.calabria.it/m-era-net-call-2026-pubblicato-in-pre-informazione-lavviso-per-progetti-di-ricerca-sui-materiali-innovativi/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": "https://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/23204-m-eranet-call-2026-pre-informazione-avviso-per-progetti-di-ricerca-sui-materiali-innovativi-co-finanziamento-regionale-per-beneficiari-con-sede-in-calabria/",
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "Serve un consorzio internazionale M-ERA.NET e, sul lato calabrese, un organismo di ricerca: l'Unical, con cui il partner Human Maple ha già un contratto quadro per la R&S sull'acetato di cellulosa.",
+      "ancheSu": [
+        {
+          "fonte": "Unical – Bandi regionali",
+          "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/23204-m-eranet-call-2026-pre-informazione-avviso-per-progetti-di-ricerca-sui-materiali-innovativi-co-finanziamento-regionale-per-beneficiari-con-sede-in-calabria/"
+        },
+        {
+          "fonte": "Calabria Europa",
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/m-era-net-call-2025/"
+        },
+        {
+          "fonte": "Calabria Europa",
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/m-era-net-call-2026/"
+        }
+      ],
+      "date": "2026-05-05T00:00:00.000Z",
+      "deadline": "2026-11-18T22:59:00.000Z",
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "nostro",
+      "ruolo": "impresa beneficiaria con organismo di ricerca",
+      "motivi": [
+        "inserito a mano"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "B",
+        "ruolo": "impresa beneficiaria con organismo di ricerca",
+        "nota": "ATTENZIONE, la scadenza è ingannevole: il 18 novembre 2026 è il termine per le proposte complete, ma nelle call M-ERA.NET la pre-proposta è il primo stadio obbligatorio e si è chiusa il 12 maggio 2026. Per il 2026 il treno è passato. Lo teniamo in elenco perché è la coincidenza più esatta che abbiamo trovato fra un bando regionale e quello che sappiamo fare: materiali avanzati, co-finanziamento della Regione Calabria, obbligo di sede operativa in Calabria. È il bando da preparare per l'edizione 2027, con la pre-proposta da scrivere in primavera.",
+        "perche": [
+          "Materiali avanzati con co-finanziamento regionale fino a 100.000 euro a progetto: è il caso Human Maple in una riga — acetato di cellulosa dai mozziconi, pannelli termoisolanti conformi ai CAM.",
+          "Ammette le MPMI come beneficiarie dirette, non solo gli organismi di ricerca: non è un bando per soli ricercatori.",
+          "Il vincolo della sede operativa in Calabria, che di solito è un ostacolo, qui gioca a favore: taglia fuori i concorrenti da fuori regione.",
+          "L'Unical è già il riferimento R&S del partner: l'organismo di ricerca richiesto dal bando ce l'abbiamo già a due passi."
+        ],
+        "come": [
+          "Per il 2026 non c'è nulla da fare se non si è presentata la pre-proposta a maggio: verificare solo che sia davvero così, leggendo l'avviso sul portale Calabria Europa.",
+          "Segnare la Call 2027: le pre-proposte M-ERA.NET si aprono di norma a inizio anno e chiudono in primavera. È l'unico appuntamento che va messo in agenda con mesi di anticipo.",
+          "Nel frattempo costruire il pezzo che serve comunque: accordo di R&S con l'Unical e sede operativa in Calabria, che sono requisiti del bando e cose da fare a prescindere.",
+          "Cercare il consorzio internazionale sul partner search di M-ERA.NET: senza partner esteri la call non si presenta."
+        ],
+        "partecipazione": "partenariato",
+        "partner": "Serve un consorzio internazionale M-ERA.NET e, sul lato calabrese, un organismo di ricerca: l'Unical, con cui il partner Human Maple ha già un contratto quadro per la R&S sull'acetato di cellulosa.",
+        "aggiornato": "2026-09-07T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-07T10:02:36.429Z"
     },
     {
       "attivo": true,
@@ -2458,6 +2663,60 @@
     },
     {
       "attivo": true,
+      "id": "grecia-8576",
+      "title": "HERITAGETEX: CNA Calabria reopened the call for Calabria's textile businesses and artisans",
+      "link": "https://www.greece-italy.eu/heritagetex-cna-calabria-reopened-the-call-for-calabrias-textile-businesses-and-artisans/",
+      "source": "Interreg Grecia-Italia",
+      "sourceUrl": "https://www.greece-italy.eu/calls/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Interreg",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno per noi: si candidano direttamente le imprese tessili e artigiane calabresi; da verificare sull'avviso CNA se sono ammesse solo imprese già iscritte al Registro Imprese con codice ATECO tessil",
+      "ancheSu": null,
+      "date": "2026-07-28T11:23:03.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "calabria"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete",
+      "motivi": [
+        "tessile post-consumo"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete",
+        "partecipazione": "singola",
+        "partner": "Nessuno per noi: si candidano direttamente le imprese tessili e artigiane calabresi; da verificare sull'avviso CNA se sono ammesse solo imprese già iscritte al Registro Imprese con codice ATECO tessil",
+        "nota": "Bando riservato a imprese tessili e artigiane calabresi: non siamo beneficiari, ma è un'occasione perfetta da girare alle aziende del tessile della rete e ai Comuni con cui lavoriamo, posizionandoci come facilitatori sul filone tessile post-consumo.",
+        "perche": [
+          "La società non è un'impresa tessile né artigiana: manca il requisito soggettivo di base, e per di più è ancora in costituzione e non iscritta al Registro Imprese.",
+          "Il perimetro è esattamente il nostro territorio (Calabria, con CNA Calabria come soggetto attuatore): possiamo usare il bando come leva commerciale verso artigiani e Comuni già in contatto.",
+          "Il segnale 'tessile post-consumo' incrocia il filone economia circolare su cui possiamo intermediare fornitori di raccolta e riciclo tessile.",
+          "Rapporto con CNA Calabria e con un progetto Interreg Grecia-Italia utile per accreditarci come intermediari su futuri bandi regionali e di cooperazione."
+        ],
+        "come": [
+          "Recuperare l'avviso riaperto di CNA Calabria (requisiti, scadenza, tipologia di sostegno: voucher, servizi, formazione) e profilare 5-10 imprese tessili/artigiane calabresi candidabili.",
+          "Prima di aprire i contatti, far firmare alle aziende segnalate accordo provvigionale e patto di non elusione.",
+          "Proporre a CNA Calabria e al partenariato HERITAGETEX i nostri Comuni come territorio pilota per la raccolta e valorizzazione del tessile post-consumo (living lab, campagne di gamification e community engagement).",
+          "Mappare nel catalogo un fornitore di raccolta/riciclo tessile da abbinare alle imprese beneficiarie, così da monetizzare il contratto a valle del contributo."
+        ],
+        "aggiornato": "2026-09-07T10:02:34.197Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-07T10:02:36.429Z"
+    },
+    {
+      "attivo": true,
       "id": "confcommcs-229588",
       "title": "Sviluppo competenze PMI: incentivi per formazione digitale e green",
       "link": "https://confcommerciocosenza.it/sviluppo-competenze-pmi-incentivi-per-formazione-digitale-e-green/",
@@ -2510,62 +2769,6 @@
           "Individuare l'ente di formazione accreditato e farsi rilasciare preventivo e programma con ore e costi, così da allegare un progetto formativo già quantificato."
         ],
         "aggiornato": "2026-09-03T20:22:50.170Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "cnacal-6658",
-      "title": "HERITAGETEX: CNA Calabria rilancia la selezione delle imprese tessili calabresi",
-      "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
-      "source": "CNA Calabria",
-      "sourceUrl": "https://calabria.cna.it/categorie/bandi-finanziamenti-agevolati-leggi-di-incentivo/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessun consorzio richiesto: si candida la singola impresa tessile calabrese; noi non abbiamo codice ATECO né produzione tessile, quindi non siamo beneficiari diretti",
-      "ancheSu": null,
-      "date": "2026-07-22T11:06:48.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 6,
-      "relevanceKeywords": [
-        "innovazione",
-        "imprese",
-        "calabria"
-      ],
-      "classe": "rete",
-      "ruolo": "segnalazione alla rete",
-      "motivi": [
-        "tessile post-consumo"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "B",
-        "ruolo": "segnalazione alla rete",
-        "partecipazione": "singola",
-        "partner": "Nessun consorzio richiesto: si candida la singola impresa tessile calabrese; noi non abbiamo codice ATECO né produzione tessile, quindi non siamo beneficiari diretti",
-        "nota": "Selezione CNA Calabria riservata a imprese tessili del territorio: non siamo ammissibili come beneficiari, ma è un'occasione per entrare in relazione con CNA Calabria e con le imprese tessili locali da agganciare al filone del tessile post-consumo.",
-        "perche": [
-          "Il bando seleziona imprese tessili calabresi: la società è un intermediario di economia circolare, non un'impresa manifatturiera tessile, quindi non ha i requisiti di beneficiaria diretta.",
-          "Il tema tessile post-consumo è però un filone della rete (riciclo e valorizzazione di frazioni tessili): le imprese selezionate diventano potenziali clienti o fornitori da mappare.",
-          "CNA Calabria è un moltiplicatore utile: presidia le PMI del territorio ed è un canale per far conoscere l'offerta (RFID porta a porta, TARIP, Junker, pannelli Human Maple per l'edilizia) alle imprese associate.",
-          "La rete di Comuni calabresi resta spendibile come territorio pilota per eventuali filoni dimostrativi del progetto."
-        ],
-        "come": [
-          "Chiedere a CNA Calabria il regolamento di HERITAGETEX (requisiti, benefici per le imprese selezionate, se esiste un ruolo per fornitori di servizi tecnologici o per partner di progetto).",
-          "Individuare nel catalogo e tra i contatti le imprese tessili calabresi candidabili e segnalare loro il bando, firmando prima accordo provvigionale e patto di non elusione.",
-          "Proporsi a CNA Calabria come supporto tecnico su circolarità, tracciabilità e CAM per le imprese selezionate (workshop, scouting fornitori), aprendo un canale stabile con l'associazione.",
-          "Registrare l'occasione come contatto di rete e non come progetto proprio: non impegnare ore di lavoro oltre lo scouting, la priorità resta sui bandi in cui siamo beneficiari diretti."
-        ],
-        "aggiornato": "2026-09-03T20:23:55.066Z",
         "automatica": true
       },
       "fasi": null,
@@ -2794,64 +2997,6 @@
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
     },
     {
-      "attivo": true,
-      "id": "confcommcs-229371",
-      "title": "Credito d'imposta per incubatori e acceleratori certificati: al via le domande",
-      "link": "https://confcommerciocosenza.it/credito-dimposta-per-incubatori-e-acceleratori-certificati-al-via-le-domande/",
-      "source": "Confcommercio Cosenza",
-      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
-      "ancheSu": null,
-      "date": "2026-06-08T09:36:06.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 6,
-      "relevanceKeywords": [
-        "start-up",
-        "imprese",
-        "incentivo",
-        "credito"
-      ],
-      "classe": "nostro",
-      "ruolo": "target di investimento",
-      "motivi": [
-        "contributo a fondo perduto",
-        "aiuti a PMI e nuove imprese"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "target di investimento",
-        "partecipazione": "daVerificare",
-        "partner": "Non siamo beneficiari diretti: serve un incubatore o acceleratore certificato (es. TechNest Unical) disposto a investire nella nostra società; da verificare sul testo chi può presentare domanda e se i",
-        "nota": "Misura rivolta a incubatori e acceleratori certificati, non a una PMI in costituzione: per noi vale solo come leva indiretta per attrarre un investimento da un incubatore certificato del territorio (TechNest Unical). Da approfondire, priorità marginale.",
-        "perche": [
-          "Il beneficio fiscale spetta a incubatori/acceleratori certificati o a chi investe tramite loro: la nostra SRLS in costituzione non è tra i soggetti ammessi come beneficiaria.",
-          "Interesse indiretto reale: se ci iscriviamo come startup innovativa, un incubatore certificato che investe in noi ottiene il credito d'imposta, quindi la misura rende più conveniente finanziarci.",
-          "Abbiamo un contratto quadro di R&S con Unical, che ha un incubatore certificato in ateneo: canale già aperto per proporsi come target di investimento.",
-          "Nessun contributo diretto a fondo perduto per la società: non sostituisce i bandi regionali per PMI, che restano la priorità."
-        ],
-        "come": [
-          "Leggere il testo della misura per capire esattamente chi presenta domanda (incubatore certificato o investitore) e se esistono requisiti sulla startup partecipata: se la beneficiaria non possiamo essere noi, il bando esce dal radar operativo.",
-          "Verificare tempi e requisiti per costituire la società e iscriverla alla sezione speciale startup innovative del Registro Imprese (oggetto sociale con R&S, requisiti di spesa in innovazione): è il presupposto per qualsiasi investimento agevolato.",
-          "Contattare l'incubatore certificato dell'Unical e altri acceleratori regionali presentando il progetto Human Maple (pannelli CAM da mozziconi) e il portafoglio Comuni, proponendo un ingresso in equity agevolato dal credito d'imposta.",
-          "Preparare un pitch e un piano economico a due anni con provvigioni attese sui contratti mappati, da usare sia con gli incubatori sia con le banche."
-        ],
-        "aggiornato": "2026-09-03T20:23:36.022Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
       "attivo": false,
       "id": "calabria-59955",
       "title": "Tirocini Europei - Percorsi di mobilità transnazionale - ProgettoCalAlma",
@@ -2993,6 +3138,64 @@
       "valutazione": null,
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
+    },
+    {
+      "attivo": false,
+      "id": "confcommcs-229371",
+      "title": "Credito d'imposta per incubatori e acceleratori certificati: al via le domande",
+      "link": "https://confcommerciocosenza.it/credito-dimposta-per-incubatori-e-acceleratori-certificati-al-via-le-domande/",
+      "source": "Confcommercio Cosenza",
+      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "ancheSu": null,
+      "date": "2026-06-08T09:36:06.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 6,
+      "relevanceKeywords": [
+        "start-up",
+        "imprese",
+        "incentivo",
+        "credito"
+      ],
+      "classe": "nostro",
+      "ruolo": "target di investimento",
+      "motivi": [
+        "contributo a fondo perduto",
+        "aiuti a PMI e nuove imprese"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "target di investimento",
+        "partecipazione": "daVerificare",
+        "partner": "Non siamo beneficiari diretti: serve un incubatore o acceleratore certificato (es. TechNest Unical) disposto a investire nella nostra società; da verificare sul testo chi può presentare domanda e se i",
+        "nota": "Misura rivolta a incubatori e acceleratori certificati, non a una PMI in costituzione: per noi vale solo come leva indiretta per attrarre un investimento da un incubatore certificato del territorio (TechNest Unical). Da approfondire, priorità marginale.",
+        "perche": [
+          "Il beneficio fiscale spetta a incubatori/acceleratori certificati o a chi investe tramite loro: la nostra SRLS in costituzione non è tra i soggetti ammessi come beneficiaria.",
+          "Interesse indiretto reale: se ci iscriviamo come startup innovativa, un incubatore certificato che investe in noi ottiene il credito d'imposta, quindi la misura rende più conveniente finanziarci.",
+          "Abbiamo un contratto quadro di R&S con Unical, che ha un incubatore certificato in ateneo: canale già aperto per proporsi come target di investimento.",
+          "Nessun contributo diretto a fondo perduto per la società: non sostituisce i bandi regionali per PMI, che restano la priorità."
+        ],
+        "come": [
+          "Leggere il testo della misura per capire esattamente chi presenta domanda (incubatore certificato o investitore) e se esistono requisiti sulla startup partecipata: se la beneficiaria non possiamo essere noi, il bando esce dal radar operativo.",
+          "Verificare tempi e requisiti per costituire la società e iscriverla alla sezione speciale startup innovative del Registro Imprese (oggetto sociale con R&S, requisiti di spesa in innovazione): è il presupposto per qualsiasi investimento agevolato.",
+          "Contattare l'incubatore certificato dell'Unical e altri acceleratori regionali presentando il progetto Human Maple (pannelli CAM da mozziconi) e il portafoglio Comuni, proponendo un ingresso in equity agevolato dal credito d'imposta.",
+          "Preparare un pitch e un piano economico a due anni con provvigioni attese sui contratti mappati, da usare sia con gli incubatori sia con le banche."
+        ],
+        "aggiornato": "2026-09-03T20:23:36.022Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": false,
@@ -3570,7 +3773,12 @@
       "programma": "Calabria",
       "partecipazione": "singola",
       "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
-      "ancheSu": null,
+      "ancheSu": [
+        {
+          "fonte": "Unical – Bandi nazionali",
+          "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/24559-mase-bando-per-progetti-di-ricerca-sviluppo-e-innovazione-tecnologica-sullarea-strategica-idrogeno-mission-innovation-20/"
+        }
+      ],
       "date": "2026-09-03T10:57:00.966Z",
       "deadline": "2024-05-15T00:00:00.000Z",
       "aSportello": false,
