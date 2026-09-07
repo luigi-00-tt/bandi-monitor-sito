@@ -63,7 +63,11 @@ const CONFIG = {
         'Confcommercio Cosenza': '🏢',
         'Confartigianato Cosenza': '🏢',
         'CNA Calabria': '🏢',
-        'Unindustria Calabria': '🏢'
+        'Unindustria Calabria': '🏢',
+        'Unical – Bandi europei': '🎓',
+        'Unical – Bandi nazionali': '🎓',
+        'Unical – Bandi regionali': '🎓',
+        'Interreg Grecia-Italia': '🇬🇷'
     },
 
     // Etichette dei livelli. L'ordine è quello in cui compaiono i conteggi.

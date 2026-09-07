@@ -70,5 +70,61 @@
     "statoLabel": "Attivo",
     "isOpen": true,
     "detailedDescription": "Bando della Camera di Commercio di Cosenza per sostenere le micro, piccole e medie imprese nell'adozione di soluzioni tecnologiche avanzate e nell'attivazione di processi di sostenibilità aziendale, con progetti coerenti con il Piano Nazionale Transizione 5.0. Spese ammissibili: tecnologie, consulenze, formazione. Stanziamento 100.000 euro. Domande solo per via telematica sulla piattaforma ReStart di Infocamere, dalle ore 10:00 del 28/07/2026 alle ore 21:00 del 30/09/2026. Richiesto il report di autovalutazione digitale Selfi4.0 svolto nei tre mesi precedenti la domanda. Al 2 settembre 2026 risultano 30 domande presentate per 262.371 euro richiesti, contro uno stanziamento di 100.000 euro."
+  },
+  {
+    "id": "manuale-heritagetex-tessile-calabria-2026",
+    "title": "HERITAGETEX – CNA Calabria: selezione delle imprese tessili e artigiane calabresi (manifestazione di interesse)",
+    "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
+    "date": "2026-07-22T11:06:48.000Z",
+    "deadline": "2026-09-11T21:59:00.000Z",
+    "source": "CNA Calabria",
+    "ambito": "regionale",
+    "programma": "Interreg",
+    "statoLabel": "Aperto",
+    "isOpen": true,
+    "detailedDescription": "Manifestazione di interesse riaperta da CNA Calabria nell'ambito del progetto europeo HERITAGETEX – Sustainable Innovation in Textile Industry, finanziato dal Programma Interreg VI-A Grecia-Italia 2021-2027 (capofila il Comune di Martina Franca, con la Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda e CNA Calabria). La procedura è gratuita e non competitiva: non assegna contributi, seleziona gli stakeholder di progetto. Le imprese scelte partecipano all'analisi e mappatura della filiera tessile calabrese e delle sue catene del valore, alla valorizzazione delle tecniche artigianali tradizionali, a seminari su sostenibilità, economia circolare e strumenti digitali, e a workshop, incontri di networking e iniziative transnazionali. Possono aderire le imprese, anche individuali e artigianali, operanti in Calabria nei settori di tessitura e filatura, tintura e finissaggio, ricamo e artigianato tessile, confezione e abbigliamento, moda su misura, design, prototipazione e servizi collegati alla filiera. Candidature entro venerdì 11 settembre 2026 tramite modulo online.",
+    "documenti": [
+      {
+        "label": "Modulo di candidatura online",
+        "url": "https://forms.gle/eXDBwWHyL12iCAof8"
+      }
+    ]
+  },
+  {
+    "id": "manuale-interreg-grecia-italia-8-call-part-a-2026",
+    "title": "Interreg Grecia-Italia – 8th call for Small Scale Projects, Part A: economia circolare (SO 2.6) e turismo sostenibile (SO 4.6)",
+    "link": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/",
+    "date": "2026-07-29T00:00:00.000Z",
+    "deadline": "2026-10-09T12:00:00.000Z",
+    "source": "Interreg Grecia-Italia",
+    "ambito": "europeo",
+    "programma": "Interreg",
+    "statoLabel": "Aperto",
+    "isOpen": true,
+    "detailedDescription": "Ottava call per Small Scale Projects del Programma Interreg VI-A Grecia-Italia 2021-2027, Parte A, su due obiettivi specifici: SO 2.6 – promuovere la transizione verso un'economia circolare ed efficiente nell'uso delle risorse, e SO 4.6 – rafforzare il ruolo della cultura e del turismo sostenibile nello sviluppo economico. Dotazione 4.458.437,87 euro, cofinanziamento UE 75% e quota nazionale 25%. Presentazione dal 29/07/2026 ore 14:00 al 09/10/2026 ore 14:00 (CET+1). L'area del programma comprende, dal 2021-2027, anche le quattro province calabresi di Cosenza, Catanzaro, Crotone e Reggio Calabria. ATTENZIONE al requisito soggettivo: i beneficiari ammissibili sono enti pubblici regionali e locali, organismi di diritto pubblico, organismi di diritto privato senza scopo di lucro e GECT. Le imprese private e le PMI non possono essere partner beneficiari.",
+    "documenti": [
+      {
+        "label": "Pagina della call (Part A)",
+        "url": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/"
+      },
+      {
+        "label": "Part B della stessa call (capacità istituzionale, ISO 6.1 e 6.4)",
+        "url": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-b-has-been-launched/"
+      }
+    ]
+  },
+  {
+    "id": "manuale-mera-net-call-2026-calabria",
+    "title": "M-ERA.NET Call 2026 – progetti di ricerca sui materiali innovativi, co-finanziamento regionale per beneficiari con sede in Calabria",
+    "link": "https://calabriaeuropa.regione.calabria.it/m-era-net-call-2026-pubblicato-in-pre-informazione-lavviso-per-progetti-di-ricerca-sui-materiali-innovativi/",
+    "date": "2026-05-05T00:00:00.000Z",
+    "deadline": "2026-11-18T22:59:00.000Z",
+    "source": "Calabria Europa",
+    "ambito": "regionale",
+    "programma": "Calabria",
+    "statoLabel": "Aperto",
+    "isOpen": true,
+    "detailedDescription": "Avviso regionale di co-finanziamento della M-ERA.NET Call 2026, iniziativa europea per progetti di ricerca e innovazione sui materiali avanzati, nel quadro del PR Calabria FESR 2021-2027, azione 1.1.1. Dotazione complessiva 300.000 euro, massimo 100.000 euro per progetto finanziato. Beneficiari: micro, piccole e medie imprese, grandi imprese in partenariato con MPMI e organismi di ricerca (università e centri di ricerca pubblici e privati), con il vincolo di una sede operativa in Calabria dove realizzare le attività progettuali. ATTENZIONE alle due scadenze: le pre-proposte si sono chiuse il 12 maggio 2026 e nelle call M-ERA.NET la pre-proposta è il primo stadio obbligatorio, quindi il termine del 18 novembre 2026 per le proposte complete vale solo per chi ha già superato quello stadio. Per l'edizione 2027 la pre-proposta si prepara in primavera.",
+    "linkNotizia": "https://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/23204-m-eranet-call-2026-pre-informazione-avviso-per-progetti-di-ricerca-sui-materiali-innovativi-co-finanziamento-regionale-per-beneficiari-con-sede-in-calabria/"
   }
 ]
