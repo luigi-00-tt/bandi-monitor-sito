@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:02:36.442Z",
+  "generatedAt": "2026-09-07T12:03:30.729Z",
   "lastEmailSentAt": "2026-09-07T10:02:36.441Z",
   "nextEmailDueAt": "2026-09-14T10:02:36.441Z",
   "settings": {
@@ -9,13 +9,13 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 26,
-    "attivi": 52,
+    "nuovi": 22,
+    "attivi": 51,
     "inScadenza": 16,
     "scaduti": 23,
-    "totale": 75,
+    "totale": 74,
     "nostri": 42,
-    "rete": 10,
+    "rete": 9,
     "fuoriTema": 159
   },
   "perFonte": {
@@ -40,8 +40,8 @@
       "attivi": 2
     },
     "Interreg Grecia-Italia": {
-      "totale": 2,
-      "attivi": 2
+      "totale": 1,
+      "attivi": 1
     },
     "Fincalabra": {
       "totale": 12,
@@ -71,12 +71,12 @@
   "perAmbito": {
     "regionale": 19,
     "locale": 3,
-    "europeo": 29,
+    "europeo": 28,
     "nazionale": 1
   },
   "perPartecipazione": {
     "daVerificare": 4,
-    "singola": 18,
+    "singola": 17,
     "partenariato": 30
   },
   "bandi": [
@@ -138,7 +138,7 @@
     {
       "attivo": true,
       "id": "manuale-heritagetex-tessile-calabria-2026",
-      "title": "HERITAGETEX – CNA Calabria: selezione delle imprese tessili e artigiane calabresi (manifestazione di interesse)",
+      "title": "HERITAGETEX – CNA Calabria: manifestazione di interesse per le imprese tessili e artigiane calabresi (call for Calabria's textile businesses and artisans)",
       "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
       "source": "CNA Calabria",
       "sourceUrl": "https://calabria.cna.it/categorie/bandi-finanziamenti-agevolati-leggi-di-incentivo/",
@@ -157,6 +157,10 @@
         {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
+        },
+        {
+          "fonte": "Interreg Grecia-Italia",
+          "link": "https://www.greece-italy.eu/heritagetex-cna-calabria-reopened-the-call-for-calabrias-textile-businesses-and-artisans/"
         },
         {
           "fonte": "CNA Calabria",
@@ -1105,7 +1109,7 @@
       "classe": "rete",
       "ruolo": "partner tecnico di un ente pubblico",
       "motivi": [
-        "inserito a mano"
+        "settore fuori dal nostro campo"
       ],
       "decisoDaTe": true,
       "valutazione": {
@@ -2660,60 +2664,6 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "grecia-8576",
-      "title": "HERITAGETEX: CNA Calabria reopened the call for Calabria's textile businesses and artisans",
-      "link": "https://www.greece-italy.eu/heritagetex-cna-calabria-reopened-the-call-for-calabrias-textile-businesses-and-artisans/",
-      "source": "Interreg Grecia-Italia",
-      "sourceUrl": "https://www.greece-italy.eu/calls/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Interreg",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno per noi: si candidano direttamente le imprese tessili e artigiane calabresi; da verificare sull'avviso CNA se sono ammesse solo imprese già iscritte al Registro Imprese con codice ATECO tessil",
-      "ancheSu": null,
-      "date": "2026-07-28T11:23:03.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "calabria"
-      ],
-      "classe": "rete",
-      "ruolo": "segnalazione alla rete",
-      "motivi": [
-        "tessile post-consumo"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "B",
-        "ruolo": "segnalazione alla rete",
-        "partecipazione": "singola",
-        "partner": "Nessuno per noi: si candidano direttamente le imprese tessili e artigiane calabresi; da verificare sull'avviso CNA se sono ammesse solo imprese già iscritte al Registro Imprese con codice ATECO tessil",
-        "nota": "Bando riservato a imprese tessili e artigiane calabresi: non siamo beneficiari, ma è un'occasione perfetta da girare alle aziende del tessile della rete e ai Comuni con cui lavoriamo, posizionandoci come facilitatori sul filone tessile post-consumo.",
-        "perche": [
-          "La società non è un'impresa tessile né artigiana: manca il requisito soggettivo di base, e per di più è ancora in costituzione e non iscritta al Registro Imprese.",
-          "Il perimetro è esattamente il nostro territorio (Calabria, con CNA Calabria come soggetto attuatore): possiamo usare il bando come leva commerciale verso artigiani e Comuni già in contatto.",
-          "Il segnale 'tessile post-consumo' incrocia il filone economia circolare su cui possiamo intermediare fornitori di raccolta e riciclo tessile.",
-          "Rapporto con CNA Calabria e con un progetto Interreg Grecia-Italia utile per accreditarci come intermediari su futuri bandi regionali e di cooperazione."
-        ],
-        "come": [
-          "Recuperare l'avviso riaperto di CNA Calabria (requisiti, scadenza, tipologia di sostegno: voucher, servizi, formazione) e profilare 5-10 imprese tessili/artigiane calabresi candidabili.",
-          "Prima di aprire i contatti, far firmare alle aziende segnalate accordo provvigionale e patto di non elusione.",
-          "Proporre a CNA Calabria e al partenariato HERITAGETEX i nostri Comuni come territorio pilota per la raccolta e valorizzazione del tessile post-consumo (living lab, campagne di gamification e community engagement).",
-          "Mappare nel catalogo un fornitore di raccolta/riciclo tessile da abbinare alle imprese beneficiarie, così da monetizzare il contratto a valle del contributo."
-        ],
-        "aggiornato": "2026-09-07T10:02:34.197Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-07T10:02:36.429Z"
     },
     {
       "attivo": true,
