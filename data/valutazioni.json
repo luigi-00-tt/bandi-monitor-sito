@@ -645,5 +645,11 @@
       "Cercare il consorzio internazionale sul partner search di M-ERA.NET: senza partner esteri la call non si presenta."
     ],
     "aggiornato": "2026-09-07"
+  },
+  "grecia-8576": {
+    "verdetto": "no",
+    "priorita": "C",
+    "nota": "Doppione: è la versione inglese, pubblicata su greece-italy.eu, dello stesso HERITAGETEX che sta in elenco come manuale-heritagetex-tessile-calabria-2026 — quella card ha la scadenza (11 settembre 2026), il modulo di candidatura e il verdetto. Non si erano fuse perché la deduplica confronta le parole del titolo e fra \"imprese tessili calabresi\" e \"Calabria's textile businesses\" non ce n'erano quattro in comune. Il titolo della voce manuale è stato allungato con la formula inglese, quindi dal prossimo controllo le due si uniscono da sole e questa riga diventa superflua.",
+    "aggiornato": "2026-09-07"
   }
 }
