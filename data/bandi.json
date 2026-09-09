@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:57:56.962Z",
+  "generatedAt": "2026-09-09T11:02:54.758Z",
   "lastEmailSentAt": "2026-09-07T10:02:36.441Z",
   "nextEmailDueAt": "2026-09-14T10:02:36.441Z",
   "settings": {
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 22,
+    "nuovi": 21,
     "attivi": 51,
-    "inScadenza": 17,
+    "inScadenza": 18,
     "scaduti": 23,
     "totale": 74,
     "nostri": 42,
     "rete": 9,
-    "fuoriTema": 157
+    "fuoriTema": 160
   },
   "perFonte": {
     "Calabria Europa": {
