@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T11:02:54.758Z",
-  "lastEmailSentAt": "2026-09-07T10:02:36.441Z",
-  "nextEmailDueAt": "2026-09-14T10:02:36.441Z",
+  "generatedAt": "2026-09-10T11:00:17.773Z",
+  "lastEmailSentAt": "2026-09-10T11:00:17.771Z",
+  "nextEmailDueAt": "2026-09-17T11:00:17.771Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 21,
-    "attivi": 51,
+    "nuovi": 23,
+    "attivi": 53,
     "inScadenza": 18,
     "scaduti": 23,
-    "totale": 74,
-    "nostri": 42,
-    "rete": 9,
-    "fuoriTema": 160
+    "totale": 76,
+    "nostri": 43,
+    "rete": 10,
+    "fuoriTema": 159
   },
   "perFonte": {
     "Calabria Europa": {
@@ -47,20 +47,20 @@
       "totale": 12,
       "attivi": 7
     },
+    "Federterziario Calabria": {
+      "totale": 8,
+      "attivi": 3
+    },
+    "MIMIT": {
+      "totale": 4,
+      "attivi": 2
+    },
     "Confcommercio Cosenza": {
       "totale": 4,
       "attivi": 2
     },
-    "Federterziario Calabria": {
-      "totale": 7,
-      "attivi": 2
-    },
     "Confartigianato Cosenza": {
       "totale": 2,
-      "attivi": 1
-    },
-    "MIMIT": {
-      "totale": 3,
       "attivi": 1
     },
     "Unindustria Calabria": {
@@ -69,14 +69,14 @@
     }
   },
   "perAmbito": {
-    "regionale": 19,
+    "regionale": 20,
     "locale": 3,
     "europeo": 28,
-    "nazionale": 1
+    "nazionale": 2
   },
   "perPartecipazione": {
     "daVerificare": 4,
-    "singola": 17,
+    "singola": 19,
     "partenariato": 30
   },
   "bandi": [
@@ -2022,6 +2022,118 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
+    },
+    {
+      "attivo": true,
+      "id": "federterziario-6830",
+      "title": "PMI del Sud: fino al 75% sugli investimenti innovativi e sostenibili",
+      "link": "https://www.federterziariocalabria.it/investimenti-innovativi-sostenibili-pmi-mimit-2026/",
+      "source": "Federterziario Calabria",
+      "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno: si presenta la sola società come PMI beneficiaria; eventuali fornitori (Human Maple, aziende RFID/TARIP) entrano solo come venditori dei beni oggetto di investimento",
+      "ancheSu": null,
+      "date": "2026-09-10T08:46:14.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 6,
+      "relevanceKeywords": [
+        "pmi",
+        "mezzogiorno",
+        "bando",
+        "investiment"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria diretta",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "contributo a fondo perduto"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "beneficiaria diretta",
+        "partecipazione": "singola",
+        "partner": "Nessuno: si presenta la sola società come PMI beneficiaria; eventuali fornitori (Human Maple, aziende RFID/TARIP) entrano solo come venditori dei beni oggetto di investimento",
+        "nota": "Aiuto a fondo perduto molto ricco (fino al 75%) per PMI del Mezzogiorno su investimenti innovativi e sostenibili: siamo in Calabria, con sede a Rende, e l'agevolazione è richiedibile da soli. Nodo critico: la società è ancora in costituzione, va verificata subito l'ammissibilità delle imprese di nuova iscrizione.",
+        "perche": [
+          "Bando riservato alle PMI del Sud: la sede operativa a Rende (CS) e i soci residenti in Calabria ci collocano pienamente nell'area ammissibile.",
+          "Intensità di aiuto elevata (fino al 75%) su investimenti innovativi e sostenibili: coerente con l'acquisto di attrezzature e piattaforme digitali per l'economia circolare (posacenere smart, sistemi RFID/TARIP, software di tracciabilità) che sono il cuore della nostra attività.",
+          "Domanda individuale: nessun consorzio da costruire, tempi di presentazione di settimane e non di mesi, quindi la leva più rapida per capitalizzare la società appena nata.",
+          "Un investimento agevolato in beni dimostrativi rafforza anche il ruolo commerciale di intermediario: attrezzature nostre da mostrare a Comuni e aziende come proof of concept."
+        ],
+        "come": [
+          "Verificare per primo se una società appena costituita e non ancora iscritta al Registro Imprese è ammissibile: leggere requisiti di anzianità, data di iscrizione richiesta, obbligo di bilanci pregressi e regolarità DURC; se serve, accelerare l'atto costitutivo e l'apertura della partita IVA prima della scadenza.",
+          "Chiedere a Federterziario Calabria (fonte del bando) il testo integrale e la misura sottostante, per fissare scadenza, spese ammissibili, soglia minima di investimento ed eventuale quota di cofinanziamento privato da coprire.",
+          "Costruire il piano di investimento con preventivi già pronti dei fornitori mappati (Human Maple, aziende RFID/retrofit/TARIP, Junker, Iotilize), distinguendo beni materiali, software e servizi digitali secondo le voci di spesa ammesse.",
+          "Preparare in parallelo business plan e piano finanziario a 3 anni con i ricavi da provvigione sui contratti con Comuni e aziende, e verificare la capacità di anticipo finanziario se il contributo è erogato a rendicontazione."
+        ],
+        "aggiornato": "2026-09-10T10:59:56.559Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-10T11:00:17.760Z"
+    },
+    {
+      "attivo": true,
+      "id": "mimit-pmi-operanti-nella-filiera-della-moda",
+      "title": "PMI operanti nella filiera della moda",
+      "link": "https://www.mimit.gov.it/it/incentivi/pmi-operanti-nella-filiera-della-moda",
+      "source": "MIMIT",
+      "sourceUrl": "https://www.mimit.gov.it/it/incentivi",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "nazionale",
+      "programma": "Nazionali",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessun partner obbligatorio: la domanda la presenta la singola PMI della filiera moda/tessile; noi restiamo fuori dalla domanda e lavoriamo a provvigione",
+      "ancheSu": null,
+      "date": "2026-09-08T15:19:20.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "pmi"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete",
+      "motivi": [
+        "aiuti a PMI e nuove imprese"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete",
+        "partecipazione": "singola",
+        "partner": "Nessun partner obbligatorio: la domanda la presenta la singola PMI della filiera moda/tessile; noi restiamo fuori dalla domanda e lavoriamo a provvigione",
+        "nota": "Bando MIMIT riservato alle PMI della filiera moda: la nostra società non ha codice attività né prodotto in quel comparto, ma è un'occasione da girare alle aziende di riciclo tessile della rete, con provvigione sui contratti.",
+        "perche": [
+          "L'agevolazione è riservata a PMI che operano nella filiera della moda (tessile, abbigliamento, pelle, accessori): noi siamo intermediari di economia circolare su mozziconi, RFID/TARIP e rifiuti urbani, quindi fuori dal perimetro dei beneficiari.",
+          "La società è inoltre ancora in costituzione e non iscritta al Registro Imprese: non avrebbe i requisiti di impresa attiva richiesti dagli aiuti MIMIT alle PMI.",
+          "Il tema circolare del tessile (recupero fibre, riuso, end-of-waste) è però coperto dalle aziende della nostra rete che trattano tessili: per loro il bando è un incentivo diretto a investire e quindi una leva commerciale per noi.",
+          "Possiamo mettere sul tavolo il valore che ci è proprio: Comuni calabresi come bacino di raccolta e territorio pilota, campagne di gamification e community engagement sulla raccolta degli abiti usati."
+        ],
+        "come": [
+          "Verificare sul testo del bando l'elenco dei codici ATECO ammessi e se sono incluse le attività di recupero/riciclo dei rifiuti tessili: da quello dipende quali aziende della rete possono davvero candidarsi.",
+          "Selezionare dal catalogo le imprese con attività su tessile/riuso e inviare una scheda sintetica del bando (finalità, spese ammissibili, modalità a sportello o a graduatoria) come primo contatto commerciale.",
+          "Prima di aprire i contatti e di presentare fornitori a Comuni o aziende, far firmare accordo provvigionale e patto di non elusione, con provvigione sui contratti conclusi.",
+          "Proporre alle aziende interessate un pacchetto integrato: la loro tecnologia di recupero tessile più la nostra rete di Comuni per raccolta e sperimentazione, da inserire nel piano di investimento presentato al MIMIT."
+        ],
+        "aggiornato": "2026-09-10T11:00:14.524Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-10T11:00:17.760Z"
     },
     {
       "attivo": true,
