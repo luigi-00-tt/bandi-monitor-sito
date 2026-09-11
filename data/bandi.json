@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:00:17.773Z",
+  "generatedAt": "2026-09-11T10:59:16.423Z",
   "lastEmailSentAt": "2026-09-10T11:00:17.771Z",
   "nextEmailDueAt": "2026-09-17T11:00:17.771Z",
   "settings": {
@@ -9,23 +9,23 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 23,
-    "attivi": 53,
-    "inScadenza": 18,
-    "scaduti": 23,
-    "totale": 76,
+    "nuovi": 16,
+    "attivi": 52,
+    "inScadenza": 17,
+    "scaduti": 25,
+    "totale": 77,
     "nostri": 43,
-    "rete": 10,
-    "fuoriTema": 159
+    "rete": 9,
+    "fuoriTema": 156
   },
   "perFonte": {
-    "Calabria Europa": {
-      "totale": 13,
-      "attivi": 6
-    },
     "CNA Calabria": {
       "totale": 1,
       "attivi": 1
+    },
+    "Calabria Europa": {
+      "totale": 14,
+      "attivi": 5
     },
     "Comune di Cosenza": {
       "totale": 1,
@@ -69,72 +69,17 @@
     }
   },
   "perAmbito": {
-    "regionale": 20,
+    "regionale": 19,
     "locale": 3,
     "europeo": 28,
     "nazionale": 2
   },
   "perPartecipazione": {
-    "daVerificare": 4,
     "singola": 19,
+    "daVerificare": 3,
     "partenariato": 30
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "calabria-61173",
-      "title": "Avviso pubblico per il sostegno allo sviluppo dei sistemi di raccolta differenziata e dei centri di raccolta",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-allo-sviluppo-dei-sistemi-di-raccolta-differenziata-e-dei-centri-di-raccolta/",
-      "source": "Calabria Europa",
-      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
-      "ancheSu": null,
-      "date": "2026-08-31T12:04:13.000Z",
-      "deadline": "2026-09-10T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "raccolta differenziata"
-      ],
-      "classe": "rete",
-      "ruolo": "intermediazione Comuni-fornitori",
-      "motivi": [
-        "raccolta differenziata e tariffazione puntuale",
-        "economia circolare e riciclo",
-        "enti pubblici e territorio"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "A",
-        "ruolo": "intermediazione Comuni-fornitori",
-        "nota": "Bando regionale per Comuni su raccolta differenziata e centri di raccolta: non siamo beneficiari diretti, ma è la leva commerciale perfetta per il catalogo RFID/retrofit/TARIP sulla rete di Comuni calabresi.",
-        "perche": [
-          "I beneficiari sono gli enti locali, quindi la SRLS non può candidarsi in proprio: il valore sta nell'accompagnare i Comuni e nel piazzare i fornitori del catalogo.",
-          "Il perimetro finanziato (sistemi di raccolta differenziata, centri di raccolta) coincide esattamente con le 19 aziende mappate: RFID porta a porta, retrofit contenitori, piattaforme TARIP.",
-          "La rete di contatti con molti Comuni calabresi permette di arrivare prima della concorrenza, quando l'ente sta ancora definendo il fabbisogno e il progetto da presentare.",
-          "Junker e le campagne di gamification/community engagement sono componenti soft che rafforzano le domande dei Comuni (comunicazione ai cittadini, aumento delle rese di differenziata).",
-          "Scadenza lontana (settembre 2026): c'è tempo per costruire il pacchetto e chiudere gli accordi con i fornitori prima di aprire i contatti."
-        ],
-        "come": [
-          "Prima di tutto: firmare accordo provvigionale e patto di non elusione con i fornitori RFID/retrofit/TARIP e con Junker, con provvigione sul contratto concluso e clausola di durata sui Comuni presentati.",
-          "Preparare un dossier di due pagine per i sindaci/uffici tecnici: cosa finanzia l'avviso, schema di intervento tipo (contenitori con tag RFID + software TARIP + centro di raccolta + campagna cittadini) e voci di spesa ammissibili.",
-          "Mappare i Comuni target per fascia demografica e stato attuale della differenziata, partendo dai contatti già attivi, e proporre un incontro tecnico gratuito per la definizione del progetto.",
-          "Verificare sul testo dell'avviso beneficiari ammissibili, spese ammissibili e regole sugli affidamenti a valle, per capire quali fornitori possono essere effettivamente contrattualizzati e con quali procedure."
-        ],
-        "aggiornato": "2026-08-21T17:16:54.481Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-26T10:59:50.419Z"
-    },
     {
       "attivo": true,
       "id": "manuale-heritagetex-tessile-calabria-2026",
@@ -157,10 +102,6 @@
         {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
-        },
-        {
-          "fonte": "Interreg Grecia-Italia",
-          "link": "https://www.greece-italy.eu/heritagetex-cna-calabria-reopened-the-call-for-calabrias-textile-businesses-and-artisans/"
         },
         {
           "fonte": "CNA Calabria",
@@ -3060,6 +3001,61 @@
     },
     {
       "attivo": false,
+      "id": "calabria-61173",
+      "title": "Avviso pubblico per il sostegno allo sviluppo dei sistemi di raccolta differenziata e dei centri di raccolta",
+      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-allo-sviluppo-dei-sistemi-di-raccolta-differenziata-e-dei-centri-di-raccolta/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "daVerificare",
+      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
+      "ancheSu": null,
+      "date": "2026-08-31T12:04:13.000Z",
+      "deadline": "2026-09-10T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "raccolta differenziata"
+      ],
+      "classe": "rete",
+      "ruolo": "intermediazione Comuni-fornitori",
+      "motivi": [
+        "raccolta differenziata e tariffazione puntuale",
+        "economia circolare e riciclo",
+        "enti pubblici e territorio"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "A",
+        "ruolo": "intermediazione Comuni-fornitori",
+        "nota": "Bando regionale per Comuni su raccolta differenziata e centri di raccolta: non siamo beneficiari diretti, ma è la leva commerciale perfetta per il catalogo RFID/retrofit/TARIP sulla rete di Comuni calabresi.",
+        "perche": [
+          "I beneficiari sono gli enti locali, quindi la SRLS non può candidarsi in proprio: il valore sta nell'accompagnare i Comuni e nel piazzare i fornitori del catalogo.",
+          "Il perimetro finanziato (sistemi di raccolta differenziata, centri di raccolta) coincide esattamente con le 19 aziende mappate: RFID porta a porta, retrofit contenitori, piattaforme TARIP.",
+          "La rete di contatti con molti Comuni calabresi permette di arrivare prima della concorrenza, quando l'ente sta ancora definendo il fabbisogno e il progetto da presentare.",
+          "Junker e le campagne di gamification/community engagement sono componenti soft che rafforzano le domande dei Comuni (comunicazione ai cittadini, aumento delle rese di differenziata).",
+          "Scadenza lontana (settembre 2026): c'è tempo per costruire il pacchetto e chiudere gli accordi con i fornitori prima di aprire i contatti."
+        ],
+        "come": [
+          "Prima di tutto: firmare accordo provvigionale e patto di non elusione con i fornitori RFID/retrofit/TARIP e con Junker, con provvigione sul contratto concluso e clausola di durata sui Comuni presentati.",
+          "Preparare un dossier di due pagine per i sindaci/uffici tecnici: cosa finanzia l'avviso, schema di intervento tipo (contenitori con tag RFID + software TARIP + centro di raccolta + campagna cittadini) e voci di spesa ammissibili.",
+          "Mappare i Comuni target per fascia demografica e stato attuale della differenziata, partendo dai contatti già attivi, e proporre un incontro tecnico gratuito per la definizione del progetto.",
+          "Verificare sul testo dell'avviso beneficiari ammissibili, spese ammissibili e regole sugli affidamenti a valle, per capire quali fornitori possono essere effettivamente contrattualizzati e con quali procedure."
+        ],
+        "aggiornato": "2026-08-21T17:16:54.481Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-26T10:59:50.419Z"
+    },
+    {
+      "attivo": false,
       "id": "calabria-59955",
       "title": "Tirocini Europei - Percorsi di mobilità transnazionale - ProgettoCalAlma",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/tirocini-europei-percorsi-di-mobilita-transnazionale-progettocalalma/",
@@ -3258,6 +3254,45 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": false,
+      "id": "calabria-53664",
+      "title": "Avviso pubblico per il sostegno a progetti di internazionalizzazione delle PMI e loro aggregazioni",
+      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "ancheSu": [
+        {
+          "fonte": "Fincalabra",
+          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+        }
+      ],
+      "date": "2026-04-20T09:40:10.000Z",
+      "deadline": "2026-05-31T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "pmi"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiario diretto",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "investimenti e innovazione d'impresa"
+      ],
+      "decisoDaTe": false,
+      "valutazione": null,
+      "fasi": null,
+      "segnalatoIl": "2026-07-26T10:59:50.419Z"
     },
     {
       "attivo": false,
