@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T10:59:16.423Z",
-  "lastEmailSentAt": "2026-09-10T11:00:17.771Z",
-  "nextEmailDueAt": "2026-09-17T11:00:17.771Z",
+  "generatedAt": "2026-09-12T10:26:20.686Z",
+  "lastEmailSentAt": "2026-09-12T10:26:20.685Z",
+  "nextEmailDueAt": "2026-09-19T10:26:20.685Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,20 +9,16 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 16,
+    "nuovi": 17,
     "attivi": 52,
-    "inScadenza": 17,
-    "scaduti": 25,
-    "totale": 77,
-    "nostri": 43,
-    "rete": 9,
+    "inScadenza": 16,
+    "scaduti": 26,
+    "totale": 78,
+    "nostri": 42,
+    "rete": 10,
     "fuoriTema": 156
   },
   "perFonte": {
-    "CNA Calabria": {
-      "totale": 1,
-      "attivi": 1
-    },
     "Calabria Europa": {
       "totale": 14,
       "attivi": 5
@@ -47,6 +43,10 @@
       "totale": 12,
       "attivi": 7
     },
+    "Unical – Bandi nazionali": {
+      "totale": 1,
+      "attivi": 1
+    },
     "Federterziario Calabria": {
       "totale": 8,
       "attivi": 3
@@ -63,88 +63,27 @@
       "totale": 2,
       "attivi": 1
     },
+    "CNA Calabria": {
+      "totale": 1,
+      "attivi": 0
+    },
     "Unindustria Calabria": {
       "totale": 1,
       "attivi": 0
     }
   },
   "perAmbito": {
-    "regionale": 19,
+    "regionale": 18,
     "locale": 3,
     "europeo": 28,
-    "nazionale": 2
+    "nazionale": 3
   },
   "perPartecipazione": {
-    "singola": 19,
-    "daVerificare": 3,
+    "daVerificare": 4,
+    "singola": 18,
     "partenariato": 30
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "manuale-heritagetex-tessile-calabria-2026",
-      "title": "HERITAGETEX – CNA Calabria: manifestazione di interesse per le imprese tessili e artigiane calabresi (call for Calabria's textile businesses and artisans)",
-      "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
-      "source": "CNA Calabria",
-      "sourceUrl": "https://calabria.cna.it/categorie/bandi-finanziamenti-agevolati-leggi-di-incentivo/",
-      "documenti": [
-        {
-          "label": "Modulo di candidatura online",
-          "url": "https://forms.gle/eXDBwWHyL12iCAof8"
-        }
-      ],
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Interreg",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
-      "ancheSu": [
-        {
-          "fonte": "Fincalabra",
-          "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
-        },
-        {
-          "fonte": "CNA Calabria",
-          "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/"
-        }
-      ],
-      "date": "2026-07-22T11:06:48.000Z",
-      "deadline": "2026-09-11T21:59:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "stakeholder di progetto",
-      "motivi": [
-        "inserito a mano"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "stakeholder di progetto",
-        "nota": "La cosa più conveniente vista finora in rapporto allo sforzo: gratuita, non competitiva, si aderisce con un modulo online. Non porta un euro di contributo, porta la cosa che a noi serve davvero — stare dentro la mappatura CNA della filiera tessile calabrese, cioè l'elenco delle aziende con cui poi si fanno i contratti. Il testo ammette esplicitamente i \"servizi collegati alla filiera\", quindi un intermediario ci sta. L'ostacolo è il solito: chiede imprese \"operanti in Calabria\", e la SRLS è ancora in costituzione. SCADE VENERDÌ 11 SETTEMBRE 2026: se la società non è costituita in tempo, vale l",
-        "perche": [
-          "Il tessile è una delle filiere del nostro modello: il riciclo dei tessili è già fra i flussi mappati, e qui c'è un progetto europeo che raduna le aziende calabresi del settore in un elenco solo.",
-          "Costo zero e nessuna competizione: non c'è una graduatoria da vincere, si viene selezionati come stakeholder. Il ritorno è tutto relazionale, che è esattamente il nostro business.",
-          "I seminari sono su sostenibilità, economia circolare e strumenti digitali: è il nostro discorso commerciale, fatto davanti alle aziende giuste da un soggetto terzo e credibile come CNA.",
-          "Apre un canale su Interreg Grecia-Italia, il programma europeo più vicino a noi (la Calabria è area ammissibile e l'obiettivo 2.6 è l'economia circolare), attraverso un progetto già finanziato e già in corso."
-        ],
-        "come": [
-          "Compilare il modulo online https://forms.gle/eXDBwWHyL12iCAof8 entro venerdì 11 settembre 2026.",
-          "Prima di compilarlo, chiamare CNA Calabria e chiarire due cose: se un'impresa in costituzione può aderire, e se un operatore di servizi collegati alla filiera (non un produttore tessile) rientra fra i destinatari.",
-          "Nel modulo presentarsi per quello che siamo: intermediari di economia circolare che portano alle aziende tessili i servizi di raccolta e riciclo dei tessili e i Comuni come interlocutori. Non fingersi produttori.",
-          "Una volta dentro, usare i workshop e gli incontri di networking per raccogliere i contatti delle aziende della filiera: è quello il valore vero dell'adesione."
-        ],
-        "partecipazione": "singola",
-        "partner": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
-        "aggiornato": "2026-09-07T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-07T10:02:36.429Z"
-    },
     {
       "attivo": true,
       "id": "calabria-61061",
@@ -1966,6 +1905,61 @@
     },
     {
       "attivo": true,
+      "id": "unicalnaz-24917-mimit-fondo-per-programmi-di-sviluppo-e-progetti-di-innovazione-per-imprese-del-settore-moda-tessile-e-accessori",
+      "title": "Mimit. Fondo per programmi di sviluppo e progetti di innovazione per imprese del settore moda, tessile e accessori",
+      "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/24917-mimit-fondo-per-programmi-di-sviluppo-e-progetti-di-innovazione-per-imprese-del-settore-moda-tessile-e-accessori/",
+      "source": "Unical – Bandi nazionali",
+      "sourceUrl": "https://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "nazionale",
+      "programma": "Università e ricerca",
+      "partecipazione": "daVerificare",
+      "partnerRichiesti": "Da leggere nel decreto/direttiva attuativa: i fondi Mimit per programmi di sviluppo ammettono di norma la singola impresa, ma spesso prevedono anche progetti congiunti tra più imprese o contratti di r",
+      "ancheSu": null,
+      "date": "2026-09-11T13:06:00.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 4,
+      "relevanceKeywords": [
+        "innovazione",
+        "imprese"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete",
+      "motivi": [
+        "tessile post-consumo"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete",
+        "partecipazione": "daVerificare",
+        "partner": "Da leggere nel decreto/direttiva attuativa: i fondi Mimit per programmi di sviluppo ammettono di norma la singola impresa, ma spesso prevedono anche progetti congiunti tra più imprese o contratti di r",
+        "nota": "Fondo Mimit riservato alle imprese della filiera moda-tessile-accessori: non siamo beneficiari ammissibili, ma è un bando da girare alle aziende di riciclo tessile post-consumo della rete, offrendo i Comuni calabresi come bacino di raccolta.",
+        "perche": [
+          "Il fondo è settoriale: beneficiarie sono imprese della filiera moda, tessile e accessori; la nostra SRLS è un intermediario di economia circolare, non un'impresa del settore, e per di più è ancora in costituzione.",
+          "Il segnale 'tessile post-consumo' indica che i progetti di innovazione finanziabili possono riguardare riciclo e circolarità degli scarti tessili: tema su cui possiamo posizionare aziende della rete.",
+          "Possiamo aggiungere valore come procacciatori di flussi: rapporti con i Comuni calabresi per la raccolta differenziata del tessile e know-how di campagne comportamentali e gamification a supporto del conferimento.",
+          "Human Maple e il resto del catalogo (RFID, TARIP, Junker) non hanno attinenza con la filiera moda: nessun fit diretto di prodotto."
+        ],
+        "come": [
+          "Verificare nel decreto attuativo quali codici ATECO e quali dimensioni d'impresa sono ammessi e se è consentita la partecipazione congiunta (rete/filiera): serve per capire se qualcuna delle aziende della rete può candidarsi davvero.",
+          "Mappare nel catalogo e fuori (riciclatori tessili, impianti di selezione post-consumo) 2-3 imprese con i requisiti settoriali e presentare loro il bando.",
+          "Prima di aprire i contatti far firmare accordo provvigionale e patto di non elusione, con provvigione sui contratti di fornitura o raccolta che ne derivano.",
+          "Preparare una scheda 'Calabria territorio pilota': Comuni disponibili alla raccolta differenziata del tessile, volumi stimabili e proposta di campagna di engagement da allegare al progetto dell'impresa candidata."
+        ],
+        "aggiornato": "2026-09-12T10:26:17.345Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-12T10:26:20.675Z"
+    },
+    {
+      "attivo": true,
       "id": "federterziario-6830",
       "title": "PMI del Sud: fino al 75% sugli investimenti innovativi e sostenibili",
       "link": "https://www.federterziariocalabria.it/investimenti-innovativi-sostenibili-pmi-mimit-2026/",
@@ -3001,6 +2995,71 @@
     },
     {
       "attivo": false,
+      "id": "manuale-heritagetex-tessile-calabria-2026",
+      "title": "HERITAGETEX – CNA Calabria: manifestazione di interesse per le imprese tessili e artigiane calabresi (call for Calabria's textile businesses and artisans)",
+      "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
+      "source": "CNA Calabria",
+      "sourceUrl": "https://calabria.cna.it/categorie/bandi-finanziamenti-agevolati-leggi-di-incentivo/",
+      "documenti": [
+        {
+          "label": "Modulo di candidatura online",
+          "url": "https://forms.gle/eXDBwWHyL12iCAof8"
+        }
+      ],
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Interreg",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
+      "ancheSu": [
+        {
+          "fonte": "Fincalabra",
+          "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
+        },
+        {
+          "fonte": "CNA Calabria",
+          "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/"
+        }
+      ],
+      "date": "2026-07-22T11:06:48.000Z",
+      "deadline": "2026-09-11T21:59:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "nostro",
+      "ruolo": "stakeholder di progetto",
+      "motivi": [
+        "inserito a mano"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "stakeholder di progetto",
+        "nota": "La cosa più conveniente vista finora in rapporto allo sforzo: gratuita, non competitiva, si aderisce con un modulo online. Non porta un euro di contributo, porta la cosa che a noi serve davvero — stare dentro la mappatura CNA della filiera tessile calabrese, cioè l'elenco delle aziende con cui poi si fanno i contratti. Il testo ammette esplicitamente i \"servizi collegati alla filiera\", quindi un intermediario ci sta. L'ostacolo è il solito: chiede imprese \"operanti in Calabria\", e la SRLS è ancora in costituzione. SCADE VENERDÌ 11 SETTEMBRE 2026: se la società non è costituita in tempo, vale l",
+        "perche": [
+          "Il tessile è una delle filiere del nostro modello: il riciclo dei tessili è già fra i flussi mappati, e qui c'è un progetto europeo che raduna le aziende calabresi del settore in un elenco solo.",
+          "Costo zero e nessuna competizione: non c'è una graduatoria da vincere, si viene selezionati come stakeholder. Il ritorno è tutto relazionale, che è esattamente il nostro business.",
+          "I seminari sono su sostenibilità, economia circolare e strumenti digitali: è il nostro discorso commerciale, fatto davanti alle aziende giuste da un soggetto terzo e credibile come CNA.",
+          "Apre un canale su Interreg Grecia-Italia, il programma europeo più vicino a noi (la Calabria è area ammissibile e l'obiettivo 2.6 è l'economia circolare), attraverso un progetto già finanziato e già in corso."
+        ],
+        "come": [
+          "Compilare il modulo online https://forms.gle/eXDBwWHyL12iCAof8 entro venerdì 11 settembre 2026.",
+          "Prima di compilarlo, chiamare CNA Calabria e chiarire due cose: se un'impresa in costituzione può aderire, e se un operatore di servizi collegati alla filiera (non un produttore tessile) rientra fra i destinatari.",
+          "Nel modulo presentarsi per quello che siamo: intermediari di economia circolare che portano alle aziende tessili i servizi di raccolta e riciclo dei tessili e i Comuni come interlocutori. Non fingersi produttori.",
+          "Una volta dentro, usare i workshop e gli incontri di networking per raccogliere i contatti delle aziende della filiera: è quello il valore vero dell'adesione."
+        ],
+        "partecipazione": "singola",
+        "partner": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
+        "aggiornato": "2026-09-07T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-07T10:02:36.429Z"
+    },
+    {
+      "attivo": false,
       "id": "calabria-61173",
       "title": "Avviso pubblico per il sostegno allo sviluppo dei sistemi di raccolta differenziata e dei centri di raccolta",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-allo-sviluppo-dei-sistemi-di-raccolta-differenziata-e-dei-centri-di-raccolta/",
@@ -3016,8 +3075,8 @@
       "date": "2026-08-31T12:04:13.000Z",
       "deadline": "2026-09-10T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
+      "statoLabel": "Chiuso",
+      "isOpen": false,
       "relevanceScore": 3,
       "relevanceKeywords": [
         "raccolta differenziata"
