@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:26:20.686Z",
+  "generatedAt": "2026-09-13T11:27:43.495Z",
   "lastEmailSentAt": "2026-09-12T10:26:20.685Z",
   "nextEmailDueAt": "2026-09-19T10:26:20.685Z",
   "settings": {
@@ -9,7 +9,7 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 17,
+    "nuovi": 16,
     "attivi": 52,
     "inScadenza": 16,
     "scaduti": 26,
