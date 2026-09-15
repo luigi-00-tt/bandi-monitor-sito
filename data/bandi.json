@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:19:57.374Z",
+  "generatedAt": "2026-09-15T11:27:38.609Z",
   "lastEmailSentAt": "2026-09-12T10:26:20.685Z",
   "nextEmailDueAt": "2026-09-19T10:26:20.685Z",
   "settings": {
@@ -11,12 +11,12 @@
   "counts": {
     "nuovi": 16,
     "attivi": 52,
-    "inScadenza": 16,
-    "scaduti": 26,
-    "totale": 78,
+    "inScadenza": 17,
+    "scaduti": 27,
+    "totale": 79,
     "nostri": 42,
     "rete": 10,
-    "fuoriTema": 156
+    "fuoriTema": 159
   },
   "perFonte": {
     "Calabria Europa": {
@@ -52,7 +52,7 @@
       "attivi": 3
     },
     "MIMIT": {
-      "totale": 4,
+      "totale": 5,
       "attivi": 2
     },
     "Confcommercio Cosenza": {
@@ -969,10 +969,6 @@
         {
           "fonte": "Unical – Bandi europei",
           "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/24572-interreg-vi-a-greece-italy-programme-8th-call-for-small-scale-project-proposals-part-a-part-b/"
-        },
-        {
-          "fonte": "Interreg Grecia-Italia",
-          "link": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-b-has-been-launched/"
         }
       ],
       "date": "2026-07-29T00:00:00.000Z",
@@ -3013,6 +3009,10 @@
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
         },
         {
+          "fonte": "Interreg Grecia-Italia",
+          "link": "https://www.greece-italy.eu/heritagetex-the-call-for-local-textile-companies-has-been-reopened/"
+        },
+        {
           "fonte": "CNA Calabria",
           "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/"
         }
@@ -3251,6 +3251,43 @@
       "valutazione": null,
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
+    },
+    {
+      "attivo": false,
+      "id": "mimit-nuovo-piano-transizione-5-0-iperammortamento",
+      "title": "Nuovo Piano Transizione 5.0 - Iperammortamento",
+      "link": "https://www.mimit.gov.it/it/incentivi/nuovo-piano-transizione-5-0-iperammortamento",
+      "source": "MIMIT",
+      "sourceUrl": "https://www.mimit.gov.it/it/incentivi",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "nazionale",
+      "programma": "Nazionali",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "ancheSu": null,
+      "date": "2026-06-10T17:00:14.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 7,
+      "relevanceKeywords": [
+        "energia",
+        "rinnovabil",
+        "tecnolog",
+        "investiment"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiario diretto",
+      "motivi": [
+        "digitalizzazione e competenze",
+        "investimenti e innovazione d'impresa"
+      ],
+      "decisoDaTe": false,
+      "valutazione": null,
+      "fasi": null,
+      "segnalatoIl": "2026-09-15T11:27:38.598Z"
     },
     {
       "attivo": false,
