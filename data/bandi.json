@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T11:27:38.609Z",
-  "lastEmailSentAt": "2026-09-12T10:26:20.685Z",
-  "nextEmailDueAt": "2026-09-19T10:26:20.685Z",
+  "generatedAt": "2026-09-16T11:14:00.072Z",
+  "lastEmailSentAt": "2026-09-16T11:14:00.070Z",
+  "nextEmailDueAt": "2026-09-23T11:14:00.070Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,24 +9,16 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 16,
-    "attivi": 52,
-    "inScadenza": 17,
-    "scaduti": 27,
-    "totale": 79,
-    "nostri": 42,
-    "rete": 10,
-    "fuoriTema": 159
+    "nuovi": 18,
+    "attivi": 51,
+    "inScadenza": 15,
+    "scaduti": 29,
+    "totale": 80,
+    "nostri": 40,
+    "rete": 11,
+    "fuoriTema": 161
   },
   "perFonte": {
-    "Calabria Europa": {
-      "totale": 14,
-      "attivi": 5
-    },
-    "Comune di Cosenza": {
-      "totale": 1,
-      "attivi": 1
-    },
     "EU Funding & Tenders": {
       "totale": 27,
       "attivi": 27
@@ -39,29 +31,41 @@
       "totale": 1,
       "attivi": 1
     },
+    "Calabria Europa": {
+      "totale": 14,
+      "attivi": 4
+    },
     "Fincalabra": {
       "totale": 12,
       "attivi": 7
     },
-    "Unical – Bandi nazionali": {
+    "Federterziario Calabria": {
+      "totale": 9,
+      "attivi": 4
+    },
+    "MIMIT – misure e decreti": {
       "totale": 1,
       "attivi": 1
     },
-    "Federterziario Calabria": {
-      "totale": 8,
-      "attivi": 3
+    "Unical – Bandi nazionali": {
+      "totale": 1,
+      "attivi": 1
     },
     "MIMIT": {
       "totale": 5,
       "attivi": 2
     },
     "Confcommercio Cosenza": {
-      "totale": 4,
-      "attivi": 2
+      "totale": 3,
+      "attivi": 1
     },
     "Confartigianato Cosenza": {
       "totale": 2,
       "attivi": 1
+    },
+    "Comune di Cosenza": {
+      "totale": 1,
+      "attivi": 0
     },
     "CNA Calabria": {
       "totale": 1,
@@ -73,174 +77,17 @@
     }
   },
   "perAmbito": {
-    "regionale": 18,
-    "locale": 3,
     "europeo": 28,
-    "nazionale": 3
+    "locale": 2,
+    "regionale": 17,
+    "nazionale": 4
   },
   "perPartecipazione": {
-    "daVerificare": 4,
+    "partenariato": 30,
     "singola": 18,
-    "partenariato": 30
+    "daVerificare": 3
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "calabria-61061",
-      "title": "Avviso per il sostegno allo sviluppo di imprese che producano effetti socialmente desiderabili e beni pubblici promosse da donne, giovani e svantaggiati in genere",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-per-il-sostegno-allo-sviluppo-di-imprese-che-producano-effetti-socialmente-desiderabili-e-beni-pubblici-promosse-da-donne-giovani-e-svantaggiati-in-genere/",
-      "source": "Calabria Europa",
-      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
-      "ancheSu": null,
-      "date": "2026-07-21T12:16:58.000Z",
-      "deadline": "2026-09-15T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 6,
-      "relevanceKeywords": [
-        "imprese",
-        "giovani",
-        "donne"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "aiuti a PMI e nuove imprese",
-        "aiuti diretti alle imprese del territorio",
-        "economia circolare e riciclo"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "beneficiaria diretta",
-        "nota": "Bando regionale calabrese per nuove imprese promosse da donne, giovani e soggetti svantaggiati con impatto sociale: è la finestra più adatta per capitalizzare la SRLS in costituzione, se la compagine soci rientra nei requisiti anagrafici/di categoria.",
-        "perche": [
-          "La società è una SRLS in costituzione in Calabria: è esattamente il target di un avviso regionale dedicato a nuove imprese e start-up del territorio.",
-          "L'attività (economia circolare, raccolta differenziata, tariffazione puntuale, riciclo mozziconi con Human Maple) produce effetti socialmente desiderabili e beni pubblici misurabili: decoro urbano, riduzione rifiuti dispersi, risparmio per i Comuni.",
-          "Il know-how di gamification, campagne comportamentali e community engagement con atenei e Comuni è la parte 'sociale' più facile da documentare nel piano d'impresa.",
-          "È uno dei pochi bandi in cui si partecipa da soli come beneficiaria diretta, senza dover costruire consorzi europei: risorse per costituzione, primi contratti e struttura commerciale."
-        ],
-        "come": [
-          "Verificare subito i requisiti soggettivi: quota di under 35/donne/soggetti svantaggiati nella compagine e negli organi, forma giuridica ammessa (SRLS ordinaria o impresa sociale) e data di costituzione richiesta; se serve, ricalibrare quote e cariche prima di costituire.",
-          "Preparare il business plan sul modello di intermediazione: catalogo dei 19 fornitori RFID/TARIP, esclusiva Human Maple, Junker, Iotilize, con ricavi da provvigione e proiezioni sui Comuni già in contatto.",
-          "Allegare lettere di interesse dei Comuni calabresi e il contratto quadro R&S con Unical come prova di mercato e di impatto sociale/territoriale.",
-          "Impostare le spese ammissibili su ciò che serve davvero: costituzione, software di gestione lead, campagne di engagement, primi lotti dimostrativi di posacenere smart e pannelli CAM."
-        ],
-        "aggiornato": "2026-08-21T17:16:35.012Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-26T10:59:50.418Z"
-    },
-    {
-      "attivo": true,
-      "id": "manuale-agenda-urbana-cosenza-rende-2026",
-      "title": "Agenda Urbana Cosenza-Rende – Avviso \"Promuovere lo sviluppo economico delle città di Cosenza e Rende – Aiuti alle imprese\"",
-      "link": "https://www.agendaurbana-cosenzarende.it/avviso-pubblico-aiuti-alle-imprese-agenda-urbana/",
-      "source": "Comune di Cosenza",
-      "sourceUrl": "https://www.comune.cosenza.it/it/novita/avvisi",
-      "documenti": [
-        {
-          "label": "Avviso pubblico (PDF)",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Avviso-Pubblico-Aiuti-alle-Imprese.pdf"
-        },
-        {
-          "label": "Allegato 1 – Modello di domanda (rettificato)",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-1-Modello-di-Domanda_RETTIFICATO.docx"
-        },
-        {
-          "label": "Allegato 2 – Formulario (rettificato)",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-2-Formulario_RETTIFICATO.docx"
-        },
-        {
-          "label": "Allegati 3-4-5",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegati-3-4-5.docx"
-        },
-        {
-          "label": "Allegato 6 – Dichiarazione de minimis",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-6-Dichiarazione-de-minimis.docx"
-        },
-        {
-          "label": "Allegato 7 – Principio DNSH",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-7-Principio-DNSH.docx"
-        },
-        {
-          "label": "Allegato 8 – Codici ATECO ammessi (rettificato)",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-8_Codici-ATECO_RETTIFICATO.pdf"
-        },
-        {
-          "label": "Allegato 9 – Delimitazione del centro storico",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-9-Delimitazione-Centro-Storico.pdf"
-        },
-        {
-          "label": "FAQ",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/FAQ-Avviso-Aiuti-alle-Imprese.pdf"
-        },
-        {
-          "label": "FAQ 2",
-          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/08/FAQ-2-Avviso-Aiuti-alle-Imprese.pdf"
-        }
-      ],
-      "linkNotizia": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
-      "ambito": "locale",
-      "programma": "Comuni e Agenda Urbana",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
-      "ancheSu": [
-        {
-          "fonte": "Federterziario Calabria",
-          "link": "https://www.federterziariocalabria.it/bando-agenda-urbana-cosenza-rende/"
-        },
-        {
-          "fonte": "Confartigianato Cosenza",
-          "link": "https://www.confartigianatocosenza.it/2026/06/16/agenda-urbana-cosenza-rende-2021-2027/"
-        }
-      ],
-      "date": "2026-07-09T00:00:00.000Z",
-      "deadline": "2026-09-15T21:59:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "beneficiario diretto",
-      "motivi": [
-        "inserito a mano"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "beneficiario diretto",
-        "nota": "Il bando più vicino a noi che sia mai passato dal monitor: il territorio è esattamente quello dove apriamo. ATTENZIONE al requisito soggettivo: l'avviso è per micro, piccole e medie imprese, e la nostra è ancora una SRLS in costituzione. Prima di qualunque altra cosa va letto sul testo dell'avviso se ammette le imprese costituite dopo la pubblicazione e con quale termine. Scade il 15 settembre 2026.",
-        "perche": [
-          "La sede operativa che vogliamo aprire è a Rende, uno dei due Comuni dell'avviso: il requisito territoriale, che di solito è l'ostacolo, qui è il nostro punto di forza.",
-          "È un contributo a fondo perduto a una singola impresa: non serve un consorzio, non servono partner europei, non serve un progetto di ricerca. È il tipo di bando in cui siamo beneficiari diretti e non intermediari.",
-          "Finanzia l'avvio e lo sviluppo economico di imprese sul territorio: copre le spese di partenza di una società di servizi come la nostra, che ha bisogno di attrezzature, software e struttura più che di impianti.",
-          "Ci mette in rapporto diretto con i due Comuni proprio mentre stiamo costruendo la rete di enti da portare nei bandi europei come territorio pilota: il rapporto vale quanto il contributo."
-        ],
-        "come": [
-          "Per prima cosa leggere il testo integrale dell'avviso e le FAQ pubblicate dal Comune di Cosenza, che è capofila, e verificare se una società in costituzione è ammissibile e a quali condizioni.",
-          "Se la costituzione va perfezionata prima della domanda, capire subito dal notaio quanto tempo serve: mancano meno di due settimane alla scadenza del 15 settembre.",
-          "Preparare i preventivi delle spese: è il documento che richiede più tempo e per cui l'avviso è già stato prorogato una volta.",
-          "Chiedere assistenza a Confcommercio o Confartigianato Cosenza, che hanno entrambe pubblicato il bando e assistono gratuitamente gli associati nella compilazione."
-        ],
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
-        "aggiornato": "2026-09-02T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
     {
       "attivo": true,
       "id": "eu-LIFE-2026-CET-BETTERRENO",
@@ -1897,6 +1744,120 @@
     },
     {
       "attivo": true,
+      "id": "federterziario-6835",
+      "title": "Brevetti+ 2026: fino all'80% a fondo perduto per le MPMI",
+      "link": "https://www.federterziariocalabria.it/brevetti-2026-fino-all80-a-fondo-perduto-per-le-mpmi/",
+      "source": "Federterziario Calabria",
+      "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessun partner obbligatorio: presenta la singola impresa titolare del brevetto; eventuale fornitore di servizi specialistici (consulente brevettuale, università) come fornitore, non come partner",
+      "ancheSu": null,
+      "date": "2026-09-16T11:12:46.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 8,
+      "relevanceKeywords": [
+        "pmi",
+        "piccole e medie imprese",
+        "imprese",
+        "contributo",
+        "incentivo"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete + intermediazione",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "contributo a fondo perduto"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete + intermediazione",
+        "partecipazione": "singola",
+        "partner": "Nessun partner obbligatorio: presenta la singola impresa titolare del brevetto; eventuale fornitore di servizi specialistici (consulente brevettuale, università) come fornitore, non come partner",
+        "nota": "Brevetti+ finanzia la valorizzazione di brevetti già concessi o depositati: noi non siamo titolari di titoli brevettuali, ma Human Maple e diverse aziende del catalogo sì. Bando da girare alla rete con accordo provvigionale.",
+        "perche": [
+          "Il requisito centrale è la titolarità di un brevetto concesso (o domanda con rapporto di ricerca positivo): la SRLS in costituzione non possiede titoli brevettuali propri e non sarebbe ammissibile oggi.",
+          "Human Maple (processo di recupero dell'acetato di cellulosa dai mozziconi e pannelli edilizi CAM) e diverse delle 19 aziende di RFID/retrofit/TARIP sono invece candidate naturali: il bando finanzia industrializzazione e ingegnerizzazione del brevetto.",
+          "È la leva commerciale tipica del nostro modello: portiamo un contributo fino all'80% al fornitore e in cambio consolidiamo esclusiva e provvigione sui contratti in Calabria.",
+          "Prospettiva a medio termine per noi: Brevetti+ finanzia anche l'acquisto di brevetti da università o persone fisiche, quindi con Unical (contratto quadro già esistente) si potrebbe costruire una candidatura nostra una volta iscritti al Registro Imprese e con un titolo acquisito."
+        ],
+        "come": [
+          "Verificare sul testo UIBM/Invitalia i requisiti soggettivi (impresa attiva iscritta al Registro Imprese, dimensione MPMI, anzianità) e la data esatta di apertura dello sportello, che è a graduatoria cronologica.",
+          "Mappare in 10 giorni quali aziende della rete hanno brevetti concessi o domande con rapporto di ricerca: partire da Human Maple e dai fornitori di tecnologia RFID/TARIP, chiedendo numero di deposito e stato del titolo.",
+          "Far firmare accordo provvigionale e patto di non elusione prima di passare qualsiasi contatto o di presentare il consulente brevettuale; legare la provvigione ai contratti che ne derivano sul territorio calabrese.",
+          "Aprire in parallelo il dossier interno: verificare con l'ufficio trasferimento tecnologico Unical se esistono brevetti cedibili su materiali da riciclo, da valutare per una nostra domanda dopo l'iscrizione al Registro Imprese."
+        ],
+        "aggiornato": "2026-09-16T11:13:35.849Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-16T11:14:00.059Z"
+    },
+    {
+      "attivo": true,
+      "id": "mimitnews-fondo-di-garanzia-per-le-pmi-presentato-al-mimit-il-primo-logo-ufficiale",
+      "title": "Fondo di garanzia per le PMI, presentato al MIMIT il primo logo ufficiale",
+      "link": "https://www.mimit.gov.it/it/notizie-stampa/fondo-di-garanzia-per-le-pmi-presentato-al-mimit-il-primo-logo-ufficiale",
+      "source": "MIMIT – misure e decreti",
+      "sourceUrl": "https://www.mimit.gov.it/it/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "nazionale",
+      "programma": "Nazionali",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessun partner: la garanzia si attiva tramite la banca o il confidi che istruisce il finanziamento; serve solo l'impresa iscritta al Registro Imprese",
+      "ancheSu": null,
+      "date": "2026-09-16T10:56:36.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 4,
+      "relevanceKeywords": [
+        "pmi",
+        "imprese"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria indiretta via banca",
+      "motivi": [
+        "aiuti a PMI e nuove imprese"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "beneficiaria indiretta via banca",
+        "partecipazione": "singola",
+        "partner": "Nessun partner: la garanzia si attiva tramite la banca o il confidi che istruisce il finanziamento; serve solo l'impresa iscritta al Registro Imprese",
+        "nota": "Non è un bando ma una notizia istituzionale (presentazione del logo del Fondo di garanzia PMI). Lo strumento in sé resta utile come leva di credito per la società appena costituita, ma non porta fondo perduto: da archiviare come nota finanziaria, non come scadenza.",
+        "perche": [
+          "Il contenuto è una comunicazione di immagine del MIMIT, non una call con dotazione, requisiti e scadenza: non c'è nulla da presentare.",
+          "Il Fondo di garanzia PMI non è contributo a fondo perduto: garantisce finanziamenti bancari, quindi non serve come leva commerciale verso Comuni e fornitori come i bandi a fondo perduto.",
+          "Può però tornare utile come strumento di liquidità per la SRLS in avvio (sezione start-up/nuove imprese, che in genere non richiede storico di bilancio) per finanziare capitale circolante e anticipi sui primi contratti di intermediazione.",
+          "La società è ancora in costituzione e non iscritta al Registro Imprese: qualsiasi accesso allo strumento è comunque rinviato al post-iscrizione."
+        ],
+        "come": [
+          "Completare l'iscrizione al Registro Imprese e aprire il conto sociale: senza partita IVA attiva e codice ATECO nessuna banca può istruire la richiesta di garanzia.",
+          "Verificare con una banca o un confidi locale (Cosenza/Rende) le condizioni della sezione dedicata a start-up e nuove imprese: importo massimo garantito, percentuale di copertura, documentazione richiesta a un'impresa senza bilanci.",
+          "Non impegnare tempo di progettazione su questa notizia: tenere presidiata la pagina MIMIT per le vere misure a fondo perduto per PMI e nuove imprese.",
+          "Preparare intanto un business plan a 24 mesi con i ricavi da provvigione (Human Maple, catalogo RFID/TARIP, Junker) da usare sia in banca sia nei futuri bandi regionali."
+        ],
+        "aggiornato": "2026-09-16T11:13:52.901Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-16T11:14:00.059Z"
+    },
+    {
+      "attivo": true,
       "id": "unicalnaz-24917-mimit-fondo-per-programmi-di-sviluppo-e-progetti-di-innovazione-per-imprese-del-settore-moda-tessile-e-accessori",
       "title": "Mimit. Fondo per programmi di sviluppo e progetti di innovazione per imprese del settore moda, tessile e accessori",
       "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/24917-mimit-fondo-per-programmi-di-sviluppo-e-progetti-di-innovazione-per-imprese-del-settore-moda-tessile-e-accessori/",
@@ -2479,66 +2440,6 @@
     },
     {
       "attivo": true,
-      "id": "confcommcs-229647",
-      "title": "Voucher Cloud e Cybersecurity: contributi fino a 20.000 euro per le imprese",
-      "link": "https://confcommerciocosenza.it/voucher-cloud-e-cybersecurity-contributi-fino-a-20-000-euro-per-le-imprese/",
-      "source": "Confcommercio Cosenza",
-      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
-      "ancheSu": null,
-      "date": "2026-08-27T11:48:33.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 10,
-      "relevanceKeywords": [
-        "piccole e medie imprese",
-        "imprese",
-        "digitalizzazione",
-        "digital",
-        "tecnolog"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "contributo a fondo perduto",
-        "aiuti a PMI e nuove imprese",
-        "digitalizzazione e competenze"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
-        "nota": "Voucher digitale fino a 20.000 euro sul territorio di Cosenza: occasione da prima fila per finanziare la nostra infrastruttura cloud, CRM e sicurezza dati. Nodo unico: l'ammissibilità di una società ancora in costituzione.",
-        "perche": [
-          "Bando su territorio Cosenza, dove apriamo la sede operativa a Rende: siamo esattamente nel perimetro dei beneficiari",
-          "Si presenta da soli, senza consorzi: istruttoria e domanda gestibili in poche settimane, a differenza dei bandi europei",
-          "Il nostro modello di intermediazione vive su strumenti cloud: CRM per Comuni e fornitori, gestione dati TARIP/RFID, dashboard di monitoraggio, integrazioni con Junker e Iotilize; la cybersecurity è un requisito reale trattando dati di enti pubblici",
-          "Un fondo perduto sulle spese digitali abbatte i costi fissi di avvio della SRLS senza intaccare la liquidità necessaria all'attività commerciale"
-        ],
-        "come": [
-          "Verificare come primo passo se una società appena costituita o in costituzione è ammissibile: data limite di iscrizione al Registro Imprese, eventuale anzianità minima, codice ATECO ammesso, iscrizione/regolarità con la Camera di commercio di Cosenza e con il diritto annuale; se serve, accelerare la costituzione presso il notaio prima della scadenza",
-          "Recuperare il testo integrale e l'ente gestore effettivo (Confcommercio è il canale informativo, il bando è probabilmente camerale o regionale): sportello a graduatoria o a sportello, percentuale di contributo, spesa minima ammissibile",
-          "Preparare il pacchetto tecnico: preventivi da fornitori ICT qualificati per CRM/gestionale in cloud, backup, MFA e protezione dati, con descrizione degli output attesi (piattaforma di gestione contratti e provvigioni, portale per i Comuni)",
-          "Predisporre in anticipo documenti societari, DURC, SPID/firma digitale del legale rappresentante e conto dedicato, per non perdere la finestra di presentazione"
-        ],
-        "aggiornato": "2026-09-03T11:00:49.729Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
       "id": "calabria-58265",
       "title": "FRI Calabria",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/fri-calabria/",
@@ -2987,6 +2888,163 @@
     },
     {
       "attivo": false,
+      "id": "manuale-agenda-urbana-cosenza-rende-2026",
+      "title": "Agenda Urbana Cosenza-Rende – Avviso \"Promuovere lo sviluppo economico delle città di Cosenza e Rende – Aiuti alle imprese\"",
+      "link": "https://www.agendaurbana-cosenzarende.it/avviso-pubblico-aiuti-alle-imprese-agenda-urbana/",
+      "source": "Comune di Cosenza",
+      "sourceUrl": "https://www.comune.cosenza.it/it/novita/avvisi",
+      "documenti": [
+        {
+          "label": "Avviso pubblico (PDF)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Avviso-Pubblico-Aiuti-alle-Imprese.pdf"
+        },
+        {
+          "label": "Allegato 1 – Modello di domanda (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-1-Modello-di-Domanda_RETTIFICATO.docx"
+        },
+        {
+          "label": "Allegato 2 – Formulario (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-2-Formulario_RETTIFICATO.docx"
+        },
+        {
+          "label": "Allegati 3-4-5",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegati-3-4-5.docx"
+        },
+        {
+          "label": "Allegato 6 – Dichiarazione de minimis",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-6-Dichiarazione-de-minimis.docx"
+        },
+        {
+          "label": "Allegato 7 – Principio DNSH",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-7-Principio-DNSH.docx"
+        },
+        {
+          "label": "Allegato 8 – Codici ATECO ammessi (rettificato)",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-8_Codici-ATECO_RETTIFICATO.pdf"
+        },
+        {
+          "label": "Allegato 9 – Delimitazione del centro storico",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/Allegato-9-Delimitazione-Centro-Storico.pdf"
+        },
+        {
+          "label": "FAQ",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/07/FAQ-Avviso-Aiuti-alle-Imprese.pdf"
+        },
+        {
+          "label": "FAQ 2",
+          "url": "https://www.agendaurbana-cosenzarende.it/wp-content/uploads/2026/08/FAQ-2-Avviso-Aiuti-alle-Imprese.pdf"
+        }
+      ],
+      "linkNotizia": "https://www.comune.cosenza.it/it/novita/page/bando-di-agenda-urbana-per-gli-aiuti-alle-imprese-prorogato-al-15-settembre-il-termine-per-la-presentazione-delle-domande-di-partecipazione",
+      "ambito": "locale",
+      "programma": "Comuni e Agenda Urbana",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
+      "ancheSu": [
+        {
+          "fonte": "Federterziario Calabria",
+          "link": "https://www.federterziariocalabria.it/bando-agenda-urbana-cosenza-rende/"
+        },
+        {
+          "fonte": "Confartigianato Cosenza",
+          "link": "https://www.confartigianatocosenza.it/2026/06/16/agenda-urbana-cosenza-rende-2021-2027/"
+        }
+      ],
+      "date": "2026-07-09T00:00:00.000Z",
+      "deadline": "2026-09-15T21:59:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "nostro",
+      "ruolo": "beneficiario diretto",
+      "motivi": [
+        "inserito a mano"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "beneficiario diretto",
+        "nota": "Il bando più vicino a noi che sia mai passato dal monitor: il territorio è esattamente quello dove apriamo. ATTENZIONE al requisito soggettivo: l'avviso è per micro, piccole e medie imprese, e la nostra è ancora una SRLS in costituzione. Prima di qualunque altra cosa va letto sul testo dell'avviso se ammette le imprese costituite dopo la pubblicazione e con quale termine. Scade il 15 settembre 2026.",
+        "perche": [
+          "La sede operativa che vogliamo aprire è a Rende, uno dei due Comuni dell'avviso: il requisito territoriale, che di solito è l'ostacolo, qui è il nostro punto di forza.",
+          "È un contributo a fondo perduto a una singola impresa: non serve un consorzio, non servono partner europei, non serve un progetto di ricerca. È il tipo di bando in cui siamo beneficiari diretti e non intermediari.",
+          "Finanzia l'avvio e lo sviluppo economico di imprese sul territorio: copre le spese di partenza di una società di servizi come la nostra, che ha bisogno di attrezzature, software e struttura più che di impianti.",
+          "Ci mette in rapporto diretto con i due Comuni proprio mentre stiamo costruendo la rete di enti da portare nei bandi europei come territorio pilota: il rapporto vale quanto il contributo."
+        ],
+        "come": [
+          "Per prima cosa leggere il testo integrale dell'avviso e le FAQ pubblicate dal Comune di Cosenza, che è capofila, e verificare se una società in costituzione è ammissibile e a quali condizioni.",
+          "Se la costituzione va perfezionata prima della domanda, capire subito dal notaio quanto tempo serve: mancano meno di due settimane alla scadenza del 15 settembre.",
+          "Preparare i preventivi delle spese: è il documento che richiede più tempo e per cui l'avviso è già stato prorogato una volta.",
+          "Chiedere assistenza a Confcommercio o Confartigianato Cosenza, che hanno entrambe pubblicato il bando e assistono gratuitamente gli associati nella compilazione."
+        ],
+        "partecipazione": "singola",
+        "partner": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
+        "aggiornato": "2026-09-02T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": false,
+      "id": "calabria-61061",
+      "title": "Avviso per il sostegno allo sviluppo di imprese che producano effetti socialmente desiderabili e beni pubblici promosse da donne, giovani e svantaggiati in genere",
+      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-per-il-sostegno-allo-sviluppo-di-imprese-che-producano-effetti-socialmente-desiderabili-e-beni-pubblici-promosse-da-donne-giovani-e-svantaggiati-in-genere/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "daVerificare",
+      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
+      "ancheSu": null,
+      "date": "2026-07-21T12:16:58.000Z",
+      "deadline": "2026-09-15T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 6,
+      "relevanceKeywords": [
+        "imprese",
+        "giovani",
+        "donne"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria diretta",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "aiuti diretti alle imprese del territorio",
+        "economia circolare e riciclo"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "beneficiaria diretta",
+        "nota": "Bando regionale calabrese per nuove imprese promosse da donne, giovani e soggetti svantaggiati con impatto sociale: è la finestra più adatta per capitalizzare la SRLS in costituzione, se la compagine soci rientra nei requisiti anagrafici/di categoria.",
+        "perche": [
+          "La società è una SRLS in costituzione in Calabria: è esattamente il target di un avviso regionale dedicato a nuove imprese e start-up del territorio.",
+          "L'attività (economia circolare, raccolta differenziata, tariffazione puntuale, riciclo mozziconi con Human Maple) produce effetti socialmente desiderabili e beni pubblici misurabili: decoro urbano, riduzione rifiuti dispersi, risparmio per i Comuni.",
+          "Il know-how di gamification, campagne comportamentali e community engagement con atenei e Comuni è la parte 'sociale' più facile da documentare nel piano d'impresa.",
+          "È uno dei pochi bandi in cui si partecipa da soli come beneficiaria diretta, senza dover costruire consorzi europei: risorse per costituzione, primi contratti e struttura commerciale."
+        ],
+        "come": [
+          "Verificare subito i requisiti soggettivi: quota di under 35/donne/soggetti svantaggiati nella compagine e negli organi, forma giuridica ammessa (SRLS ordinaria o impresa sociale) e data di costituzione richiesta; se serve, ricalibrare quote e cariche prima di costituire.",
+          "Preparare il business plan sul modello di intermediazione: catalogo dei 19 fornitori RFID/TARIP, esclusiva Human Maple, Junker, Iotilize, con ricavi da provvigione e proiezioni sui Comuni già in contatto.",
+          "Allegare lettere di interesse dei Comuni calabresi e il contratto quadro R&S con Unical come prova di mercato e di impatto sociale/territoriale.",
+          "Impostare le spese ammissibili su ciò che serve davvero: costituzione, software di gestione lead, campagne di engagement, primi lotti dimostrativi di posacenere smart e pannelli CAM."
+        ],
+        "aggiornato": "2026-08-21T17:16:35.012Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-26T10:59:50.418Z"
+    },
+    {
+      "attivo": false,
       "id": "manuale-heritagetex-tessile-calabria-2026",
       "title": "HERITAGETEX – CNA Calabria: manifestazione di interesse per le imprese tessili e artigiane calabresi (call for Calabria's textile businesses and artisans)",
       "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
@@ -3068,10 +3126,10 @@
       "partecipazione": "daVerificare",
       "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
       "ancheSu": null,
-      "date": "2026-08-31T12:04:13.000Z",
+      "date": "2026-09-16T11:39:32.000Z",
       "deadline": "2026-09-10T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "Chiuso",
+      "statoLabel": "In valutazione",
       "isOpen": false,
       "relevanceScore": 3,
       "relevanceKeywords": [

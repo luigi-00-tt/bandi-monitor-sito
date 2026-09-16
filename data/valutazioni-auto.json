@@ -620,5 +620,47 @@
       "Preparare una scheda 'Calabria territorio pilota': Comuni disponibili alla raccolta differenziata del tessile, volumi stimabili e proposta di campagna di engagement da allegare al progetto dell'impresa candidata."
     ],
     "aggiornato": "2026-09-12T10:26:17.345Z"
+  },
+  "federterziario-6835": {
+    "verdetto": "rete",
+    "priorita": "B",
+    "ruolo": "segnalazione alla rete + intermediazione",
+    "partecipazione": "singola",
+    "partner": "Nessun partner obbligatorio: presenta la singola impresa titolare del brevetto; eventuale fornitore di servizi specialistici (consulente brevettuale, università) come fornitore, non come partner",
+    "nota": "Brevetti+ finanzia la valorizzazione di brevetti già concessi o depositati: noi non siamo titolari di titoli brevettuali, ma Human Maple e diverse aziende del catalogo sì. Bando da girare alla rete con accordo provvigionale.",
+    "perche": [
+      "Il requisito centrale è la titolarità di un brevetto concesso (o domanda con rapporto di ricerca positivo): la SRLS in costituzione non possiede titoli brevettuali propri e non sarebbe ammissibile oggi.",
+      "Human Maple (processo di recupero dell'acetato di cellulosa dai mozziconi e pannelli edilizi CAM) e diverse delle 19 aziende di RFID/retrofit/TARIP sono invece candidate naturali: il bando finanzia industrializzazione e ingegnerizzazione del brevetto.",
+      "È la leva commerciale tipica del nostro modello: portiamo un contributo fino all'80% al fornitore e in cambio consolidiamo esclusiva e provvigione sui contratti in Calabria.",
+      "Prospettiva a medio termine per noi: Brevetti+ finanzia anche l'acquisto di brevetti da università o persone fisiche, quindi con Unical (contratto quadro già esistente) si potrebbe costruire una candidatura nostra una volta iscritti al Registro Imprese e con un titolo acquisito."
+    ],
+    "come": [
+      "Verificare sul testo UIBM/Invitalia i requisiti soggettivi (impresa attiva iscritta al Registro Imprese, dimensione MPMI, anzianità) e la data esatta di apertura dello sportello, che è a graduatoria cronologica.",
+      "Mappare in 10 giorni quali aziende della rete hanno brevetti concessi o domande con rapporto di ricerca: partire da Human Maple e dai fornitori di tecnologia RFID/TARIP, chiedendo numero di deposito e stato del titolo.",
+      "Far firmare accordo provvigionale e patto di non elusione prima di passare qualsiasi contatto o di presentare il consulente brevettuale; legare la provvigione ai contratti che ne derivano sul territorio calabrese.",
+      "Aprire in parallelo il dossier interno: verificare con l'ufficio trasferimento tecnologico Unical se esistono brevetti cedibili su materiali da riciclo, da valutare per una nostra domanda dopo l'iscrizione al Registro Imprese."
+    ],
+    "aggiornato": "2026-09-16T11:13:35.849Z"
+  },
+  "mimitnews-fondo-di-garanzia-per-le-pmi-presentato-al-mimit-il-primo-logo-ufficiale": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "beneficiaria indiretta via banca",
+    "partecipazione": "singola",
+    "partner": "Nessun partner: la garanzia si attiva tramite la banca o il confidi che istruisce il finanziamento; serve solo l'impresa iscritta al Registro Imprese",
+    "nota": "Non è un bando ma una notizia istituzionale (presentazione del logo del Fondo di garanzia PMI). Lo strumento in sé resta utile come leva di credito per la società appena costituita, ma non porta fondo perduto: da archiviare come nota finanziaria, non come scadenza.",
+    "perche": [
+      "Il contenuto è una comunicazione di immagine del MIMIT, non una call con dotazione, requisiti e scadenza: non c'è nulla da presentare.",
+      "Il Fondo di garanzia PMI non è contributo a fondo perduto: garantisce finanziamenti bancari, quindi non serve come leva commerciale verso Comuni e fornitori come i bandi a fondo perduto.",
+      "Può però tornare utile come strumento di liquidità per la SRLS in avvio (sezione start-up/nuove imprese, che in genere non richiede storico di bilancio) per finanziare capitale circolante e anticipi sui primi contratti di intermediazione.",
+      "La società è ancora in costituzione e non iscritta al Registro Imprese: qualsiasi accesso allo strumento è comunque rinviato al post-iscrizione."
+    ],
+    "come": [
+      "Completare l'iscrizione al Registro Imprese e aprire il conto sociale: senza partita IVA attiva e codice ATECO nessuna banca può istruire la richiesta di garanzia.",
+      "Verificare con una banca o un confidi locale (Cosenza/Rende) le condizioni della sezione dedicata a start-up e nuove imprese: importo massimo garantito, percentuale di copertura, documentazione richiesta a un'impresa senza bilanci.",
+      "Non impegnare tempo di progettazione su questa notizia: tenere presidiata la pagina MIMIT per le vere misure a fondo perduto per PMI e nuove imprese.",
+      "Preparare intanto un business plan a 24 mesi con i ricavi da provvigione (Human Maple, catalogo RFID/TARIP, Junker) da usare sia in banca sia nei futuri bandi regionali."
+    ],
+    "aggiornato": "2026-09-16T11:13:52.901Z"
   }
 }
