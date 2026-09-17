@@ -662,5 +662,26 @@
       "Preparare intanto un business plan a 24 mesi con i ricavi da provvigione (Human Maple, catalogo RFID/TARIP, Junker) da usare sia in banca sia nei futuri bandi regionali."
     ],
     "aggiornato": "2026-09-16T11:13:52.901Z"
+  },
+  "confcommcs-229768": {
+    "verdetto": "rete",
+    "priorita": "C",
+    "ruolo": "segnalazione alla rete tessile",
+    "partecipazione": "singola",
+    "partner": "Nessuno per il beneficiario: è un aiuto alle imprese che si presenta in forma singola; noi non siamo ammissibili, quindi serve un'impresa della filiera moda/tessile come beneficiaria",
+    "nota": "Misura riservata alle PMI della filiera moda-tessile-pelletteria-calzature: la nostra società non è ammissibile per codice attività. Utile solo come segnalazione a un'azienda di riciclo tessile, settore in cui oggi non abbiamo un partner consolidato.",
+    "perche": [
+      "Il bando finanzia programmi di sviluppo di PMI manifatturiere della filiera moda (tessile, abbigliamento, pelletteria, calzature): la nostra attività è intermediazione di economia circolare su rifiuti urbani, fuori perimetro.",
+      "In più la società è ancora in costituzione e non iscritta al Registro Imprese: un aiuto agli investimenti produttivi richiede impresa attiva e in genere bilanci o programma di spesa su impianti che non abbiamo.",
+      "Il valore residuo è commerciale: le PMI moda finanziate devono investire anche in sostenibilità e circolarità (riciclo scarti tessili, materiali conformi ai CAM), tema su cui possiamo posizionarci come intermediari.",
+      "Nel catalogo attuale (RFID, TARIP, retrofit contenitori, mozziconi, pannolini, Junker) non c'è un fornitore di riciclo tessile pronto: la provvigione oggi sarebbe teorica."
+    ],
+    "come": [
+      "Verificare i codici ATECO ammessi e la dimensione minima degli investimenti per capire se esiste un caso d'uso reale prima di investire tempo.",
+      "Usare il bando come apriporta: mappare 2-3 aziende di riciclo/rigenerazione tessile (anche fuori Calabria) da inserire nel catalogo, proponendo loro la segnalazione delle PMI moda calabresi finanziabili.",
+      "Chiedere a Confcommercio Cosenza l'elenco o il numero di imprese moda del territorio potenzialmente interessate, per valutare se il mercato locale giustifica lo sforzo.",
+      "Con eventuali fornitori tessili firmare accordo provvigionale e patto di non elusione prima di presentare qualsiasi contatto."
+    ],
+    "aggiornato": "2026-09-17T11:21:23.935Z"
   }
 }
