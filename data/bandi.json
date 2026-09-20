@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:38:16.217Z",
+  "generatedAt": "2026-09-20T11:00:32.671Z",
   "lastEmailSentAt": "2026-09-17T11:21:25.939Z",
   "nextEmailDueAt": "2026-09-24T11:21:25.939Z",
   "settings": {
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 17,
+    "nuovi": 16,
     "attivi": 51,
     "inScadenza": 14,
     "scaduti": 30,
     "totale": 81,
     "nostri": 39,
     "rete": 12,
-    "fuoriTema": 158
+    "fuoriTema": 154
   },
   "perFonte": {
     "EU Funding & Tenders": {
