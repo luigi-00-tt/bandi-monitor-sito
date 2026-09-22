@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:27:16.435Z",
+  "generatedAt": "2026-09-22T11:17:42.591Z",
   "lastEmailSentAt": "2026-09-17T11:21:25.939Z",
   "nextEmailDueAt": "2026-09-24T11:21:25.939Z",
   "settings": {
@@ -10,18 +10,18 @@
   },
   "counts": {
     "nuovi": 15,
-    "attivi": 50,
-    "inScadenza": 14,
-    "scaduti": 30,
+    "attivi": 46,
+    "inScadenza": 10,
+    "scaduti": 34,
     "totale": 80,
-    "nostri": 38,
-    "rete": 12,
-    "fuoriTema": 159
+    "nostri": 35,
+    "rete": 11,
+    "fuoriTema": 158
   },
   "perFonte": {
     "EU Funding & Tenders": {
       "totale": 27,
-      "attivi": 26
+      "attivi": 22
     },
     "CCIAA Cosenza": {
       "totale": 2,
@@ -73,223 +73,17 @@
     }
   },
   "perAmbito": {
-    "europeo": 27,
+    "europeo": 23,
     "locale": 2,
     "regionale": 18,
     "nazionale": 3
   },
   "perPartecipazione": {
-    "partenariato": 29,
+    "partenariato": 25,
     "singola": 18,
     "daVerificare": 3
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "eu-LIFE-2026-SAP-ENV-ENVIRONMENT",
-      "title": "Circular Economy and Zero Pollution",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-ENV-ENVIRONMENT",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "LIFE – ambiente",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "Consorzio, che però può essere tutto italiano: per questo LIFE è il programma europeo più abbordabile.",
-      "ancheSu": null,
-      "date": "2026-04-21T00:00:00.000Z",
-      "deadline": "2026-09-22T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 8,
-      "relevanceKeywords": [
-        "circular economy",
-        "circular",
-        "pollution"
-      ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico + territorio",
-      "motivi": [
-        "economia circolare e riciclo"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico + territorio",
-        "nota": "Il più abbordabile: LIFE finanzia dimostrazione sul campo, non ricerca, e permette un consorzio tutto italiano (noi + 2-3 Comuni calabresi + Unical).",
-        "perche": [
-          "LIFE SAP ENV finanzia proprio startup e PMI con una tecnologia innovativa che devono fare scale-up verso un impianto pilota o un modello pre-commerciale: il caso di Human Maple.",
-          "A differenza di Horizon basta un consorzio snello e anche tutto italiano (3-4 partner): noi + 2 Comuni calabresi + Unical per le analisi ambientali.",
-          "Adora le partnership pubblico-privato locali: possiamo presentare un 'modello integrato di economia circolare urbana per i Comuni del Sud Italia' con le altre aziende della rete su altre frazioni di rifiuto."
-        ],
-        "come": [
-          "Raccogliere fin da subito i dati di impatto ambientale (tonnellate sottratte alla discarica, CO2, microplastiche evitate): LIFE vuole KPI misurabili, non paper scientifici.",
-          "Far firmare lettere di intenti (Letter of Support) ai Comuni calabresi con cui stiamo parlando.",
-          "Presentare un business plan che dimostri che, finito il finanziamento, la società sta in piedi da sola.",
-          "Possibile ruolo di coordinatore: qui il carico burocratico è sostenibile anche per una startup."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-JU-CBE-2026-IA-04",
-      "title": "High-performance, circular-by-design, bio-based thermosets",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-IA-04",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "CBE JU – industrie bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON JU Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-04-23T00:00:00.000Z",
-      "deadline": "2026-09-22T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "circular"
-      ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico",
-      "motivi": [
-        "materiali bio-based e avanzati"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico",
-        "nota": "Il più adatto in assoluto sul lato materiali: termoindurenti bio-based per edilizia. Portiamo l'acetato di cellulosa dai mozziconi e i Comuni calabresi come utilizzatori finali dei pannelli (CAM).",
-        "perche": [
-          "Innovation Action CBE JU da ~7 M€ a progetto: finanzia dimostrazione pre-industriale e conversione in prodotti finali di materiali termoindurenti bio-based o riciclati — esattamente i pannelli termoisolanti in acetato di cellulosa di Human Maple.",
-          "Il bando chiede progettazione circular-by-design con recupero a fine vita: il nostro modello (rifiuto tossico → materia prima seconda → pannello CAM) è la risposta da manuale.",
-          "Il bando richiede di coinvolgere gli utilizzatori finali fin dall'inizio: i Comuni calabresi possono testare i pannelli negli edifici pubblici (TRL 6), ed è la nostra merce di scambio."
-        ],
-        "come": [
-          "Cercare consorzi in formazione che includano produttori di resine e grandi aziende di materiali per l'edilizia, oltre a istituti di ricerca sui materiali.",
-          "Pitch: 'siamo la startup che recupera l'acetato di cellulosa dai mozziconi e abbiamo i Comuni italiani pronti a testare e acquistare i pannelli isolanti bio-based'.",
-          "Coinvolgere Unical per la validazione delle schede tecniche e l'analisi LCA."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-JU-CBE-2026-IA-02",
-      "title": "Bio-based additives as alternatives to unlock and increase recyclability and/or biodegradability",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-IA-02",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "CBE JU – industrie bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON JU Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-04-23T00:00:00.000Z",
-      "deadline": "2026-09-22T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico",
-      "motivi": [
-        "economia circolare e riciclo"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico",
-        "nota": "Bando top tier: la CBE JU è la casa naturale di Human Maple, l'acetato di cellulosa è un polimero bio-based. Ruolo tecnologico centrale, non marginale.",
-        "perche": [
-          "Le Innovation Action CBE JU finanziano scalabilità di processi che trasformano scarti e biopolimeri in prodotti bio-based ad alto valore: il processo brevettato di estrazione dell'acetato dai filtri risponde in pieno alla missione (evitare discarica/incenerimento di materiale cellulosico).",
-          "Richiede l'integrazione dell'intera catena del valore, dall'approvvigionamento al mercato: noi copriamo raccolta tracciata (Comuni + posacenere smart), trasformazione e fornitura ai manifatturieri.",
-          "Possiamo ricoprire un ruolo centrale da Technology Provider / Demo Partner con un work package dedicato a estrazione, igienizzazione e valorizzazione dell'acetato riciclato."
-        ],
-        "come": [
-          "Costruire un consorzio di filiera: grandi industrie manifatturiere (moda sostenibile, tessuti tecnici, isolanti) come end-user, noi come PMI tecnologica, centri di ricerca (Unical, CNR, Fraunhofer, VTT) per validazione e LCA, i Comuni calabresi per la logistica urbana.",
-          "Dimostrare la fornitura continua di materia prima con il modello di raccolta differenziata e tracciata dei Comuni della rete.",
-          "Preparare schede prestazionali e dati dell'impianto pilota per il dossier tecnico."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-JU-CBE-2026-RIA-03",
-      "title": "Develop breakthrough and sustainable bio-based textile fibres",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-RIA-03",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "CBE JU – industrie bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON JU Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-04-23T00:00:00.000Z",
-      "deadline": "2026-09-22T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "sustainable"
-      ],
-      "classe": "rete",
-      "ruolo": "fornitore feedstock e caso studio",
-      "motivi": [
-        "tessile post-consumo"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "fornitore feedstock e caso studio",
-        "nota": "Bando CBE JU su nuove fibre tessili bio-based: programma giusto (l'acetato di cellulosa è materia CBE) ma applicazione sbagliata, perché noi produciamo pannelli edilizi, non filati. Entrabile solo come fornitore di feedstock cellulosico da mozziconi o come caso studio di raccolta urbana, se un consorzio ci cerca.",
-        "perche": [
-          "La CBE JU è il programma naturale per l'acetato di cellulosa e Human Maple padroneggia l'estrazione da mozziconi: il materiale di partenza è coerente con una filiera di fibre cellulosiche.",
-          "Il core del bando è però lo sviluppo di fibre tessili (filatura, spinning, performance tessile): competenza che non abbiamo né noi né i partner mappati, tutti su raccolta differenziata, RFID e TARIP.",
-          "Il segnale 'tessile post-consumo' non tocca il nostro catalogo: non abbiamo in rete un'azienda di riciclo tessile a cui girare il bando con provvigione.",
-          "Un RIA Horizon richiede 3 enti di 3 Paesi UE e un ruolo scientifico riconoscibile: come SRLS in costituzione senza laboratorio tessile pesiamo poco."
-        ],
-        "come": [
-          "Verificare con Human Maple e Unical (contratto quadro esistente) se l'acetato recuperato dai mozziconi ha grado e purezza compatibili con una linea fibre: se sì, produrre una scheda tecnica di 2 pagine da offrire come feedstock secondario ai consorzi.",
-          "Monitorare i partner search CBE JU su questa topic e candidarsi solo come task minore (fornitura materia prima seconda + caso studio di raccolta urbana), non come core partner.",
-          "Se emergesse un riciclatore tessile calabrese o italiano interessato, girargli il bando e offrire i Comuni come bacino di raccolta, ma solo dopo accordo provvigionale e patto di non elusione firmati.",
-          "Non investire ore di scrittura proposta: tenere il bando in watchlist e concentrare le risorse sulle topic CBE JU e LIFE su materiali da costruzione e CAM."
-        ],
-        "aggiornato": "2026-08-21T17:18:11.095Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-08-01T11:07:11.591Z"
-    },
     {
       "attivo": true,
       "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-02-two-stage",
@@ -1043,7 +837,7 @@
       "date": "2026-09-22T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "In arrivo",
+      "statoLabel": "Aperto",
       "isOpen": true,
       "relevanceScore": 1,
       "relevanceKeywords": [
@@ -1095,7 +889,7 @@
       "date": "2026-09-22T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "In arrivo",
+      "statoLabel": "Aperto",
       "isOpen": true,
       "relevanceScore": 0,
       "relevanceKeywords": [],
@@ -1145,7 +939,7 @@
       "date": "2026-09-22T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "In arrivo",
+      "statoLabel": "Aperto",
       "isOpen": true,
       "relevanceScore": 4,
       "relevanceKeywords": [
@@ -1198,7 +992,7 @@
       "date": "2026-09-22T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "In arrivo",
+      "statoLabel": "Aperto",
       "isOpen": true,
       "relevanceScore": 4,
       "relevanceKeywords": [
@@ -2830,6 +2624,212 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-LIFE-2026-SAP-ENV-ENVIRONMENT",
+      "title": "Circular Economy and Zero Pollution",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-ENV-ENVIRONMENT",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "LIFE – ambiente",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "Consorzio, che però può essere tutto italiano: per questo LIFE è il programma europeo più abbordabile.",
+      "ancheSu": null,
+      "date": "2026-04-21T00:00:00.000Z",
+      "deadline": "2026-09-22T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 8,
+      "relevanceKeywords": [
+        "circular economy",
+        "circular",
+        "pollution"
+      ],
+      "classe": "nostro",
+      "ruolo": "partner tecnologico + territorio",
+      "motivi": [
+        "economia circolare e riciclo"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "partner tecnologico + territorio",
+        "nota": "Il più abbordabile: LIFE finanzia dimostrazione sul campo, non ricerca, e permette un consorzio tutto italiano (noi + 2-3 Comuni calabresi + Unical).",
+        "perche": [
+          "LIFE SAP ENV finanzia proprio startup e PMI con una tecnologia innovativa che devono fare scale-up verso un impianto pilota o un modello pre-commerciale: il caso di Human Maple.",
+          "A differenza di Horizon basta un consorzio snello e anche tutto italiano (3-4 partner): noi + 2 Comuni calabresi + Unical per le analisi ambientali.",
+          "Adora le partnership pubblico-privato locali: possiamo presentare un 'modello integrato di economia circolare urbana per i Comuni del Sud Italia' con le altre aziende della rete su altre frazioni di rifiuto."
+        ],
+        "come": [
+          "Raccogliere fin da subito i dati di impatto ambientale (tonnellate sottratte alla discarica, CO2, microplastiche evitate): LIFE vuole KPI misurabili, non paper scientifici.",
+          "Far firmare lettere di intenti (Letter of Support) ai Comuni calabresi con cui stiamo parlando.",
+          "Presentare un business plan che dimostri che, finito il finanziamento, la società sta in piedi da sola.",
+          "Possibile ruolo di coordinatore: qui il carico burocratico è sostenibile anche per una startup."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-HORIZON-JU-CBE-2026-IA-04",
+      "title": "High-performance, circular-by-design, bio-based thermosets",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-IA-04",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "CBE JU – industrie bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON JU Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": null,
+      "date": "2026-04-23T00:00:00.000Z",
+      "deadline": "2026-09-22T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "circular"
+      ],
+      "classe": "nostro",
+      "ruolo": "partner tecnologico",
+      "motivi": [
+        "materiali bio-based e avanzati"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "partner tecnologico",
+        "nota": "Il più adatto in assoluto sul lato materiali: termoindurenti bio-based per edilizia. Portiamo l'acetato di cellulosa dai mozziconi e i Comuni calabresi come utilizzatori finali dei pannelli (CAM).",
+        "perche": [
+          "Innovation Action CBE JU da ~7 M€ a progetto: finanzia dimostrazione pre-industriale e conversione in prodotti finali di materiali termoindurenti bio-based o riciclati — esattamente i pannelli termoisolanti in acetato di cellulosa di Human Maple.",
+          "Il bando chiede progettazione circular-by-design con recupero a fine vita: il nostro modello (rifiuto tossico → materia prima seconda → pannello CAM) è la risposta da manuale.",
+          "Il bando richiede di coinvolgere gli utilizzatori finali fin dall'inizio: i Comuni calabresi possono testare i pannelli negli edifici pubblici (TRL 6), ed è la nostra merce di scambio."
+        ],
+        "come": [
+          "Cercare consorzi in formazione che includano produttori di resine e grandi aziende di materiali per l'edilizia, oltre a istituti di ricerca sui materiali.",
+          "Pitch: 'siamo la startup che recupera l'acetato di cellulosa dai mozziconi e abbiamo i Comuni italiani pronti a testare e acquistare i pannelli isolanti bio-based'.",
+          "Coinvolgere Unical per la validazione delle schede tecniche e l'analisi LCA."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-HORIZON-JU-CBE-2026-IA-02",
+      "title": "Bio-based additives as alternatives to unlock and increase recyclability and/or biodegradability",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-IA-02",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "CBE JU – industrie bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON JU Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": null,
+      "date": "2026-04-23T00:00:00.000Z",
+      "deadline": "2026-09-22T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "nostro",
+      "ruolo": "partner tecnologico",
+      "motivi": [
+        "economia circolare e riciclo"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "partner tecnologico",
+        "nota": "Bando top tier: la CBE JU è la casa naturale di Human Maple, l'acetato di cellulosa è un polimero bio-based. Ruolo tecnologico centrale, non marginale.",
+        "perche": [
+          "Le Innovation Action CBE JU finanziano scalabilità di processi che trasformano scarti e biopolimeri in prodotti bio-based ad alto valore: il processo brevettato di estrazione dell'acetato dai filtri risponde in pieno alla missione (evitare discarica/incenerimento di materiale cellulosico).",
+          "Richiede l'integrazione dell'intera catena del valore, dall'approvvigionamento al mercato: noi copriamo raccolta tracciata (Comuni + posacenere smart), trasformazione e fornitura ai manifatturieri.",
+          "Possiamo ricoprire un ruolo centrale da Technology Provider / Demo Partner con un work package dedicato a estrazione, igienizzazione e valorizzazione dell'acetato riciclato."
+        ],
+        "come": [
+          "Costruire un consorzio di filiera: grandi industrie manifatturiere (moda sostenibile, tessuti tecnici, isolanti) come end-user, noi come PMI tecnologica, centri di ricerca (Unical, CNR, Fraunhofer, VTT) per validazione e LCA, i Comuni calabresi per la logistica urbana.",
+          "Dimostrare la fornitura continua di materia prima con il modello di raccolta differenziata e tracciata dei Comuni della rete.",
+          "Preparare schede prestazionali e dati dell'impianto pilota per il dossier tecnico."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-HORIZON-JU-CBE-2026-RIA-03",
+      "title": "Develop breakthrough and sustainable bio-based textile fibres",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2026-RIA-03",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "CBE JU – industrie bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON JU Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": null,
+      "date": "2026-04-23T00:00:00.000Z",
+      "deadline": "2026-09-22T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "sustainable"
+      ],
+      "classe": "rete",
+      "ruolo": "fornitore feedstock e caso studio",
+      "motivi": [
+        "tessile post-consumo"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "fornitore feedstock e caso studio",
+        "nota": "Bando CBE JU su nuove fibre tessili bio-based: programma giusto (l'acetato di cellulosa è materia CBE) ma applicazione sbagliata, perché noi produciamo pannelli edilizi, non filati. Entrabile solo come fornitore di feedstock cellulosico da mozziconi o come caso studio di raccolta urbana, se un consorzio ci cerca.",
+        "perche": [
+          "La CBE JU è il programma naturale per l'acetato di cellulosa e Human Maple padroneggia l'estrazione da mozziconi: il materiale di partenza è coerente con una filiera di fibre cellulosiche.",
+          "Il core del bando è però lo sviluppo di fibre tessili (filatura, spinning, performance tessile): competenza che non abbiamo né noi né i partner mappati, tutti su raccolta differenziata, RFID e TARIP.",
+          "Il segnale 'tessile post-consumo' non tocca il nostro catalogo: non abbiamo in rete un'azienda di riciclo tessile a cui girare il bando con provvigione.",
+          "Un RIA Horizon richiede 3 enti di 3 Paesi UE e un ruolo scientifico riconoscibile: come SRLS in costituzione senza laboratorio tessile pesiamo poco."
+        ],
+        "come": [
+          "Verificare con Human Maple e Unical (contratto quadro esistente) se l'acetato recuperato dai mozziconi ha grado e purezza compatibili con una linea fibre: se sì, produrre una scheda tecnica di 2 pagine da offrire come feedstock secondario ai consorzi.",
+          "Monitorare i partner search CBE JU su questa topic e candidarsi solo come task minore (fornitura materia prima seconda + caso studio di raccolta urbana), non come core partner.",
+          "Se emergesse un riciclatore tessile calabrese o italiano interessato, girargli il bando e offrire i Comuni come bacino di raccolta, ma solo dopo accordo provvigionale e patto di non elusione firmati.",
+          "Non investire ore di scrittura proposta: tenere il bando in watchlist e concentrare le risorse sulle topic CBE JU e LIFE su materiali da costruzione e CAM."
+        ],
+        "aggiornato": "2026-08-21T17:18:11.095Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-08-01T11:07:11.591Z"
     },
     {
       "attivo": false,
