@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T11:17:42.591Z",
-  "lastEmailSentAt": "2026-09-17T11:21:25.939Z",
-  "nextEmailDueAt": "2026-09-24T11:21:25.939Z",
+  "generatedAt": "2026-09-23T11:10:22.344Z",
+  "lastEmailSentAt": "2026-09-23T11:10:22.343Z",
+  "nextEmailDueAt": "2026-09-30T11:10:22.343Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,23 +9,23 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 15,
-    "attivi": 46,
-    "inScadenza": 10,
-    "scaduti": 34,
-    "totale": 80,
-    "nostri": 35,
-    "rete": 11,
+    "nuovi": 16,
+    "attivi": 41,
+    "inScadenza": 4,
+    "scaduti": 40,
+    "totale": 81,
+    "nostri": 32,
+    "rete": 9,
     "fuoriTema": 158
   },
   "perFonte": {
-    "EU Funding & Tenders": {
-      "totale": 27,
-      "attivi": 22
-    },
     "CCIAA Cosenza": {
       "totale": 2,
       "attivi": 2
+    },
+    "EU Funding & Tenders": {
+      "totale": 28,
+      "attivi": 17
     },
     "Interreg Grecia-Italia": {
       "totale": 1,
@@ -73,341 +73,17 @@
     }
   },
   "perAmbito": {
-    "europeo": 23,
     "locale": 2,
+    "europeo": 18,
     "regionale": 18,
     "nazionale": 3
   },
   "perPartecipazione": {
-    "partenariato": 25,
     "singola": 18,
+    "partenariato": 20,
     "daVerificare": 3
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-02-two-stage",
-      "title": "Open topic: Using the Circular Cities and Regions Initiative to strengthen urban manufacturing in support of the Clean Industrial Deal",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-02-two-stage",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL6 – circolare e bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": [
-        {
-          "fonte": "EU Funding & Tenders",
-          "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-02-two-stage"
-        }
-      ],
-      "date": "2026-02-12T00:00:00.000Z",
-      "deadline": "2026-09-23T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Fase 2 di 2 · solo per chi ha passato la fase 1",
-      "isOpen": true,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "circular"
-      ],
-      "classe": "nostro",
-      "ruolo": "living lab con i Comuni",
-      "motivi": [
-        "città e regioni pilota (CCRI)"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "living lab con i Comuni",
-        "nota": "Urban manufacturing circolare (CCRI + Clean Industrial Deal): trasformare scarti urbani in prodotti dentro il tessuto cittadino. Uno dei bandi più centrati sia per la tecnologia sia per il ruolo di intermediari.",
-        "perche": [
-          "Finanzia la valorizzazione di scarti urbani in manufatti ad alto valore dentro il tessuto urbano: raccogliere mozziconi in piazze e spiagge e trasformarli in pannelli e arredo urbano è la definizione da manuale di urban manufacturing circolare.",
-          "Il coinvolgimento della CCRI mette gli enti locali al centro: la rete di Comuni calabresi è l'asset che i consorzi cercano.",
-          "Possiamo costruire un hub circolare locale coinvolgendo le altre aziende della rete (plastica, organico, tessili, software di tracciamento)."
-        ],
-        "come": [
-          "Candidare i Comuni calabresi (o la Regione) come territorio pilota CCRI dentro un consorzio internazionale.",
-          "Entrare come startup che dimostra fattibilità tecnica ed economica della trasformazione di uno scarto urbano.",
-          "Presentare un modello integrato di urban manufacturing che chiude i cicli delle risorse sul territorio calabrese."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": [
-        "2026-04-16T00:00:00.000Z",
-        "2026-09-23T00:00:00.000Z"
-      ],
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-01-two-stage",
-      "title": "Deploying circular systemic solutions through living labs in cities and regions (Circular Cities and Regions Initiative topic)",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-01-two-stage",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL6 – circolare e bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": [
-        {
-          "fonte": "EU Funding & Tenders",
-          "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-01-two-stage"
-        }
-      ],
-      "date": "2026-02-12T00:00:00.000Z",
-      "deadline": "2026-09-23T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Fase 2 di 2 · solo per chi ha passato la fase 1",
-      "isOpen": true,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "circular"
-      ],
-      "classe": "nostro",
-      "ruolo": "living lab con i Comuni",
-      "motivi": [
-        "città e regioni pilota (CCRI)",
-        "living lab sul territorio"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "living lab con i Comuni",
-        "nota": "Versione 'Living labs in cities and regions' (non quella sugli imballaggi flessibili). Scritto su misura: un Comune calabrese come Living Lab, le aziende della rete nel consorzio, Unical per la validazione.",
-        "perche": [
-          "Innovation Action della Circular Cities and Regions Initiative: implementa su scala reale soluzioni circolari sistemiche che colleghino amministrazioni, aziende e cittadini — il nostro mestiere di intermediari.",
-          "Un Comune (o consorzio di Comuni) calabrese può fare da Living Lab per l'intero ecosistema: posacenere, gamification, logistica di raccolta, pannelli CAM negli edifici pubblici.",
-          "Possiamo presentare una vera 'soluzione sistemica': Human Maple sui mozziconi, le altre aziende della rete su altri rifiuti urbani, il Comune come banco di prova per tutti."
-        ],
-        "come": [
-          "Proporre ai Comuni partner (o alla Regione) di entrare nel progetto come partner istituzionali.",
-          "Inserire nel consorzio le aziende di economia circolare della rete e un ateneo (Unical) per la validazione scientifica.",
-          "Attenzione alla procedura a due fasi: prima un concept sintetico, poi la proposta completa. Non confondere con la versione single-stage sugli imballaggi."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": [
-        "2026-04-16T00:00:00.000Z",
-        "2026-09-23T00:00:00.000Z"
-      ],
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-03",
-      "title": "Advanced recovery of critical raw materials from Waste from Electrical and Electronic Equipment (WEEE)",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-03",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL6 – circolare e bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-04-17T00:00:00.000Z",
-      "deadline": "2026-09-23T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "waste"
-      ],
-      "classe": "rete",
-      "ruolo": "segnalazione alla rete",
-      "motivi": [
-        "RAEE ed elettronica"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "B",
-        "ruolo": "segnalazione alla rete",
-        "nota": "RAEE e materie prime critiche: non abbiamo la tecnologia. Da proporre ad aziende che trattano rifiuti elettronici, offrendo i Comuni come area di raccolta sperimentale e incassando l'intermediazione.",
-        "perche": [
-          "RIA sul recupero di terre rare e materiali critici dai RAEE: non è il nostro flusso, ma è il bando perfetto per attrarre nella rete aziende del settore elettronico.",
-          "Un bando europeo sul tavolo rende molto più disponibili sia l'azienda tecnologica sia i Comuni: per ogni contratto concluso incassiamo la provvigione."
-        ],
-        "come": [
-          "Identificare startup e aziende (calabresi o italiane) che gestiscono RAEE o sviluppano tecnologie di selezione e smontaggio, e segnalare loro il bando.",
-          "Proporre i Comuni della rete come area pilota per raccolta sperimentale e sensibilizzazione sul conferimento dei RAEE: l'azienda sviluppa il processo, il Comune fornisce la materia prima.",
-          "Formalizzare l'intermediazione con accordo provvigionale e patto di non elusione prima di mettere in contatto le parti."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-04",
-      "title": "Demonstrating and deploying innovative collection, sorting-for-reuse and repair systems for textiles at city/region level (Circular Cities and Regions Initiative topic)",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-04",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL6 – circolare e bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-04-17T00:00:00.000Z",
-      "deadline": "2026-09-23T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "circular"
-      ],
-      "classe": "rete",
-      "ruolo": "segnalazione alla rete",
-      "motivi": [
-        "città e regioni pilota (CCRI)",
-        "economia circolare e riciclo"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "B",
-        "ruolo": "segnalazione alla rete",
-        "nota": "Raccolta e riuso dei tessili a livello di città (CCRI, ~5 M€ a progetto). Non è il nostro flusso, ma portiamo i Comuni come città pilota e coinvolgiamo chi raccoglie e ricicla abiti usati.",
-        "perche": [
-          "Innovation Action verticale sulla filiera degli indumenti post-consumo: raccolta, selezione per il riuso, riparazione a scala cittadina — perfetta per aziende e cooperative del tessile della rete.",
-          "Il bando chiede esplicitamente strategie locali con città o regioni coinvolte: la nostra rete di Comuni calabresi è l'asset che fa la differenza per un consorzio.",
-          "Angolo Human Maple marginale ma spendibile: i materiali da mozziconi per la moda (imbottiture) come esempio di upcycling estremo nelle iniziative di sensibilizzazione."
-        ],
-        "come": [
-          "Cercare e coinvolgere startup e cooperative sociali (molto attive al Sud) che raccolgono e selezionano abiti usati, proponendo loro il bando.",
-          "Proporre ai Comuni partner di aderire al consorzio come città pilota per i nuovi sistemi di raccolta e riuso.",
-          "Chiudere accordi provvigionali con le aziende segnalate prima di aprire i contatti coi Comuni."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-07",
-      "title": "Advancing the European bio-based innovation enabled by biotechnology and biomanufacturing concepts",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-07",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL6 – circolare e bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-04-17T00:00:00.000Z",
-      "deadline": "2026-09-23T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "innovation"
-      ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico",
-      "motivi": [
-        "materiali bio-based e avanzati"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico",
-        "nota": "Linea CIRCBIO sul bio-based abilitato da biotecnologie e biomanufacturing: perfetto per il core business dentro un consorzio UE, con la filiera di raccolta dei Comuni come prova di approvvigionamento.",
-        "perche": [
-          "La linea CIRCBIO è il cuore operativo UE per l'upcycling di flussi di rifiuti complessi o trascurati in materie prime seconde di qualità: il recupero dell'acetato di cellulosa dai mozziconi risponde in pieno alla 'chiusura del cerchio' su matrici complesse.",
-          "Il bando valorizza tracciabilità e logistica inversa (RFID, Digital Product Passport): con i partner RFID del catalogo offriamo il pacchetto completo raccolta tracciata → trattamento → prodotto finale.",
-          "La rete di Comuni calabresi con posacenere smart dimostra la fattibilità della raccolta a monte, cruciale per la valutazione."
-        ],
-        "come": [
-          "Entrare in un consorzio guidato da centri di ricerca su chimica verde o ingegneria dei materiali (ENEA, CNR, Unical, Fraunhofer).",
-          "Posizionarsi come partner tecnologico con brevetto di separazione/riciclo e produzione del semilavorato.",
-          "Portare end-user industriali a valle (tessile, moda, edilizia) e i Comuni calabresi come Living Lab dimostrativo."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-10",
-      "title": "Bio-based innovation in society: supporting the sustainable way of living",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-10",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL6 – circolare e bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-04-17T00:00:00.000Z",
-      "deadline": "2026-09-23T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 4,
-      "relevanceKeywords": [
-        "sustainable",
-        "innovation"
-      ],
-      "classe": "nostro",
-      "ruolo": "living lab con i Comuni",
-      "motivi": [
-        "materiali bio-based e avanzati"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "living lab con i Comuni",
-        "nota": "Accettazione sociale dei prodotti bio-based. I consorzi devono includere PMI e startup 'newcomers': siamo il partner ideale per gamification, sensibilizzazione e Living Lab in Calabria.",
-        "perche": [
-          "RIA da 4-6 M€ che finanzia campagne di educazione, co-creazione con i cittadini e test comportamentali sui prodotti bio-based: la gamification e le campagne sul littering sono esattamente le 'strategie di cambiamento comportamentale' richieste.",
-          "I consorzi devono includere obbligatoriamente PMI e startup 'newcomers' (mai o da poco nei bandi Horizon): siamo una preda ambita per i grandi enti di ricerca.",
-          "I ricercatori europei sanno inventare i materiali ma non hanno i Comuni per i test: noi portiamo la rete calabrese come territorio pilota e il pannello in acetato come caso studio di accettazione sociale."
-        ],
-        "come": [
-          "Preparare un pitch deck di 3 slide in inglese: 'startup italiana esperta in gamification ambientale e public engagement, con una rete di Comuni nel Sud Italia pronti a fare da Living Lab'.",
-          "Cercare sul portale Funding & Tenders gli enti che stanno formando consorzi per CIRCBIO-10 e inviare la presentazione.",
-          "Proporsi per organizzare workshop di co-creazione territoriali con cittadini, enti pubblici e aziende locali."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
     {
       "attivo": true,
       "id": "manuale-cciaacs-doppia-transizione-2026",
@@ -664,10 +340,6 @@
         {
           "fonte": "Calabria Europa",
           "link": "https://calabriaeuropa.regione.calabria.it/bando/m-era-net-call-2025/"
-        },
-        {
-          "fonte": "Calabria Europa",
-          "link": "https://calabriaeuropa.regione.calabria.it/bando/m-era-net-call-2026/"
         }
       ],
       "date": "2026-05-05T00:00:00.000Z",
@@ -1026,6 +698,58 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
+    },
+    {
+      "attivo": true,
+      "id": "eu-HORIZON-CL5-2027-05-D4-05",
+      "title": "On-site robotic and automated techniques for building renovation and new construction",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-05",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL5 – clima ed energia",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "consorzio Horizon IA: almeno 3 soggetti di 3 Paesi UE, qui trainato da robotica di cantiere, integratori di sistemi costruttivi e imprese edili; noi solo come fornitore di pannelli e sito dimostrativo",
+      "ancheSu": null,
+      "date": "2027-05-05T00:00:00.000Z",
+      "deadline": "2027-09-15T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "In arrivo",
+      "isOpen": true,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "nostro",
+      "ruolo": "fornitore di materiali da demo",
+      "motivi": [
+        "edilizia circolare e CAM"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "fornitore di materiali da demo",
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon IA: almeno 3 soggetti di 3 Paesi UE, qui trainato da robotica di cantiere, integratori di sistemi costruttivi e imprese edili; noi solo come fornitore di pannelli e sito dimostrativo",
+        "nota": "Bando centrato su robotica e automazione in cantiere, tecnologia che non abbiamo: possibile solo un ruolo marginale come fornitori dei pannelli isolanti riciclati da installare nelle demo. Scadenza 2027, da tenere d'occhio senza investirci ora.",
+        "perche": [
+          "Il cuore del topic è la robotica e l'automazione di cantiere (posa, prefabbricazione, ristrutturazione automatizzata): competenza che la società non ha né ha in rete.",
+          "Un aggancio esiste solo sul lato materiale: i pannelli termoisolanti e fonoassorbenti Human Maple da acetato di cellulosa riciclato, conformi ai CAM, possono essere tra i prodotti manipolati/installati dai sistemi robotici nelle demo.",
+          "Possibile contributo secondario come sito dimostrativo calabrese (edifici pubblici dei Comuni della rete) per le prove in campo.",
+          "Un'Innovation Action di questo tipo è guidata da grandi integratori e centri di robotica: un partner senza tecnologia pesa poco in valutazione e prende un budget minimo."
+        ],
+        "come": [
+          "Non aprire una ricerca partner dedicata: monitorare il topic alla pubblicazione definitiva del Work Programme 2027 e valutarlo solo se arriva un invito da un consorzio già formato.",
+          "Nel frattempo preparare la scheda tecnica inglese del pannello (prestazioni termiche/acustiche, certificazioni, conformità CAM, compatibilità con posa automatizzata) da girare a chi cerca fornitori di materiali circolari.",
+          "Segnalare il topic a Unical (contratto quadro esistente) e ai dipartimenti di ingegneria/robotica: se entrano in un consorzio, chiedere di essere inseriti come fornitore di materiale e sito pilota.",
+          "Priorità operativa resta sui bandi italiani a beneficiaria diretta; questo va in lista di osservazione con revisione a inizio 2027."
+        ],
+        "aggiornato": "2026-09-23T11:10:20.968Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-23T11:10:22.330Z"
     },
     {
       "attivo": true,
@@ -2627,6 +2351,330 @@
     },
     {
       "attivo": false,
+      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-02-two-stage",
+      "title": "Open topic: Using the Circular Cities and Regions Initiative to strengthen urban manufacturing in support of the Clean Industrial Deal",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-02-two-stage",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL6 – circolare e bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": [
+        {
+          "fonte": "EU Funding & Tenders",
+          "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-02-two-stage"
+        }
+      ],
+      "date": "2026-02-12T00:00:00.000Z",
+      "deadline": "2026-09-23T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "circular"
+      ],
+      "classe": "nostro",
+      "ruolo": "living lab con i Comuni",
+      "motivi": [
+        "città e regioni pilota (CCRI)"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "living lab con i Comuni",
+        "nota": "Urban manufacturing circolare (CCRI + Clean Industrial Deal): trasformare scarti urbani in prodotti dentro il tessuto cittadino. Uno dei bandi più centrati sia per la tecnologia sia per il ruolo di intermediari.",
+        "perche": [
+          "Finanzia la valorizzazione di scarti urbani in manufatti ad alto valore dentro il tessuto urbano: raccogliere mozziconi in piazze e spiagge e trasformarli in pannelli e arredo urbano è la definizione da manuale di urban manufacturing circolare.",
+          "Il coinvolgimento della CCRI mette gli enti locali al centro: la rete di Comuni calabresi è l'asset che i consorzi cercano.",
+          "Possiamo costruire un hub circolare locale coinvolgendo le altre aziende della rete (plastica, organico, tessili, software di tracciamento)."
+        ],
+        "come": [
+          "Candidare i Comuni calabresi (o la Regione) come territorio pilota CCRI dentro un consorzio internazionale.",
+          "Entrare come startup che dimostra fattibilità tecnica ed economica della trasformazione di uno scarto urbano.",
+          "Presentare un modello integrato di urban manufacturing che chiude i cicli delle risorse sul territorio calabrese."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": [
+        "2026-04-16T00:00:00.000Z",
+        "2026-09-23T00:00:00.000Z"
+      ],
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-01-two-stage",
+      "title": "Deploying circular systemic solutions through living labs in cities and regions (Circular Cities and Regions Initiative topic)",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-01-two-stage",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL6 – circolare e bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": [
+        {
+          "fonte": "EU Funding & Tenders",
+          "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-01-two-stage"
+        }
+      ],
+      "date": "2026-02-12T00:00:00.000Z",
+      "deadline": "2026-09-23T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "circular"
+      ],
+      "classe": "nostro",
+      "ruolo": "living lab con i Comuni",
+      "motivi": [
+        "città e regioni pilota (CCRI)",
+        "living lab sul territorio"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "living lab con i Comuni",
+        "nota": "Versione 'Living labs in cities and regions' (non quella sugli imballaggi flessibili). Scritto su misura: un Comune calabrese come Living Lab, le aziende della rete nel consorzio, Unical per la validazione.",
+        "perche": [
+          "Innovation Action della Circular Cities and Regions Initiative: implementa su scala reale soluzioni circolari sistemiche che colleghino amministrazioni, aziende e cittadini — il nostro mestiere di intermediari.",
+          "Un Comune (o consorzio di Comuni) calabrese può fare da Living Lab per l'intero ecosistema: posacenere, gamification, logistica di raccolta, pannelli CAM negli edifici pubblici.",
+          "Possiamo presentare una vera 'soluzione sistemica': Human Maple sui mozziconi, le altre aziende della rete su altri rifiuti urbani, il Comune come banco di prova per tutti."
+        ],
+        "come": [
+          "Proporre ai Comuni partner (o alla Regione) di entrare nel progetto come partner istituzionali.",
+          "Inserire nel consorzio le aziende di economia circolare della rete e un ateneo (Unical) per la validazione scientifica.",
+          "Attenzione alla procedura a due fasi: prima un concept sintetico, poi la proposta completa. Non confondere con la versione single-stage sugli imballaggi."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": [
+        "2026-04-16T00:00:00.000Z",
+        "2026-09-23T00:00:00.000Z"
+      ],
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-03",
+      "title": "Advanced recovery of critical raw materials from Waste from Electrical and Electronic Equipment (WEEE)",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-03",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL6 – circolare e bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": null,
+      "date": "2026-04-17T00:00:00.000Z",
+      "deadline": "2026-09-23T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "waste"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete",
+      "motivi": [
+        "RAEE ed elettronica"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete",
+        "nota": "RAEE e materie prime critiche: non abbiamo la tecnologia. Da proporre ad aziende che trattano rifiuti elettronici, offrendo i Comuni come area di raccolta sperimentale e incassando l'intermediazione.",
+        "perche": [
+          "RIA sul recupero di terre rare e materiali critici dai RAEE: non è il nostro flusso, ma è il bando perfetto per attrarre nella rete aziende del settore elettronico.",
+          "Un bando europeo sul tavolo rende molto più disponibili sia l'azienda tecnologica sia i Comuni: per ogni contratto concluso incassiamo la provvigione."
+        ],
+        "come": [
+          "Identificare startup e aziende (calabresi o italiane) che gestiscono RAEE o sviluppano tecnologie di selezione e smontaggio, e segnalare loro il bando.",
+          "Proporre i Comuni della rete come area pilota per raccolta sperimentale e sensibilizzazione sul conferimento dei RAEE: l'azienda sviluppa il processo, il Comune fornisce la materia prima.",
+          "Formalizzare l'intermediazione con accordo provvigionale e patto di non elusione prima di mettere in contatto le parti."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-04",
+      "title": "Demonstrating and deploying innovative collection, sorting-for-reuse and repair systems for textiles at city/region level (Circular Cities and Regions Initiative topic)",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-04",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL6 – circolare e bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": null,
+      "date": "2026-04-17T00:00:00.000Z",
+      "deadline": "2026-09-23T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "circular"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete",
+      "motivi": [
+        "città e regioni pilota (CCRI)",
+        "economia circolare e riciclo"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete",
+        "nota": "Raccolta e riuso dei tessili a livello di città (CCRI, ~5 M€ a progetto). Non è il nostro flusso, ma portiamo i Comuni come città pilota e coinvolgiamo chi raccoglie e ricicla abiti usati.",
+        "perche": [
+          "Innovation Action verticale sulla filiera degli indumenti post-consumo: raccolta, selezione per il riuso, riparazione a scala cittadina — perfetta per aziende e cooperative del tessile della rete.",
+          "Il bando chiede esplicitamente strategie locali con città o regioni coinvolte: la nostra rete di Comuni calabresi è l'asset che fa la differenza per un consorzio.",
+          "Angolo Human Maple marginale ma spendibile: i materiali da mozziconi per la moda (imbottiture) come esempio di upcycling estremo nelle iniziative di sensibilizzazione."
+        ],
+        "come": [
+          "Cercare e coinvolgere startup e cooperative sociali (molto attive al Sud) che raccolgono e selezionano abiti usati, proponendo loro il bando.",
+          "Proporre ai Comuni partner di aderire al consorzio come città pilota per i nuovi sistemi di raccolta e riuso.",
+          "Chiudere accordi provvigionali con le aziende segnalate prima di aprire i contatti coi Comuni."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-07",
+      "title": "Advancing the European bio-based innovation enabled by biotechnology and biomanufacturing concepts",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-07",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL6 – circolare e bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": null,
+      "date": "2026-04-17T00:00:00.000Z",
+      "deadline": "2026-09-23T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "innovation"
+      ],
+      "classe": "nostro",
+      "ruolo": "partner tecnologico",
+      "motivi": [
+        "materiali bio-based e avanzati"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "partner tecnologico",
+        "nota": "Linea CIRCBIO sul bio-based abilitato da biotecnologie e biomanufacturing: perfetto per il core business dentro un consorzio UE, con la filiera di raccolta dei Comuni come prova di approvvigionamento.",
+        "perche": [
+          "La linea CIRCBIO è il cuore operativo UE per l'upcycling di flussi di rifiuti complessi o trascurati in materie prime seconde di qualità: il recupero dell'acetato di cellulosa dai mozziconi risponde in pieno alla 'chiusura del cerchio' su matrici complesse.",
+          "Il bando valorizza tracciabilità e logistica inversa (RFID, Digital Product Passport): con i partner RFID del catalogo offriamo il pacchetto completo raccolta tracciata → trattamento → prodotto finale.",
+          "La rete di Comuni calabresi con posacenere smart dimostra la fattibilità della raccolta a monte, cruciale per la valutazione."
+        ],
+        "come": [
+          "Entrare in un consorzio guidato da centri di ricerca su chimica verde o ingegneria dei materiali (ENEA, CNR, Unical, Fraunhofer).",
+          "Posizionarsi come partner tecnologico con brevetto di separazione/riciclo e produzione del semilavorato.",
+          "Portare end-user industriali a valle (tessile, moda, edilizia) e i Comuni calabresi come Living Lab dimostrativo."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-HORIZON-CL6-2026-01-CIRCBIO-10",
+      "title": "Bio-based innovation in society: supporting the sustainable way of living",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-10",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL6 – circolare e bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": null,
+      "date": "2026-04-17T00:00:00.000Z",
+      "deadline": "2026-09-23T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 4,
+      "relevanceKeywords": [
+        "sustainable",
+        "innovation"
+      ],
+      "classe": "nostro",
+      "ruolo": "living lab con i Comuni",
+      "motivi": [
+        "materiali bio-based e avanzati"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "living lab con i Comuni",
+        "nota": "Accettazione sociale dei prodotti bio-based. I consorzi devono includere PMI e startup 'newcomers': siamo il partner ideale per gamification, sensibilizzazione e Living Lab in Calabria.",
+        "perche": [
+          "RIA da 4-6 M€ che finanzia campagne di educazione, co-creazione con i cittadini e test comportamentali sui prodotti bio-based: la gamification e le campagne sul littering sono esattamente le 'strategie di cambiamento comportamentale' richieste.",
+          "I consorzi devono includere obbligatoriamente PMI e startup 'newcomers' (mai o da poco nei bandi Horizon): siamo una preda ambita per i grandi enti di ricerca.",
+          "I ricercatori europei sanno inventare i materiali ma non hanno i Comuni per i test: noi portiamo la rete calabrese come territorio pilota e il pannello in acetato come caso studio di accettazione sociale."
+        ],
+        "come": [
+          "Preparare un pitch deck di 3 slide in inglese: 'startup italiana esperta in gamification ambientale e public engagement, con una rete di Comuni nel Sud Italia pronti a fare da Living Lab'.",
+          "Cercare sul portale Funding & Tenders gli enti che stanno formando consorzi per CIRCBIO-10 e inviare la presentazione.",
+          "Proporsi per organizzare workshop di co-creazione territoriali con cittadini, enti pubblici e aziende locali."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
+    },
+    {
+      "attivo": false,
       "id": "eu-LIFE-2026-SAP-ENV-ENVIRONMENT",
       "title": "Circular Economy and Zero Pollution",
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-ENV-ENVIRONMENT",
@@ -3059,6 +3107,10 @@
       "partecipazione": "singola",
       "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
       "ancheSu": [
+        {
+          "fonte": "Regione Calabria",
+          "link": "https://www.regione.calabria.it/bandi/avviso-pubblico-per-manifestazione-di-interesse-rivolta-agli-enti-locali-della-regione-calabria-titolari-di-progetti-s-a-i-da-inserire-nella-proposta-progettuale-interregionale-fami-2021-2027/"
+        },
         {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
