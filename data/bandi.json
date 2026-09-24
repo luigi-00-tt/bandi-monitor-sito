@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:10:22.344Z",
+  "generatedAt": "2026-09-24T11:27:13.973Z",
   "lastEmailSentAt": "2026-09-23T11:10:22.343Z",
   "nextEmailDueAt": "2026-09-30T11:10:22.343Z",
   "settings": {
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 16,
-    "attivi": 41,
+    "nuovi": 17,
+    "attivi": 43,
     "inScadenza": 4,
     "scaduti": 40,
-    "totale": 81,
-    "nostri": 32,
+    "totale": 83,
+    "nostri": 34,
     "rete": 9,
-    "fuoriTema": 158
+    "fuoriTema": 159
   },
   "perFonte": {
     "CCIAA Cosenza": {
@@ -24,8 +24,8 @@
       "attivi": 2
     },
     "EU Funding & Tenders": {
-      "totale": 28,
-      "attivi": 17
+      "totale": 30,
+      "attivi": 19
     },
     "Interreg Grecia-Italia": {
       "totale": 1,
@@ -74,13 +74,13 @@
   },
   "perAmbito": {
     "locale": 2,
-    "europeo": 18,
+    "europeo": 20,
     "regionale": 18,
     "nazionale": 3
   },
   "perPartecipazione": {
     "singola": 18,
-    "partenariato": 20,
+    "partenariato": 22,
     "daVerificare": 3
   },
   "bandi": [
@@ -701,55 +701,112 @@
     },
     {
       "attivo": true,
-      "id": "eu-HORIZON-CL5-2027-05-D4-05",
-      "title": "On-site robotic and automated techniques for building renovation and new construction",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-05",
+      "id": "eu-HORIZON-CL6-2027-01-CIRCBIO-02-two-stage",
+      "title": "Open topic: Using the Circular Cities and Regions Initiative to strengthen urban manufacturing in support of the Clean Industrial Deal",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-02-two-stage",
       "source": "EU Funding & Tenders",
       "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
       "documenti": null,
       "linkNotizia": null,
       "ambito": "europeo",
-      "programma": "Horizon CL5 – clima ed energia",
+      "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "consorzio Horizon IA: almeno 3 soggetti di 3 Paesi UE, qui trainato da robotica di cantiere, integratori di sistemi costruttivi e imprese edili; noi solo come fornitore di pannelli e sito dimostrativo",
+      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
       "ancheSu": null,
-      "date": "2027-05-05T00:00:00.000Z",
-      "deadline": "2027-09-15T00:00:00.000Z",
+      "date": "2027-02-04T00:00:00.000Z",
+      "deadline": "2027-04-08T00:00:00.000Z",
       "aSportello": false,
       "statoLabel": "In arrivo",
       "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "fornitore di materiali da demo",
-      "motivi": [
-        "edilizia circolare e CAM"
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "circular"
       ],
-      "decisoDaTe": false,
+      "classe": "nostro",
+      "ruolo": "living lab con i Comuni",
+      "motivi": [
+        "città e regioni pilota (CCRI)"
+      ],
+      "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "fornitore di materiali da demo",
-        "partecipazione": "partenariato",
-        "partner": "consorzio Horizon IA: almeno 3 soggetti di 3 Paesi UE, qui trainato da robotica di cantiere, integratori di sistemi costruttivi e imprese edili; noi solo come fornitore di pannelli e sito dimostrativo",
-        "nota": "Bando centrato su robotica e automazione in cantiere, tecnologia che non abbiamo: possibile solo un ruolo marginale come fornitori dei pannelli isolanti riciclati da installare nelle demo. Scadenza 2027, da tenere d'occhio senza investirci ora.",
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "living lab con i Comuni",
+        "nota": "Ripubblicazione 2027 dell'open topic CCRI sull'urban manufacturing: valgono le stesse ragioni della tornata 2026, con più tempo per preparare il consorzio.",
         "perche": [
-          "Il cuore del topic è la robotica e l'automazione di cantiere (posa, prefabbricazione, ristrutturazione automatizzata): competenza che la società non ha né ha in rete.",
-          "Un aggancio esiste solo sul lato materiale: i pannelli termoisolanti e fonoassorbenti Human Maple da acetato di cellulosa riciclato, conformi ai CAM, possono essere tra i prodotti manipolati/installati dai sistemi robotici nelle demo.",
-          "Possibile contributo secondario come sito dimostrativo calabrese (edifici pubblici dei Comuni della rete) per le prove in campo.",
-          "Un'Innovation Action di questo tipo è guidata da grandi integratori e centri di robotica: un partner senza tecnologia pesa poco in valutazione e prende un budget minimo."
+          "Stesso topic della tornata 2026: valorizzare scarti urbani in manufatti ad alto valore dentro città e regioni, con la CCRI e i Living Labs al centro.",
+          "Mozziconi → acetato → pannelli e arredo urbano è urban manufacturing da manuale; i Comuni calabresi sono il territorio pilota che i consorzi cercano.",
+          "La scadenza 2027 lascia il tempo di consolidare lettere di intenti e rete di aziende."
         ],
         "come": [
-          "Non aprire una ricerca partner dedicata: monitorare il topic alla pubblicazione definitiva del Work Programme 2027 e valutarlo solo se arriva un invito da un consorzio già formato.",
-          "Nel frattempo preparare la scheda tecnica inglese del pannello (prestazioni termiche/acustiche, certificazioni, conformità CAM, compatibilità con posa automatizzata) da girare a chi cerca fornitori di materiali circolari.",
-          "Segnalare il topic a Unical (contratto quadro esistente) e ai dipartimenti di ingegneria/robotica: se entrano in un consorzio, chiedere di essere inseriti come fornitore di materiale e sito pilota.",
-          "Priorità operativa resta sui bandi italiani a beneficiaria diretta; questo va in lista di osservazione con revisione a inizio 2027."
+          "Stessa strategia della tornata 2026: Comuni come territorio pilota, noi come startup tecnologica, aziende della rete per le altre frazioni.",
+          "Procedura two-stage: primo concept sintetico su impatto e visione sistemica.",
+          "Monitorare i portali di partner search già dal 2026 per entrare nei consorzi in formazione."
         ],
-        "aggiornato": "2026-09-23T11:10:20.968Z",
-        "automatica": true
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
       },
-      "fasi": null,
-      "segnalatoIl": "2026-09-23T11:10:22.330Z"
+      "fasi": [
+        "2027-04-08T00:00:00.000Z",
+        "2027-09-16T00:00:00.000Z"
+      ],
+      "segnalatoIl": "2026-08-01T11:07:11.591Z"
+    },
+    {
+      "attivo": true,
+      "id": "eu-HORIZON-CL6-2027-01-CIRCBIO-01-two-stage",
+      "title": "Deploying circular systemic solutions through living labs in cities and regions (Circular Cities and Regions Initiative topic)",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-01-two-stage",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL6 – circolare e bio-based",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "ancheSu": null,
+      "date": "2027-02-04T00:00:00.000Z",
+      "deadline": "2027-04-08T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "In arrivo",
+      "isOpen": true,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "circular"
+      ],
+      "classe": "nostro",
+      "ruolo": "living lab con i Comuni",
+      "motivi": [
+        "città e regioni pilota (CCRI)",
+        "living lab sul territorio"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "living lab con i Comuni",
+        "nota": "'SÌ assoluto': living labs CCRI 2027, tra i migliori in assoluto da perseguire. Servono 2 città dimostratrici + 3 replicatrici nel consorzio: i Comuni calabresi valgono oro.",
+        "perche": [
+          "Pilastro della CCRI: valida e diffonde soluzioni circolari sistemiche nei territori, senza imporre un settore — si sceglie la filiera in base alle esigenze delle città coinvolte.",
+          "Richiede obbligatoriamente almeno 2 città/regioni dimostratrici e 3 replicatrici nel consorzio: possiamo portare una rete pronta di Comuni del Sud Italia.",
+          "Combina tutte le nostre componenti: tecnologia sui mozziconi, gamification, e soprattutto la rete istituzionale con i Comuni."
+        ],
+        "come": [
+          "Ottenere manifestazioni di interesse informali dai Comuni a partecipare come Living Labs (dimostratori o replicatori).",
+          "Cercare consorzi internazionali in formazione proponendoci come partner per l'ingaggio dei cittadini e l'accesso ai Living Labs comunali.",
+          "La modalità two-stage riduce l'onere iniziale: primo concept incentrato su impatto e visione sistemica."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": [
+        "2027-04-08T00:00:00.000Z",
+        "2027-09-16T00:00:00.000Z"
+      ],
+      "segnalatoIl": "2026-08-01T11:07:11.591Z"
     },
     {
       "attivo": true,
@@ -802,6 +859,58 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
+    },
+    {
+      "attivo": true,
+      "id": "eu-HORIZON-CL5-2027-05-D4-05",
+      "title": "On-site robotic and automated techniques for building renovation and new construction",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-05",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Horizon CL5 – clima ed energia",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "consorzio Horizon IA: almeno 3 soggetti di 3 Paesi UE, qui trainato da robotica di cantiere, integratori di sistemi costruttivi e imprese edili; noi solo come fornitore di pannelli e sito dimostrativo",
+      "ancheSu": null,
+      "date": "2027-05-05T00:00:00.000Z",
+      "deadline": "2027-09-15T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "In arrivo",
+      "isOpen": true,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "nostro",
+      "ruolo": "fornitore di materiali da demo",
+      "motivi": [
+        "edilizia circolare e CAM"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "fornitore di materiali da demo",
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon IA: almeno 3 soggetti di 3 Paesi UE, qui trainato da robotica di cantiere, integratori di sistemi costruttivi e imprese edili; noi solo come fornitore di pannelli e sito dimostrativo",
+        "nota": "Bando centrato su robotica e automazione in cantiere, tecnologia che non abbiamo: possibile solo un ruolo marginale come fornitori dei pannelli isolanti riciclati da installare nelle demo. Scadenza 2027, da tenere d'occhio senza investirci ora.",
+        "perche": [
+          "Il cuore del topic è la robotica e l'automazione di cantiere (posa, prefabbricazione, ristrutturazione automatizzata): competenza che la società non ha né ha in rete.",
+          "Un aggancio esiste solo sul lato materiale: i pannelli termoisolanti e fonoassorbenti Human Maple da acetato di cellulosa riciclato, conformi ai CAM, possono essere tra i prodotti manipolati/installati dai sistemi robotici nelle demo.",
+          "Possibile contributo secondario come sito dimostrativo calabrese (edifici pubblici dei Comuni della rete) per le prove in campo.",
+          "Un'Innovation Action di questo tipo è guidata da grandi integratori e centri di robotica: un partner senza tecnologia pesa poco in valutazione e prende un budget minimo."
+        ],
+        "come": [
+          "Non aprire una ricerca partner dedicata: monitorare il topic alla pubblicazione definitiva del Work Programme 2027 e valutarlo solo se arriva un invito da un consorzio già formato.",
+          "Nel frattempo preparare la scheda tecnica inglese del pannello (prestazioni termiche/acustiche, certificazioni, conformità CAM, compatibilità con posa automatizzata) da girare a chi cerca fornitori di materiali circolari.",
+          "Segnalare il topic a Unical (contratto quadro esistente) e ai dipartimenti di ingegneria/robotica: se entrano in un consorzio, chiedere di essere inseriti come fornitore di materiale e sito pilota.",
+          "Priorità operativa resta sui bandi italiani a beneficiaria diretta; questo va in lista di osservazione con revisione a inizio 2027."
+        ],
+        "aggiornato": "2026-09-23T11:10:20.968Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-23T11:10:22.330Z"
     },
     {
       "attivo": true,
@@ -2402,10 +2511,7 @@
         "partner": null,
         "aggiornato": "2026-08-21T00:00:00.000Z"
       },
-      "fasi": [
-        "2026-04-16T00:00:00.000Z",
-        "2026-09-23T00:00:00.000Z"
-      ],
+      "fasi": null,
       "segnalatoIl": "2026-07-28T11:33:36.937Z"
     },
     {
@@ -2462,10 +2568,7 @@
         "partner": null,
         "aggiornato": "2026-08-21T00:00:00.000Z"
       },
-      "fasi": [
-        "2026-04-16T00:00:00.000Z",
-        "2026-09-23T00:00:00.000Z"
-      ],
+      "fasi": null,
       "segnalatoIl": "2026-07-28T11:33:36.937Z"
     },
     {
