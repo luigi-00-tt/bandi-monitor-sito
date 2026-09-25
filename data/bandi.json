@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:27:13.973Z",
+  "generatedAt": "2026-09-25T11:32:51.250Z",
   "lastEmailSentAt": "2026-09-23T11:10:22.343Z",
   "nextEmailDueAt": "2026-09-30T11:10:22.343Z",
   "settings": {
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 17,
+    "nuovi": 16,
     "attivi": 43,
     "inScadenza": 4,
     "scaduti": 40,
     "totale": 83,
     "nostri": 34,
     "rete": 9,
-    "fuoriTema": 159
+    "fuoriTema": 158
   },
   "perFonte": {
     "CCIAA Cosenza": {
