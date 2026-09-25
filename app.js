@@ -505,7 +505,9 @@ async function loadBandi() {
             if (!id.startsWith('_') && v && typeof v === 'object') unite[id] = { ...v, automatica: true };
         });
         Object.entries(manuali || {}).forEach(([id, v]) => {
-            if (!id.startsWith('_') && v && typeof v === 'object') unite[id] = v;
+            // automatica: false esplicito, perché il bando in bandi.json può
+            // portarsi dietro l'etichetta dell'analisi automatica di prima
+            if (!id.startsWith('_') && v && typeof v === 'object') unite[id] = { ...v, automatica: false };
         });
         return unite;
     });
@@ -636,6 +638,9 @@ function applicaValutazioniLocali(valutazioni) {
         b.classe = classePerVerdetto[v.verdetto] || b.classe || 'nostro';
         b.ruolo = v.ruolo || b.ruolo || null;
         b.decisoDaTe = v.automatica !== true;
+        // Alcune schede regionali restano online anni dopo la chiusura e il
+        // monitor le crede aperte: 'chiuso' scritto a mano le manda in archivio
+        if (v.chiuso === true) b.attivo = false;
     });
 
     // I bandi bocciati a mano non devono restare in mezzo agli altri
@@ -1160,8 +1165,8 @@ function cardBando(bando, archiviato = false) {
 // riaprire il documento ogni volta.
 
 const VERDETTI = {
-    si: { label: '✅ Ci partecipiamo', classe: 'verdetto-si' },
-    rete: { label: '🤝 Da girare alla rete', classe: 'verdetto-rete' },
+    si: { label: '✅ Beneficiari noi', classe: 'verdetto-si' },
+    rete: { label: '🤝 Da intermediare', classe: 'verdetto-rete' },
     forse: { label: '🤔 Possibile, con riserve', classe: 'verdetto-forse' },
     no: { label: '⛔ Scartato', classe: 'verdetto-no' }
 };
