@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:32:51.250Z",
+  "generatedAt": "2026-09-26T11:07:21.439Z",
   "lastEmailSentAt": "2026-09-23T11:10:22.343Z",
   "nextEmailDueAt": "2026-09-30T11:10:22.343Z",
   "settings": {
@@ -9,51 +9,47 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 16,
-    "attivi": 43,
-    "inScadenza": 4,
+    "nuovi": 10,
+    "attivi": 24,
+    "inScadenza": 3,
     "scaduti": 40,
-    "totale": 83,
-    "nostri": 34,
-    "rete": 9,
-    "fuoriTema": 158
+    "totale": 64,
+    "nostri": 3,
+    "rete": 21,
+    "fuoriTema": 169
   },
   "perFonte": {
-    "CCIAA Cosenza": {
-      "totale": 2,
-      "attivi": 2
-    },
     "EU Funding & Tenders": {
-      "totale": 30,
-      "attivi": 19
+      "totale": 23,
+      "attivi": 12
     },
     "Interreg Grecia-Italia": {
       "totale": 1,
       "attivi": 1
     },
     "Calabria Europa": {
-      "totale": 14,
-      "attivi": 4
+      "totale": 12,
+      "attivi": 2
     },
     "Fincalabra": {
-      "totale": 12,
-      "attivi": 7
+      "totale": 6,
+      "attivi": 1
     },
     "Confcommercio Cosenza": {
       "totale": 4,
       "attivi": 2
     },
     "Federterziario Calabria": {
-      "totale": 9,
-      "attivi": 4
+      "totale": 8,
+      "attivi": 3
     },
     "Unical – Bandi nazionali": {
       "totale": 1,
       "attivi": 1
     },
     "MIMIT": {
-      "totale": 5,
-      "attivi": 2
+      "totale": 4,
+      "attivi": 1
     },
     "Confartigianato Cosenza": {
       "totale": 2,
@@ -73,84 +69,15 @@
     }
   },
   "perAmbito": {
-    "locale": 2,
-    "europeo": 20,
-    "regionale": 18,
-    "nazionale": 3
+    "europeo": 13,
+    "regionale": 9,
+    "nazionale": 2
   },
   "perPartecipazione": {
-    "singola": 18,
-    "partenariato": 22,
-    "daVerificare": 3
+    "partenariato": 14,
+    "singola": 10
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "manuale-cciaacs-doppia-transizione-2026",
-      "title": "CCIAA Cosenza – Bando Doppia Transizione 2026, I Edizione",
-      "link": "https://www.cs.camcom.it/it/content/service/014-bando-doppia-transizione-anno-2026-i-edizione",
-      "source": "CCIAA Cosenza",
-      "sourceUrl": "https://www.cs.camcom.it/it/content/service/versoleimprese-bandi-2026",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "locale",
-      "programma": "Comuni e Agenda Urbana",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: il voucher camerale va a una singola impresa iscritta al Registro Imprese di Cosenza.",
-      "ancheSu": [
-        {
-          "fonte": "CCIAA Cosenza",
-          "link": "https://www.cs.camcom.gov.it/it/content/service/014-bando-doppia-transizione-anno-2026-i-edizione"
-        },
-        {
-          "fonte": "Confartigianato Cosenza",
-          "link": "https://www.confartigianatocosenza.it/2026/07/09/bandi-cciaa-cosenza-doppia-transizione-anno-2026-i-edizione/"
-        },
-        {
-          "fonte": "Federterziario Calabria",
-          "link": "https://www.federterziariocalabria.it/bando-doppia-transizione-2026/"
-        },
-        {
-          "fonte": "Confcommercio Cosenza",
-          "link": "https://confcommerciocosenza.it/bando-doppia-transizione-2026-contributi-fino-a-10-000-euro-per-le-imprese-di-cosenza/"
-        }
-      ],
-      "date": "2026-07-08T00:00:00.000Z",
-      "deadline": "2026-09-30T19:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Attivo",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "beneficiario diretto",
-      "motivi": [
-        "inserito a mano"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "B",
-        "ruolo": "beneficiario diretto",
-        "nota": "Adatto a noi come oggetto, ma con due ostacoli concreti: serve l'iscrizione al Registro Imprese di Cosenza (quindi la società va costituita prima) e al 2 settembre risultano già 30 domande per 262.000 euro richiesti contro 100.000 di stanziamento. Se la graduatoria è a sportello cronologico, arrivare adesso serve a poco; se è a punteggio, vale la pena provarci. Scade il 30 settembre 2026.",
-        "perche": [
-          "L'oggetto è in pieno centro al nostro modello: digitalizzazione usata per la transizione ecologica. Le piattaforme TARIP e i sistemi RFID che proponiamo ai Comuni sono esattamente 'tecnologie digitali al servizio della sostenibilità'.",
-          "Finanzia anche consulenze e formazione, non solo acquisti: per una società di intermediazione che vende competenza è la voce di spesa più utile.",
-          "L'autovalutazione Selfi4.0 richiesta dal bando è un lavoro che ci serve comunque, e che possiamo poi rivendere come servizio ai clienti."
-        ],
-        "come": [
-          "Verificare per prima cosa il criterio di assegnazione sul testo del bando: a sportello cronologico o a punteggio. Con 262.000 euro già richiesti su 100.000 disponibili, questo decide se ha senso partecipare.",
-          "Serve l'iscrizione al Registro Imprese della provincia di Cosenza: senza società costituita non si può presentare domanda.",
-          "Fare il report Selfi4.0 sul portale puntoimpresadigitale.camcom.it: deve essere svolto nei tre mesi precedenti la domanda e va ripetuto in fase di rendicontazione.",
-          "La domanda si presenta solo dalla piattaforma ReStart di Infocamere, con firma digitale del legale rappresentante e marca da bollo da 16 euro."
-        ],
-        "partecipazione": "singola",
-        "partner": "Nessuno: il voucher camerale va a una singola impresa iscritta al Registro Imprese di Cosenza.",
-        "aggiornato": "2026-09-02T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
     {
       "attivo": true,
       "id": "eu-HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
@@ -163,7 +90,7 @@
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio internazionale con almeno tre città di tre Stati UE",
       "ancheSu": null,
       "date": "2026-02-04T00:00:00.000Z",
       "deadline": "2026-10-08T00:00:00.000Z",
@@ -175,31 +102,28 @@
         "circular economy",
         "circular"
       ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico + territorio",
+      "classe": "rete",
+      "ruolo": "segnalazione ai Comuni",
       "motivi": [
         "edilizia circolare e CAM",
         "economia circolare e riciclo"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico + territorio",
-        "nota": "Economia circolare nelle costruzioni, dagli edifici alla scala urbana. Obbliga a testare in almeno tre città di Stati membri diversi, che devono stare nel consorzio: i Comuni calabresi sono la nostra merce di scambio.",
+        "verdetto": "rete",
+        "priorita": "C",
+        "ruolo": "segnalazione ai Comuni",
+        "nota": "Scade l'8/10/2026: senza un consorzio già formato non c'è tempo. Noi non possiamo essere partner (niente struttura né personale); il ruolo possibile era portare un Comune in un consorzio altrui.",
         "perche": [
-          "Innovation Action ponte tra CCRI e New European Bauhaus: finanzia riuso e riciclo di materiali edili, urban mining e materiali secondari bio-based — il nostro pannello in acetato è esattamente il 'materiale secondario' che il bando promuove.",
-          "Obbligo di testare in almeno 3 città di Stati membri diversi, che devono essere beneficiarie nel consorzio: i coordinatori europei hanno un disperato bisogno di Comuni disposti a sperimentare, e noi li abbiamo.",
-          "Doppio ruolo: fornitori del materiale isolante innovativo da testare negli edifici e intermediari territoriali che portano le città pilota."
+          "Mancano meno di due settimane alla scadenza.",
+          "Un partner Horizon deve dimostrare capacità operativa (personale, esperienza): una società in costituzione non la ha."
         ],
         "come": [
-          "Blindare i Comuni: spiegare alle amministrazioni calabresi l'opportunità di entrare in un grande progetto europeo sull'edilizia circolare con fondi diretti per la loro città.",
-          "Usare le piattaforme di brokerage UE e gli atenei partner per intercettare i coordinatori che stanno scrivendo il progetto.",
-          "Proporsi come il partner italiano che risolve due problemi in un colpo: il materiale circolare e le città pilota."
+          "Solo se un consorzio già pronto cerca una città italiana: segnalare un Comune calabrese con cui abbiamo rapporti."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio internazionale con almeno tre città di tre Stati UE",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-07-28T11:33:36.937Z"
@@ -225,7 +149,7 @@
       "ambito": "europeo",
       "programma": "Interreg",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "Obbligatorio un partenariato transfrontaliero italo-greco. Noi non possiamo essere beneficiari: servono un Comune calabrese (o un altro ente pubblico) come partner italiano e un soggetto greco. Il nos",
+      "partnerRichiesti": "un Comune calabrese capofila e un ente pubblico greco; noi non possiamo essere beneficiari",
       "ancheSu": [
         {
           "fonte": "Unical – Bandi europei",
@@ -240,7 +164,7 @@
       "relevanceScore": 0,
       "relevanceKeywords": [],
       "classe": "rete",
-      "ruolo": "partner tecnico di un ente pubblico",
+      "ruolo": "intermediazione con i Comuni",
       "motivi": [
         "settore fuori dal nostro campo"
       ],
@@ -248,22 +172,21 @@
       "valutazione": {
         "verdetto": "rete",
         "priorita": "B",
-        "ruolo": "partner tecnico di un ente pubblico",
-        "nota": "IMPORTANTE: le imprese private e le PMI NON sono beneficiari ammissibili — solo enti pubblici, organismi di diritto pubblico, organismi privati senza scopo di lucro e GECT. Quindi non si partecipa da soli, e non ha senso provarci come società. Ha senso invece proporlo ai Comuni con cui parliamo: l'obiettivo specifico 2.6 è la transizione all'economia circolare, la Calabria è entrata nell'area del programma con tutte e quattro le province, e la dotazione è di 4,46 milioni. Scade il 9 ottobre 2026 alle 14:00. Da qui è nato HERITAGETEX, che è il modo più rapido di capire come funziona il programm",
+        "ruolo": "intermediazione con i Comuni",
+        "nota": "Le imprese non sono ammesse: il beneficiario è il Comune. Proprio per questo è una leva nel nostro stile: se un Comune vince, i soldi si spendono comprando servizi di economia circolare, e i fornitori li portiamo noi. Scade il 9/10/2026: tempi molto stretti.",
         "perche": [
-          "È il programma europeo più vicino a noi che finora non passava da nessuna fonte: area ammissibile Cosenza, Catanzaro, Crotone e Reggio Calabria, e un obiettivo specifico dedicato all'economia circolare.",
-          "I progetti small scale sono piccoli e brevi: per un Comune sono molto più abbordabili di un Horizon, e a noi serve un Comune che dica sì, non un consorzio da dodici partner.",
-          "Un progetto finanziato qui diventa poi il canale per le imprese del territorio, come dimostra HERITAGETEX di CNA Calabria: è il modello che conosciamo, applicato a un'altra filiera."
+          "Beneficiari: solo enti pubblici, organismi di diritto pubblico, non profit e GECT. Una SRL non può esserci.",
+          "L'obiettivo 2.6 è l'economia circolare, e la Calabria è area ammissibile: un Comune può finanziarci raccolta, RFID/TARIP, recupero dei mozziconi.",
+          "Le forniture del progetto si comprano con gara o affidamento: è lì che entrano i nostri fornitori."
         ],
         "come": [
-          "Non presentare domanda come società: non saremmo ammissibili. Individuare invece un Comune calabrese interessato (la rete dei Comuni è la nostra merce di scambio) e proporgli il progetto.",
-          "Servono un partner greco e un partenariato transfrontaliero: la strada corta è passare da chi è già dentro il programma — CNA Calabria è partner di HERITAGETEX e ha i contatti greci.",
-          "Con i tempi stretti (9 ottobre) questa edizione è realisticamente un'occasione per farsi conoscere e prepararsi alla prossima call, non per costruire un partenariato da zero.",
-          "Leggere le regole di ammissibilità sul sito del programma prima di muovere qualunque Comune: interreg@mou.gr risponde alle domande fino a 20 giorni prima della scadenza."
+          "Sentire subito i 2-3 Comuni con cui c'è già un rapporto: con 2 settimane serve un Comune che abbia già un'idea e un partner greco.",
+          "Attenzione: le regole degli appalti pubblici vietano di concordare in anticipo il fornitore. Il nostro ruolo è far conoscere al Comune soluzioni e fornitori; la provvigione la paga il fornitore se vince la gara.",
+          "Se non si fa in tempo, preparare la stessa proposta per la call successiva."
         ],
         "partecipazione": "partenariato",
-        "partner": "Obbligatorio un partenariato transfrontaliero italo-greco. Noi non possiamo essere beneficiari: servono un Comune calabrese (o un altro ente pubblico) come partner italiano e un soggetto greco. Il nos",
-        "aggiornato": "2026-09-07T00:00:00.000Z"
+        "partner": "un Comune calabrese capofila e un ente pubblico greco; noi non possiamo essere beneficiari",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-07T10:02:36.429Z"
@@ -280,7 +203,7 @@
       "ambito": "europeo",
       "programma": "Altri programmi europei",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "SMP Project Grants: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio di soggetti della filiera alimentare",
       "ancheSu": null,
       "date": "2026-06-16T00:00:00.000Z",
       "deadline": "2026-10-15T00:00:00.000Z",
@@ -299,22 +222,19 @@
       "decisoDaTe": true,
       "valutazione": {
         "verdetto": "rete",
-        "priorita": "B",
+        "priorita": "C",
         "ruolo": "segnalazione alla rete",
-        "nota": "Spreco alimentare: filiera chiusa per noi, ma ottima carta per allargare la rete a startup antispreco e proporre le mense scolastiche dei Comuni; la gamification è spendibile come partner tecnico.",
+        "nota": "Spreco alimentare, scadenza 15/10/2026: fuori dalle nostre filiere e senza un fornitore mappato su cui chiudere contratti. Da segnalare solo se qualcuno della rete lavora sull'antispreco.",
         "perche": [
-          "Circa 4 M€ per prevenire lo spreco alimentare dei consumatori: per i mozziconi non c'è spazio, ma per startup food della rete sì.",
-          "Il bando finanzia interventi 'fuori casa', ad esempio nelle mense scolastiche comunali: possiamo proporre i Comuni partner.",
-          "Richiede esplicitamente cambiamento comportamentale: la nostra piattaforma di gamification può essere adattata per educare a ridurre lo spreco di cibo."
+          "Tema e beneficiari lontani dal catalogo attuale.",
+          "Troppo vicino per costruire da zero un'intermediazione."
         ],
         "come": [
-          "Cercare startup calabresi o nazionali su recupero eccedenze, app antispreco o bioplastiche da scarti alimentari e fare da ponte con le amministrazioni.",
-          "Proporre ai Comuni l'adesione a un consorzio per azzerare lo spreco nelle loro mense scolastiche.",
-          "Eventualmente entrare come partner tecnico per la gamification, con accordo provvigionale sui contratti generati."
+          "Segnalarlo a eventuali contatti antispreco o alle mense scolastiche dei Comuni, senza investirci tempo."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio di soggetti della filiera alimentare",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-07-28T11:33:36.937Z"
@@ -331,7 +251,7 @@
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "Serve un consorzio internazionale M-ERA.NET e, sul lato calabrese, un organismo di ricerca: l'Unical, con cui il partner Human Maple ha già un contratto quadro per la R&S sull'acetato di cellulosa.",
+      "partnerRichiesti": "impresa calabrese + organismo di ricerca (Unical) + partner esteri",
       "ancheSu": [
         {
           "fonte": "Unical – Bandi regionali",
@@ -349,82 +269,30 @@
       "isOpen": null,
       "relevanceScore": 0,
       "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "impresa beneficiaria con organismo di ricerca",
+      "classe": "rete",
+      "ruolo": "intermediazione (edizione 2027)",
       "motivi": [
         "inserito a mano"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "forse",
-        "priorita": "B",
-        "ruolo": "impresa beneficiaria con organismo di ricerca",
-        "nota": "ATTENZIONE, la scadenza è ingannevole: il 18 novembre 2026 è il termine per le proposte complete, ma nelle call M-ERA.NET la pre-proposta è il primo stadio obbligatorio e si è chiusa il 12 maggio 2026. Per il 2026 il treno è passato. Lo teniamo in elenco perché è la coincidenza più esatta che abbiamo trovato fra un bando regionale e quello che sappiamo fare: materiali avanzati, co-finanziamento della Regione Calabria, obbligo di sede operativa in Calabria. È il bando da preparare per l'edizione 2027, con la pre-proposta da scrivere in primavera.",
+        "verdetto": "rete",
+        "priorita": "C",
+        "ruolo": "intermediazione (edizione 2027)",
+        "nota": "Per il 2026 il treno è passato: la pre-proposta, obbligatoria, si è chiusa il 12 maggio. Per il 2027 è il bando giusto per Human Maple con Unical; noi non facciamo ricerca, il nostro ruolo è metterli insieme.",
         "perche": [
-          "Materiali avanzati con co-finanziamento regionale fino a 100.000 euro a progetto: è il caso Human Maple in una riga — acetato di cellulosa dai mozziconi, pannelli termoisolanti conformi ai CAM.",
-          "Ammette le MPMI come beneficiarie dirette, non solo gli organismi di ricerca: non è un bando per soli ricercatori.",
-          "Il vincolo della sede operativa in Calabria, che di solito è un ostacolo, qui gioca a favore: taglia fuori i concorrenti da fuori regione.",
-          "L'Unical è già il riferimento R&S del partner: l'organismo di ricerca richiesto dal bando ce l'abbiamo già a due passi."
+          "Il 18/11/2026 è la scadenza delle proposte complete, riservata a chi ha passato la pre-proposta di maggio.",
+          "Il beneficiario deve fare ricerca sui materiali: Human Maple e Unical, non una società di intermediazione."
         ],
         "come": [
-          "Per il 2026 non c'è nulla da fare se non si è presentata la pre-proposta a maggio: verificare solo che sia davvero così, leggendo l'avviso sul portale Calabria Europa.",
-          "Segnare la Call 2027: le pre-proposte M-ERA.NET si aprono di norma a inizio anno e chiudono in primavera. È l'unico appuntamento che va messo in agenda con mesi di anticipo.",
-          "Nel frattempo costruire il pezzo che serve comunque: accordo di R&S con l'Unical e sede operativa in Calabria, che sono requisiti del bando e cose da fare a prescindere.",
-          "Cercare il consorzio internazionale sul partner search di M-ERA.NET: senza partner esteri la call non si presenta."
+          "Segnalarlo a Human Maple per l'edizione 2027 (pre-proposte in primavera) e mettere in contatto Human Maple e Unical, con accordo scritto sulla nostra provvigione."
         ],
         "partecipazione": "partenariato",
-        "partner": "Serve un consorzio internazionale M-ERA.NET e, sul lato calabrese, un organismo di ricerca: l'Unical, con cui il partner Human Maple ha già un contratto quadro per la R&S sull'acetato di cellulosa.",
-        "aggiornato": "2026-09-07T00:00:00.000Z"
+        "partner": "impresa calabrese + organismo di ricerca (Unical) + partner esteri",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-07T10:02:36.429Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-NEB-2026-01-BUSINESS-02",
-      "title": "Understanding capital market dynamics for increased investment in New European Bauhaus projects in neighbourhoods",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-BUSINESS-02",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Missioni e New European Bauhaus",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-05-05T00:00:00.000Z",
-      "deadline": "2026-12-01T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "caso studio territoriale",
-      "motivi": [
-        "città e regioni pilota (CCRI)"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "caso studio territoriale",
-        "nota": "Finanza per i progetti NEB: bando per esperti di finanza d'impatto, non per noi. Al massimo la rete calabrese come caso pilota di un consorzio altrui; meglio puntare su REGEN e BUSINESS-01.",
-        "perche": [
-          "Studia il disallineamento tra capitali e progetti di rigenerazione urbana NEB: non finanzia macchinari, materiali né impianti di riciclo.",
-          "L'unico aggancio è offrire l'ecosistema Calabria (Comuni + startup circolari) come caso pilota per validare modelli di investimento a impatto locale."
-        ],
-        "come": [
-          "Non scrivere la proposta: cercare consorzi aperti sui portali di matchmaking NEB e proporsi solo come territorio pilota.",
-          "Le energie vanno sui bandi NEB REGEN e BUSINESS-01, molto più adatti a pannelli e test sul territorio."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-08-01T11:07:11.591Z"
     },
     {
       "attivo": true,
@@ -438,7 +306,7 @@
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessun partner obbligatorio: si presenta la singola impresa calabrese beneficiaria; noi restiamo intermediari e non firmatari della domanda",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria; noi portiamo il fornitore tecnico e prendiamo la provvigione",
       "ancheSu": [
         {
           "fonte": "Calabria Europa",
@@ -460,139 +328,36 @@
         "energia"
       ],
       "classe": "rete",
-      "ruolo": "segnalazione alla rete e intermediazione",
+      "ruolo": "intermediazione con provvigione",
       "motivi": [
         "investimenti e innovazione d'impresa",
         "aiuti a PMI e nuove imprese",
         "contributo a fondo perduto"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
         "verdetto": "rete",
-        "priorita": "B",
-        "ruolo": "segnalazione alla rete e intermediazione",
-        "partecipazione": "singola",
-        "partner": "Nessun partner obbligatorio: si presenta la singola impresa calabrese beneficiaria; noi restiamo intermediari e non firmatari della domanda",
-        "nota": "Fondo regionale Fincalabra per efficienza energetica e rinnovabili nelle imprese: per noi, società di servizi in costituzione e senza impianti, il fit diretto è debole. Vale invece come leva commerciale da girare alle aziende calabresi della rete (piattaforme di trattamento rifiuti, impianti di riciclo, futuro sito produttivo pannelli Human Maple).",
+        "priorita": "A",
+        "ruolo": "intermediazione con provvigione",
+        "nota": "È il caso da manuale del nostro mestiere: le PMI calabresi comprano impianti e lavori di efficienza energetica con il 30-35% a fondo perduto e un prestito all'1%, e noi portiamo loro il fornitore. Aperto fino al 30/12/2026, investimento da 80.000 € a 3 M€.",
         "perche": [
-          "Il bando finanzia investimenti fisici in efficienza energetica e fonti rinnovabili: una SRLS di intermediazione con un ufficio a Rende ha spese ammissibili minime e nessun processo energivoro da efficientare.",
-          "La società è ancora in costituzione e non iscritta al Registro Imprese: quasi certamente fuori dai requisiti di impresa attiva con sede operativa in Calabria richiesti da Fincalabra.",
-          "È invece un'ottima leva verso i clienti e i fornitori calabresi: impianti di riciclo, piattaforme di trattamento rifiuti e aziende manifatturiere della rete hanno bolletta energetica alta e possono usare il fondo per accompagnare un contratto con noi.",
-          "Se Human Maple o l'azienda di riciclo pannolini localizzassero una linea produttiva in Calabria, il FEERI diventerebbe uno strumento diretto per finanziarne fotovoltaico e efficientamento, con noi come facilitatori sul territorio."
+          "Verificato il 25/09/2026 sulla pagina Calabria Europa: aperto dal 9/06/2025 al 30/12/2026, dotazione 45 M€ (30 per l'efficienza, 15 per le rinnovabili).",
+          "Le spese ammissibili sono proprio quello che si compra da un fornitore: progettazione, opere murarie, macchinari, impianti rinnovabili e accumuli. Ogni domanda è un contratto fra un'impresa e un fornitore, cioè una provvigione per noi.",
+          "Il contributo (35% per le micro, 30% per le PMI) più il prestito all'1% su 96 mesi rendono l'impresa molto più disposta a firmare: è la leva commerciale di cui parliamo.",
+          "Non serve che la nostra società sia costituita per cominciare a mappare fornitori e imprese interessate; per incassare le provvigioni sì."
         ],
         "come": [
-          "Scaricare il regolamento Fincalabra e verificare: forma dell'agevolazione (fondo perduto, finanziamento agevolato o misto), requisito di impresa attiva e di anzianità minima, sede operativa in Calabria, codici ATECO ammessi e spese finanziabili (diagnosi energetica, fotovoltaico, sostituzione impianti).",
-          "Selezionare dal catalogo delle 19 aziende e dai partner (Human Maple, riciclo pannolini, Iotilize) quelle con sede o insediamento previsto in Calabria e consumi energetici rilevanti, e mandare una scheda sintetica del bando.",
-          "Prima di aprire i contatti far firmare accordo provvigionale e patto di non elusione, definendo la provvigione sull'investimento intermediato e non solo sul contributo ottenuto.",
-          "Verificare se la localizzazione di una linea produttiva Human Maple in Calabria (pannelli CAM da acetato di cellulosa) possa essere costruita in modo da usare il FEERI sulla componente energetica, abbinandolo ad altre misure regionali sugli investimenti produttivi."
+          "Individuare 2-3 fornitori calabresi di efficienza energetica e fotovoltaico/accumulo e firmare con ciascuno accordo provvigionale e patto di non elusione (percentuale di riferimento 3-8%).",
+          "Fare la lista delle PMI energivore della rete (lavorazioni, freddo, piattaforme rifiuti) con investimenti sopra gli 80.000 €.",
+          "Portare all'impresa un pacchetto chiavi in mano: diagnosi del fornitore, preventivo, domanda FEERI preparata con il loro consulente.",
+          "Muoversi entro novembre: la domanda richiede la diagnosi e la progettazione, che hanno bisogno di settimane."
         ],
-        "aggiornato": "2026-09-05T10:20:32.240Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria; noi portiamo il fornitore tecnico e prendiamo la provvigione",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-05T10:20:34.262Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL4-2027-01-MAT-PROD-22",
-      "title": "Innovative advanced materials and new production processes – reducing dependencies on Critical and Strategic Raw Materials (IA) (Innovative Advanced Materials for the EU and Processes4Planet partnerships)",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-22",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL4 – materiali e manifattura",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-09-22T00:00:00.000Z",
-      "deadline": "2027-02-02T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 1,
-      "relevanceKeywords": [
-        "partnership"
-      ],
-      "classe": "nostro",
-      "ruolo": "partner dimostrativo marginale",
-      "motivi": [
-        "materiali bio-based e avanzati"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "partner dimostrativo marginale",
-        "nota": "Bando Horizon IA centrato sulla riduzione della dipendenza da materie prime critiche e strategiche: tema lontano dall'acetato di cellulosa da mozziconi, che non sostituisce CRM. Possibile solo un ruolo marginale in un consorzio già formato, con scadenza lontana (2027).",
-        "perche": [
-          "Il cuore del topic sono i CRM/SRM (metalli critici, terre rare, magneti, materiali per batterie ed elettronica): non è il nostro dominio, il pannello isolante da acetato di cellulosa non sostituisce nessuna materia prima critica.",
-          "È una Innovation Action a TRL alto: richiede impianti pilota, capacità produttiva industriale e partner manifatturieri pesanti, requisiti che una SRLS in costituzione non copre da sola.",
-          "L'unico aggancio possibile è indiretto: materiale bio-based da rifiuto urbano come alternativa a materiali di origine fossile o critica in edilizia, e disponibilità di siti calabresi per la fase dimostrativa.",
-          "Le partnership Innovative Advanced Materials e Processes4Planet hanno consorzi consolidati (centri di ricerca e grandi industrie): l'ingresso di un nuovo attore piccolo è realistico solo su un pacchetto di lavoro accessorio."
-        ],
-        "come": [
-          "Non investire tempo di scrittura: monitorare il draft del work programme 2027 e verificare se compaiono riferimenti espliciti a materiali da riciclo non metallico o edilizia; solo in quel caso rivalutare.",
-          "Se emerge un aggancio, proporsi a Unical (contratto quadro già esistente) come partner di un consorzio guidato da un centro materiali, con ruolo limitato a caratterizzazione e demo dei pannelli.",
-          "Tenere pronta una scheda tecnica in inglese del materiale Human Maple (CAM, prestazioni termoacustiche, LCA) riutilizzabile su call più pertinenti (CBE JU, LIFE, edilizia circolare).",
-          "Dirottare l'energia sui topic realmente compatibili invece che su questo: qui il fit è sotto soglia."
-        ],
-        "aggiornato": "2026-08-21T17:17:15.953Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL4-2027-01-MAT-PROD-17",
-      "title": "Expert network on Critical raw materials (CSA)",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-17",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL4 – materiali e manifattura",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Coordination and Support Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2026-09-22T00:00:00.000Z",
-      "deadline": "2027-02-02T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "rete",
-      "ruolo": "segnalazione alla rete RAEE",
-      "motivi": [
-        "RAEE ed elettronica"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "C",
-        "ruolo": "segnalazione alla rete RAEE",
-        "nota": "Rete di esperti UE sulle materie prime critiche: tema lontano dall'acetato di cellulosa e dai servizi TARIP, ma potenzialmente utile alle aziende RAEE della rete che recuperano CRM dall'elettronica. Per noi solo segnalazione, non partecipazione diretta.",
-        "perche": [
-          "Le materie prime critiche (terre rare, litio, cobalto, grafite) non c'entrano con il nostro flusso: l'acetato di cellulosa da mozziconi non è un CRM e i pannelli isolanti non rientrano nella catena del valore CRM.",
-          "Una CSA \"expert network\" si costruisce con servizi geologici nazionali, centri di ricerca sui materiali, associazioni industriali e ministeri: profili che non abbiamo e che non lasciano spazio a un intermediario commerciale.",
-          "Non c'è nemmeno il ruolo di living lab con i Comuni: qui non si sperimenta raccolta o engagement dei cittadini, si mappano competenze e dati di filiera.",
-          "L'unico aggancio reale è indiretto: le aziende RAEE del nostro catalogo, che dall'elettronica a fine vita estraggono metalli critici, possono avere interesse a entrare in una rete di esperti UE per visibilità e contatti."
-        ],
-        "come": [
-          "Girare la scheda del bando alle aziende RAEE/recupero metalli della rete, verificando se hanno già relazioni con consorzi europei sui CRM.",
-          "Prima di qualunque presentazione, far firmare accordo provvigionale e patto di non elusione, così da coprire eventuali contratti operativi che nascessero dai contatti generati.",
-          "Non investire tempo di scrittura progettuale: al massimo mettere a disposizione dati sui flussi di raccolta dei Comuni calabresi se un partner lo chiede come contributo minore.",
-          "Tenere il bando in monitoraggio passivo e concentrare le energie su LIFE e CBE JU, dove l'acetato di cellulosa ha un fit reale."
-        ],
-        "aggiornato": "2026-08-21T17:18:27.716Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
     },
     {
       "attivo": true,
@@ -606,7 +371,7 @@
       "ambito": "europeo",
       "programma": "Horizon CL4 – materiali e manifattura",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon di aziende e centri di ricerca tessili",
       "ancheSu": null,
       "date": "2026-09-22T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
@@ -619,30 +384,25 @@
         "partnership"
       ],
       "classe": "rete",
-      "ruolo": "segnalazione alla rete e living lab",
+      "ruolo": "segnalazione alla rete",
       "motivi": [
         "tessile post-consumo"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
         "verdetto": "rete",
-        "priorita": "B",
-        "ruolo": "segnalazione alla rete e living lab",
-        "nota": "Bando Horizon IA sul riciclo tessile avanzato: la tecnologia non è la nostra (acetato da mozziconi, non fibre), ma possiamo girarlo alle aziende tessili della rete e offrire i Comuni calabresi come territorio pilota per la raccolta differenziata dei tessili.",
+        "priorita": "C",
+        "ruolo": "segnalazione alla rete",
+        "nota": "Riciclo tessile avanzato: interessante solo se la rete include un'azienda di riciclo tessile, che oggi manca.",
         "perche": [
-          "Il cuore del topic è il processing e il manufacturing avanzato delle fibre tessili post-consumo: non abbiamo né impianti né know-how di riciclo tessile, quindi non siamo partner tecnologico credibile.",
-          "Un consorzio Horizon IA su questo tema ha però sempre bisogno di flussi reali in ingresso e di siti di raccolta: la raccolta separata obbligatoria dei tessili nei Comuni è un tassello scoperto e noi abbiamo i Comuni.",
-          "Il catalogo RFID/retrofit contenitori/TARIP è direttamente spendibile per tracciare e qualificare il flusso tessile in ingresso (dato di composizione e provenienza, molto richiesto nei progetti di circolarità tessile).",
-          "Gamification e campagne comportamentali servono a far conferire correttamente i cittadini: pacchetto di work package 'engagement' che nessun tecnologo del consorzio vuole gestire."
+          "Nessun fornitore tessile nel catalogo."
         ],
         "come": [
-          "Mappare 2-3 operatori del riciclo/preparazione al riutilizzo tessile (anche fuori Calabria) e proporre loro il topic prima che si chiudano i consorzi: prima del contatto far firmare accordo provvigionale e patto di non elusione.",
-          "Preparare una scheda 'Calabria living lab tessile' in inglese: numero di Comuni disponibili, abitanti serviti, dotazione RFID/TARIP proponibile, lettera di endorsement di 2-3 sindaci.",
-          "Cercare sui portali di partner search i coordinatori dei progetti Textiles for the Future e candidarsi come sito dimostratore/replicator con budget su raccolta, tracciabilità e comunicazione.",
-          "Se non si aggancia un consorzio entro l'estate 2026, non insistere: tenere il bando come leva commerciale per vendere RFID e TARIP ai Comuni sul tema raccolta tessili."
+          "Riprenderlo se entra nella rete un'azienda del riciclo tessile."
         ],
-        "aggiornato": "2026-08-21T17:18:49.028Z",
-        "automatica": true
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon di aziende e centri di ricerca tessili",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-07-28T11:33:36.937Z"
@@ -659,7 +419,7 @@
       "ambito": "europeo",
       "programma": "Horizon CL4 – materiali e manifattura",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon con Human Maple come partner tecnologico, università e industria",
       "ancheSu": null,
       "date": "2026-09-22T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
@@ -671,30 +431,29 @@
         "circular",
         "partnership"
       ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico",
+      "classe": "rete",
+      "ruolo": "segnalazione a Human Maple",
       "motivi": [
         "materiali bio-based e avanzati"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico",
-        "nota": "Materiali avanzati circolari dal design al mercato (RIA), con focus obbligato su edilizia o energia: l'acetato riciclato per pannelli è un IAM circolare da manuale.",
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione a Human Maple",
+        "nota": "Materiali avanzati circolari dal design al mercato: il partner giusto è Human Maple (acetato riciclato per l'edilizia), non noi. Il nostro ruolo è portarlo nel consorzio e offrire i Comuni come primi acquirenti dei pannelli.",
         "perche": [
-          "Il bando chiede materiali avanzati circular-by-design con focus dichiarato su edilizia o energia: l'acetato di cellulosa riciclato per pannelli termoisolanti e fonoassorbenti rientra esattamente nella definizione.",
-          "Finanzia sviluppo dei processi produttivi e dimostrazione di scalabilità e sostenibilità: quello che serve al nostro impianto.",
-          "I progetti devono validare le prestazioni sul campo: la rete di Comuni offre siti pilota per la posa nei edifici pubblici (scuole, municipi) integrando i CAM."
+          "Il tema calza col prodotto di Human Maple; la ricerca e la produzione le fa Human Maple con Unical.",
+          "Noi non produciamo e non abbiamo struttura per un progetto di ricerca.",
+          "Il valore per noi è a valle: i Comuni che compreranno i pannelli CAM."
         ],
         "come": [
-          "Entrare nel consorzio come startup proprietaria della tecnologia di recupero, affiancata da centri di ricerca sui materiali ed enti di certificazione.",
-          "Dichiarare l'area di applicazione 'Construction' e preparare la caratterizzazione termoacustica del pannello.",
-          "Offrire i Comuni calabresi come siti pilota di riqualificazione."
+          "Proporre a Human Maple di candidarsi (scadenza 2/02/2027) mettendolo in contatto con consorzi e Unical.",
+          "Accordo scritto sulla provvigione per le vendite ai Comuni che ne derivano."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon con Human Maple come partner tecnologico, università e industria",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
@@ -711,7 +470,7 @@
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon (almeno 3 enti di 3 Paesi UE) legato alla CCRI",
       "ancheSu": null,
       "date": "2027-02-04T00:00:00.000Z",
       "deadline": "2027-04-08T00:00:00.000Z",
@@ -722,30 +481,28 @@
       "relevanceKeywords": [
         "circular"
       ],
-      "classe": "nostro",
-      "ruolo": "living lab con i Comuni",
+      "classe": "rete",
+      "ruolo": "intermediazione con i Comuni",
       "motivi": [
         "città e regioni pilota (CCRI)"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "living lab con i Comuni",
-        "nota": "Ripubblicazione 2027 dell'open topic CCRI sull'urban manufacturing: valgono le stesse ragioni della tornata 2026, con più tempo per preparare il consorzio.",
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "intermediazione con i Comuni",
+        "nota": "Gemello del CIRCBIO-01 sulla manifattura urbana: stessa logica (Comuni pilota, fornitori portati da noi), un po' meno diretto perché punta sulla produzione in città.",
         "perche": [
-          "Stesso topic della tornata 2026: valorizzare scarti urbani in manufatti ad alto valore dentro città e regioni, con la CCRI e i Living Labs al centro.",
-          "Mozziconi → acetato → pannelli e arredo urbano è urban manufacturing da manuale; i Comuni calabresi sono il territorio pilota che i consorzi cercano.",
-          "La scadenza 2027 lascia il tempo di consolidare lettere di intenti e rete di aziende."
+          "I Comuni calabresi possono essere territorio pilota per la manifattura urbana circolare, per esempio i pannelli Human Maple dai mozziconi raccolti in città.",
+          "Anche qui la società non entra nel consorzio: facciamo incontrare Comuni, fornitori e consorzio."
         ],
         "come": [
-          "Stessa strategia della tornata 2026: Comuni come territorio pilota, noi come startup tecnologica, aziende della rete per le altre frazioni.",
-          "Procedura two-stage: primo concept sintetico su impatto e visione sistemica.",
-          "Monitorare i portali di partner search già dal 2026 per entrare nei consorzi in formazione."
+          "Presentarlo agli stessi consorzi del CIRCBIO-01, proponendo Human Maple come caso di manifattura urbana.",
+          "Accordo provvigionale con Human Maple anche sui progetti finanziati."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon (almeno 3 enti di 3 Paesi UE) legato alla CCRI",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": [
         "2027-04-08T00:00:00.000Z",
@@ -765,7 +522,7 @@
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon (almeno 3 enti di 3 Paesi UE) con 2 città dimostratrici e 3 replicatrici",
       "ancheSu": null,
       "date": "2027-02-04T00:00:00.000Z",
       "deadline": "2027-04-08T00:00:00.000Z",
@@ -776,141 +533,38 @@
       "relevanceKeywords": [
         "circular"
       ],
-      "classe": "nostro",
-      "ruolo": "living lab con i Comuni",
+      "classe": "rete",
+      "ruolo": "intermediazione con i Comuni",
       "motivi": [
         "città e regioni pilota (CCRI)",
         "living lab sul territorio"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
+        "verdetto": "rete",
         "priorita": "A",
-        "ruolo": "living lab con i Comuni",
-        "nota": "'SÌ assoluto': living labs CCRI 2027, tra i migliori in assoluto da perseguire. Servono 2 città dimostratrici + 3 replicatrici nel consorzio: i Comuni calabresi valgono oro.",
+        "ruolo": "intermediazione con i Comuni",
+        "nota": "Il miglior bando europeo per il nostro modello: i Comuni calabresi entrano in un consorzio come città pilota e ricevono fondi per mettere in campo soluzioni circolari, che comprano dai fornitori che portiamo noi. Scadenza 8/04/2027: c'è tempo per preparare.",
         "perche": [
-          "Pilastro della CCRI: valida e diffonde soluzioni circolari sistemiche nei territori, senza imporre un settore — si sceglie la filiera in base alle esigenze delle città coinvolte.",
-          "Richiede obbligatoriamente almeno 2 città/regioni dimostratrici e 3 replicatrici nel consorzio: possiamo portare una rete pronta di Comuni del Sud Italia.",
-          "Combina tutte le nostre componenti: tecnologia sui mozziconi, gamification, e soprattutto la rete istituzionale con i Comuni."
+          "I living lab CCRI finanziano le città per sperimentare soluzioni circolari sul territorio: raccolta RFID, TARIP, recupero dei mozziconi, riuso.",
+          "Il nostro valore è il rapporto con i Comuni calabresi, che i consorzi europei cercano come dimostratori e replicatori.",
+          "La società non entra nel consorzio (niente struttura né personale per gestire un progetto Horizon): entrano i Comuni e, se utile, i fornitori.",
+          "La provvigione nasce dai contratti che i Comuni firmano con i fornitori per realizzare il progetto."
         ],
         "come": [
-          "Ottenere manifestazioni di interesse informali dai Comuni a partecipare come Living Labs (dimostratori o replicatori).",
-          "Cercare consorzi internazionali in formazione proponendoci come partner per l'ingaggio dei cittadini e l'accesso ai Living Labs comunali.",
-          "La modalità two-stage riduce l'onere iniziale: primo concept incentrato su impatto e visione sistemica."
+          "Individuare 2-3 Comuni motivati e presentarli ai consorzi in formazione (Circular Cities and Regions Initiative, piattaforma partner search del Funding & Tenders Portal).",
+          "Proporre al consorzio i fornitori del catalogo (RFID, TARIP, Human Maple) come soluzioni da sperimentare, con accordo provvigionale e NCNDA firmati prima.",
+          "Attenzione agli appalti: dentro il progetto il Comune compra con procedure pubbliche, quindi il fornitore va reso noto, non promesso."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon (almeno 3 enti di 3 Paesi UE) con 2 città dimostratrici e 3 replicatrici",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": [
         "2027-04-08T00:00:00.000Z",
         "2027-09-16T00:00:00.000Z"
       ],
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL5-2027-05-D4-07",
-      "title": "Integrating circularity in LCA-based modelling frameworks for renovation of buildings (Built4People Partnership)",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-07",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL5 – clima ed energia",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2027-05-05T00:00:00.000Z",
-      "deadline": "2027-09-15T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "In arrivo",
-      "isOpen": true,
-      "relevanceScore": 4,
-      "relevanceKeywords": [
-        "circular",
-        "partnership"
-      ],
-      "classe": "nostro",
-      "ruolo": "data provider e siti pilota",
-      "motivi": [
-        "edilizia circolare e CAM",
-        "economia circolare e riciclo"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "data provider e siti pilota",
-        "nota": "LCA per la ristrutturazione (Built4People): finanzia software di calcolo, non materiali. Partecipazione di nicchia come fornitori di dati LCA del pannello e di cantieri comunali come testbed.",
-        "perche": [
-          "Il bando sviluppa modelli e software LCA per l'edilizia circolare, non il materiale in sé: parzialmente in target.",
-          "I consorzi hanno però bisogno di dati reali su materiali circolari innovativi: possiamo fornire LCA e caratterizzazione tecnica dei pannelli in acetato riciclato.",
-          "Gli strumenti vanno testati su cantieri veri: gli edifici pubblici dei Comuni calabresi possono fare da testbed."
-        ],
-        "come": [
-          "Proporsi ai consorzi come case study e data provider, non come sviluppatori.",
-          "Offrire scuole o municipi da riqualificare come banchi di prova per gli strumenti digitali di diagnosi circolare."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-08-01T11:07:11.591Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL5-2027-05-D4-05",
-      "title": "On-site robotic and automated techniques for building renovation and new construction",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-05",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL5 – clima ed energia",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "consorzio Horizon IA: almeno 3 soggetti di 3 Paesi UE, qui trainato da robotica di cantiere, integratori di sistemi costruttivi e imprese edili; noi solo come fornitore di pannelli e sito dimostrativo",
-      "ancheSu": null,
-      "date": "2027-05-05T00:00:00.000Z",
-      "deadline": "2027-09-15T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "In arrivo",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "fornitore di materiali da demo",
-      "motivi": [
-        "edilizia circolare e CAM"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "fornitore di materiali da demo",
-        "partecipazione": "partenariato",
-        "partner": "consorzio Horizon IA: almeno 3 soggetti di 3 Paesi UE, qui trainato da robotica di cantiere, integratori di sistemi costruttivi e imprese edili; noi solo come fornitore di pannelli e sito dimostrativo",
-        "nota": "Bando centrato su robotica e automazione in cantiere, tecnologia che non abbiamo: possibile solo un ruolo marginale come fornitori dei pannelli isolanti riciclati da installare nelle demo. Scadenza 2027, da tenere d'occhio senza investirci ora.",
-        "perche": [
-          "Il cuore del topic è la robotica e l'automazione di cantiere (posa, prefabbricazione, ristrutturazione automatizzata): competenza che la società non ha né ha in rete.",
-          "Un aggancio esiste solo sul lato materiale: i pannelli termoisolanti e fonoassorbenti Human Maple da acetato di cellulosa riciclato, conformi ai CAM, possono essere tra i prodotti manipolati/installati dai sistemi robotici nelle demo.",
-          "Possibile contributo secondario come sito dimostrativo calabrese (edifici pubblici dei Comuni della rete) per le prove in campo.",
-          "Un'Innovation Action di questo tipo è guidata da grandi integratori e centri di robotica: un partner senza tecnologia pesa poco in valutazione e prende un budget minimo."
-        ],
-        "come": [
-          "Non aprire una ricerca partner dedicata: monitorare il topic alla pubblicazione definitiva del Work Programme 2027 e valutarlo solo se arriva un invito da un consorzio già formato.",
-          "Nel frattempo preparare la scheda tecnica inglese del pannello (prestazioni termiche/acustiche, certificazioni, conformità CAM, compatibilità con posa automatizzata) da girare a chi cerca fornitori di materiali circolari.",
-          "Segnalare il topic a Unical (contratto quadro esistente) e ai dipartimenti di ingegneria/robotica: se entrano in un consorzio, chiedere di essere inseriti come fornitore di materiale e sito pilota.",
-          "Priorità operativa resta sui bandi italiani a beneficiaria diretta; questo va in lista di osservazione con revisione a inizio 2027."
-        ],
-        "aggiornato": "2026-09-23T11:10:20.968Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-23T11:10:22.330Z"
     },
     {
       "attivo": true,
@@ -924,7 +578,7 @@
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon con Human Maple come partner tecnologico",
       "ancheSu": null,
       "date": "2027-04-20T00:00:00.000Z",
       "deadline": "2027-09-22T00:00:00.000Z",
@@ -937,30 +591,28 @@
         "circular",
         "environment"
       ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico",
+      "classe": "rete",
+      "ruolo": "segnalazione a Human Maple",
       "motivi": [
         "economia circolare e riciclo"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico",
-        "nota": "Upcycling e riciclo bio-based ad alto valore (IA 2027, concreta e tecnologica, diversa dall'omonima 2026 teorica): il processo Human Maple è l'esempio perfetto.",
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione a Human Maple",
+        "nota": "Upcycling e riciclo ad alto valore nel bio-based: il processo di Human Maple è l'esempio perfetto, ma il partner è Human Maple, non noi. Portiamo l'occasione e i Comuni.",
         "perche": [
-          "Innovation Action concreta: tecnologie di riciclo e upcycling di residui bio-based in materiali ad alto valore — l'acetato di cellulosa dei filtri è un polimero di origine cellulosica, quindi pienamente bio-based.",
-          "Il processo brevettato (mozziconi → pannelli/imbottiture) è upcycling ad alto valore aggiunto da manuale, con simbiosi industriale.",
-          "Richiede dimostrazione sul campo a TRL elevato: i Comuni calabresi come testbed per logistica di raccolta e posa dei pannelli."
+          "Il processo dall'acetato ai pannelli è il tema del topic.",
+          "Il nostro guadagno sta nei contratti con i Comuni per raccolta e pannelli."
         ],
         "come": [
-          "Cercare consorzi su upcycling bio-based; portare anche startup calabresi che valorizzano scarti agricoli o agroalimentari per presentare un hub territoriale bio-based.",
-          "Preparare i dati di sostenibilità economica, tecnica e ambientale del processo su scala pilota.",
-          "Non confondere con il CIRCBIO-09 del 2026 (studio macroeconomico sull'agricoltura, scartato)."
+          "Segnalarlo a Human Maple (scadenza 22/09/2027) con il CL4 MAT-PROD-06 e il CIRCBIO-02.",
+          "Offrire uno o due Comuni come siti di raccolta e di posa."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon con Human Maple come partner tecnologico",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
@@ -977,7 +629,7 @@
       "ambito": "europeo",
       "programma": "Horizon CL6 – circolare e bio-based",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon con produttori di materiali da costruzione",
       "ancheSu": null,
       "date": "2027-04-20T00:00:00.000Z",
       "deadline": "2027-09-22T00:00:00.000Z",
@@ -989,76 +641,28 @@
         "ecodesign",
         "circular"
       ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico",
+      "classe": "rete",
+      "ruolo": "segnalazione a Human Maple",
       "motivi": [
         "economia circolare e riciclo"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico",
-        "nota": "Ecodesign e circolarità dei prodotti da costruzione: isolanti da materie prime seconde urbane sono esattamente il perimetro del topic.",
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione a Human Maple",
+        "nota": "Ecodesign e circolarità dei prodotti da costruzione: il pannello isolante da mozziconi è esattamente nel perimetro, ma a candidarsi è Human Maple. Noi portiamo il bando e i cantieri comunali.",
         "perche": [
-          "Finanzia prodotti da costruzione in ecodesign con integrazione di materie prime seconde e scarti urbani (isolanti termici/acustici inclusi): il pannello da mozziconi rientra esattamente nel perimetro.",
-          "Innovation Action vicina al mercato (TRL 6-8) con test sul campo: i Comuni calabresi come Living Lab per l'installazione sugli edifici pubblici.",
-          "Il nostro ruolo di ponte tra enti locali, Unical e aziende circolari permette di presentare la filiera completa, dalla raccolta al riutilizzo nell'edilizia."
+          "Isolanti da materie prime seconde urbane: tema del topic.",
+          "Gli edifici pubblici dei Comuni possono essere i cantieri pilota: lì nascono i contratti."
         ],
         "come": [
-          "Consolidare caratterizzazione tecnica e certificazioni del pannello (isolamento termico, reazione al fuoco, schede di sicurezza).",
-          "Partecipare agli eventi di matchmaking Horizon Cluster 6 sui materiali da costruzione sostenibili.",
-          "Mappare 1-2 Comuni disponibili come siti dimostrativi per la posa negli interventi di riqualificazione energetica."
+          "Proporlo a Human Maple insieme agli altri due topic sui materiali.",
+          "Accordo provvigionale che copra le forniture ai Comuni."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-08-01T11:07:11.591Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-CL6-2027-01-CIRCBIO-03",
-      "title": "Developing novel recycling technologies for complex plastic materials applying biotech solutions",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-03",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Horizon CL6 – circolare e bio-based",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2027-04-20T00:00:00.000Z",
-      "deadline": "2027-09-22T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "In arrivo",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "da valutare con Unical",
-      "motivi": [
-        "economia circolare e riciclo"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "da valutare con Unical",
-        "nota": "Riciclo biotech di plastiche complesse (RIA): il nostro processo è chimico-fisico, non enzimatico, e in fase di ricerca non c'è spazio per i Living Lab comunali. Solo se parte una linea R&S bio con Unical.",
-        "perche": [
-          "Il bando richiede espressamente soluzioni biotecnologiche/enzimatiche per il riciclo dei polimeri: il processo brevettato Human Maple è prevalentemente chimico-fisico e meccanico.",
-          "Essendo una RIA, finanzia ricerca e validazione in laboratorio, non roll-out sul mercato: i Comuni e il ruolo di intermediari non troverebbero spazio."
-        ],
-        "come": [
-          "Rivalutare solo se con Unical o altri centri parte una linea di R&S sul trattamento bio/enzimatico dei filtri o delle plastiche ricavate."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon con produttori di materiali da costruzione",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
@@ -1075,7 +679,7 @@
       "ambito": "europeo",
       "programma": "Horizon CL2 – cultura e società",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon di ricerca su cultura e artigianato",
       "ancheSu": null,
       "date": "2027-05-13T00:00:00.000Z",
       "deadline": "2027-09-23T00:00:00.000Z",
@@ -1087,30 +691,27 @@
         "circular economy",
         "circular"
       ],
-      "classe": "nostro",
-      "ruolo": "living lab con i Comuni",
+      "classe": "rete",
+      "ruolo": "segnalazione ai Comuni",
       "motivi": [
         "economia circolare e riciclo"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "B",
-        "ruolo": "living lab con i Comuni",
-        "nota": "Crafting routes (Cluster 2 Cultura): leva culturale e comportamentale per la transizione circolare. Molto interessante per gamification, engagement e territorio.",
+        "verdetto": "rete",
+        "priorita": "C",
+        "ruolo": "segnalazione ai Comuni",
+        "nota": "Artigianato e cultura per l'economia circolare: progetto di ricerca sociale, lontano dai contratti di fornitura su cui guadagniamo. Al massimo un Comune come caso studio.",
         "perche": [
-          "Lavora sull'intersezione tra cultura, design e economia circolare in linea col New European Bauhaus: sensibilizzazione, coinvolgimento dei cittadini, modelli di consumo sostenibile.",
-          "Le nostre campagne, la gamification e i posacenere interattivi si sposano perfettamente con il community engagement richiesto.",
-          "La rete di Comuni calabresi può testare nuovi modelli di governance e coinvolgimento su economia circolare e decoro urbano, mostrando la filiera completa fino all'arredo in ecodesign."
+          "Finanzia ricerca culturale, non acquisti di servizi.",
+          "Nessun fornitore del catalogo ne trae un contratto."
         ],
         "come": [
-          "Ruolo raccomandato: partner per community engagement, pilot implementation e dissemination, gestendo la fase dimostrativa sul territorio calabrese.",
-          "Cercare consorzi guidati da dipartimenti di scienze sociali, architettura/design o fondazioni culturali europee interessate al NEB.",
-          "Coinvolgere Unical per la valutazione d'impatto e i Comuni come nodi della sperimentazione sociale."
+          "Segnalarlo solo se un consorzio cerca un borgo calabrese come caso studio."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon di ricerca su cultura e artigianato",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
@@ -1127,7 +728,7 @@
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon con imprese edili, università e Comuni",
       "ancheSu": null,
       "date": "2027-05-05T00:00:00.000Z",
       "deadline": "2027-12-01T00:00:00.000Z",
@@ -1138,31 +739,28 @@
       "relevanceKeywords": [
         "sustainable"
       ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico + territorio",
+      "classe": "rete",
+      "ruolo": "intermediazione con i Comuni",
       "motivi": [
         "edilizia circolare e CAM"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico + territorio",
-        "nota": "Bando eccellente (New European Bauhaus): cantieri sostenibili, salubri e integrati con la comunità. Materiale circolare + Comuni pilota + community engagement: il pacchetto completo.",
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "intermediazione con i Comuni",
+        "nota": "Cantieri sostenibili e salubri (New European Bauhaus): un Comune calabrese può essere il cantiere pilota e i materiali circolari arrivare dai nostri fornitori. Scadenza 1/12/2027.",
         "perche": [
-          "Finanzia soluzioni per cantieri ecologici con materiali circolari a zero sprechi: trasformare il mozzicone in pannello termoisolante è l'innovazione 'disruptive' che il NEB cerca.",
-          "Il NEB esige impatto reale sulle comunità: i Comuni calabresi come cantiere pilota nella ristrutturazione di un edificio pubblico.",
-          "Gamification, app e posacenere interattivi rispecchiano la filosofia Bauhaus del coinvolgimento dei cittadini: il cantiere diventa un'iniziativa che educa e aggrega il quartiere."
+          "I Comuni come cantiere pilota sono la nostra carta.",
+          "Materiali circolari (Human Maple) e servizi di raccolta del catalogo si vendono al cantiere."
         ],
         "come": [
-          "RIA Horizon: serve un consorzio internazionale (almeno 3 enti di 3 Paesi). Non da coordinatori: da partner strategico che fornisce il materiale e coordina il territorio.",
-          "Sfruttare Unical e le collaborazioni esistenti per entrare in consorzi guidati da grandi università, fondazioni per il design o colossi delle costruzioni.",
-          "Vendere il pacchetto completo: materiale circolare + territorio pilota in Calabria + expertise di community engagement.",
-          "Apertura prevista a maggio 2027: usare il tempo per ultimare la R&S con l'università e blindare brevetti e alleanze."
+          "Presentare un Comune e Human Maple a un consorzio NEB in formazione.",
+          "Accordi provvigionali prima di aprire i contatti."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon con imprese edili, università e Comuni",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
@@ -1179,7 +777,7 @@
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon con produttori di componenti prefabbricati",
       "ancheSu": null,
       "date": "2027-05-05T00:00:00.000Z",
       "deadline": "2027-12-01T00:00:00.000Z",
@@ -1190,77 +788,28 @@
       "relevanceKeywords": [
         "environment"
       ],
-      "classe": "nostro",
-      "ruolo": "partner tecnologico + territorio",
+      "classe": "rete",
+      "ruolo": "segnalazione a Human Maple",
       "motivi": [
         "edilizia circolare e CAM"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "partner tecnologico + territorio",
-        "nota": "Prefabbricazione modulare off-site con materiali riciclati (IA): priorità molto alta, prodotto + mercato. Il nostro isolante dentro i moduli prefabbricati, i Comuni come sito pilota.",
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione a Human Maple",
+        "nota": "Prefabbricazione modulare con materiali riciclati: il pannello di Human Maple dentro i moduli, i Comuni come sito pilota. Il candidato è Human Maple con i produttori di moduli; noi li mettiamo in contatto.",
         "perche": [
-          "Innovation Action che finanzia componenti edilizi modulari prefabbricati con materiali bio-based e materie prime seconde: i nostri pannelli possono essere il core dell'isolamento nei moduli (facciate, cappotti, pareti).",
-          "Il bando premia scarti urbani e simbiosi industriale: un rifiuto cittadino che diventa materia prima per moduli edilizi risponde in pieno alla visione NEB.",
-          "Richiede tassativamente siti pilota reali su edifici pubblici: possiamo offrire gli edifici comunali della rete calabrese come dimostratore nel Sud Europa."
+          "Il tema è il prodotto di un nostro partner.",
+          "La società non produce e non può fare da partner tecnologico."
         ],
         "come": [
-          "Cercare consorzi con produttori industriali di edilizia prefabbricata off-site, studi di architettura/ecodesign e centri di ricerca sui materiali (Unical).",
-          "Posizionarsi come fornitore della materia prima seconda isolante + gestore del Living Lab calabrese con community engagement.",
-          "Rispetto al gemello BUSINESS-03 (ricerca/governance), questo è quello con priorità di crescita molto alta: prodotto + mercato."
+          "Segnalarlo a Human Maple (scadenza 1/12/2027).",
+          "Cercare produttori di prefabbricati interessati al pannello: ogni accordo di fornitura è una provvigione."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-08-01T11:07:11.591Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-NEB-2027-01-BUSINESS-03",
-      "title": "Anticipating the long-term future of neighbourhoods in line with the New European Bauhaus",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-BUSINESS-03",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Missioni e New European Bauhaus",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON  Research and Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
-      "ancheSu": null,
-      "date": "2027-05-05T00:00:00.000Z",
-      "deadline": "2027-12-01T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "In arrivo",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "living lab territoriale",
-      "motivi": [
-        "città e regioni pilota (CCRI)"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "living lab territoriale",
-        "nota": "Foresight sui quartieri del futuro (RIA): guidato da urbanisti e sociologi, non finanzia macchinari né materiali. Solo ruolo socio-territoriale; il gemello BUSINESS-01 è molto più adatto a noi.",
-        "perche": [
-          "Finanzia metodologie e modelli predittivi per la pianificazione dei quartieri, non lo scaling industriale di prodotti da costruzione.",
-          "Restiamo però competitivi come territorio reale (Comuni calabresi, aree interne del Sud) per testare le metodologie, e con gamification e posacenere interattivi come strumenti di ingaggio civico."
-        ],
-        "come": [
-          "Solo come partner di consorzi guidati da università di urbanistica/scienze sociali o network di città: portare i Comuni come caso studio e gli strumenti di citizen engagement.",
-          "Priorità alle energie sul gemello BUSINESS-01 (prefabbricati con materiali riciclati): prodotto + mercato."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon con produttori di componenti prefabbricati",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
@@ -1277,7 +826,7 @@
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "HORIZON Innovation Actions: consorzio, di norma almeno 3 soggetti di 3 Paesi UE diversi.",
+      "partnerRichiesti": "consorzio Horizon con Comuni e ricercatori sociali",
       "ancheSu": null,
       "date": "2027-05-05T00:00:00.000Z",
       "deadline": "2027-12-01T00:00:00.000Z",
@@ -1286,29 +835,27 @@
       "isOpen": true,
       "relevanceScore": 0,
       "relevanceKeywords": [],
-      "classe": "nostro",
-      "ruolo": "living lab con i Comuni",
+      "classe": "rete",
+      "ruolo": "segnalazione ai Comuni",
       "motivi": [
         "città e regioni pilota (CCRI)"
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "B",
-        "ruolo": "living lab con i Comuni",
-        "nota": "Quartieri intergenerazionali NEB: non industriale puro, ma ottimo posizionamento per arredo urbano circolare, gamification e i borghi calabresi come Living Lab.",
+        "verdetto": "rete",
+        "priorita": "C",
+        "ruolo": "segnalazione ai Comuni",
+        "nota": "Quartieri intergenerazionali NEB: tema sociale, con poco spazio per forniture di economia circolare. Un Comune calabrese può entrarci, ma i contratti per i nostri fornitori sarebbero pochi.",
         "perche": [
-          "Finanzia la riprogettazione di spazi condivisi per la convivenza tra generazioni: possiamo fornire arredo urbano in ecodesign da materie prime seconde (cestini interattivi, sedute da riciclo).",
-          "I nostri strumenti di gamification possono ingaggiare giovani e anziani in sfide di decoro urbano e tutela del territorio.",
-          "La Calabria è il contesto perfetto per i criteri del bando: invecchiamento demografico, borghi da rivitalizzare, giovani da coinvolgere — la rete di Comuni pilota rende la proposta molto competitiva."
+          "Progetto centrato su partecipazione e coesione sociale.",
+          "Poche spese per servizi del nostro catalogo."
         ],
         "come": [
-          "Consorzio tipo: università di sociologia/architettura sociale come coordinatore, i Comuni calabresi come siti pilota, noi come partner per tecnologie di coinvolgimento civico e micro-arredo circolare, più il terzo settore locale (associazioni giovanili, centri anziani).",
-          "Proporre i borghi della rete come casi studio contro lo spopolamento."
+          "Segnalarlo ai Comuni interessati senza investirci tempo."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon con Comuni e ricercatori sociali",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
@@ -1325,7 +872,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno per il beneficiario: è un aiuto alle imprese che si presenta in forma singola; noi non siamo ammissibili, quindi serve un'impresa della filiera moda/tessile come beneficiaria",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria",
       "ancheSu": null,
       "date": "2026-09-17T10:45:20.000Z",
       "deadline": null,
@@ -1339,32 +886,26 @@
         "imprese"
       ],
       "classe": "rete",
-      "ruolo": "segnalazione alla rete tessile",
+      "ruolo": "segnalazione alla rete",
       "motivi": [
         "aiuti a PMI e nuove imprese"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
         "verdetto": "rete",
         "priorita": "C",
-        "ruolo": "segnalazione alla rete tessile",
-        "partecipazione": "singola",
-        "partner": "Nessuno per il beneficiario: è un aiuto alle imprese che si presenta in forma singola; noi non siamo ammissibili, quindi serve un'impresa della filiera moda/tessile come beneficiaria",
-        "nota": "Misura riservata alle PMI della filiera moda-tessile-pelletteria-calzature: la nostra società non è ammissibile per codice attività. Utile solo come segnalazione a un'azienda di riciclo tessile, settore in cui oggi non abbiamo un partner consolidato.",
+        "ruolo": "segnalazione alla rete",
+        "nota": "Riservato alle PMI della filiera moda: non siamo ammessi e oggi non abbiamo un fornitore del settore tessile da proporre. Utile solo se si allarga la rete al riciclo tessile.",
         "perche": [
-          "Il bando finanzia programmi di sviluppo di PMI manifatturiere della filiera moda (tessile, abbigliamento, pelletteria, calzature): la nostra attività è intermediazione di economia circolare su rifiuti urbani, fuori perimetro.",
-          "In più la società è ancora in costituzione e non iscritta al Registro Imprese: un aiuto agli investimenti produttivi richiede impresa attiva e in genere bilanci o programma di spesa su impianti che non abbiamo.",
-          "Il valore residuo è commerciale: le PMI moda finanziate devono investire anche in sostenibilità e circolarità (riciclo scarti tessili, materiali conformi ai CAM), tema su cui possiamo posizionarci come intermediari.",
-          "Nel catalogo attuale (RFID, TARIP, retrofit contenitori, mozziconi, pannolini, Junker) non c'è un fornitore di riciclo tessile pronto: la provvigione oggi sarebbe teorica."
+          "Misura riservata alle imprese moda-tessile-pelletteria-calzature.",
+          "Nel catalogo non abbiamo ancora fornitori per quella filiera: manca il contratto su cui prendere la provvigione."
         ],
         "come": [
-          "Verificare i codici ATECO ammessi e la dimensione minima degli investimenti per capire se esiste un caso d'uso reale prima di investire tempo.",
-          "Usare il bando come apriporta: mappare 2-3 aziende di riciclo/rigenerazione tessile (anche fuori Calabria) da inserire nel catalogo, proponendo loro la segnalazione delle PMI moda calabresi finanziabili.",
-          "Chiedere a Confcommercio Cosenza l'elenco o il numero di imprese moda del territorio potenzialmente interessate, per valutare se il mercato locale giustifica lo sforzo.",
-          "Con eventuali fornitori tessili firmare accordo provvigionale e patto di non elusione prima di presentare qualsiasi contatto."
+          "Se entra nella rete un'azienda di riciclo tessile, proporre la misura alle imprese moda calabresi come occasione per comprare i suoi servizi."
         ],
-        "aggiornato": "2026-09-17T11:21:23.935Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-17T11:21:25.929Z"
@@ -1381,7 +922,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessun partner obbligatorio: presenta la singola impresa titolare del brevetto; eventuale fornitore di servizi specialistici (consulente brevettuale, università) come fornitore, non come partner",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria",
       "ancheSu": null,
       "date": "2026-09-16T11:12:46.000Z",
       "deadline": null,
@@ -1397,33 +938,29 @@
         "incentivo"
       ],
       "classe": "rete",
-      "ruolo": "segnalazione alla rete + intermediazione",
+      "ruolo": "intermediazione con provvigione",
       "motivi": [
         "aiuti a PMI e nuove imprese",
         "contributo a fondo perduto"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
         "verdetto": "rete",
         "priorita": "B",
-        "ruolo": "segnalazione alla rete + intermediazione",
-        "partecipazione": "singola",
-        "partner": "Nessun partner obbligatorio: presenta la singola impresa titolare del brevetto; eventuale fornitore di servizi specialistici (consulente brevettuale, università) come fornitore, non come partner",
-        "nota": "Brevetti+ finanzia la valorizzazione di brevetti già concessi o depositati: noi non siamo titolari di titoli brevettuali, ma Human Maple e diverse aziende del catalogo sì. Bando da girare alla rete con accordo provvigionale.",
+        "ruolo": "intermediazione con provvigione",
+        "nota": "Brevetti+ finanzia fino all'80% i servizi per valorizzare un brevetto: non è per noi, ma Human Maple e alcune aziende del catalogo hanno brevetti. Possiamo segnalarlo e prendere la provvigione, se l'accordo la prevede anche sui contributi ottenuti.",
         "perche": [
-          "Il requisito centrale è la titolarità di un brevetto concesso (o domanda con rapporto di ricerca positivo): la SRLS in costituzione non possiede titoli brevettuali propri e non sarebbe ammissibile oggi.",
-          "Human Maple (processo di recupero dell'acetato di cellulosa dai mozziconi e pannelli edilizi CAM) e diverse delle 19 aziende di RFID/retrofit/TARIP sono invece candidate naturali: il bando finanzia industrializzazione e ingegnerizzazione del brevetto.",
-          "È la leva commerciale tipica del nostro modello: portiamo un contributo fino all'80% al fornitore e in cambio consolidiamo esclusiva e provvigione sui contratti in Calabria.",
-          "Prospettiva a medio termine per noi: Brevetti+ finanzia anche l'acquisto di brevetti da università o persone fisiche, quindi con Unical (contratto quadro già esistente) si potrebbe costruire una candidatura nostra una volta iscritti al Registro Imprese e con un titolo acquisito."
+          "La società non ha brevetti, quindi non può chiederlo.",
+          "Le aziende partner con brevetti possono usarlo per pagare servizi (industrializzazione, marketing, licensing): un fornitore di questi servizi che portiamo noi genera provvigione.",
+          "Rafforza il rapporto con Human Maple, che è il partner principale."
         ],
         "come": [
-          "Verificare sul testo UIBM/Invitalia i requisiti soggettivi (impresa attiva iscritta al Registro Imprese, dimensione MPMI, anzianità) e la data esatta di apertura dello sportello, che è a graduatoria cronologica.",
-          "Mappare in 10 giorni quali aziende della rete hanno brevetti concessi o domande con rapporto di ricerca: partire da Human Maple e dai fornitori di tecnologia RFID/TARIP, chiedendo numero di deposito e stato del titolo.",
-          "Far firmare accordo provvigionale e patto di non elusione prima di passare qualsiasi contatto o di presentare il consulente brevettuale; legare la provvigione ai contratti che ne derivano sul territorio calabrese.",
-          "Aprire in parallelo il dossier interno: verificare con l'ufficio trasferimento tecnologico Unical se esistono brevetti cedibili su materiali da riciclo, da valutare per una nostra domanda dopo l'iscrizione al Registro Imprese."
+          "Chiedere a Human Maple se ha brevetti concessi o depositati e se sta pensando a Brevetti+.",
+          "Definire prima per iscritto se la provvigione vale anche sui contributi ottenuti grazie alla nostra segnalazione (success fee)."
         ],
-        "aggiornato": "2026-09-16T11:13:35.849Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-16T11:14:00.059Z"
@@ -1439,8 +976,8 @@
       "linkNotizia": null,
       "ambito": "nazionale",
       "programma": "Università e ricerca",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Da leggere nel decreto/direttiva attuativa: i fondi Mimit per programmi di sviluppo ammettono di norma la singola impresa, ma spesso prevedono anche progetti congiunti tra più imprese o contratti di r",
+      "partecipazione": "singola",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria",
       "ancheSu": null,
       "date": "2026-09-11T13:06:00.000Z",
       "deadline": null,
@@ -1457,28 +994,22 @@
       "motivi": [
         "tessile post-consumo"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
         "verdetto": "rete",
-        "priorita": "B",
+        "priorita": "C",
         "ruolo": "segnalazione alla rete",
-        "partecipazione": "daVerificare",
-        "partner": "Da leggere nel decreto/direttiva attuativa: i fondi Mimit per programmi di sviluppo ammettono di norma la singola impresa, ma spesso prevedono anche progetti congiunti tra più imprese o contratti di r",
-        "nota": "Fondo Mimit riservato alle imprese della filiera moda-tessile-accessori: non siamo beneficiari ammissibili, ma è un bando da girare alle aziende di riciclo tessile post-consumo della rete, offrendo i Comuni calabresi come bacino di raccolta.",
+        "nota": "Fondo MIMIT per la moda-tessile: non siamo ammessi e oggi non abbiamo un fornitore tessile da proporre. Stessa valutazione delle altre due misure moda.",
         "perche": [
-          "Il fondo è settoriale: beneficiarie sono imprese della filiera moda, tessile e accessori; la nostra SRLS è un intermediario di economia circolare, non un'impresa del settore, e per di più è ancora in costituzione.",
-          "Il segnale 'tessile post-consumo' indica che i progetti di innovazione finanziabili possono riguardare riciclo e circolarità degli scarti tessili: tema su cui possiamo posizionare aziende della rete.",
-          "Possiamo aggiungere valore come procacciatori di flussi: rapporti con i Comuni calabresi per la raccolta differenziata del tessile e know-how di campagne comportamentali e gamification a supporto del conferimento.",
-          "Human Maple e il resto del catalogo (RFID, TARIP, Junker) non hanno attinenza con la filiera moda: nessun fit diretto di prodotto."
+          "Riservato alle imprese moda, tessile e accessori.",
+          "Manca un fornitore del settore nel catalogo."
         ],
         "come": [
-          "Verificare nel decreto attuativo quali codici ATECO e quali dimensioni d'impresa sono ammessi e se è consentita la partecipazione congiunta (rete/filiera): serve per capire se qualcuna delle aziende della rete può candidarsi davvero.",
-          "Mappare nel catalogo e fuori (riciclatori tessili, impianti di selezione post-consumo) 2-3 imprese con i requisiti settoriali e presentare loro il bando.",
-          "Prima di aprire i contatti far firmare accordo provvigionale e patto di non elusione, con provvigione sui contratti di fornitura o raccolta che ne derivano.",
-          "Preparare una scheda 'Calabria territorio pilota': Comuni disponibili alla raccolta differenziata del tessile, volumi stimabili e proposta di campagna di engagement da allegare al progetto dell'impresa candidata."
+          "Riprenderlo quando la rete avrà un'azienda di riciclo tessile."
         ],
-        "aggiornato": "2026-09-12T10:26:17.345Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-12T10:26:20.675Z"
@@ -1495,7 +1026,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società come PMI beneficiaria; eventuali fornitori (Human Maple, aziende RFID/TARIP) entrano solo come venditori dei beni oggetto di investimento",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria; noi portiamo il fornitore di macchinari e tecnologie",
       "ancheSu": null,
       "date": "2026-09-10T08:46:14.000Z",
       "deadline": null,
@@ -1509,34 +1040,32 @@
         "bando",
         "investiment"
       ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
+      "classe": "rete",
+      "ruolo": "intermediazione con provvigione",
       "motivi": [
         "aiuti a PMI e nuove imprese",
         "contributo a fondo perduto"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
+        "verdetto": "rete",
         "priorita": "A",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società come PMI beneficiaria; eventuali fornitori (Human Maple, aziende RFID/TARIP) entrano solo come venditori dei beni oggetto di investimento",
-        "nota": "Aiuto a fondo perduto molto ricco (fino al 75%) per PMI del Mezzogiorno su investimenti innovativi e sostenibili: siamo in Calabria, con sede a Rende, e l'agevolazione è richiedibile da soli. Nodo critico: la società è ancora in costituzione, va verificata subito l'ammissibilità delle imprese di nuova iscrizione.",
+        "ruolo": "intermediazione con provvigione",
+        "nota": "Noi non possiamo chiederlo (servono 2 bilanci approvati e almeno 750.000 € di investimento), ma è un'ottima leva per le PMI del Sud che devono comprare macchinari e tecnologie: 35% a fondo perduto + 40% a tasso zero. Sportello dal 6 ottobre 2026.",
         "perche": [
-          "Bando riservato alle PMI del Sud: la sede operativa a Rende (CS) e i soci residenti in Calabria ci collocano pienamente nell'area ammissibile.",
-          "Intensità di aiuto elevata (fino al 75%) su investimenti innovativi e sostenibili: coerente con l'acquisto di attrezzature e piattaforme digitali per l'economia circolare (posacenere smart, sistemi RFID/TARIP, software di tracciabilità) che sono il cuore della nostra attività.",
-          "Domanda individuale: nessun consorzio da costruire, tempi di presentazione di settimane e non di mesi, quindi la leva più rapida per capitalizzare la società appena nata.",
-          "Un investimento agevolato in beni dimostrativi rafforza anche il ruolo commerciale di intermediario: attrezzature nostre da mostrare a Comuni e aziende come proof of concept."
+          "Verificato il 25/09/2026 sulla scheda Federterziario: misura MIMIT per le PMI del Mezzogiorno, investimenti da 750.000 € a 5 M€, 35% a fondo perduto + 40% di finanziamento a tasso zero.",
+          "Per noi come beneficiari è escluso: chiede impresa attiva con almeno 2 bilanci approvati e contabilità ordinaria. Esclusi anche i veicoli.",
+          "Finanzia macchinari, impianti, software 4.0 e certificazioni ambientali comprati da fornitori: ogni domanda è un contratto su cui possiamo prendere la provvigione.",
+          "È a sportello: vince chi arriva prima, quindi le imprese vanno contattate adesso."
         ],
         "come": [
-          "Verificare per primo se una società appena costituita e non ancora iscritta al Registro Imprese è ammissibile: leggere requisiti di anzianità, data di iscrizione richiesta, obbligo di bilanci pregressi e regolarità DURC; se serve, accelerare l'atto costitutivo e l'apertura della partita IVA prima della scadenza.",
-          "Chiedere a Federterziario Calabria (fonte del bando) il testo integrale e la misura sottostante, per fissare scadenza, spese ammissibili, soglia minima di investimento ed eventuale quota di cofinanziamento privato da coprire.",
-          "Costruire il piano di investimento con preventivi già pronti dei fornitori mappati (Human Maple, aziende RFID/retrofit/TARIP, Junker, Iotilize), distinguendo beni materiali, software e servizi digitali secondo le voci di spesa ammesse.",
-          "Preparare in parallelo business plan e piano finanziario a 3 anni con i ricavi da provvigione sui contratti con Comuni e aziende, e verificare la capacità di anticipo finanziario se il contributo è erogato a rendicontazione."
+          "Compilazione già aperta dal 10/09/2026, invio dal 6/10/2026 (lun-ven 10-17): i tempi sono strettissimi.",
+          "Individuare fra i fornitori mappati quelli che vendono macchinari/impianti di valore alto (riciclo, trattamento rifiuti, linee di produzione con materiale riciclato) e firmare prima accordo provvigionale e NCNDA.",
+          "Proporre a PMI calabresi con i due bilanci e un investimento già in testa di usare la misura, mettendo in contatto impresa, fornitore e un consulente di finanza agevolata."
         ],
-        "aggiornato": "2026-09-10T10:59:56.559Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria; noi portiamo il fornitore di macchinari e tecnologie",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-10T11:00:17.760Z"
@@ -1553,7 +1082,7 @@
       "ambito": "nazionale",
       "programma": "Nazionali",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessun partner obbligatorio: la domanda la presenta la singola PMI della filiera moda/tessile; noi restiamo fuori dalla domanda e lavoriamo a provvigione",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria",
       "ancheSu": null,
       "date": "2026-09-08T15:19:20.000Z",
       "deadline": null,
@@ -1569,446 +1098,25 @@
       "motivi": [
         "aiuti a PMI e nuove imprese"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
         "verdetto": "rete",
-        "priorita": "B",
+        "priorita": "C",
         "ruolo": "segnalazione alla rete",
-        "partecipazione": "singola",
-        "partner": "Nessun partner obbligatorio: la domanda la presenta la singola PMI della filiera moda/tessile; noi restiamo fuori dalla domanda e lavoriamo a provvigione",
-        "nota": "Bando MIMIT riservato alle PMI della filiera moda: la nostra società non ha codice attività né prodotto in quel comparto, ma è un'occasione da girare alle aziende di riciclo tessile della rete, con provvigione sui contratti.",
+        "nota": "Stesso discorso dell'altra misura moda: non siamo ammessi e oggi non abbiamo un fornitore tessile da proporre. Diventa interessante solo con un partner del riciclo tessile.",
         "perche": [
-          "L'agevolazione è riservata a PMI che operano nella filiera della moda (tessile, abbigliamento, pelle, accessori): noi siamo intermediari di economia circolare su mozziconi, RFID/TARIP e rifiuti urbani, quindi fuori dal perimetro dei beneficiari.",
-          "La società è inoltre ancora in costituzione e non iscritta al Registro Imprese: non avrebbe i requisiti di impresa attiva richiesti dagli aiuti MIMIT alle PMI.",
-          "Il tema circolare del tessile (recupero fibre, riuso, end-of-waste) è però coperto dalle aziende della nostra rete che trattano tessili: per loro il bando è un incentivo diretto a investire e quindi una leva commerciale per noi.",
-          "Possiamo mettere sul tavolo il valore che ci è proprio: Comuni calabresi come bacino di raccolta e territorio pilota, campagne di gamification e community engagement sulla raccolta degli abiti usati."
+          "Riservato alle PMI della filiera moda.",
+          "Manca, nel catalogo, un fornitore del settore su cui costruire l'intermediazione."
         ],
         "come": [
-          "Verificare sul testo del bando l'elenco dei codici ATECO ammessi e se sono incluse le attività di recupero/riciclo dei rifiuti tessili: da quello dipende quali aziende della rete possono davvero candidarsi.",
-          "Selezionare dal catalogo le imprese con attività su tessile/riuso e inviare una scheda sintetica del bando (finalità, spese ammissibili, modalità a sportello o a graduatoria) come primo contatto commerciale.",
-          "Prima di aprire i contatti e di presentare fornitori a Comuni o aziende, far firmare accordo provvigionale e patto di non elusione, con provvigione sui contratti conclusi.",
-          "Proporre alle aziende interessate un pacchetto integrato: la loro tecnologia di recupero tessile più la nostra rete di Comuni per raccolta e sperimentazione, da inserire nel piano di investimento presentato al MIMIT."
+          "Riprenderlo se si firma con un'azienda di riciclo tessile (la mappatura CNA della filiera, via HERITAGETEX, era il canale per trovarla)."
         ],
-        "aggiornato": "2026-09-10T11:00:14.524Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-10T11:00:17.760Z"
-    },
-    {
-      "attivo": true,
-      "id": "fincalabra-gerace-porta-del-sole-intervento-1-incentivi-finalizzati-a-s",
-      "title": "GERACE, PORTA DEL SOLE INTERVENTO 1 INCENTIVI FINALIZZATI A SVILUPPO IMPRENDITORIALE, NUOVA OCCUPAZIONE E FORMAZIONE, CONCESSI NEL RISPETTO DELLA NORMATIVA IN MATERIA DI AIUTI STATO",
-      "link": "http://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11488&catid=2",
-      "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società; da verificare solo l'obbligo di sede/unità locale nel Comune di Gerace",
-      "ancheSu": null,
-      "date": "2026-09-03T10:57:00.966Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 16,
-      "relevanceKeywords": [
-        "ambientale",
-        "piccole e medie imprese",
-        "imprese",
-        "imprenditoria",
-        "finanziamento",
-        "contributo"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta (solo con unità locale a Gerace)",
-      "motivi": [
-        "aiuti a PMI e nuove imprese",
-        "enti pubblici e territorio",
-        "contributo a fondo perduto"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "beneficiaria diretta (solo con unità locale a Gerace)",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società; da verificare solo l'obbligo di sede/unità locale nel Comune di Gerace",
-        "nota": "Incentivo Fincalabra a fondo perduto per nuove imprese, ma quasi certamente vincolato al territorio del Comune di Gerace (RC): con sede operativa a Rende siamo fuori, a meno di aprire un'unità locale lì. Da leggere prima di investire tempo.",
-        "perche": [
-          "La tipologia è quella giusta per noi: aiuti a nuove imprese e sviluppo imprenditoriale, contributo a fondo perduto, presentazione in forma singola senza consorzio.",
-          "Il vincolo probabile è territoriale: si tratta di un progetto 'Porta del Sole' legato al borgo di Gerace, quindi con obbligo di sede o unità operativa nel Comune; la nostra sede è a Rende (CS) e nessun socio risiede nel reggino.",
-          "La società è ancora in costituzione e non iscritta al Registro Imprese: molti di questi avvisi richiedono impresa già attiva o costituita entro un termine preciso.",
-          "Aprire un'unità locale a Gerace solo per il bando non è coerente con il modello di intermediazione, che vive sui contatti con i Comuni del cosentino/catanzarese."
-        ],
-        "come": [
-          "Scaricare l'avviso Fincalabra e verificare due punti: ammissibilità di una società appena costituita (o non ancora iscritta) e obbligo di sede/unità locale nel Comune di Gerace, con relativi termini e documenti.",
-          "Se il vincolo territoriale è confermato e non aggirabile, archiviare e concentrare le energie sugli avvisi Fincalabra/Agenda Urbana e sui voucher camerali validi su Rende-Cosenza.",
-          "Se invece il bando ammette imprese con unità locale attivabile dopo la concessione, valutare un presidio leggero a Gerace da abbinare a un'offerta di raccolta differenziata smart/TARIP per il Comune e i borghi vicini.",
-          "In ogni caso segnalare l'avviso alle aziende della rete che abbiano già sede o interessi nella Locride, con accordo provvigionale e patto di non elusione firmati prima di presentare i contatti."
-        ],
-        "aggiornato": "2026-09-03T10:58:24.469Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "fincalabra-avviso-pubblico-safe-aiuti-alle-imprese-per-il-caro-energia",
-      "title": "Avviso pubblico “SAFE – Aiuti alle imprese per il caro energia”",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-safe-aiuti-a-imprese-per-il-caro-energia/",
-      "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società, senza consorzio né capofila.",
-      "ancheSu": null,
-      "date": "2026-09-03T10:57:00.966Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 10,
-      "relevanceKeywords": [
-        "pmi",
-        "imprese",
-        "energia",
-        "calabria",
-        "agevolazione",
-        "territorio"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "aiuti diretti alle imprese del territorio",
-        "aiuti a PMI e nuove imprese"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società, senza consorzio né capofila.",
-        "nota": "Aiuto regionale Fincalabra sul caro energia: si presenta da soli ed è sul nostro territorio, ma quasi certamente richiede impresa già attiva con bollette e consumi energetici storici, che una società in costituzione non ha. Da verificare in dettaglio prima di investirci tempo.",
-        "perche": [
-          "È un aiuto diretto alle imprese calabresi gestito da Fincalabra: sede operativa a Rende (CS) e soci residenti in regione ci mettono nel perimetro territoriale giusto.",
-          "Si presenta in forma singola come beneficiaria diretta, senza bisogno di consorzi: tempi di preparazione brevi, tipicamente poche settimane.",
-          "Il punto critico è la natura della misura: i ristori/aiuti sul caro energia si calcolano di norma sull'incremento dei costi energetici rispetto a periodi precedenti, documentati da fatture e bilanci che una società in costituzione non possiede.",
-          "Il nostro profilo è di servizi di intermediazione a bassa intensità energetica: anche se ammessi, la base di calcolo del contributo sarebbe minima e non giustificherebbe il lavoro istruttorio."
-        ],
-        "come": [
-          "Verificare per prima cosa sull'avviso Fincalabra se è ammessa un'impresa appena costituita o non ancora iscritta al Registro Imprese, con quale data-limite di iscrizione e quali documenti (visura, dichiarazione di inizio attività, codice ATECO ammissibile).",
-          "Leggere la sezione su spese ammissibili e periodo di riferimento: se il contributo si basa su costi energetici sostenuti in annualità passate, la misura è esclusa per noi e va archiviata senza ulteriore lavoro.",
-          "Se invece l'avviso ammette investimenti in efficienza energetica prospettici, preparare preventivi (impianti, efficientamento della sede di Rende) e valutare la domanda dopo l'iscrizione al Registro Imprese.",
-          "In parallelo segnalare l'avviso alle aziende della rete già attive e con consumi rilevanti (retrofit contenitori, impianti di riciclo, futuro impianto pannolini), previo accordo provvigionale e patto di non elusione."
-        ],
-        "aggiornato": "2026-09-03T10:58:43.600Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "fincalabra-programma-di-accelerazione-startup-calabria",
-      "title": "Programma di accelerazione “Startup Calabria”",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/programma-di-accelerazione-startup-calabria",
-      "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società (o il team dei tre soci, se il programma ammette anche aspiranti imprenditori non ancora iscritti al Registro Imprese).",
-      "ancheSu": null,
-      "date": "2026-09-03T10:57:00.966Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 18,
-      "relevanceKeywords": [
-        "ambiente",
-        "innovazione",
-        "pmi",
-        "startup",
-        "impresa",
-        "imprese"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "aiuti a PMI e nuove imprese"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società (o il team dei tre soci, se il programma ammette anche aspiranti imprenditori non ancora iscritti al Registro Imprese).",
-        "nota": "Programma regionale di accelerazione per startup calabresi: è il bando più adatto alla nostra fase, perché i percorsi di accelerazione sono tra i pochi che accettano imprese appena costituite o addirittura team in costituzione. Da candidare come società con sede a Rende.",
-        "perche": [
-          "Fincalabra è il soggetto attuatore regionale calabrese e la sede operativa è a Rende (CS), con i tre soci residenti tra Cosenza, Vibo Valentia e Maida: requisito territoriale pienamente soddisfatto.",
-          "I programmi di accelerazione, a differenza degli aiuti alle imprese classici, sono in genere aperti a startup neo-costituite e talvolta a team non ancora iscritti al Registro Imprese: è la finestra giusta per una società ancora in costituzione.",
-          "Il modello di business (intermediario di economia circolare con esclusiva Human Maple, catalogo di 19 fornitori RFID/TARIP, Junker, Iotilize, riciclo pannolini) è raccontabile come startup innovativa con ricavi da provvigione, mercato già mappato e contatti con i Comuni calabresi.",
-          "Oltre al contributo, l'accelerazione porta mentorship, visibilità regionale e credibilità verso Comuni e fornitori: leva commerciale diretta sul nostro core business."
-        ],
-        "come": [
-          "Verificare subito in avviso se sono ammesse società costituite da poco o non ancora iscritte al Registro Imprese, con quale termine di costituzione/iscrizione post-selezione e quali documenti servono (visura, atto costitutivo, codice ATECO); se il termine è successivo alla selezione, candidarsi come team.",
-          "Chiudere la formalizzazione dell'esclusiva calabrese Human Maple e mettere per iscritto gli accordi con i partner di rete: sono gli asset che rendono credibile il pitch.",
-          "Preparare il pacchetto standard di questi programmi: pitch deck, business plan a 3 anni con ricavi da provvigione, CV dei tre soci, lettere di interesse di 3-5 Comuni calabresi e di 2-3 fornitori del catalogo.",
-          "Contattare direttamente lo sportello Fincalabra per capire ATECO ammissibili, eventuale requisito di innovatività (iscrizione sezione speciale startup innovative) e regime de minimis, valorizzando il contratto quadro R&S con Unical."
-        ],
-        "aggiornato": "2026-09-03T10:59:02.825Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "fincalabra-avviso-pubblico-energia-rinnovabile-microimprese",
-      "title": "Avviso pubblico “Energia rinnovabile microimprese”",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-energia-rinnovabile-microimprese",
-      "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola impresa; da verificare solo il titolo di disponibilità dell'immobile su cui installare l'impianto",
-      "ancheSu": null,
-      "date": "2026-09-03T10:57:00.966Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 10,
-      "relevanceKeywords": [
-        "imprese",
-        "energia",
-        "rinnovabil",
-        "calabria",
-        "agevolazione",
-        "investiment"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta / segnalazione alla rete",
-      "motivi": [
-        "investimenti e innovazione d'impresa"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "B",
-        "ruolo": "beneficiaria diretta / segnalazione alla rete",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola impresa; da verificare solo il titolo di disponibilità dell'immobile su cui installare l'impianto",
-        "nota": "Aiuto regionale Fincalabra per l'autoproduzione da fonti rinnovabili nelle microimprese calabresi: tema lontano dal core (economia circolare) ma perfettamente nel nostro territorio e presentabile da soli. Utile se apriamo davvero una sede operativa a Rende con spese energetiche da abbattere, altrimenti da girare alle microimprese della rete.",
-        "perche": [
-          "Bando regionale calabrese per microimprese: la sede operativa di Rende (CS) e i soci residenti in Calabria ci collocano nel perimetro territoriale, e la procedura è a domanda singola, veloce da preparare.",
-          "Il tema è energia rinnovabile per autoconsumo, non economia circolare: il fit con Human Maple, RFID/TARIP e gamification è nullo, quindi il valore è solo di dotazione aziendale (riduzione costi, credenziali di sostenibilità), non strategico.",
-          "Ostacolo forte: la società è ancora in costituzione e questi avvisi di norma richiedono impresa attiva, iscritta al Registro Imprese, spesso con codice ATECO ammissibile e a volte anzianità minima.",
-          "In alternativa è una buona leva commerciale: molte microimprese calabresi con cui parliamo (fornitori, gestori di impianti, piccoli operatori del riciclo) possono usarlo, e la segnalazione ci apre la porta con provvigione sui contratti collegati."
-        ],
-        "come": [
-          "Prima di tutto verificare nell'avviso l'ammissibilità di una società di nuova costituzione: data limite di iscrizione al Registro Imprese, ATECO ammessi, eventuale requisito di bilanci o di attività già avviata; se serve impresa attiva, accelerare la costituzione prima della scadenza.",
-          "Verificare il titolo di disponibilità dell'immobile di Rende (proprietà o contratto di locazione con consenso del proprietario all'installazione) e il consumo energetico effettivo: senza sede propria e senza bollette rilevanti l'investimento non regge la valutazione economica.",
-          "Chiedere un preventivo a un installatore fotovoltaico locale e costruire un mini business plan energetico (potenza, autoconsumo stimato, payback) da allegare alla domanda.",
-          "In parallelo mappare le microimprese calabresi del network potenzialmente beneficiarie, segnalare loro l'avviso e formalizzare accordo provvigionale e patto di non elusione prima di presentare fornitori o consulenti."
-        ],
-        "aggiornato": "2026-09-03T10:59:26.352Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "fincalabra-fovec-fondo-di-venture-capital-avviso-in-preinformazione",
-      "title": "FOVEC (Fondo di Venture Capital) – Avviso in preinformazione",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/preinformazione-avviso-fovec-fondo-di-venture-capital-fondo-a-carattere-rotativo-di-equity-investment-a-supporto-delle-imprese-in-una-fase-preliminare-o-iniziale-di-sviluppo-aziendale-con",
-      "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si candida la sola società; utile però un advisor finanziario e lettere di intento di Comuni/fornitori a supporto del piano industriale",
-      "ancheSu": null,
-      "date": "2026-09-03T10:57:00.966Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 21,
-      "relevanceKeywords": [
-        "innovazione",
-        "pmi",
-        "startup",
-        "impresa",
-        "imprese",
-        "calabria"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta (target di investimento)",
-      "motivi": [
-        "aiuti a PMI e nuove imprese",
-        "investimenti e innovazione d'impresa"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "B",
-        "ruolo": "beneficiaria diretta (target di investimento)",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si candida la sola società; utile però un advisor finanziario e lettere di intento di Comuni/fornitori a supporto del piano industriale",
-        "nota": "Fondo di venture capital regionale Fincalabra in preinformazione: strumento pensato per imprese giovani calabresi, quindi uno dei pochi canali dove essere neocostituiti non è un ostacolo. Da monitorare, valutando bene la diluizione dei tre soci.",
-        "perche": [
-          "Strumento regionale calabrese rivolto a nuove imprese e startup: a differenza dei classici aiuti alle PMI, il venture capital guarda in avanti e spesso ammette (o preferisce) società appena costituite, come la nostra con sede a Rende.",
-          "Il modello di intermediazione di economia circolare, con esclusiva Human Maple, catalogo di 19 fornitori RFID/TARIP e rete di Comuni, si racconta bene in chiave di scalabilità e ricavi ricorrenti da provvigioni: è il linguaggio che un fondo capisce.",
-          "Un ingresso di Fincalabra darebbe capitale iniziale e credibilità istituzionale davanti a Comuni e fornitori, che è la vera leva commerciale.",
-          "Attenzione: è equity, non fondo perduto. Comporta diluizione, patti parasociali e obblighi di exit per tre soci che oggi controllano tutto."
-        ],
-        "come": [
-          "Verificare subito, appena esce l'avviso definitivo, i requisiti soggettivi: iscrizione al Registro Imprese richiesta al momento della domanda o consentita entro un termine, eventuale requisito di startup innovativa e relativa iscrizione alla sezione speciale.",
-          "Completare la costituzione della SRLS e valutare l'iscrizione come startup innovativa (R&S con Unical, contratto quadro esistente, come elemento qualificante).",
-          "Preparare il pacchetto tipico da fondo: business plan a 3-5 anni con pipeline di Comuni e aziende, marginalità delle provvigioni, contratto di esclusiva Human Maple firmato, lettere di intento di Comuni calabresi e fornitori del catalogo.",
-          "Chiedere un incontro preliminare a Fincalabra per capire ticket, percentuale di partecipazione, governance e meccanismi di uscita prima di impegnarsi; in parallelo tenere aperti i canali a fondo perduto regionali come alternativa non diluitiva."
-        ],
-        "aggiornato": "2026-09-03T10:59:48.615Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "fincalabra-avviso-sostegno-alle-imprese-femminili",
-      "title": "Avviso \"Sostegno alle imprese femminili\"",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-sostegno-alle-imprese-femminili",
-      "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessun partner obbligatorio: si presenta la sola società, purché rispetti il requisito di imprenditoria femminile",
-      "ancheSu": null,
-      "date": "2026-09-03T10:57:00.966Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 10,
-      "relevanceKeywords": [
-        "innovazione",
-        "imprese",
-        "calabria",
-        "tecnolog",
-        "contributo",
-        "agevolazione"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "aiuti diretti alle imprese del territorio",
-        "aiuti a PMI e nuove imprese",
-        "contributo a fondo perduto"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "B",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessun partner obbligatorio: si presenta la sola società, purché rispetti il requisito di imprenditoria femminile",
-        "nota": "Aiuto regionale Fincalabra a fondo perduto per PMI: si presenta da soli e sarebbe perfetto per l'avvio della sede di Rende, ma è ammissibile solo se la compagine societaria risulta a prevalenza femminile. Da verificare subito questo punto e l'ammissibilità di una società in costituzione.",
-        "perche": [
-          "È un aiuto diretto a fondo perduto per imprese calabresi, con la società che sarebbe beneficiaria unica: nessun consorzio, tempi di presentazione brevi, sede operativa a Rende in target territoriale.",
-          "Le spese tipiche di questi avvisi (avvio, attrezzature, digitalizzazione, consulenze, comunicazione) coprono esattamente i costi di partenza dell'attività di intermediazione: piattaforma di mappatura fornitori, campagne verso Comuni e aziende, materiale demo Human Maple.",
-          "Il vincolo dirimente è soggettivo: l'avviso è riservato a imprese femminili (di norma maggioranza di quote e/o cariche in capo a donne). Se i tre soci non soddisfano il requisito, il bando è inaccessibile a prescindere dal merito del progetto.",
-          "Secondo ostacolo: la società non è ancora iscritta al Registro Imprese e molti avvisi regionali chiedono impresa attiva o consentono la costituzione solo entro un termine dalla concessione."
-        ],
-        "come": [
-          "Verificare in avviso l'ammissibilità di una società appena costituita o in costituzione: se è ammessa la domanda da costituenda, entro quale termine va perfezionata l'iscrizione al Registro Imprese e con quali documenti (visura, atto costitutivo, apertura partita IVA).",
-          "Leggere la definizione esatta di 'impresa femminile' usata dall'avviso (percentuale di quote, numero di amministratrici, eventuale requisito di residenza in Calabria) e, se serve e i soci sono d'accordo, valutare in fase di costituzione un assetto societario coerente col requisito — decisione da prendere prima del rogito, non dopo.",
-          "Se il requisito è soddisfacibile, preparare il pacchetto standard: business plan triennale del modello a provvigione con i 19 fornitori mappati e Human Maple, piano spese ammissibili, lettere di interesse di Comuni calabresi come clienti potenziali.",
-          "Fissare un contatto con lo sportello Fincalabra per confermare a voce ammissibilità del soggetto e finestra di presentazione, evitando di lavorare una domanda inammissibile."
-        ],
-        "aggiornato": "2026-09-03T11:00:09.043Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "cciaacs-05-bando-nuove-imprese-iv",
-      "title": "05 BANDO NUOVE IMPRESE IV",
-      "link": "https://www.cs.camcom.gov.it/it/content/service/05-bando-nuove-imprese-iv",
-      "source": "CCIAA Cosenza",
-      "sourceUrl": "https://www.cs.camcom.it/it/content/service/versoleimprese-bandi-2026",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "locale",
-      "programma": "Comuni e Agenda Urbana",
-      "partecipazione": "singola",
-      "partnerRichiesti": "nessuno: si presenta la sola società, come nuova impresa con sede in provincia di Cosenza",
-      "ancheSu": null,
-      "date": "2026-09-03T10:57:00.966Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "imprese",
-        "bando"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "aiuti a PMI e nuove imprese"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "nessuno: si presenta la sola società, come nuova impresa con sede in provincia di Cosenza",
-        "nota": "Bando camerale di Cosenza dedicato alle nuove imprese: territorio e profilo coincidono con la nostra situazione (sede operativa a Rende, società appena costituita). Da presentare da soli, è una delle occasioni più rapide e concrete.",
-        "perche": [
-          "La sede operativa si apre a Rende (CS): il requisito territoriale della CCIAA di Cosenza è soddisfatto in pieno, non è un ripiego.",
-          "È un bando pensato per le NUOVE imprese: per una volta l'essere appena costituiti è un vantaggio anziché un ostacolo, purché l'iscrizione al Registro Imprese avvenga nei termini richiesti.",
-          "Si presenta da soli come beneficiaria diretta: nessun consorzio, tempi di preparazione di poche settimane.",
-          "Il contributo copre tipicamente spese di avvio (attrezzature, software, consulenze, comunicazione): utile per licenza/dotazioni Human Maple, posacenere smart, piattaforma TARIP demo e materiale commerciale per Comuni e aziende."
-        ],
-        "come": [
-          "PRIMA COSA: leggere il regolamento per verificare l'ammissibilità di una società appena costituita — data limite di iscrizione al Registro Imprese, eventuale finestra (es. iscritte dopo una certa data), obbligo di sede legale e/o operativa in provincia di Cosenza, regolarità del diritto annuale e DURC.",
-          "Chiudere la costituzione della SRLS e l'iscrizione alla CCIAA di Cosenza con sede a Rende prima della domanda, verificando l'ordine corretto tra iscrizione e presentazione.",
-          "Preparare il piano di investimento con voci coerenti alle spese ammissibili: attrezzature e posacenere smart, licenza/kit Human Maple, software di gestione e TARIP demo, sito e materiali commerciali, consulenze tecniche.",
-          "Predisporre SPID/firma digitale, cassetto digitale e accesso alla piattaforma telematica camerale (di norma Telemaco/Webtelemaco) e verificare il regime de minimis residuo dei soci."
-        ],
-        "aggiornato": "2026-09-03T11:00:27.905Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": true,
@@ -2022,7 +1130,7 @@
       "ambito": "regionale",
       "programma": "Calabria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessun partner obbligatorio: si presenta la sola società; serve però quasi certamente una banca convenzionata che deliberi la quota di finanziamento bancario abbinata al fondo rotativo.",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria",
       "ancheSu": null,
       "date": "2026-08-26T15:48:39.000Z",
       "deadline": null,
@@ -2033,34 +1141,30 @@
       "relevanceKeywords": [
         "calabria"
       ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
+      "classe": "rete",
+      "ruolo": "intermediazione con provvigione",
       "motivi": [
         "aiuti a PMI e nuove imprese",
         "aiuti diretti alle imprese del territorio"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
+        "verdetto": "rete",
         "priorita": "B",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessun partner obbligatorio: si presenta la sola società; serve però quasi certamente una banca convenzionata che deliberi la quota di finanziamento bancario abbinata al fondo rotativo.",
-        "nota": "Fondo rotativo regionale per investimenti delle imprese in Calabria, a sportello: strumento utile per attrezzare la sede di Rende e la piattaforma di servizi, ma è finanza agevolata (prestito) e va verificato se una società appena costituita passa il vaglio bancario.",
+        "ruolo": "intermediazione con provvigione",
+        "nota": "Fondo regionale per gli investimenti produttivi delle imprese calabresi, aperto a sportello: poco adatto a noi (non abbiamo investimenti produttivi da fare), utile come argomento di vendita per le imprese che devono comprare impianti dai nostri fornitori.",
         "perche": [
-          "È un aiuto diretto alle imprese del territorio calabrese, dove avremo sede operativa (Rende, CS), e si presenta da soli senza consorzi: tempi brevi rispetto ai bandi europei.",
-          "Procedura a sportello: chi è pronto con il progetto d'investimento e la delibera bancaria entra subito, senza aspettare graduatorie.",
-          "Copre investimenti che ci servono davvero: allestimento sede/showroom, hardware e licenze per le piattaforme TARIP e RFID, dotazione per la linea posacenere smart e per la demo dei pannelli Human Maple.",
-          "Attenzione: il FRI è tipicamente finanziamento agevolato rimborsabile abbinato a quota bancaria, non fondo perduto puro; una SRLS in costituzione senza bilanci ha un merito creditizio debole."
+          "Verificato il 25/09/2026: aperto dal 17/11/2025 fino a chiusura decretata dalla Regione, 35 M€, esame in ordine cronologico con punteggio minimo 60.",
+          "Contributo fino al 30% più finanziamento agevolato: abbassa il costo dell'acquisto per l'impresa, quindi aiuta a chiudere il contratto col fornitore.",
+          "Per noi come beneficiari no: è pensato per investimenti produttivi (impianti, macchinari), e una società di intermediazione senza sede e senza bilanci non ha né il progetto né i numeri per il punteggio."
         ],
         "come": [
-          "Primo passo obbligato: verificare sul testo del bando se sono ammesse imprese di nuova costituzione (iscrizione al Registro Imprese entro quale data, eventuale anzianità minima, bilanci richiesti) e concludere subito la costituzione per avere partita IVA e visura.",
-          "Chiarire la natura dello strumento: quota a fondo perduto vs. quota di finanziamento agevolato, investimento minimo ammissibile, spese ammesse (attrezzature, software, opere) e durata del rimborso.",
-          "Aprire il dialogo con una banca convenzionata al fondo rotativo e verificare quali garanzie chiede a una neo-costituita (Fondo di Garanzia PMI, garanzie dei soci, apporto di mezzi propri).",
-          "Preparare un piano d'investimento e un business plan coerenti con il modello di intermediazione: catalogo dei 19 fornitori RFID/TARIP, esclusiva Human Maple, contratto quadro Unical e lettere d'interesse dei Comuni calabresi come base dei ricavi previsti."
+          "Usarlo insieme al FEERI come secondo argomento quando si propone un fornitore a un'impresa.",
+          "Verificare con il commercialista se il codice ATECO dell'impresa cliente rientra fra quelli ammessi."
         ],
-        "aggiornato": "2026-09-03T11:01:10.892Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-08-27T17:30:52.516Z"
@@ -2077,7 +1181,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società; eventualmente serve solo un ente/organismo di formazione accreditato come fornitore del percorso, non come partner di domanda",
+      "partnerRichiesti": "nessuno",
       "ancheSu": null,
       "date": "2026-08-10T10:12:40.000Z",
       "deadline": null,
@@ -2092,87 +1196,29 @@
         "competenze"
       ],
       "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
+      "ruolo": "beneficiaria diretta (più avanti)",
       "motivi": [
         "aiuti a PMI e nuove imprese",
         "contributo a fondo perduto"
       ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "B",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società; eventualmente serve solo un ente/organismo di formazione accreditato come fornitore del percorso, non come partner di domanda",
-        "nota": "Contributo al 50% sulla formazione del personale: strumento semplice e a domanda singola per far crescere le competenze dei tre soci su TARIP, RFID, CAM e vendita ai Comuni. Il nodo è l'ammissibilità di una società appena costituita.",
-        "perche": [
-          "È un aiuto a PMI a domanda singola, senza consorzi: si prepara in poche settimane e non pesa sul lavoro sui bandi europei.",
-          "La formazione è un fabbisogno reale e immediato: tariffazione puntuale TARIP e regolamenti comunali, CAM e requisiti dei materiali per l'edilizia, gestione dati RFID/piattaforme, tecniche commerciali e di community engagement verso enti pubblici.",
-          "Competenze certificate rafforzano la credibilità dell'intermediario davanti a Comuni e fornitori del catalogo (Human Maple, Junker, Iotilize) e sostengono la trattativa sull'esclusiva calabrese.",
-          "Copertura al 50% a fondo perduto: costo netto contenuto anche per una struttura di tre soci."
-        ],
-        "come": [
-          "Primo passo: verificare l'ammissibilità di una società appena costituita o in costituzione — iscrizione al Registro Imprese richiesta alla domanda o entro un termine, eventuale anzianità minima, presenza di dipendenti o ammissibilità della formazione dei soci lavoratori; se l'anzianità è ostativa, accelerare la costituzione prima dell'apertura dello sportello.",
-          "Leggere il bando reale sul sito Invitalia (il titolo circolato da Federterziario Calabria va riscontrato): soggetti ammessi, spese ammissibili, se serve un ente di formazione accreditato, regime de minimis e modalità a sportello o a graduatoria.",
-          "Costruire un piano formativo coerente con il modello di business: moduli su TARIP e regolamenti comunali, CAM e prestazioni dei pannelli in acetato di cellulosa, gestione dati RFID e piattaforme, project management di bandi europei.",
-          "Raccogliere preventivi dai fornitori formativi e, dove possibile, coinvolgere Unical sul contratto quadro esistente per i moduli tecnici, così da rafforzare anche la relazione di R&S."
-        ],
-        "aggiornato": "2026-09-03T11:01:28.125Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "federterziario-6786",
-      "title": "Tirocinio Extracurriculare Autofinanziato Calabria | Attivalo",
-      "link": "https://www.federterziariocalabria.it/tirocinio-extracurriculare-autofinanziato-calabria-attivalo/",
-      "source": "Federterziario Calabria",
-      "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessun partner obbligatorio: si presenta la sola società come soggetto ospitante, con l'ente promotore (Federterziario/agenzia accreditata) come intermediario procedurale",
-      "ancheSu": null,
-      "date": "2026-08-07T16:32:49.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "calabria"
-      ],
-      "classe": "nostro",
-      "ruolo": "soggetto ospitante tirocinante",
-      "motivi": [
-        "incentivi all'occupazione"
-      ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
         "verdetto": "forse",
         "priorita": "C",
-        "ruolo": "soggetto ospitante tirocinante",
-        "partecipazione": "singola",
-        "partner": "Nessun partner obbligatorio: si presenta la sola società come soggetto ospitante, con l'ente promotore (Federterziario/agenzia accreditata) come intermediario procedurale",
-        "nota": "Non è un contributo a fondo perduto: è il servizio di attivazione di un tirocinio extracurriculare con indennità e costi a carico dell'azienda ospitante. Può servire per inserire una figura junior su mappatura fornitori e rapporti con i Comuni, ma non porta cassa.",
+        "ruolo": "beneficiaria diretta (più avanti)",
+        "nota": "Copre il 50% della formazione del personale: oggi non abbiamo dipendenti né società costituita, quindi non ci serve. Può diventare una leva da proporre alle imprese clienti che devono formare il personale su un servizio nuovo.",
         "perche": [
-          "Non è un bando di finanziamento ma un servizio di attivazione tirocinio 'autofinanziato': l'indennità mensile, l'assicurazione e i costi di gestione restano interamente a carico nostro, quindi zero leva commerciale sui bandi a fondo perduto",
-          "Con tre soci e nessun dipendente, una figura junior (raccolta dati sui Comuni, aggiornamento catalogo fornitori, supporto alle campagne di gamification) sarebbe comunque utile a costo contenuto",
-          "La sede operativa a Rende (CS) e i soci residenti in regione rendono l'operazione territorialmente coerente: i tirocini extracurriculari calabresi richiedono sede o unità operativa in Calabria",
-          "Ostacolo dirimente: la società è ancora in costituzione e non iscritta al Registro Imprese, condizione normalmente indispensabile per essere soggetto ospitante (serve anche posizione INAIL, DURC e adempimenti sicurezza)"
+          "Finanzia la formazione dei dipendenti: i tre soci-amministratori di una società appena nata di solito non bastano.",
+          "Richiede l'impresa già attiva.",
+          "Come leva per altri è debole: i nostri fornitori vendono servizi e impianti, non corsi."
         ],
         "come": [
-          "Verificare prima di tutto se una società appena costituita può essere soggetto ospitante: iscrizione al Registro Imprese, apertura posizione INAIL/INPS, DURC regolare e rispetto dei limiti numerici tirocinanti rispetto ai dipendenti in forza",
-          "Chiedere a Federterziario Calabria il costo effettivo del servizio e l'importo minimo dell'indennità mensile prevista dalla normativa regionale, per capire il costo pieno mensile",
-          "Verificare in parallelo se esistono misure regionali o camerali che rimborsano tutta o parte dell'indennità di tirocinio (Garanzia Giovani, incentivi occupazione Regione Calabria): in quel caso la stessa operazione diventa a costo quasi nullo e sale di priorità",
-          "Rinviare la decisione a dopo la costituzione e la prima commessa con provvigione incassata: senza flusso di cassa ricorrente un tirocinio autofinanziato è un costo fisso non giustificato"
+          "Rivalutarlo quando la società avrà il primo dipendente.",
+          "Chiedere a Federterziario se ci sono nuove finestre nel 2027."
         ],
-        "aggiornato": "2026-09-03T20:22:34.062Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
@@ -2189,7 +1235,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società; al massimo va scelto un ente formativo accreditato tra quelli ammessi dal bando.",
+      "partnerRichiesti": "nessuno",
       "ancheSu": null,
       "date": "2026-07-22T11:13:18.000Z",
       "deadline": null,
@@ -2206,32 +1252,26 @@
         "digital"
       ],
       "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
+      "ruolo": "beneficiaria diretta (più avanti)",
       "motivi": [
         "aiuti a PMI e nuove imprese"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
-        "priorita": "B",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società; al massimo va scelto un ente formativo accreditato tra quelli ammessi dal bando.",
-        "nota": "Incentivo alla formazione digitale e green per PMI del territorio di Cosenza: si presenta da soli, importi contenuti ma utile per formare i tre soci su TARIP, RFID e CAM. Da verificare subito se una società appena costituita è ammessa.",
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "beneficiaria diretta (più avanti)",
+        "nota": "Incentivo alla formazione digitale e green per le PMI: senza società costituita e senza dipendenti oggi non ci riguarda. Da tenere presente dopo la costituzione.",
         "perche": [
-          "Bando sul territorio di Cosenza-Rende, dove apriamo la sede operativa: siamo nel perimetro naturale dei beneficiari e la vicinanza con Confcommercio locale facilita l'istruttoria.",
-          "Si presenta come impresa singola, senza consorzi: tempi brevi e carico di lavoro compatibile con una società in avvio.",
-          "Il tema formazione digitale e green coincide con le competenze che dobbiamo strutturare: piattaforme TARIP, RFID porta a porta, CAM in edilizia, rendicontazione ambientale e vendita consulenziale ai Comuni.",
-          "Un percorso formativo finanziato dà anche credibilità commerciale quando ci presentiamo a Comuni e aziende come intermediari di economia circolare."
+          "Finanzia la formazione del personale di PMI già attive: noi non siamo ancora iscritti e non abbiamo dipendenti.",
+          "Gli importi sono piccoli, e in genere non coprono le spese fisse che avremo (commercialista 300 €/mese, avvocato 3.000 €/anno)."
         ],
         "come": [
-          "Primo passo: verificare con lo sportello Confcommercio Cosenza se una SRLS in costituzione (non ancora iscritta al Registro Imprese) è ammissibile, entro quale data deve risultare attiva e se serve l'adesione associativa; chiedere per iscritto.",
-          "Chiudere l'iscrizione al Registro Imprese e aprire la posizione INPS/INAIL prima della domanda, e recuperare visura, DURC e dichiarazioni de minimis.",
-          "Definire un piano formativo per i tre soci su temi concreti e documentabili: tariffazione puntuale e software TARIP, tecnologie RFID e retrofit contenitori, CAM edilizia per i pannelli da acetato di cellulosa, digital marketing e CRM per la rete clienti.",
-          "Individuare l'ente di formazione accreditato e farsi rilasciare preventivo e programma con ore e costi, così da allegare un progetto formativo già quantificato."
+          "Rivalutarlo dopo la costituzione, chiedendo a Confcommercio Cosenza se l'avviso sarà riaperto."
         ],
-        "aggiornato": "2026-09-03T20:22:50.170Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
@@ -2248,7 +1288,7 @@
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
       "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società; eventuale fornitore ICT solo come venditore della soluzione, non come partner di domanda",
+      "partnerRichiesti": "nessuno",
       "ancheSu": null,
       "date": "2026-07-22T10:41:46.000Z",
       "deadline": null,
@@ -2263,200 +1303,32 @@
         "lavoro"
       ],
       "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
+      "ruolo": "beneficiaria diretta (quando uscirà)",
       "motivi": [
         "aiuti a PMI e nuove imprese",
         "digitalizzazione e competenze"
       ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società; eventuale fornitore ICT solo come venditore della soluzione, non come partner di domanda",
-        "nota": "Bando di digitalizzazione per piccole imprese sul territorio di Cosenza: siamo beneficiari diretti con sede a Rende, domanda presentabile da soli in poche settimane. L'unico vero nodo è l'iscrizione al Registro Imprese, ancora in corso.",
-        "perche": [
-          "Sede operativa a Rende (CS) e soci residenti in Calabria: bando sul nostro territorio di riferimento, non un ripiego.",
-          "Beneficiaria diretta come PMI, nessun consorzio richiesto: è il tipo di bando più rapido e concreto da presentare.",
-          "Abbiamo spese digitali reali e coerenti: CRM per la gestione dei contatti con Comuni e fornitori, piattaforma di matching del catalogo dei 19 fornitori, dashboard dati TARIP/raccolta differenziata, sito e strumenti di gamification e community engagement.",
-          "Un investimento digitale finanziato rafforza proprio l'asset centrale del modello: la capacità di mappare bisogni degli enti e proporre il fornitore giusto."
-        ],
-        "come": [
-          "Verificare subito in Confartigianato Cosenza / presso l'ente gestore se una società appena costituita è ammissibile: data minima di iscrizione al Registro Imprese, eventuale anzianità richiesta, codice ATECO ammesso; se serve impresa già attiva, accelerare l'iscrizione prima della scadenza.",
-          "Recuperare il testo integrale del bando (soggetto gestore, dotazione, percentuale di contributo, spese ammissibili, regime de minimis, finestra di presentazione).",
-          "Preparare il pacchetto documentale standard: visura, DURC, dichiarazioni de minimis, piano di investimento digitale con 2-3 preventivi per voce (CRM, piattaforma di matching fornitori/Comuni, dashboard dati, sito e app di engagement).",
-          "Chiedere ai fornitori tecnologici della rete (Iotilize, Junker, piattaforme TARIP) preventivi intestati e coerenti con le voci ammissibili, tenendo distinta la nostra spesa agevolata dai contratti su cui prendiamo provvigione."
-        ],
-        "aggiornato": "2026-09-03T20:23:08.201Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "mimit-ipcei-sulla-chimica-biotecnologica-e-i-materiali-avanzati-circolari-biochem-e-cam",
-      "title": "IPCEI sulla Chimica Biotecnologica e i Materiali Avanzati Circolari (BIOCHEM e CAM)",
-      "link": "https://www.mimit.gov.it/it/incentivi/ipcei-sulla-chimica-biotecnologica-e-i-materiali-avanzati-circolari-biochem-e-cam",
-      "source": "MIMIT",
-      "sourceUrl": "https://www.mimit.gov.it/it/incentivi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "nazionale",
-      "programma": "Nazionali",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "Il bando parla di consorzio o partenariato: serve almeno un partner.",
-      "ancheSu": null,
-      "date": "2026-07-15T14:31:31.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "tecnolog"
-      ],
-      "classe": "nostro",
-      "ruolo": "sub-fornitore di tecnologia",
-      "motivi": [
-        "materiali bio-based e avanzati",
-        "edilizia circolare e CAM"
-      ],
       "decisoDaTe": true,
       "valutazione": {
         "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "sub-fornitore di tecnologia",
-        "nota": "IPCEI BIOCHEM e CAM (scadenze 22 e 24/9/2026, via PEC al MIMIT): tematicamente perfetti ma i budget da decine di milioni li rendono impraticabili da soli. Solo agganciandosi a un grande player industriale.",
-        "perche": [
-          "Formalmente possono candidarsi anche startup e PMI, e chi recupera matrici complesse come l'acetato dai mozziconi è perfettamente in target sia per BIOCHEM sia per CAM.",
-          "Ma gli IPCEI finanziano impianti pilota e prima scala industriale con budget di decine di milioni, cofinanziamento privato obbligatorio, impatto sistemico europeo da dimostrare e doppio vaglio MIMIT + Commissione: fuori portata come capofila."
-        ],
-        "come": [
-          "Non candidarsi da soli: aggregarsi al progetto di un grande player della chimica, dei rifiuti o dei polimeri (Versalis/Eni, Novamont, multi-utilities) inserendo il nostro processo come modulo del loro piano.",
-          "In alternativa usare il ruolo di intermediari: segnalare l'avviso a partner industriali strutturati negoziando una quota di R&D, fornitura di materia prima seconda o test con Unical."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-08-01T11:07:11.591Z"
-    },
-    {
-      "attivo": true,
-      "id": "calabria-55126",
-      "title": "Dunamis Calabria - Incentivi all'occupazione alle imprese per nuove assunzioni",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/dunamis-calabria-incentivi-alloccupazione-alle-imprese-per-nuove-assunzioni/",
-      "source": "Calabria Europa",
-      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
-      "ancheSu": [
-        {
-          "fonte": "Fincalabra",
-          "link": "https://calabriaeuropa.regione.calabria.it/bando/dunamis-calabria-incentivi-alloccupazione-alle-imprese-per-nuove-assunzioni/"
-        },
-        {
-          "fonte": "Fincalabra",
-          "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-kaire-calabria-incentivi-alloccupazione-alle-imprese-che-operano-nella-filiera-turistica/"
-        }
-      ],
-      "date": "2026-07-10T14:57:18.000Z",
-      "deadline": null,
-      "aSportello": true,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 6,
-      "relevanceKeywords": [
-        "imprese",
-        "calabria",
-        "occupazione",
-        "assunzion"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "incentivi all'occupazione",
-        "aiuti diretti alle imprese del territorio"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "C",
-        "ruolo": "beneficiaria diretta",
-        "nota": "Dunamis (incentivi assunzioni, a sportello): formalmente possiamo, ma appena costituiti difficilmente ne usufruiamo subito. Da riprendere quando assumeremo personale operativo in Calabria.",
-        "perche": [
-          "Fondo perduto del 50-75% dei costi salariali per 12-24 mesi sulle assunzioni a tempo indeterminato di disoccupati calabresi (svantaggiati, molto svantaggiati o con disabilità), più contributo per la formazione.",
-          "Utile quando assumeremo personale operativo sul territorio: logistica posacenere/cassonetti, coordinamento con i Comuni, account territoriali, sviluppo software/TARIP.",
-          "Aperto a imprese di qualsiasi dimensione con sede o unità operativa in Calabria (ammesso anche smart working di residenti)."
-        ],
-        "come": [
-          "A sportello (ordine cronologico su piattaforma FinCalabra) fino a esaurimento risorse: attivarsi quando l'assunzione è concreta.",
-          "Attenzione ai vincoli: niente familiari/affini di primo grado dei soci, serve la DID del lavoratore al CPI; non vale per i compensi da amministratore (co.co.co. o partita IVA)."
-        ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-26T10:59:50.419Z"
-    },
-    {
-      "attivo": true,
-      "id": "calabria-56415",
-      "title": "Avviso pubblico per la concessione di contributi alle PMI per la “Certificazione della parità di genere”",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-la-concessione-di-contributi-alle-pmi-per-la-certificazione-della-parita-di-genere/",
-      "source": "Calabria Europa",
-      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
-      "ancheSu": null,
-      "date": "2026-07-03T10:52:16.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "pmi"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "aiuti a PMI e nuove imprese"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "si",
         "priorita": "B",
-        "ruolo": "beneficiaria diretta",
-        "nota": "Certificazione parità di genere: fondo perduto al 100% (fino a 4.600 € per microimprese), a sportello. Serve almeno 1 dipendente subordinato e sede operativa in Calabria.",
+        "ruolo": "beneficiaria diretta (quando uscirà)",
+        "nota": "NON È ANCORA UN BANDO: è una proposta presentata alla Camera il 9/07/2026, in attesa di entrare nella Legge di Bilancio. Se passa, finanzierebbe software, cloud, piattaforme, consulenza e formazione: quello che ci servirà per partire, e una leva per le piccole imprese clienti.",
         "perche": [
-          "Copre al 100% a fondo perduto consulenza e certificazione UNI/PdR 125:2022 (fino a 2.200 € + 2.400 € per una microimpresa).",
-          "Per chi lavora con i Comuni vale doppio: punteggi premiali nelle gare d'appalto pubbliche (D.Lgs. 36/2023), riduzione del 30% della garanzia fideiussoria, sgravio INPS dell'1%.",
-          "Molti bandi regionali ed europei danno premialità alle imprese certificate genere/ESG: rafforza tutte le altre candidature."
+          "Verificato il 25/09/2026 sulla pagina di Confartigianato Cosenza: c'era solo un questionario di rilevazione (chiuso a inizio settembre), non un avviso con scadenza.",
+          "Spese previste: software gestionali, cloud, piattaforme digitali, IA, cybersecurity, e-commerce, consulenza e formazione. Non si parla di computer né di veicoli.",
+          "Beneficiari previsti: micro, piccole e medie imprese e studi professionali; non si sa ancora se servirà essere già iscritti."
         ],
         "come": [
-          "Prerequisiti: MPMI attiva al Registro Imprese, sede operativa in Calabria e almeno 1 dipendente subordinato (anche part-time o apprendista) al momento della domanda — i soli amministratori non bastano.",
-          "Procedura a sportello su piattaforma FinCalabra fino a esaurimento risorse: muoversi appena si ha il dipendente.",
-          "Dopo l'ammissione ci sono 15 mesi per completare consulenza e certificazione. Richiedibili insieme la Linea 1 (consulenza) e la Linea 2 (ente certificatore)."
+          "Seguire la Legge di Bilancio 2027 (dibattito in autunno): se la misura entra, uscirà l'avviso vero con importi e requisiti.",
+          "Chiamare Confartigianato Cosenza (0984/73955) e chiedere di essere avvisati all'uscita."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "singola",
+        "partner": "nessuno",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
-      "segnalatoIl": "2026-07-26T10:59:50.419Z"
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": false,
@@ -3152,8 +2024,8 @@
       "date": "2026-07-21T12:16:58.000Z",
       "deadline": "2026-09-15T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
+      "statoLabel": "Chiuso",
+      "isOpen": false,
       "relevanceScore": 6,
       "relevanceKeywords": [
         "imprese",
