@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:07:21.439Z",
+  "generatedAt": "2026-09-28T13:25:10.905Z",
   "lastEmailSentAt": "2026-09-23T11:10:22.343Z",
   "nextEmailDueAt": "2026-09-30T11:10:22.343Z",
   "settings": {
@@ -10,11 +10,11 @@
   },
   "counts": {
     "nuovi": 10,
-    "attivi": 24,
+    "attivi": 25,
     "inScadenza": 3,
     "scaduti": 40,
-    "totale": 64,
-    "nostri": 3,
+    "totale": 65,
+    "nostri": 4,
     "rete": 21,
     "fuoriTema": 169
   },
@@ -42,6 +42,10 @@
     "Federterziario Calabria": {
       "totale": 8,
       "attivi": 3
+    },
+    "MIMIT – misure e decreti": {
+      "totale": 1,
+      "attivi": 1
     },
     "Unical – Bandi nazionali": {
       "totale": 1,
@@ -71,11 +75,11 @@
   "perAmbito": {
     "europeo": 13,
     "regionale": 9,
-    "nazionale": 2
+    "nazionale": 3
   },
   "perPartecipazione": {
     "partenariato": 14,
-    "singola": 10
+    "singola": 11
   },
   "bandi": [
     {
@@ -961,6 +965,61 @@
         "partecipazione": "singola",
         "partner": "nessuno per l'impresa beneficiaria",
         "aggiornato": "2026-09-25T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-16T11:14:00.059Z"
+    },
+    {
+      "attivo": true,
+      "id": "mimitnews-fondo-di-garanzia-per-le-pmi-presentato-al-mimit-il-primo-logo-ufficiale",
+      "title": "Fondo di garanzia per le PMI, presentato al MIMIT il primo logo ufficiale",
+      "link": "https://www.mimit.gov.it/it/notizie-stampa/fondo-di-garanzia-per-le-pmi-presentato-al-mimit-il-primo-logo-ufficiale",
+      "source": "MIMIT – misure e decreti",
+      "sourceUrl": "https://www.mimit.gov.it/it/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "nazionale",
+      "programma": "Nazionali",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessun partner: la garanzia si attiva tramite la banca o il confidi che istruisce il finanziamento; serve solo l'impresa iscritta al Registro Imprese",
+      "ancheSu": null,
+      "date": "2026-09-16T10:56:36.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 4,
+      "relevanceKeywords": [
+        "pmi",
+        "imprese"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria indiretta via banca",
+      "motivi": [
+        "aiuti a PMI e nuove imprese"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "beneficiaria indiretta via banca",
+        "partecipazione": "singola",
+        "partner": "Nessun partner: la garanzia si attiva tramite la banca o il confidi che istruisce il finanziamento; serve solo l'impresa iscritta al Registro Imprese",
+        "nota": "Non è un bando ma una notizia istituzionale (presentazione del logo del Fondo di garanzia PMI). Lo strumento in sé resta utile come leva di credito per la società appena costituita, ma non porta fondo perduto: da archiviare come nota finanziaria, non come scadenza.",
+        "perche": [
+          "Il contenuto è una comunicazione di immagine del MIMIT, non una call con dotazione, requisiti e scadenza: non c'è nulla da presentare.",
+          "Il Fondo di garanzia PMI non è contributo a fondo perduto: garantisce finanziamenti bancari, quindi non serve come leva commerciale verso Comuni e fornitori come i bandi a fondo perduto.",
+          "Può però tornare utile come strumento di liquidità per la SRLS in avvio (sezione start-up/nuove imprese, che in genere non richiede storico di bilancio) per finanziare capitale circolante e anticipi sui primi contratti di intermediazione.",
+          "La società è ancora in costituzione e non iscritta al Registro Imprese: qualsiasi accesso allo strumento è comunque rinviato al post-iscrizione."
+        ],
+        "come": [
+          "Completare l'iscrizione al Registro Imprese e aprire il conto sociale: senza partita IVA attiva e codice ATECO nessuna banca può istruire la richiesta di garanzia.",
+          "Verificare con una banca o un confidi locale (Cosenza/Rende) le condizioni della sezione dedicata a start-up e nuove imprese: importo massimo garantito, percentuale di copertura, documentazione richiesta a un'impresa senza bilanci.",
+          "Non impegnare tempo di progettazione su questa notizia: tenere presidiata la pagina MIMIT per le vere misure a fondo perduto per PMI e nuove imprese.",
+          "Preparare intanto un business plan a 24 mesi con i ricavi da provvigione (Human Maple, catalogo RFID/TARIP, Junker) da usare sia in banca sia nei futuri bandi regionali."
+        ],
+        "aggiornato": "2026-09-16T11:13:52.901Z",
+        "automatica": true
       },
       "fasi": null,
       "segnalatoIl": "2026-09-16T11:14:00.059Z"
