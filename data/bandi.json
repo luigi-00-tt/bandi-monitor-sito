@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T12:15:34.444Z",
-  "lastEmailSentAt": "2026-09-30T12:15:34.443Z",
-  "nextEmailDueAt": "2026-10-07T12:15:34.443Z",
+  "generatedAt": "2026-10-02T12:13:22.248Z",
+  "lastEmailSentAt": "2026-10-02T12:13:22.246Z",
+  "nextEmailDueAt": "2026-10-09T12:13:22.246Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,11 +9,11 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 8,
-    "attivi": 25,
+    "nuovi": 11,
+    "attivi": 26,
     "inScadenza": 3,
     "scaduti": 40,
-    "totale": 65,
+    "totale": 66,
     "nostri": 4,
     "rete": 21,
     "fuoriTema": 168
@@ -33,6 +33,10 @@
     },
     "Fincalabra": {
       "totale": 6,
+      "attivi": 1
+    },
+    "Regione Calabria": {
+      "totale": 1,
       "attivi": 1
     },
     "Confcommercio Cosenza": {
@@ -74,12 +78,12 @@
   },
   "perAmbito": {
     "europeo": 13,
-    "regionale": 9,
+    "regionale": 10,
     "nazionale": 3
   },
   "perPartecipazione": {
     "partenariato": 14,
-    "singola": 11
+    "singola": 12
   },
   "bandi": [
     {
@@ -377,10 +381,10 @@
       "partecipazione": "partenariato",
       "partnerRichiesti": "consorzio Horizon di aziende e centri di ricerca tessili",
       "ancheSu": null,
-      "date": "2026-09-22T00:00:00.000Z",
+      "date": "2026-10-13T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "Aperto",
+      "statoLabel": "In arrivo",
       "isOpen": true,
       "relevanceScore": 4,
       "relevanceKeywords": [
@@ -425,10 +429,10 @@
       "partecipazione": "partenariato",
       "partnerRichiesti": "consorzio Horizon con Human Maple come partner tecnologico, università e industria",
       "ancheSu": null,
-      "date": "2026-09-22T00:00:00.000Z",
+      "date": "2026-10-13T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "Aperto",
+      "statoLabel": "In arrivo",
       "isOpen": true,
       "relevanceScore": 4,
       "relevanceKeywords": [
@@ -863,6 +867,58 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
+    },
+    {
+      "attivo": true,
+      "id": "rcal-verifica-di-assoggettabilita-a-via-progetto-nuovo-impianto-per-la-produzione-di-calcestruzzo-e-il-trattamento-ed-il-recupero-di-rifiuti-non-pericolosi-a-matrice-inerte-proveniente-da-attivita-di-cost",
+      "title": "Verifica di Assoggettabilità A Via Progetto: Nuovo Impianto Per La Produzione di Calcestruzzo e Il Trattamento Ed Il Recupero Di Rifiuti Non Pericolosi A Matrice Inerte Proveniente Da Attività Di Costruzione E Demolizione",
+      "link": "https://www.regione.calabria.it/bandi/verifica-di-assoggettabilita-a-via-progetto-nuovo-impianto-per-la-produzione-di-calcestruzzo-e-il-trattamento-ed-il-recupero-di-rifiuti-non-pericolosi-a-matrice-inerte-proveniente-da-attivita-di-cost/",
+      "source": "Regione Calabria",
+      "sourceUrl": "https://www.regione.calabria.it/bandi-e-avvisi-di-gara/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno: non è un bando, è un procedimento autorizzativo ambientale senza domanda da presentare.",
+      "ancheSu": null,
+      "date": "2026-10-02T12:12:24.887Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "rifiuti"
+      ],
+      "classe": "fuori",
+      "ruolo": "partner tecnologico",
+      "motivi": [
+        "edilizia circolare e CAM"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "no",
+        "priorita": "C",
+        "ruolo": null,
+        "partecipazione": "singola",
+        "partner": "Nessuno: non è un bando, è un procedimento autorizzativo ambientale senza domanda da presentare.",
+        "nota": "Non è un bando di finanziamento ma un avviso di verifica di assoggettabilità a VIA per un impianto privato di calcestruzzo e recupero inerti da demolizione: nessun contributo da intercettare, nessun contratto per i fornitori del catalogo.",
+        "perche": [
+          "Si tratta di un procedimento autorizzativo ambientale pubblicato dalla Regione Calabria, non di un avviso con fondo perduto: non esiste un beneficiario che riceva risorse per acquistare impianti o servizi.",
+          "Non c'è alcuna domanda da presentare né da parte della società né da parte di un Comune o di un'impresa cliente.",
+          "L'impianto riguarda inerti da costruzione e demolizione e produzione di calcestruzzo: filiera diversa da quella dei fornitori mappati (acetato di cellulosa da mozziconi, RFID/TARIP, app differenziata, riciclo pannolini, efficienza energetica).",
+          "Il segnale automatico 'edilizia circolare e CAM' è un falso positivo generato dalle parole 'recupero rifiuti' e 'costruzione e demolizione'."
+        ],
+        "come": [
+          "Archiviare senza azione e affinare il filtro per escludere le pubblicazioni VIA/VAS/AIA della Regione Calabria, che non sono avvisi di finanziamento.",
+          "Al massimo annotare la ragione sociale del proponente nella lista contatti: è un'impresa del settore rifiuti/edilizia che in futuro potrà essere avvicinata su bandi PMI per efficienza energetica o su forniture di pannelli CAM di Human Maple, ma solo quando uscirà un avviso vero."
+        ],
+        "aggiornato": "2026-10-02T12:13:20.421Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-10-02T12:13:22.231Z"
     },
     {
       "attivo": true,

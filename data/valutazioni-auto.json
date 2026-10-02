@@ -704,5 +704,24 @@
       "Priorità operativa resta sui bandi italiani a beneficiaria diretta; questo va in lista di osservazione con revisione a inizio 2027."
     ],
     "aggiornato": "2026-09-23T11:10:20.968Z"
+  },
+  "rcal-verifica-di-assoggettabilita-a-via-progetto-nuovo-impianto-per-la-produzione-di-calcestruzzo-e-il-trattamento-ed-il-recupero-di-rifiuti-non-pericolosi-a-matrice-inerte-proveniente-da-attivita-di-cost": {
+    "verdetto": "no",
+    "priorita": "C",
+    "ruolo": null,
+    "partecipazione": "singola",
+    "partner": "Nessuno: non è un bando, è un procedimento autorizzativo ambientale senza domanda da presentare.",
+    "nota": "Non è un bando di finanziamento ma un avviso di verifica di assoggettabilità a VIA per un impianto privato di calcestruzzo e recupero inerti da demolizione: nessun contributo da intercettare, nessun contratto per i fornitori del catalogo.",
+    "perche": [
+      "Si tratta di un procedimento autorizzativo ambientale pubblicato dalla Regione Calabria, non di un avviso con fondo perduto: non esiste un beneficiario che riceva risorse per acquistare impianti o servizi.",
+      "Non c'è alcuna domanda da presentare né da parte della società né da parte di un Comune o di un'impresa cliente.",
+      "L'impianto riguarda inerti da costruzione e demolizione e produzione di calcestruzzo: filiera diversa da quella dei fornitori mappati (acetato di cellulosa da mozziconi, RFID/TARIP, app differenziata, riciclo pannolini, efficienza energetica).",
+      "Il segnale automatico 'edilizia circolare e CAM' è un falso positivo generato dalle parole 'recupero rifiuti' e 'costruzione e demolizione'."
+    ],
+    "come": [
+      "Archiviare senza azione e affinare il filtro per escludere le pubblicazioni VIA/VAS/AIA della Regione Calabria, che non sono avvisi di finanziamento.",
+      "Al massimo annotare la ragione sociale del proponente nella lista contatti: è un'impresa del settore rifiuti/edilizia che in futuro potrà essere avvicinata su bandi PMI per efficienza energetica o su forniture di pannelli CAM di Human Maple, ma solo quando uscirà un avviso vero."
+    ],
+    "aggiornato": "2026-10-02T12:13:20.421Z"
   }
 }
