@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:23:39.380Z",
+  "generatedAt": "2026-10-04T12:05:22.664Z",
   "lastEmailSentAt": "2026-10-03T11:23:39.379Z",
   "nextEmailDueAt": "2026-10-10T11:23:39.379Z",
   "settings": {
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 11,
-    "attivi": 26,
-    "inScadenza": 4,
+    "nuovi": 10,
+    "attivi": 25,
+    "inScadenza": 3,
     "scaduti": 40,
-    "totale": 66,
+    "totale": 65,
     "nostri": 4,
     "rete": 21,
-    "fuoriTema": 167
+    "fuoriTema": 168
   },
   "perFonte": {
     "EU Funding & Tenders": {
@@ -26,10 +26,6 @@
     "Interreg Grecia-Italia": {
       "totale": 1,
       "attivi": 1
-    },
-    "Unical – Bandi nazionali": {
-      "totale": 2,
-      "attivi": 2
     },
     "Calabria Europa": {
       "totale": 12,
@@ -48,6 +44,10 @@
       "attivi": 3
     },
     "MIMIT – misure e decreti": {
+      "totale": 1,
+      "attivi": 1
+    },
+    "Unical – Bandi nazionali": {
       "totale": 1,
       "attivi": 1
     },
@@ -74,12 +74,12 @@
   },
   "perAmbito": {
     "europeo": 13,
-    "nazionale": 4,
-    "regionale": 9
+    "regionale": 9,
+    "nazionale": 3
   },
   "perPartecipazione": {
     "partenariato": 14,
-    "singola": 12
+    "singola": 11
   },
   "bandi": [
     {
@@ -242,58 +242,6 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
-    {
-      "attivo": true,
-      "id": "unicalnaz-25262-spici-call-per-pmi-startup-e-spinoff-a-partecipare-alla-competizione-internazionale-di-zgc-forum-2027-in-cina",
-      "title": "SPICI. Call per PMI, startup e spinoff a partecipare alla competizione internazionale di ZGC Forum 2027 in Cina",
-      "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/25262-spici-call-per-pmi-startup-e-spinoff-a-partecipare-alla-competizione-internazionale-di-zgc-forum-2027-in-cina/",
-      "source": "Unical – Bandi nazionali",
-      "sourceUrl": "https://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "nazionale",
-      "programma": "Università e ricerca",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessun partner richiesto: è una candidatura individuale di PMI/startup/spinoff alla competizione; irrilevante per noi perché non c'è un contratto da intermediare.",
-      "ancheSu": null,
-      "date": "2026-10-02T12:26:00.000Z",
-      "deadline": "2026-10-25T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 4,
-      "relevanceKeywords": [
-        "pmi",
-        "startup"
-      ],
-      "classe": "fuori",
-      "ruolo": "beneficiario diretto",
-      "motivi": [
-        "aiuti a PMI e nuove imprese"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "no",
-        "priorita": "C",
-        "ruolo": null,
-        "partecipazione": "singola",
-        "partner": "Nessun partner richiesto: è una candidatura individuale di PMI/startup/spinoff alla competizione; irrilevante per noi perché non c'è un contratto da intermediare.",
-        "nota": "Call di selezione per partecipare a una competizione internazionale di innovazione in Cina (ZGC Forum 2027): è una vetrina per startup con tecnologia propria, non un finanziamento che fa comprare qualcosa a Comuni o imprese. Nessuna provvigione possibile.",
-        "perche": [
-          "Non è un contributo che mette risorse in mano a un Comune o a un'impresa per acquistare impianti, forniture o servizi: senza acquisto non nasce il contratto su cui incassiamo la provvigione.",
-          "La società non ha tecnologia, brevetti o prodotti propri da presentare a una competizione di innovazione: i materiali e la tecnologia sono di Human Maple, noi siamo solo intermediari commerciali.",
-          "Come candidata diretta saremmo comunque fuori: siamo in costituzione, senza iscrizione al Registro Imprese, senza struttura e senza track record, e la call passa da un canale universitario orientato a spinoff e startup tecnologiche.",
-          "Anche in caso di successo il risultato sarebbe visibilità e contatti in Cina, mercato fuori dal nostro raggio operativo (Comuni calabresi e PMI del territorio)."
-        ],
-        "come": [
-          "Unico uso sensato, a costo zero: girare la call a Human Maple come opportunità di vetrina internazionale per la tecnologia di riciclo dei mozziconi, usandola come gesto di relazione per accelerare la firma dell'esclusiva calabrese; valutare prima con loro se è già nota e se Unical (contratto quadro esistente) possa fare da canale di candidatura."
-        ],
-        "aggiornato": "2026-10-03T11:23:36.183Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-10-03T11:23:39.370Z"
     },
     {
       "attivo": true,
