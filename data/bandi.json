@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T12:05:22.664Z",
-  "lastEmailSentAt": "2026-10-03T11:23:39.379Z",
-  "nextEmailDueAt": "2026-10-10T11:23:39.379Z",
+  "generatedAt": "2026-10-06T13:06:47.118Z",
+  "lastEmailSentAt": "2026-10-06T13:06:47.117Z",
+  "nextEmailDueAt": "2026-10-13T13:06:47.117Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,19 +9,19 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 10,
-    "attivi": 25,
+    "nuovi": 11,
+    "attivi": 26,
     "inScadenza": 3,
     "scaduti": 40,
-    "totale": 65,
+    "totale": 66,
     "nostri": 4,
-    "rete": 21,
-    "fuoriTema": 168
+    "rete": 22,
+    "fuoriTema": 166
   },
   "perFonte": {
     "EU Funding & Tenders": {
-      "totale": 23,
-      "attivi": 12
+      "totale": 24,
+      "attivi": 13
     },
     "Interreg Grecia-Italia": {
       "totale": 1,
@@ -73,12 +73,12 @@
     }
   },
   "perAmbito": {
-    "europeo": 13,
+    "europeo": 14,
     "regionale": 9,
     "nazionale": 3
   },
   "perPartecipazione": {
-    "partenariato": 14,
+    "partenariato": 15,
     "singola": 11
   },
   "bandi": [
@@ -158,6 +158,10 @@
         {
           "fonte": "Unical – Bandi europei",
           "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/24572-interreg-vi-a-greece-italy-programme-8th-call-for-small-scale-project-proposals-part-a-part-b/"
+        },
+        {
+          "fonte": "Interreg Grecia-Italia",
+          "link": "https://www.greece-italy.eu/new-deadline-for-the-8th-call-part-a-part-b-19-october-2026/"
         }
       ],
       "date": "2026-07-29T00:00:00.000Z",
@@ -719,6 +723,62 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
+    },
+    {
+      "attivo": true,
+      "id": "eu-HORIZON-NEB-2027-01-REGEN-04",
+      "title": "Enabling environments for a sustainable and circular construction sector",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-REGEN-04",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Missioni e New European Bauhaus",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "Consorzio Horizon di almeno 3 soggetti indipendenti di 3 Paesi UE/associati: serve un capofila esperto (centro di ricerca o cluster edilizia), un produttore di materiali da riciclo come Human Maple, u",
+      "ancheSu": null,
+      "date": "2027-05-05T00:00:00.000Z",
+      "deadline": "2027-12-01T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "In arrivo",
+      "isOpen": true,
+      "relevanceScore": 7,
+      "relevanceKeywords": [
+        "circular",
+        "environment",
+        "sustainable"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione a Human Maple",
+      "motivi": [
+        "edilizia circolare e CAM"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione a Human Maple",
+        "partecipazione": "partenariato",
+        "partner": "Consorzio Horizon di almeno 3 soggetti indipendenti di 3 Paesi UE/associati: serve un capofila esperto (centro di ricerca o cluster edilizia), un produttore di materiali da riciclo come Human Maple, u",
+        "nota": "Bando Horizon New European Bauhaus sull'edilizia circolare: non siamo beneficiari, ma possiamo portare Human Maple come fornitore di pannelli da acetato di cellulosa conformi ai CAM e alcuni Comuni calabresi come sito pilota, guadagnando sui contratti che ne derivano.",
+        "perche": [
+          "Il tema (settore delle costruzioni circolare e sostenibile, CAM, materiali da riciclo) coincide con l'offerta di Human Maple: pannelli termoisolanti e fonoassorbenti ottenuti da mozziconi di sigaretta.",
+          "La società non ha struttura, personale né bilanci e non può essere partner di un progetto Horizon: il valore sta nel portare Human Maple nel consorzio e i Comuni calabresi come demonstrator, incassando la provvigione sui contratti di fornitura che nascono dal progetto.",
+          "Il contratto quadro di R&S fra Human Maple e Unical rende credibile una coppia impresa-università italiana dentro un consorzio europeo.",
+          "Scadenza dicembre 2027 e bando ancora 'in arrivo': opportunità reale ma lontana, da coltivare senza distogliere risorse dai bandi italiani a breve termine."
+        ],
+        "come": [
+          "Verificare alla pubblicazione del work programme NEB 2027 il testo definitivo del topic (attività ammesse, TRL richiesto, ruolo dei siti dimostrativi) e monitorare i brokerage event NEB e i partner search del portale Funding & Tenders.",
+          "Firmare con Human Maple accordo provvigionale e patto di non elusione prima di presentarla a qualsiasi coordinatore o Comune.",
+          "Mappare 2-3 Comuni calabresi (area Rende-Cosenza) con edifici pubblici da riqualificare disponibili a una lettera di supporto come sito pilota, ricordando che il fornitore si propone e non si promette, nel rispetto delle regole sugli appalti.",
+          "Cercare un capofila già strutturato (cluster edilizia, centro di ricerca o università europea) e proporre il pacchetto Human Maple + Unical + territorio pilota calabrese, senza candidare la società come partner del consorzio."
+        ],
+        "aggiornato": "2026-10-06T13:06:43.280Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-10-06T13:06:47.107Z"
     },
     {
       "attivo": true,
@@ -2141,6 +2201,10 @@
       "partecipazione": "singola",
       "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
       "ancheSu": [
+        {
+          "fonte": "Regione Calabria",
+          "link": "https://www.regione.calabria.it/bandi/avviso-pubblico-per-manifestazione-di-interesse-rivolta-agli-enti-locali-della-regione-calabria-titolari-di-progetti-s-a-i-da-inserire-nella-proposta-progettuale-interregionale-fami-2021-2027/"
+        },
         {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
