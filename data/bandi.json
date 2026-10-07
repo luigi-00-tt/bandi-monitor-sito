@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T13:06:47.118Z",
+  "generatedAt": "2026-10-07T13:00:17.011Z",
   "lastEmailSentAt": "2026-10-06T13:06:47.117Z",
   "nextEmailDueAt": "2026-10-13T13:06:47.117Z",
   "settings": {
@@ -16,7 +16,7 @@
     "totale": 66,
     "nostri": 4,
     "rete": 22,
-    "fuoriTema": 166
+    "fuoriTema": 165
   },
   "perFonte": {
     "EU Funding & Tenders": {
@@ -512,10 +512,7 @@
         "partner": "consorzio Horizon (almeno 3 enti di 3 Paesi UE) legato alla CCRI",
         "aggiornato": "2026-09-25T00:00:00.000Z"
       },
-      "fasi": [
-        "2027-04-08T00:00:00.000Z",
-        "2027-09-16T00:00:00.000Z"
-      ],
+      "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
     },
     {
@@ -568,10 +565,7 @@
         "partner": "consorzio Horizon (almeno 3 enti di 3 Paesi UE) con 2 città dimostratrici e 3 replicatrici",
         "aggiornato": "2026-09-25T00:00:00.000Z"
       },
-      "fasi": [
-        "2027-04-08T00:00:00.000Z",
-        "2027-09-16T00:00:00.000Z"
-      ],
+      "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
     },
     {
@@ -726,62 +720,6 @@
     },
     {
       "attivo": true,
-      "id": "eu-HORIZON-NEB-2027-01-REGEN-04",
-      "title": "Enabling environments for a sustainable and circular construction sector",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-REGEN-04",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Missioni e New European Bauhaus",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "Consorzio Horizon di almeno 3 soggetti indipendenti di 3 Paesi UE/associati: serve un capofila esperto (centro di ricerca o cluster edilizia), un produttore di materiali da riciclo come Human Maple, u",
-      "ancheSu": null,
-      "date": "2027-05-05T00:00:00.000Z",
-      "deadline": "2027-12-01T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "In arrivo",
-      "isOpen": true,
-      "relevanceScore": 7,
-      "relevanceKeywords": [
-        "circular",
-        "environment",
-        "sustainable"
-      ],
-      "classe": "rete",
-      "ruolo": "segnalazione a Human Maple",
-      "motivi": [
-        "edilizia circolare e CAM"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "B",
-        "ruolo": "segnalazione a Human Maple",
-        "partecipazione": "partenariato",
-        "partner": "Consorzio Horizon di almeno 3 soggetti indipendenti di 3 Paesi UE/associati: serve un capofila esperto (centro di ricerca o cluster edilizia), un produttore di materiali da riciclo come Human Maple, u",
-        "nota": "Bando Horizon New European Bauhaus sull'edilizia circolare: non siamo beneficiari, ma possiamo portare Human Maple come fornitore di pannelli da acetato di cellulosa conformi ai CAM e alcuni Comuni calabresi come sito pilota, guadagnando sui contratti che ne derivano.",
-        "perche": [
-          "Il tema (settore delle costruzioni circolare e sostenibile, CAM, materiali da riciclo) coincide con l'offerta di Human Maple: pannelli termoisolanti e fonoassorbenti ottenuti da mozziconi di sigaretta.",
-          "La società non ha struttura, personale né bilanci e non può essere partner di un progetto Horizon: il valore sta nel portare Human Maple nel consorzio e i Comuni calabresi come demonstrator, incassando la provvigione sui contratti di fornitura che nascono dal progetto.",
-          "Il contratto quadro di R&S fra Human Maple e Unical rende credibile una coppia impresa-università italiana dentro un consorzio europeo.",
-          "Scadenza dicembre 2027 e bando ancora 'in arrivo': opportunità reale ma lontana, da coltivare senza distogliere risorse dai bandi italiani a breve termine."
-        ],
-        "come": [
-          "Verificare alla pubblicazione del work programme NEB 2027 il testo definitivo del topic (attività ammesse, TRL richiesto, ruolo dei siti dimostrativi) e monitorare i brokerage event NEB e i partner search del portale Funding & Tenders.",
-          "Firmare con Human Maple accordo provvigionale e patto di non elusione prima di presentarla a qualsiasi coordinatore o Comune.",
-          "Mappare 2-3 Comuni calabresi (area Rende-Cosenza) con edifici pubblici da riqualificare disponibili a una lettera di supporto come sito pilota, ricordando che il fornitore si propone e non si promette, nel rispetto delle regole sugli appalti.",
-          "Cercare un capofila già strutturato (cluster edilizia, centro di ricerca o università europea) e proporre il pacchetto Human Maple + Unical + territorio pilota calabrese, senza candidare la società come partner del consorzio."
-        ],
-        "aggiornato": "2026-10-06T13:06:43.280Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-10-06T13:06:47.107Z"
-    },
-    {
-      "attivo": true,
       "id": "eu-HORIZON-NEB-2027-01-REGEN-02",
       "title": "Sustainable, beautiful and healthy construction and renovation sites",
       "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-REGEN-02",
@@ -923,6 +861,62 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
+    },
+    {
+      "attivo": true,
+      "id": "eu-HORIZON-NEB-2027-01-REGEN-04",
+      "title": "Enabling environments for a sustainable and circular construction sector",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-REGEN-04",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Missioni e New European Bauhaus",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "Consorzio Horizon di almeno 3 soggetti indipendenti di 3 Paesi UE/associati: serve un capofila esperto (centro di ricerca o cluster edilizia), un produttore di materiali da riciclo come Human Maple, u",
+      "ancheSu": null,
+      "date": "2027-05-05T00:00:00.000Z",
+      "deadline": "2027-12-01T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "In arrivo",
+      "isOpen": true,
+      "relevanceScore": 7,
+      "relevanceKeywords": [
+        "circular",
+        "environment",
+        "sustainable"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione a Human Maple",
+      "motivi": [
+        "edilizia circolare e CAM"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione a Human Maple",
+        "partecipazione": "partenariato",
+        "partner": "Consorzio Horizon di almeno 3 soggetti indipendenti di 3 Paesi UE/associati: serve un capofila esperto (centro di ricerca o cluster edilizia), un produttore di materiali da riciclo come Human Maple, u",
+        "nota": "Bando Horizon New European Bauhaus sull'edilizia circolare: non siamo beneficiari, ma possiamo portare Human Maple come fornitore di pannelli da acetato di cellulosa conformi ai CAM e alcuni Comuni calabresi come sito pilota, guadagnando sui contratti che ne derivano.",
+        "perche": [
+          "Il tema (settore delle costruzioni circolare e sostenibile, CAM, materiali da riciclo) coincide con l'offerta di Human Maple: pannelli termoisolanti e fonoassorbenti ottenuti da mozziconi di sigaretta.",
+          "La società non ha struttura, personale né bilanci e non può essere partner di un progetto Horizon: il valore sta nel portare Human Maple nel consorzio e i Comuni calabresi come demonstrator, incassando la provvigione sui contratti di fornitura che nascono dal progetto.",
+          "Il contratto quadro di R&S fra Human Maple e Unical rende credibile una coppia impresa-università italiana dentro un consorzio europeo.",
+          "Scadenza dicembre 2027 e bando ancora 'in arrivo': opportunità reale ma lontana, da coltivare senza distogliere risorse dai bandi italiani a breve termine."
+        ],
+        "come": [
+          "Verificare alla pubblicazione del work programme NEB 2027 il testo definitivo del topic (attività ammesse, TRL richiesto, ruolo dei siti dimostrativi) e monitorare i brokerage event NEB e i partner search del portale Funding & Tenders.",
+          "Firmare con Human Maple accordo provvigionale e patto di non elusione prima di presentarla a qualsiasi coordinatore o Comune.",
+          "Mappare 2-3 Comuni calabresi (area Rende-Cosenza) con edifici pubblici da riqualificare disponibili a una lettera di supporto come sito pilota, ricordando che il fornitore si propone e non si promette, nel rispetto delle regole sugli appalti.",
+          "Cercare un capofila già strutturato (cluster edilizia, centro di ricerca o università europea) e proporre il pacchetto Human Maple + Unical + territorio pilota calabrese, senza candidare la società come partner del consorzio."
+        ],
+        "aggiornato": "2026-10-06T13:06:43.280Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-10-06T13:06:47.107Z"
     },
     {
       "attivo": true,
