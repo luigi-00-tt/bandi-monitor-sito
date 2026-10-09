@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T13:08:28.618Z",
+  "generatedAt": "2026-10-09T12:55:11.427Z",
   "lastEmailSentAt": "2026-10-06T13:06:47.117Z",
   "nextEmailDueAt": "2026-10-13T13:06:47.117Z",
   "settings": {
@@ -16,7 +16,7 @@
     "totale": 66,
     "nostri": 4,
     "rete": 21,
-    "fuoriTema": 170
+    "fuoriTema": 172
   },
   "perFonte": {
     "Interreg Grecia-Italia": {
@@ -105,10 +105,6 @@
       "partecipazione": "partenariato",
       "partnerRichiesti": "un Comune calabrese capofila e un ente pubblico greco; noi non possiamo essere beneficiari",
       "ancheSu": [
-        {
-          "fonte": "Unical – Bandi europei",
-          "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/24572-interreg-vi-a-greece-italy-programme-8th-call-for-small-scale-project-proposals-part-a-part-b/"
-        },
         {
           "fonte": "Interreg Grecia-Italia",
           "link": "https://www.greece-italy.eu/new-deadline-for-the-8th-call-part-a-part-b-19-october-2026/"
