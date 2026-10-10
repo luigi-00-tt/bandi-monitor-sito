@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:55:11.427Z",
+  "generatedAt": "2026-10-10T12:12:53.844Z",
   "lastEmailSentAt": "2026-10-06T13:06:47.117Z",
   "nextEmailDueAt": "2026-10-13T13:06:47.117Z",
   "settings": {
@@ -10,19 +10,15 @@
   },
   "counts": {
     "nuovi": 11,
-    "attivi": 25,
-    "inScadenza": 2,
-    "scaduti": 41,
+    "attivi": 24,
+    "inScadenza": 1,
+    "scaduti": 42,
     "totale": 66,
     "nostri": 4,
-    "rete": 21,
+    "rete": 20,
     "fuoriTema": 172
   },
   "perFonte": {
-    "Interreg Grecia-Italia": {
-      "totale": 1,
-      "attivi": 1
-    },
     "EU Funding & Tenders": {
       "totale": 24,
       "attivi": 12
@@ -59,6 +55,10 @@
       "totale": 2,
       "attivi": 1
     },
+    "Interreg Grecia-Italia": {
+      "totale": 1,
+      "attivi": 0
+    },
     "Comune di Cosenza": {
       "totale": 1,
       "attivi": 0
@@ -73,78 +73,15 @@
     }
   },
   "perAmbito": {
-    "europeo": 13,
+    "europeo": 12,
     "regionale": 9,
     "nazionale": 3
   },
   "perPartecipazione": {
-    "partenariato": 14,
+    "partenariato": 13,
     "singola": 11
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "manuale-interreg-grecia-italia-8-call-part-a-2026",
-      "title": "Interreg Grecia-Italia – 8th call for Small Scale Projects, Part A: economia circolare (SO 2.6) e turismo sostenibile (SO 4.6)",
-      "link": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/",
-      "source": "Interreg Grecia-Italia",
-      "sourceUrl": "https://www.greece-italy.eu/calls/",
-      "documenti": [
-        {
-          "label": "Pagina della call (Part A)",
-          "url": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/"
-        },
-        {
-          "label": "Part B della stessa call (capacità istituzionale, ISO 6.1 e 6.4)",
-          "url": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-b-has-been-launched/"
-        }
-      ],
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Interreg",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "un Comune calabrese capofila e un ente pubblico greco; noi non possiamo essere beneficiari",
-      "ancheSu": [
-        {
-          "fonte": "Interreg Grecia-Italia",
-          "link": "https://www.greece-italy.eu/new-deadline-for-the-8th-call-part-a-part-b-19-october-2026/"
-        }
-      ],
-      "date": "2026-07-29T00:00:00.000Z",
-      "deadline": "2026-10-09T12:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "rete",
-      "ruolo": "intermediazione con i Comuni",
-      "motivi": [
-        "settore fuori dal nostro campo"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "B",
-        "ruolo": "intermediazione con i Comuni",
-        "nota": "Le imprese non sono ammesse: il beneficiario è il Comune. Proprio per questo è una leva nel nostro stile: se un Comune vince, i soldi si spendono comprando servizi di economia circolare, e i fornitori li portiamo noi. Scade il 9/10/2026: tempi molto stretti.",
-        "perche": [
-          "Beneficiari: solo enti pubblici, organismi di diritto pubblico, non profit e GECT. Una SRL non può esserci.",
-          "L'obiettivo 2.6 è l'economia circolare, e la Calabria è area ammissibile: un Comune può finanziarci raccolta, RFID/TARIP, recupero dei mozziconi.",
-          "Le forniture del progetto si comprano con gara o affidamento: è lì che entrano i nostri fornitori."
-        ],
-        "come": [
-          "Sentire subito i 2-3 Comuni con cui c'è già un rapporto: con 2 settimane serve un Comune che abbia già un'idea e un partner greco.",
-          "Attenzione: le regole degli appalti pubblici vietano di concordare in anticipo il fornitore. Il nostro ruolo è far conoscere al Comune soluzioni e fornitori; la provvigione la paga il fornitore se vince la gara.",
-          "Se non si fa in tempo, preparare la stessa proposta per la call successiva."
-        ],
-        "partecipazione": "partenariato",
-        "partner": "un Comune calabrese capofila e un ente pubblico greco; noi non possiamo essere beneficiari",
-        "aggiornato": "2026-09-25T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-07T10:02:36.429Z"
-    },
     {
       "attivo": true,
       "id": "eu-SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
@@ -1394,6 +1331,69 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": false,
+      "id": "manuale-interreg-grecia-italia-8-call-part-a-2026",
+      "title": "Interreg Grecia-Italia – 8th call for Small Scale Projects, Part A: economia circolare (SO 2.6) e turismo sostenibile (SO 4.6)",
+      "link": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/",
+      "source": "Interreg Grecia-Italia",
+      "sourceUrl": "https://www.greece-italy.eu/calls/",
+      "documenti": [
+        {
+          "label": "Pagina della call (Part A)",
+          "url": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-a-has-been-launched/"
+        },
+        {
+          "label": "Part B della stessa call (capacità istituzionale, ISO 6.1 e 6.4)",
+          "url": "https://www.greece-italy.eu/small-scale-projects-the-8th-call-part-b-has-been-launched/"
+        }
+      ],
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Interreg",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "un Comune calabrese capofila e un ente pubblico greco; noi non possiamo essere beneficiari",
+      "ancheSu": [
+        {
+          "fonte": "Interreg Grecia-Italia",
+          "link": "https://www.greece-italy.eu/new-deadline-for-the-8th-call-part-a-part-b-19-october-2026/"
+        }
+      ],
+      "date": "2026-07-29T00:00:00.000Z",
+      "deadline": "2026-10-09T12:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "rete",
+      "ruolo": "intermediazione con i Comuni",
+      "motivi": [
+        "settore fuori dal nostro campo"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "intermediazione con i Comuni",
+        "nota": "Le imprese non sono ammesse: il beneficiario è il Comune. Proprio per questo è una leva nel nostro stile: se un Comune vince, i soldi si spendono comprando servizi di economia circolare, e i fornitori li portiamo noi. Scade il 9/10/2026: tempi molto stretti.",
+        "perche": [
+          "Beneficiari: solo enti pubblici, organismi di diritto pubblico, non profit e GECT. Una SRL non può esserci.",
+          "L'obiettivo 2.6 è l'economia circolare, e la Calabria è area ammissibile: un Comune può finanziarci raccolta, RFID/TARIP, recupero dei mozziconi.",
+          "Le forniture del progetto si comprano con gara o affidamento: è lì che entrano i nostri fornitori."
+        ],
+        "come": [
+          "Sentire subito i 2-3 Comuni con cui c'è già un rapporto: con 2 settimane serve un Comune che abbia già un'idea e un partner greco.",
+          "Attenzione: le regole degli appalti pubblici vietano di concordare in anticipo il fornitore. Il nostro ruolo è far conoscere al Comune soluzioni e fornitori; la provvigione la paga il fornitore se vince la gara.",
+          "Se non si fa in tempo, preparare la stessa proposta per la call successiva."
+        ],
+        "partecipazione": "partenariato",
+        "partner": "un Comune calabrese capofila e un ente pubblico greco; noi non possiamo essere beneficiari",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-07T10:02:36.429Z"
     },
     {
       "attivo": false,
