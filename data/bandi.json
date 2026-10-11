@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:12:53.844Z",
+  "generatedAt": "2026-10-11T12:26:25.812Z",
   "lastEmailSentAt": "2026-10-06T13:06:47.117Z",
   "nextEmailDueAt": "2026-10-13T13:06:47.117Z",
   "settings": {
@@ -16,7 +16,7 @@
     "totale": 66,
     "nostri": 4,
     "rete": 20,
-    "fuoriTema": 172
+    "fuoriTema": 173
   },
   "perFonte": {
     "EU Funding & Tenders": {
@@ -2200,10 +2200,6 @@
         {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
-        },
-        {
-          "fonte": "Interreg Grecia-Italia",
-          "link": "https://www.greece-italy.eu/heritagetex-the-call-for-local-textile-companies-has-been-reopened/"
         },
         {
           "fonte": "CNA Calabria",
