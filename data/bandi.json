@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T14:56:56.175Z",
-  "lastEmailSentAt": "2026-10-06T13:06:47.117Z",
-  "nextEmailDueAt": "2026-10-13T13:06:47.117Z",
+  "generatedAt": "2026-10-13T13:55:48.908Z",
+  "lastEmailSentAt": "2026-10-13T13:55:48.907Z",
+  "nextEmailDueAt": "2026-10-20T13:55:48.907Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,12 +9,12 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 11,
-    "attivi": 24,
+    "nuovi": 12,
+    "attivi": 25,
     "inScadenza": 1,
     "scaduti": 41,
-    "totale": 65,
-    "nostri": 4,
+    "totale": 66,
+    "nostri": 5,
     "rete": 20,
     "fuoriTema": 170
   },
@@ -32,8 +32,8 @@
       "attivi": 1
     },
     "Confcommercio Cosenza": {
-      "totale": 4,
-      "attivi": 2
+      "totale": 5,
+      "attivi": 3
     },
     "Federterziario Calabria": {
       "totale": 8,
@@ -74,12 +74,13 @@
   },
   "perAmbito": {
     "europeo": 12,
-    "regionale": 9,
+    "regionale": 10,
     "nazionale": 3
   },
   "perPartecipazione": {
     "partenariato": 13,
-    "singola": 11
+    "singola": 11,
+    "daVerificare": 1
   },
   "bandi": [
     {
@@ -267,7 +268,7 @@
       "date": "2026-10-13T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "In arrivo",
+      "statoLabel": "Aperto",
       "isOpen": true,
       "relevanceScore": 4,
       "relevanceKeywords": [
@@ -315,7 +316,7 @@
       "date": "2026-10-13T00:00:00.000Z",
       "deadline": "2027-02-02T00:00:00.000Z",
       "aSportello": false,
-      "statoLabel": "In arrivo",
+      "statoLabel": "Aperto",
       "isOpen": true,
       "relevanceScore": 4,
       "relevanceKeywords": [
@@ -806,6 +807,64 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-10-06T13:06:47.107Z"
+    },
+    {
+      "attivo": true,
+      "id": "confcommcs-229829",
+      "title": "Bandi MIMIT 2026: 32 milioni per le PMI",
+      "link": "https://confcommerciocosenza.it/bandi-mimit-2026-32-milioni-per-le-pmi/",
+      "source": "Confcommercio Cosenza",
+      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "daVerificare",
+      "partnerRichiesti": "Da verificare: il titolo non indica se si tratta di domanda singola d'impresa (il caso tipico degli aiuti MIMIT alle PMI) o di misure che richiedono reti/filiere; va letto il decreto attuativo per cia",
+      "ancheSu": null,
+      "date": "2026-10-13T10:05:26.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 8,
+      "relevanceKeywords": [
+        "innovazione",
+        "pmi",
+        "piccole e medie imprese",
+        "imprese"
+      ],
+      "classe": "nostro",
+      "ruolo": "intermediazione con provvigione o beneficiaria, da definire",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "investimenti e innovazione d'impresa"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "B",
+        "ruolo": "intermediazione con provvigione o beneficiaria, da definire",
+        "partecipazione": "daVerificare",
+        "partner": "Da verificare: il titolo non indica se si tratta di domanda singola d'impresa (il caso tipico degli aiuti MIMIT alle PMI) o di misure che richiedono reti/filiere; va letto il decreto attuativo per cia",
+        "nota": "Pacchetto di misure MIMIT 2026 per le PMI segnalato da Confcommercio Cosenza: dai dati disponibili non si capisce quali linee lo compongano. Interessante su due fronti — come possibile contributo di avvio per noi e, più probabilmente, come leva per far investire PMI calabresi in soluzioni dei nostri fornitori — ma serve leggere i decreti attuativi.",
+        "perche": [
+          "Il titolo e i segnali (aiuti a PMI e nuove imprese, investimenti e innovazione) indicano misure che finanziano acquisti delle imprese: è esattamente il contesto in cui una PMI calabrese può comprare efficienza energetica, soluzioni Iotilize o pannelli Human Maple conformi ai CAM, generando contratti su cui incassiamo provvigione.",
+          "Se una delle linee è dedicata a nuove imprese e copre spese di avvio di un'attività di servizi (computer, software, sito, coworking, consulenze), potremmo candidarci come beneficiari diretti.",
+          "La società è ancora in costituzione e senza bilanci né dipendenti: la gran parte delle misure MIMIT per PMI richiede impresa attiva e iscritta al Registro Imprese, quindi come beneficiaria diretta l'ipotesi è fragile.",
+          "Il dato è una notizia aggregata (32 milioni, più bandi): senza i decreti attuativi non si conoscono dotazioni per linea, spese ammissibili, scadenze e territori."
+        ],
+        "come": [
+          "Recuperare dalla pagina Confcommercio Cosenza l'elenco esatto delle misure MIMIT citate e scaricare i decreti/avvisi: per ciascuna annotare beneficiari ammessi, anzianità minima d'impresa, spese ammissibili e finestra di presentazione (verificare che non sia una scheda già chiusa).",
+          "Per le linee che ammettono imprese appena costituite, verificare subito se una SRLS iscritta nel 2026 rientra, con quale termine e quali documenti (visura, DURC, dichiarazioni de minimis) e se sono escluse spese legali, commercialista e costituzione.",
+          "Per le linee di investimento/innovazione, costruire una short list di PMI clienti nel Cosentino e in Calabria e abbinare a ciascuna il fornitore del catalogo (efficienza energetica, Human Maple, Junker, Iotilize), usando il bando come leva commerciale.",
+          "Prima di aprire i contatti far firmare ai fornitori accordo provvigionale e patto di non elusione, e tenere traccia scritta delle segnalazioni fatte a ogni impresa."
+        ],
+        "aggiornato": "2026-10-13T13:55:46.387Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-10-13T13:55:48.896Z"
     },
     {
       "attivo": true,
