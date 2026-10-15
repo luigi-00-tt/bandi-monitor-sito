@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T11:34:16.308Z",
-  "lastEmailSentAt": "2026-10-13T13:55:48.907Z",
-  "nextEmailDueAt": "2026-10-20T13:55:48.907Z",
+  "generatedAt": "2026-10-15T11:09:43.475Z",
+  "lastEmailSentAt": "2026-10-15T11:09:43.474Z",
+  "nextEmailDueAt": "2026-10-22T11:09:43.474Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,26 +9,30 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 12,
+    "nuovi": 13,
     "attivi": 25,
-    "inScadenza": 1,
-    "scaduti": 41,
-    "totale": 66,
+    "inScadenza": 0,
+    "scaduti": 42,
+    "totale": 67,
     "nostri": 5,
-    "rete": 20,
-    "fuoriTema": 171
+    "rete": 19,
+    "fuoriTema": 169
   },
   "perFonte": {
-    "EU Funding & Tenders": {
-      "totale": 24,
-      "attivi": 12
-    },
     "Calabria Europa": {
       "totale": 11,
       "attivi": 2
     },
     "Fincalabra": {
       "totale": 6,
+      "attivi": 1
+    },
+    "EU Funding & Tenders": {
+      "totale": 24,
+      "attivi": 11
+    },
+    "Regione Calabria": {
+      "totale": 1,
       "attivi": 1
     },
     "Confcommercio Cosenza": {
@@ -73,64 +77,16 @@
     }
   },
   "perAmbito": {
-    "europeo": 12,
-    "regionale": 10,
+    "regionale": 11,
+    "europeo": 11,
     "nazionale": 3
   },
   "perPartecipazione": {
-    "partenariato": 13,
-    "singola": 11,
+    "partenariato": 12,
+    "singola": 12,
     "daVerificare": 1
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "eu-SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
-      "title": "EU support to Stakeholders to improve measurement of food waste and help implement food waste prevention in their operations and organisation - 2026-2027",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Altri programmi europei",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "consorzio di soggetti della filiera alimentare",
-      "ancheSu": null,
-      "date": "2026-06-16T00:00:00.000Z",
-      "deadline": "2026-10-15T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "Aperto",
-      "isOpen": true,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "waste"
-      ],
-      "classe": "rete",
-      "ruolo": "segnalazione alla rete",
-      "motivi": [
-        "spreco alimentare"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "C",
-        "ruolo": "segnalazione alla rete",
-        "nota": "Spreco alimentare, scadenza 15/10/2026: fuori dalle nostre filiere e senza un fornitore mappato su cui chiudere contratti. Da segnalare solo se qualcuno della rete lavora sull'antispreco.",
-        "perche": [
-          "Tema e beneficiari lontani dal catalogo attuale.",
-          "Troppo vicino per costruire da zero un'intermediazione."
-        ],
-        "come": [
-          "Segnalarlo a eventuali contatti antispreco o alle mense scolastiche dei Comuni, senza investirci tempo."
-        ],
-        "partecipazione": "partenariato",
-        "partner": "consorzio di soggetti della filiera alimentare",
-        "aggiornato": "2026-09-25T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-07-28T11:33:36.937Z"
-    },
     {
       "attivo": true,
       "id": "manuale-mera-net-call-2026-calabria",
@@ -810,6 +766,57 @@
     },
     {
       "attivo": true,
+      "id": "rcal-comuni-di-bova-marina-e-brancaleone-intervento-integrato-per-il-completamento-delle-opere-di-difesa-costiera-e-ricostruzione-del-litorale",
+      "title": "Comuni di BOVA MARINA E BRANCALEONE - Intervento integrato per il completamento delle opere di difesa costiera e ricostruzione del litorale",
+      "link": "https://www.regione.calabria.it/bandi/comuni-di-bova-marina-e-brancaleone-intervento-integrato-per-il-completamento-delle-opere-di-difesa-costiera-e-ricostruzione-del-litorale/",
+      "source": "Regione Calabria",
+      "sourceUrl": "https://www.regione.calabria.it/bandi-e-avvisi-di-gara/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno rilevante: è un finanziamento diretto ai due Comuni per opere pubbliche marittime, affidate poi con appalto di lavori.",
+      "ancheSu": null,
+      "date": "2026-10-15T11:08:33.357Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "fuori",
+      "ruolo": "partner tecnologico",
+      "motivi": [
+        "edilizia circolare e CAM",
+        "enti pubblici e territorio"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "no",
+        "priorita": "C",
+        "ruolo": null,
+        "partecipazione": "singola",
+        "partner": "Nessuno rilevante: è un finanziamento diretto ai due Comuni per opere pubbliche marittime, affidate poi con appalto di lavori.",
+        "nota": "Finanziamento a Bova Marina e Brancaleone per opere di difesa costiera e ripascimento del litorale: lavori marittimi che non generano alcun contratto per i fornitori del catalogo.",
+        "perche": [
+          "Si tratta di opere pubbliche di ingegneria costiera (scogliere, pennelli, ripascimento): nessun acquisto di pannelli isolanti, contenitori RFID, piattaforme TARIP o servizi di raccolta differenziata.",
+          "Il segnale 'edilizia circolare e CAM' è un falso positivo: i CAM delle opere marittime riguardano materiali lapidei e sabbie, non l'isolamento termoacustico di Human Maple.",
+          "Beneficiari sono due Comuni della fascia jonica reggina, fuori dal bacino di relazione consolidato (Cosenza-Rende) e senza un bisogno intercettabile dal catalogo.",
+          "La società non è impresa di costruzioni e non può essere né beneficiaria né esecutrice dei lavori."
+        ],
+        "come": [
+          "Archiviare il bando e tarare il filtro automatico per escludere opere marittime e idrauliche, che generano solo falsi positivi su 'CAM' ed 'enti pubblici'.",
+          "Eventualmente annotare i due Comuni nell'anagrafica contatti per proporre, in altra sede, i bandi su raccolta differenziata, TARIP e efficienza energetica degli edifici comunali."
+        ],
+        "aggiornato": "2026-10-15T11:09:39.640Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-10-15T11:09:43.465Z"
+    },
+    {
+      "attivo": true,
       "id": "confcommcs-229829",
       "title": "Bandi MIMIT 2026: 32 milioni per le PMI",
       "link": "https://confcommerciocosenza.it/bandi-mimit-2026-32-milioni-per-le-pmi/",
@@ -1390,6 +1397,54 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": false,
+      "id": "eu-SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
+      "title": "EU support to Stakeholders to improve measurement of food waste and help implement food waste prevention in their operations and organisation - 2026-2027",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Altri programmi europei",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "consorzio di soggetti della filiera alimentare",
+      "ancheSu": null,
+      "date": "2026-06-16T00:00:00.000Z",
+      "deadline": "2026-10-15T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Termine scaduto",
+      "isOpen": false,
+      "relevanceScore": 3,
+      "relevanceKeywords": [
+        "waste"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete",
+      "motivi": [
+        "spreco alimentare"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "C",
+        "ruolo": "segnalazione alla rete",
+        "nota": "Spreco alimentare, scadenza 15/10/2026: fuori dalle nostre filiere e senza un fornitore mappato su cui chiudere contratti. Da segnalare solo se qualcuno della rete lavora sull'antispreco.",
+        "perche": [
+          "Tema e beneficiari lontani dal catalogo attuale.",
+          "Troppo vicino per costruire da zero un'intermediazione."
+        ],
+        "come": [
+          "Segnalarlo a eventuali contatti antispreco o alle mense scolastiche dei Comuni, senza investirci tempo."
+        ],
+        "partecipazione": "partenariato",
+        "partner": "consorzio di soggetti della filiera alimentare",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-28T11:33:36.937Z"
     },
     {
       "attivo": false,
