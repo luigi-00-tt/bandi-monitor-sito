@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:09:43.475Z",
+  "generatedAt": "2026-10-16T11:04:39.537Z",
   "lastEmailSentAt": "2026-10-15T11:09:43.474Z",
   "nextEmailDueAt": "2026-10-22T11:09:43.474Z",
   "settings": {
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 13,
-    "attivi": 25,
+    "nuovi": 12,
+    "attivi": 24,
     "inScadenza": 0,
     "scaduti": 42,
-    "totale": 67,
+    "totale": 66,
     "nostri": 5,
     "rete": 19,
-    "fuoriTema": 169
+    "fuoriTema": 170
   },
   "perFonte": {
     "Calabria Europa": {
@@ -30,10 +30,6 @@
     "EU Funding & Tenders": {
       "totale": 24,
       "attivi": 11
-    },
-    "Regione Calabria": {
-      "totale": 1,
-      "attivi": 1
     },
     "Confcommercio Cosenza": {
       "totale": 5,
@@ -77,13 +73,13 @@
     }
   },
   "perAmbito": {
-    "regionale": 11,
+    "regionale": 10,
     "europeo": 11,
     "nazionale": 3
   },
   "perPartecipazione": {
     "partenariato": 12,
-    "singola": 12,
+    "singola": 11,
     "daVerificare": 1
   },
   "bandi": [
@@ -763,57 +759,6 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-10-06T13:06:47.107Z"
-    },
-    {
-      "attivo": true,
-      "id": "rcal-comuni-di-bova-marina-e-brancaleone-intervento-integrato-per-il-completamento-delle-opere-di-difesa-costiera-e-ricostruzione-del-litorale",
-      "title": "Comuni di BOVA MARINA E BRANCALEONE - Intervento integrato per il completamento delle opere di difesa costiera e ricostruzione del litorale",
-      "link": "https://www.regione.calabria.it/bandi/comuni-di-bova-marina-e-brancaleone-intervento-integrato-per-il-completamento-delle-opere-di-difesa-costiera-e-ricostruzione-del-litorale/",
-      "source": "Regione Calabria",
-      "sourceUrl": "https://www.regione.calabria.it/bandi-e-avvisi-di-gara/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno rilevante: è un finanziamento diretto ai due Comuni per opere pubbliche marittime, affidate poi con appalto di lavori.",
-      "ancheSu": null,
-      "date": "2026-10-15T11:08:33.357Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "fuori",
-      "ruolo": "partner tecnologico",
-      "motivi": [
-        "edilizia circolare e CAM",
-        "enti pubblici e territorio"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "no",
-        "priorita": "C",
-        "ruolo": null,
-        "partecipazione": "singola",
-        "partner": "Nessuno rilevante: è un finanziamento diretto ai due Comuni per opere pubbliche marittime, affidate poi con appalto di lavori.",
-        "nota": "Finanziamento a Bova Marina e Brancaleone per opere di difesa costiera e ripascimento del litorale: lavori marittimi che non generano alcun contratto per i fornitori del catalogo.",
-        "perche": [
-          "Si tratta di opere pubbliche di ingegneria costiera (scogliere, pennelli, ripascimento): nessun acquisto di pannelli isolanti, contenitori RFID, piattaforme TARIP o servizi di raccolta differenziata.",
-          "Il segnale 'edilizia circolare e CAM' è un falso positivo: i CAM delle opere marittime riguardano materiali lapidei e sabbie, non l'isolamento termoacustico di Human Maple.",
-          "Beneficiari sono due Comuni della fascia jonica reggina, fuori dal bacino di relazione consolidato (Cosenza-Rende) e senza un bisogno intercettabile dal catalogo.",
-          "La società non è impresa di costruzioni e non può essere né beneficiaria né esecutrice dei lavori."
-        ],
-        "come": [
-          "Archiviare il bando e tarare il filtro automatico per escludere opere marittime e idrauliche, che generano solo falsi positivi su 'CAM' ed 'enti pubblici'.",
-          "Eventualmente annotare i due Comuni nell'anagrafica contatti per proporre, in altra sede, i bandi su raccolta differenziata, TARIP e efficienza energetica degli edifici comunali."
-        ],
-        "aggiornato": "2026-10-15T11:09:39.640Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-10-15T11:09:43.465Z"
     },
     {
       "attivo": true,
