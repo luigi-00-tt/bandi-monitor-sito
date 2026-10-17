@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T11:04:39.537Z",
+  "generatedAt": "2026-10-17T10:30:30.190Z",
   "lastEmailSentAt": "2026-10-15T11:09:43.474Z",
   "nextEmailDueAt": "2026-10-22T11:09:43.474Z",
   "settings": {
@@ -16,7 +16,7 @@
     "totale": 66,
     "nostri": 5,
     "rete": 19,
-    "fuoriTema": 170
+    "fuoriTema": 163
   },
   "perFonte": {
     "Calabria Europa": {
@@ -3175,6 +3175,10 @@
         {
           "fonte": "Unical – Bandi nazionali",
           "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/24559-mase-bando-per-progetti-di-ricerca-sviluppo-e-innovazione-tecnologica-sullarea-strategica-idrogeno-mission-innovation-20/"
+        },
+        {
+          "fonte": "Unical – Bandi nazionali",
+          "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/25261-mimit-accordi-per-linnovazione-a-sostegno-di-rilevanti-progetti-di-ricerca-e-sviluppo-del-settore-automotive/"
         }
       ],
       "date": "2026-09-03T10:57:00.966Z",
