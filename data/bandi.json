@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:46:16.363Z",
+  "generatedAt": "2026-10-20T11:18:02.975Z",
   "lastEmailSentAt": "2026-10-19T12:46:16.362Z",
   "nextEmailDueAt": "2026-10-26T12:46:16.362Z",
   "settings": {
@@ -9,11 +9,11 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 13,
-    "attivi": 25,
+    "nuovi": 12,
+    "attivi": 24,
     "inScadenza": 1,
     "scaduti": 42,
-    "totale": 67,
+    "totale": 66,
     "nostri": 5,
     "rete": 19,
     "fuoriTema": 162
@@ -30,10 +30,6 @@
     "EU Funding & Tenders": {
       "totale": 24,
       "attivi": 11
-    },
-    "Regione Calabria": {
-      "totale": 1,
-      "attivi": 1
     },
     "Confcommercio Cosenza": {
       "totale": 5,
@@ -77,14 +73,14 @@
     }
   },
   "perAmbito": {
-    "regionale": 11,
+    "regionale": 10,
     "europeo": 11,
     "nazionale": 3
   },
   "perPartecipazione": {
     "partenariato": 12,
     "singola": 11,
-    "daVerificare": 2
+    "daVerificare": 1
   },
   "bandi": [
     {
@@ -763,59 +759,6 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-10-06T13:06:47.107Z"
-    },
-    {
-      "attivo": true,
-      "id": "rcal-procedura-di-assoggettabilita-a-via-art-19-d-lgs-152-2006-e-ss-mm-ii-intervento-realizzazione-di-un-impianto-per-il-recupero-di-rifiuti-speciali-non-pericolosi-derivanti-da-attivita-di-co",
-      "title": "Procedura di assoggettabilità a Via – art. 19 D.Lgs 152/2006 e ss.mm.ii. Intervento: Realizzazione di un impianto per il recupero di rifiuti speciali non pericolosi derivanti da attività di costruzione e demolizione. Proponente: Mauro Francesco Costruzioni s.r.l. Località Gabelluccia - Comune di Rocca di Neto (KR)",
-      "link": "https://www.regione.calabria.it/bandi/procedura-di-assoggettabilita-a-via-art-19-d-lgs-152-2006-e-ss-mm-ii-intervento-realizzazione-di-un-impianto-per-il-recupero-di-rifiuti-speciali-non-pericolosi-derivanti-da-attivita-di-co/",
-      "source": "Regione Calabria",
-      "sourceUrl": "https://www.regione.calabria.it/bandi-e-avvisi-di-gara/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Nessuno: non è un bando, è un avviso di procedura ambientale e non prevede domande di partecipazione.",
-      "ancheSu": null,
-      "date": "2026-10-19T12:45:03.837Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 3,
-      "relevanceKeywords": [
-        "rifiuti"
-      ],
-      "classe": "fuori",
-      "ruolo": "partner tecnologico",
-      "motivi": [
-        "edilizia circolare e CAM",
-        "enti pubblici e territorio"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "no",
-        "priorita": "C",
-        "ruolo": null,
-        "partecipazione": "daVerificare",
-        "partner": "Nessuno: non è un bando, è un avviso di procedura ambientale e non prevede domande di partecipazione.",
-        "nota": "Non è un bando di finanziamento ma un avviso di verifica di assoggettabilità a VIA per un impianto privato di recupero inerti da costruzione e demolizione a Rocca di Neto (KR): non c'è alcun contributo da richiedere né un beneficiario che riceva fondi per acquistare dai nostri fornitori.",
-        "perche": [
-          "Si tratta di una pubblicazione obbligatoria di procedura autorizzativa ex art. 19 D.Lgs 152/2006, senza dotazione finanziaria, senza scadenza per domande e senza beneficiari di contributi.",
-          "La società non è né proponente né soggetto autorizzabile: non compra, non produce e non realizza impianti, quindi non ha alcun ruolo nella procedura.",
-          "Il filtro automatico ha agganciato solo le parole chiave 'rifiuti', 'recupero' ed 'edilizia', ma qui non nasce nessun contratto su cui maturare provvigione.",
-          "L'impianto tratta inerti da costruzione e demolizione, filiera diversa da quella dei fornitori mappati (mozziconi/acetato di cellulosa, RFID e TARIP, app differenziata, pannolini, efficienza energetica)."
-        ],
-        "come": [
-          "Archiviare come semplice intelligence commerciale: annotare Mauro Francesco Costruzioni s.r.l. nella lista delle imprese calabresi del settore rifiuti/edilizia da ricontattare quando usciranno veri bandi per imprese (efficienza energetica PMI, investimenti in economia circolare, CAM in edilizia).",
-          "Concentrare il tempo sugli avvisi con dotazione finanziaria rivolti a imprese e Comuni, dove il beneficiario riceve fondi per acquistare dai fornitori rappresentati."
-        ],
-        "aggiornato": "2026-10-19T12:46:14.752Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-10-19T12:46:16.349Z"
     },
     {
       "attivo": true,
