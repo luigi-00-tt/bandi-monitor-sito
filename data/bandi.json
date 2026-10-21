@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:18:02.975Z",
+  "generatedAt": "2026-10-21T11:34:09.063Z",
   "lastEmailSentAt": "2026-10-19T12:46:16.362Z",
   "nextEmailDueAt": "2026-10-26T12:46:16.362Z",
   "settings": {
@@ -9,12 +9,12 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 12,
-    "attivi": 24,
+    "nuovi": 9,
+    "attivi": 22,
     "inScadenza": 1,
-    "scaduti": 42,
+    "scaduti": 44,
     "totale": 66,
-    "nostri": 5,
+    "nostri": 3,
     "rete": 19,
     "fuoriTema": 162
   },
@@ -33,7 +33,7 @@
     },
     "Confcommercio Cosenza": {
       "totale": 5,
-      "attivi": 3
+      "attivi": 2
     },
     "Federterziario Calabria": {
       "totale": 8,
@@ -51,10 +51,6 @@
       "totale": 4,
       "attivi": 1
     },
-    "Confartigianato Cosenza": {
-      "totale": 2,
-      "attivi": 1
-    },
     "Interreg Grecia-Italia": {
       "totale": 1,
       "attivi": 0
@@ -67,19 +63,23 @@
       "totale": 1,
       "attivi": 0
     },
+    "Confartigianato Cosenza": {
+      "totale": 2,
+      "attivi": 0
+    },
     "Unindustria Calabria": {
       "totale": 1,
       "attivi": 0
     }
   },
   "perAmbito": {
-    "regionale": 10,
+    "regionale": 8,
     "europeo": 11,
     "nazionale": 3
   },
   "perPartecipazione": {
     "partenariato": 12,
-    "singola": 11,
+    "singola": 9,
     "daVerificare": 1
   },
   "bandi": [
@@ -1237,113 +1237,6 @@
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
-      "attivo": true,
-      "id": "confcommcs-229588",
-      "title": "Sviluppo competenze PMI: incentivi per formazione digitale e green",
-      "link": "https://confcommerciocosenza.it/sviluppo-competenze-pmi-incentivi-per-formazione-digitale-e-green/",
-      "source": "Confcommercio Cosenza",
-      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "nessuno",
-      "ancheSu": null,
-      "date": "2026-07-22T11:13:18.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 14,
-      "relevanceKeywords": [
-        "green",
-        "pmi",
-        "piccole e medie imprese",
-        "imprese",
-        "calabria",
-        "digital"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta (più avanti)",
-      "motivi": [
-        "aiuti a PMI e nuove imprese"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "beneficiaria diretta (più avanti)",
-        "nota": "Incentivo alla formazione digitale e green per le PMI: senza società costituita e senza dipendenti oggi non ci riguarda. Da tenere presente dopo la costituzione.",
-        "perche": [
-          "Finanzia la formazione del personale di PMI già attive: noi non siamo ancora iscritti e non abbiamo dipendenti.",
-          "Gli importi sono piccoli, e in genere non coprono le spese fisse che avremo (commercialista 300 €/mese, avvocato 3.000 €/anno)."
-        ],
-        "come": [
-          "Rivalutarlo dopo la costituzione, chiedendo a Confcommercio Cosenza se l'avviso sarà riaperto."
-        ],
-        "partecipazione": "singola",
-        "partner": "nessuno",
-        "aggiornato": "2026-09-25T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": true,
-      "id": "confartcs-9158",
-      "title": "INVESTO DIGITALE: AGEVOLAZIONI PER LA DIGITALIZZAZIONE DELLE PICCOLE IMPRESE",
-      "link": "https://www.confartigianatocosenza.it/2026/07/22/investo-digitale-agevolazioni-per-la-digitalizzazione-delle-piccole-imprese/",
-      "source": "Confartigianato Cosenza",
-      "sourceUrl": "https://www.confartigianatocosenza.it/categoria/bandi-e-finanziamenti/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "nessuno",
-      "ancheSu": null,
-      "date": "2026-07-22T10:41:46.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 7,
-      "relevanceKeywords": [
-        "imprese",
-        "digitalizzazione",
-        "digital",
-        "lavoro"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta (quando uscirà)",
-      "motivi": [
-        "aiuti a PMI e nuove imprese",
-        "digitalizzazione e competenze"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "B",
-        "ruolo": "beneficiaria diretta (quando uscirà)",
-        "nota": "NON È ANCORA UN BANDO: è una proposta presentata alla Camera il 9/07/2026, in attesa di entrare nella Legge di Bilancio. Se passa, finanzierebbe software, cloud, piattaforme, consulenza e formazione: quello che ci servirà per partire, e una leva per le piccole imprese clienti.",
-        "perche": [
-          "Verificato il 25/09/2026 sulla pagina di Confartigianato Cosenza: c'era solo un questionario di rilevazione (chiuso a inizio settembre), non un avviso con scadenza.",
-          "Spese previste: software gestionali, cloud, piattaforme digitali, IA, cybersecurity, e-commerce, consulenza e formazione. Non si parla di computer né di veicoli.",
-          "Beneficiari previsti: micro, piccole e medie imprese e studi professionali; non si sa ancora se servirà essere già iscritti."
-        ],
-        "come": [
-          "Seguire la Legge di Bilancio 2027 (dibattito in autunno): se la misura entra, uscirà l'avviso vero con importi e requisiti.",
-          "Chiamare Confartigianato Cosenza (0984/73955) e chiedere di essere avvisati all'uscita."
-        ],
-        "partecipazione": "singola",
-        "partner": "nessuno",
-        "aggiornato": "2026-09-25T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
       "attivo": false,
       "id": "eu-SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
       "title": "EU support to Stakeholders to improve measurement of food waste and help implement food waste prevention in their operations and organisation - 2026-2027",
@@ -2257,6 +2150,10 @@
       "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
       "ancheSu": [
         {
+          "fonte": "Regione Calabria",
+          "link": "https://www.regione.calabria.it/bandi/avviso-pubblico-per-manifestazione-di-interesse-rivolta-agli-enti-locali-della-regione-calabria-titolari-di-progetti-s-a-i-da-inserire-nella-proposta-progettuale-interregionale-fami-2021-2027/"
+        },
+        {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
         },
@@ -2424,6 +2321,113 @@
       "valutazione": null,
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
+    },
+    {
+      "attivo": false,
+      "id": "confcommcs-229588",
+      "title": "Sviluppo competenze PMI: incentivi per formazione digitale e green",
+      "link": "https://confcommerciocosenza.it/sviluppo-competenze-pmi-incentivi-per-formazione-digitale-e-green/",
+      "source": "Confcommercio Cosenza",
+      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "nessuno",
+      "ancheSu": null,
+      "date": "2026-07-22T11:13:18.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 14,
+      "relevanceKeywords": [
+        "green",
+        "pmi",
+        "piccole e medie imprese",
+        "imprese",
+        "calabria",
+        "digital"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria diretta (più avanti)",
+      "motivi": [
+        "aiuti a PMI e nuove imprese"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "beneficiaria diretta (più avanti)",
+        "nota": "Incentivo alla formazione digitale e green per le PMI: senza società costituita e senza dipendenti oggi non ci riguarda. Da tenere presente dopo la costituzione.",
+        "perche": [
+          "Finanzia la formazione del personale di PMI già attive: noi non siamo ancora iscritti e non abbiamo dipendenti.",
+          "Gli importi sono piccoli, e in genere non coprono le spese fisse che avremo (commercialista 300 €/mese, avvocato 3.000 €/anno)."
+        ],
+        "come": [
+          "Rivalutarlo dopo la costituzione, chiedendo a Confcommercio Cosenza se l'avviso sarà riaperto."
+        ],
+        "partecipazione": "singola",
+        "partner": "nessuno",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": false,
+      "id": "confartcs-9158",
+      "title": "INVESTO DIGITALE: AGEVOLAZIONI PER LA DIGITALIZZAZIONE DELLE PICCOLE IMPRESE",
+      "link": "https://www.confartigianatocosenza.it/2026/07/22/investo-digitale-agevolazioni-per-la-digitalizzazione-delle-piccole-imprese/",
+      "source": "Confartigianato Cosenza",
+      "sourceUrl": "https://www.confartigianatocosenza.it/categoria/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "nessuno",
+      "ancheSu": null,
+      "date": "2026-07-22T10:41:46.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 7,
+      "relevanceKeywords": [
+        "imprese",
+        "digitalizzazione",
+        "digital",
+        "lavoro"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria diretta (quando uscirà)",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "digitalizzazione e competenze"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "B",
+        "ruolo": "beneficiaria diretta (quando uscirà)",
+        "nota": "NON È ANCORA UN BANDO: è una proposta presentata alla Camera il 9/07/2026, in attesa di entrare nella Legge di Bilancio. Se passa, finanzierebbe software, cloud, piattaforme, consulenza e formazione: quello che ci servirà per partire, e una leva per le piccole imprese clienti.",
+        "perche": [
+          "Verificato il 25/09/2026 sulla pagina di Confartigianato Cosenza: c'era solo un questionario di rilevazione (chiuso a inizio settembre), non un avviso con scadenza.",
+          "Spese previste: software gestionali, cloud, piattaforme digitali, IA, cybersecurity, e-commerce, consulenza e formazione. Non si parla di computer né di veicoli.",
+          "Beneficiari previsti: micro, piccole e medie imprese e studi professionali; non si sa ancora se servirà essere già iscritti."
+        ],
+        "come": [
+          "Seguire la Legge di Bilancio 2027 (dibattito in autunno): se la misura entra, uscirà l'avviso vero con importi e requisiti.",
+          "Chiamare Confartigianato Cosenza (0984/73955) e chiedere di essere avvisati all'uscita."
+        ],
+        "partecipazione": "singola",
+        "partner": "nessuno",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": false,
