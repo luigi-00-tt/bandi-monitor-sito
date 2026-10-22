@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:34:09.063Z",
+  "generatedAt": "2026-10-22T11:33:51.729Z",
   "lastEmailSentAt": "2026-10-19T12:46:16.362Z",
   "nextEmailDueAt": "2026-10-26T12:46:16.362Z",
   "settings": {
@@ -16,7 +16,7 @@
     "totale": 66,
     "nostri": 3,
     "rete": 19,
-    "fuoriTema": 162
+    "fuoriTema": 160
   },
   "perFonte": {
     "Calabria Europa": {
@@ -2028,6 +2028,10 @@
       "partecipazione": "singola",
       "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
       "ancheSu": [
+        {
+          "fonte": "Comune di Cosenza",
+          "link": "https://www.comune.cosenza.it/it/novita/page/agenda-urbana-cosenza-rende-2021-2027-74-le-domande-presentate-a-cosenza-per-il-bando-aiuti-alle-imprese"
+        },
         {
           "fonte": "Federterziario Calabria",
           "link": "https://www.federterziariocalabria.it/bando-agenda-urbana-cosenza-rende/"
