@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:23:48.431Z",
+  "generatedAt": "2026-10-24T10:43:24.146Z",
   "lastEmailSentAt": "2026-10-19T12:46:16.362Z",
   "nextEmailDueAt": "2026-10-26T12:46:16.362Z",
   "settings": {
@@ -16,7 +16,7 @@
     "totale": 66,
     "nostri": 3,
     "rete": 19,
-    "fuoriTema": 160
+    "fuoriTema": 161
   },
   "perFonte": {
     "Calabria Europa": {
@@ -2153,10 +2153,6 @@
       "partecipazione": "singola",
       "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
       "ancheSu": [
-        {
-          "fonte": "Regione Calabria",
-          "link": "https://www.regione.calabria.it/bandi/avviso-pubblico-per-manifestazione-di-interesse-rivolta-agli-enti-locali-della-regione-calabria-titolari-di-progetti-s-a-i-da-inserire-nella-proposta-progettuale-interregionale-fami-2021-2027/"
-        },
         {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
