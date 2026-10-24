@@ -858,7 +858,7 @@
     "ruolo": "intermediazione con provvigione",
     "partecipazione": "singola",
     "partner": "nessuno per l'impresa beneficiaria",
-    "nota": "Brevetti+ finanzia fino all'80% i servizi per valorizzare un brevetto: non è per noi, ma Human Maple e alcune aziende del catalogo hanno brevetti. Possiamo segnalarlo e prendere la provvigione, se l'accordo la prevede anche sui contributi ottenuti.",
+    "nota": "Brevetti+ finanzia fino all'80% i servizi per valorizzare un brevetto: non è per noi, ma Human Maple e alcune aziende del catalogo hanno brevetti. Possiamo segnalarlo e prendere la provvigione, se l'accordo la prevede anche sui contributi ottenuti. Aggiornamento 24/10/2026: lo sportello Brevetti+ 2026 apre il 25/11/2026 alle 12 (Invitalia), a esaurimento fondi.",
     "perche": [
       "La società non ha brevetti, quindi non può chiederlo.",
       "Le aziende partner con brevetti possono usarlo per pagare servizi (industrializzazione, marketing, licensing): un fornitore di questi servizi che portiamo noi genera provvigione.",
@@ -984,5 +984,59 @@
     ],
     "come": [],
     "aggiornato": "2026-09-25"
+  },
+  "eu-HORIZON-NEB-2027-01-REGEN-04": {
+    "verdetto": "rete",
+    "priorita": "B",
+    "ruolo": "intermediazione con i Comuni e Human Maple",
+    "partecipazione": "partenariato",
+    "partner": "consorzio Horizon (Innovation Action) con capofila esperto, almeno due imprese di cui una start-up, autorità pubbliche locali",
+    "nota": "Ambienti di prova per l'edilizia circolare (New European Bauhaus): living lab o testbed dove almeno due imprese, di cui una start-up, sperimentano i loro materiali con il coinvolgimento delle amministrazioni. È lo schema Human Maple + Comune calabrese. Topic ancora 'in arrivo', scadenza 1/12/2027.",
+    "perche": [
+      "Verificato sul portale il 24/10/2026: Innovation Action, stato Forthcoming. Il testo chiede di 'supportare almeno due imprese, di cui almeno una start-up' e di coinvolgere le autorità pubbliche con un approccio territoriale.",
+      "Human Maple (pannelli CAM dall'acetato dei mozziconi) è la start-up tipo da portare nel living lab; un Comune calabrese mette l'edificio o il cantiere di prova.",
+      "Noi non entriamo nel consorzio: guadagniamo sui contratti di fornitura che ne nascono."
+    ],
+    "come": [
+      "Tenerlo con REGEN-02 e CIRCBIO-02 come pacchetto 'edilizia circolare NEB' da proporre a un capofila (cluster edilizia o università) nel 2027.",
+      "Accordo provvigionale e patto di non elusione con Human Maple prima di presentarla a chiunque.",
+      "Individuare 1-2 Comuni dell'area Cosenza-Rende con un edificio pubblico da usare come sito di prova."
+    ],
+    "aggiornato": "2026-10-24"
+  },
+  "confcommcs-229829": {
+    "verdetto": "rete",
+    "priorita": "B",
+    "ruolo": "intermediazione con provvigione",
+    "partecipazione": "singola",
+    "partner": "nessuno per l'impresa beneficiaria",
+    "nota": "I 32 milioni sono tre sportelli MIMIT sulla proprietà industriale: Brevetti+ (20 M€, apre il 25/11/2026), Marchi+ (2 M€, 3/12/2026) e Disegni+ (10 M€, 17/12/2026). Sportelli a esaurimento fondi aperti alle 12: chi arriva tardi resta fuori. Non sono per noi (niente brevetti, società da costituire): si girano a Human Maple e alle aziende del catalogo.",
+    "perche": [
+      "Verificato il 24/10/2026 sulla pagina Confcommercio Cosenza (decreti direttoriali del 28/09/2026).",
+      "Brevetti+: 80% fino a 140.000 € per industrializzare e valorizzare un brevetto. Human Maple, se ha il brevetto sul processo dell'acetato, è il candidato naturale.",
+      "Disegni+: 80% fino a 60.000 € per prototipi, stampi e consulenze, ma solo per PMI iscritte da almeno due anni con un disegno registrato dal 2024.",
+      "Marchi+: 80-90% fino a 6.000-9.000 € per marchio registrato all'estero (EUIPO/OMPI) dal 1/6/2023. Potrebbe servire a noi solo dopo la costituzione e la registrazione del marchio."
+    ],
+    "come": [
+      "Entro metà novembre chiedere a Human Maple se ha brevetti concessi o depositati e se vuole presentare Brevetti+ il 25/11: la domanda va pronta prima dell'apertura.",
+      "Girare Disegni+ alle aziende del catalogo RFID che producono contenitori o posacenere con design registrato.",
+      "Concordare per iscritto la provvigione anche sui contributi ottenuti grazie alla segnalazione."
+    ],
+    "aggiornato": "2026-10-24"
+  },
+  "mimitnews-fondo-di-garanzia-per-le-pmi-presentato-al-mimit-il-primo-logo-ufficiale": {
+    "verdetto": "no",
+    "priorita": "C",
+    "ruolo": "",
+    "partecipazione": "singola",
+    "partner": "nessuno",
+    "nota": "Non è un bando: è la notizia della presentazione del logo del Fondo di garanzia per le PMI. Il Fondo esiste da anni e garantisce i prestiti bancari, non dà contributi.",
+    "perche": [
+      "Nessun avviso, nessuna scadenza, nessuna spesa finanziata."
+    ],
+    "come": [
+      "Da ricordare solo quando la società chiederà un prestito in banca: la garanzia del Fondo si chiede tramite la banca stessa."
+    ],
+    "aggiornato": "2026-10-24"
   }
 }
