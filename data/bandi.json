@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:43:24.146Z",
+  "generatedAt": "2026-10-25T11:07:40.202Z",
   "lastEmailSentAt": "2026-10-19T12:46:16.362Z",
   "nextEmailDueAt": "2026-10-26T12:46:16.362Z",
   "settings": {
@@ -10,12 +10,12 @@
   },
   "counts": {
     "nuovi": 9,
-    "attivi": 22,
+    "attivi": 21,
     "inScadenza": 1,
     "scaduti": 44,
-    "totale": 66,
-    "nostri": 3,
-    "rete": 19,
+    "totale": 65,
+    "nostri": 1,
+    "rete": 20,
     "fuoriTema": 161
   },
   "perFonte": {
@@ -38,10 +38,6 @@
     "Federterziario Calabria": {
       "totale": 8,
       "attivi": 3
-    },
-    "MIMIT – misure e decreti": {
-      "totale": 1,
-      "attivi": 1
     },
     "Unical – Bandi nazionali": {
       "totale": 1,
@@ -75,12 +71,11 @@
   "perAmbito": {
     "regionale": 8,
     "europeo": 11,
-    "nazionale": 3
+    "nazionale": 2
   },
   "perPartecipazione": {
     "partenariato": 12,
-    "singola": 9,
-    "daVerificare": 1
+    "singola": 9
   },
   "bandi": [
     {
@@ -716,7 +711,7 @@
       "ambito": "europeo",
       "programma": "Missioni e New European Bauhaus",
       "partecipazione": "partenariato",
-      "partnerRichiesti": "Consorzio Horizon di almeno 3 soggetti indipendenti di 3 Paesi UE/associati: serve un capofila esperto (centro di ricerca o cluster edilizia), un produttore di materiali da riciclo come Human Maple, u",
+      "partnerRichiesti": "consorzio Horizon (Innovation Action) con capofila esperto, almeno due imprese di cui una start-up, autorità pubbliche locali",
       "ancheSu": null,
       "date": "2027-05-05T00:00:00.000Z",
       "deadline": "2027-12-01T00:00:00.000Z",
@@ -730,32 +725,29 @@
         "sustainable"
       ],
       "classe": "rete",
-      "ruolo": "segnalazione a Human Maple",
+      "ruolo": "intermediazione con i Comuni e Human Maple",
       "motivi": [
         "edilizia circolare e CAM"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
         "verdetto": "rete",
         "priorita": "B",
-        "ruolo": "segnalazione a Human Maple",
-        "partecipazione": "partenariato",
-        "partner": "Consorzio Horizon di almeno 3 soggetti indipendenti di 3 Paesi UE/associati: serve un capofila esperto (centro di ricerca o cluster edilizia), un produttore di materiali da riciclo come Human Maple, u",
-        "nota": "Bando Horizon New European Bauhaus sull'edilizia circolare: non siamo beneficiari, ma possiamo portare Human Maple come fornitore di pannelli da acetato di cellulosa conformi ai CAM e alcuni Comuni calabresi come sito pilota, guadagnando sui contratti che ne derivano.",
+        "ruolo": "intermediazione con i Comuni e Human Maple",
+        "nota": "Ambienti di prova per l'edilizia circolare (New European Bauhaus): living lab o testbed dove almeno due imprese, di cui una start-up, sperimentano i loro materiali con il coinvolgimento delle amministrazioni. È lo schema Human Maple + Comune calabrese. Topic ancora 'in arrivo', scadenza 1/12/2027.",
         "perche": [
-          "Il tema (settore delle costruzioni circolare e sostenibile, CAM, materiali da riciclo) coincide con l'offerta di Human Maple: pannelli termoisolanti e fonoassorbenti ottenuti da mozziconi di sigaretta.",
-          "La società non ha struttura, personale né bilanci e non può essere partner di un progetto Horizon: il valore sta nel portare Human Maple nel consorzio e i Comuni calabresi come demonstrator, incassando la provvigione sui contratti di fornitura che nascono dal progetto.",
-          "Il contratto quadro di R&S fra Human Maple e Unical rende credibile una coppia impresa-università italiana dentro un consorzio europeo.",
-          "Scadenza dicembre 2027 e bando ancora 'in arrivo': opportunità reale ma lontana, da coltivare senza distogliere risorse dai bandi italiani a breve termine."
+          "Verificato sul portale il 24/10/2026: Innovation Action, stato Forthcoming. Il testo chiede di 'supportare almeno due imprese, di cui almeno una start-up' e di coinvolgere le autorità pubbliche con un approccio territoriale.",
+          "Human Maple (pannelli CAM dall'acetato dei mozziconi) è la start-up tipo da portare nel living lab; un Comune calabrese mette l'edificio o il cantiere di prova.",
+          "Noi non entriamo nel consorzio: guadagniamo sui contratti di fornitura che ne nascono."
         ],
         "come": [
-          "Verificare alla pubblicazione del work programme NEB 2027 il testo definitivo del topic (attività ammesse, TRL richiesto, ruolo dei siti dimostrativi) e monitorare i brokerage event NEB e i partner search del portale Funding & Tenders.",
-          "Firmare con Human Maple accordo provvigionale e patto di non elusione prima di presentarla a qualsiasi coordinatore o Comune.",
-          "Mappare 2-3 Comuni calabresi (area Rende-Cosenza) con edifici pubblici da riqualificare disponibili a una lettera di supporto come sito pilota, ricordando che il fornitore si propone e non si promette, nel rispetto delle regole sugli appalti.",
-          "Cercare un capofila già strutturato (cluster edilizia, centro di ricerca o università europea) e proporre il pacchetto Human Maple + Unical + territorio pilota calabrese, senza candidare la società come partner del consorzio."
+          "Tenerlo con REGEN-02 e CIRCBIO-02 come pacchetto 'edilizia circolare NEB' da proporre a un capofila (cluster edilizia o università) nel 2027.",
+          "Accordo provvigionale e patto di non elusione con Human Maple prima di presentarla a chiunque.",
+          "Individuare 1-2 Comuni dell'area Cosenza-Rende con un edificio pubblico da usare come sito di prova."
         ],
-        "aggiornato": "2026-10-06T13:06:43.280Z",
-        "automatica": true
+        "partecipazione": "partenariato",
+        "partner": "consorzio Horizon (Innovation Action) con capofila esperto, almeno due imprese di cui una start-up, autorità pubbliche locali",
+        "aggiornato": "2026-10-24T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-10-06T13:06:47.107Z"
@@ -771,8 +763,8 @@
       "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Associazioni di categoria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Da verificare: il titolo non indica se si tratta di domanda singola d'impresa (il caso tipico degli aiuti MIMIT alle PMI) o di misure che richiedono reti/filiere; va letto il decreto attuativo per cia",
+      "partecipazione": "singola",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria",
       "ancheSu": null,
       "date": "2026-10-13T10:05:26.000Z",
       "deadline": null,
@@ -786,34 +778,32 @@
         "piccole e medie imprese",
         "imprese"
       ],
-      "classe": "nostro",
-      "ruolo": "intermediazione con provvigione o beneficiaria, da definire",
+      "classe": "rete",
+      "ruolo": "intermediazione con provvigione",
       "motivi": [
         "aiuti a PMI e nuove imprese",
         "investimenti e innovazione d'impresa"
       ],
-      "decisoDaTe": false,
+      "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "forse",
+        "verdetto": "rete",
         "priorita": "B",
-        "ruolo": "intermediazione con provvigione o beneficiaria, da definire",
-        "partecipazione": "daVerificare",
-        "partner": "Da verificare: il titolo non indica se si tratta di domanda singola d'impresa (il caso tipico degli aiuti MIMIT alle PMI) o di misure che richiedono reti/filiere; va letto il decreto attuativo per cia",
-        "nota": "Pacchetto di misure MIMIT 2026 per le PMI segnalato da Confcommercio Cosenza: dai dati disponibili non si capisce quali linee lo compongano. Interessante su due fronti — come possibile contributo di avvio per noi e, più probabilmente, come leva per far investire PMI calabresi in soluzioni dei nostri fornitori — ma serve leggere i decreti attuativi.",
+        "ruolo": "intermediazione con provvigione",
+        "nota": "I 32 milioni sono tre sportelli MIMIT sulla proprietà industriale: Brevetti+ (20 M€, apre il 25/11/2026), Marchi+ (2 M€, 3/12/2026) e Disegni+ (10 M€, 17/12/2026). Sportelli a esaurimento fondi aperti alle 12: chi arriva tardi resta fuori. Non sono per noi (niente brevetti, società da costituire): si girano a Human Maple e alle aziende del catalogo.",
         "perche": [
-          "Il titolo e i segnali (aiuti a PMI e nuove imprese, investimenti e innovazione) indicano misure che finanziano acquisti delle imprese: è esattamente il contesto in cui una PMI calabrese può comprare efficienza energetica, soluzioni Iotilize o pannelli Human Maple conformi ai CAM, generando contratti su cui incassiamo provvigione.",
-          "Se una delle linee è dedicata a nuove imprese e copre spese di avvio di un'attività di servizi (computer, software, sito, coworking, consulenze), potremmo candidarci come beneficiari diretti.",
-          "La società è ancora in costituzione e senza bilanci né dipendenti: la gran parte delle misure MIMIT per PMI richiede impresa attiva e iscritta al Registro Imprese, quindi come beneficiaria diretta l'ipotesi è fragile.",
-          "Il dato è una notizia aggregata (32 milioni, più bandi): senza i decreti attuativi non si conoscono dotazioni per linea, spese ammissibili, scadenze e territori."
+          "Verificato il 24/10/2026 sulla pagina Confcommercio Cosenza (decreti direttoriali del 28/09/2026).",
+          "Brevetti+: 80% fino a 140.000 € per industrializzare e valorizzare un brevetto. Human Maple, se ha il brevetto sul processo dell'acetato, è il candidato naturale.",
+          "Disegni+: 80% fino a 60.000 € per prototipi, stampi e consulenze, ma solo per PMI iscritte da almeno due anni con un disegno registrato dal 2024.",
+          "Marchi+: 80-90% fino a 6.000-9.000 € per marchio registrato all'estero (EUIPO/OMPI) dal 1/6/2023. Potrebbe servire a noi solo dopo la costituzione e la registrazione del marchio."
         ],
         "come": [
-          "Recuperare dalla pagina Confcommercio Cosenza l'elenco esatto delle misure MIMIT citate e scaricare i decreti/avvisi: per ciascuna annotare beneficiari ammessi, anzianità minima d'impresa, spese ammissibili e finestra di presentazione (verificare che non sia una scheda già chiusa).",
-          "Per le linee che ammettono imprese appena costituite, verificare subito se una SRLS iscritta nel 2026 rientra, con quale termine e quali documenti (visura, DURC, dichiarazioni de minimis) e se sono escluse spese legali, commercialista e costituzione.",
-          "Per le linee di investimento/innovazione, costruire una short list di PMI clienti nel Cosentino e in Calabria e abbinare a ciascuna il fornitore del catalogo (efficienza energetica, Human Maple, Junker, Iotilize), usando il bando come leva commerciale.",
-          "Prima di aprire i contatti far firmare ai fornitori accordo provvigionale e patto di non elusione, e tenere traccia scritta delle segnalazioni fatte a ogni impresa."
+          "Entro metà novembre chiedere a Human Maple se ha brevetti concessi o depositati e se vuole presentare Brevetti+ il 25/11: la domanda va pronta prima dell'apertura.",
+          "Girare Disegni+ alle aziende del catalogo RFID che producono contenitori o posacenere con design registrato.",
+          "Concordare per iscritto la provvigione anche sui contributi ottenuti grazie alla segnalazione."
         ],
-        "aggiornato": "2026-10-13T13:55:46.387Z",
-        "automatica": true
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria",
+        "aggiornato": "2026-10-24T00:00:00.000Z"
       },
       "fasi": null,
       "segnalatoIl": "2026-10-13T13:55:48.896Z"
@@ -906,7 +896,7 @@
         "verdetto": "rete",
         "priorita": "B",
         "ruolo": "intermediazione con provvigione",
-        "nota": "Brevetti+ finanzia fino all'80% i servizi per valorizzare un brevetto: non è per noi, ma Human Maple e alcune aziende del catalogo hanno brevetti. Possiamo segnalarlo e prendere la provvigione, se l'accordo la prevede anche sui contributi ottenuti.",
+        "nota": "Brevetti+ finanzia fino all'80% i servizi per valorizzare un brevetto: non è per noi, ma Human Maple e alcune aziende del catalogo hanno brevetti. Possiamo segnalarlo e prendere la provvigione, se l'accordo la prevede anche sui contributi ottenuti. Aggiornamento 24/10/2026: lo sportello Brevetti+ 2026 apre il 25/11/2026 alle 12 (Invitalia), a esaurimento fondi.",
         "perche": [
           "La società non ha brevetti, quindi non può chiederlo.",
           "Le aziende partner con brevetti possono usarlo per pagare servizi (industrializzazione, marketing, licensing): un fornitore di questi servizi che portiamo noi genera provvigione.",
@@ -919,61 +909,6 @@
         "partecipazione": "singola",
         "partner": "nessuno per l'impresa beneficiaria",
         "aggiornato": "2026-09-25T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-16T11:14:00.059Z"
-    },
-    {
-      "attivo": true,
-      "id": "mimitnews-fondo-di-garanzia-per-le-pmi-presentato-al-mimit-il-primo-logo-ufficiale",
-      "title": "Fondo di garanzia per le PMI, presentato al MIMIT il primo logo ufficiale",
-      "link": "https://www.mimit.gov.it/it/notizie-stampa/fondo-di-garanzia-per-le-pmi-presentato-al-mimit-il-primo-logo-ufficiale",
-      "source": "MIMIT – misure e decreti",
-      "sourceUrl": "https://www.mimit.gov.it/it/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "nazionale",
-      "programma": "Nazionali",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessun partner: la garanzia si attiva tramite la banca o il confidi che istruisce il finanziamento; serve solo l'impresa iscritta al Registro Imprese",
-      "ancheSu": null,
-      "date": "2026-09-16T10:56:36.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 4,
-      "relevanceKeywords": [
-        "pmi",
-        "imprese"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria indiretta via banca",
-      "motivi": [
-        "aiuti a PMI e nuove imprese"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "beneficiaria indiretta via banca",
-        "partecipazione": "singola",
-        "partner": "Nessun partner: la garanzia si attiva tramite la banca o il confidi che istruisce il finanziamento; serve solo l'impresa iscritta al Registro Imprese",
-        "nota": "Non è un bando ma una notizia istituzionale (presentazione del logo del Fondo di garanzia PMI). Lo strumento in sé resta utile come leva di credito per la società appena costituita, ma non porta fondo perduto: da archiviare come nota finanziaria, non come scadenza.",
-        "perche": [
-          "Il contenuto è una comunicazione di immagine del MIMIT, non una call con dotazione, requisiti e scadenza: non c'è nulla da presentare.",
-          "Il Fondo di garanzia PMI non è contributo a fondo perduto: garantisce finanziamenti bancari, quindi non serve come leva commerciale verso Comuni e fornitori come i bandi a fondo perduto.",
-          "Può però tornare utile come strumento di liquidità per la SRLS in avvio (sezione start-up/nuove imprese, che in genere non richiede storico di bilancio) per finanziare capitale circolante e anticipi sui primi contratti di intermediazione.",
-          "La società è ancora in costituzione e non iscritta al Registro Imprese: qualsiasi accesso allo strumento è comunque rinviato al post-iscrizione."
-        ],
-        "come": [
-          "Completare l'iscrizione al Registro Imprese e aprire il conto sociale: senza partita IVA attiva e codice ATECO nessuna banca può istruire la richiesta di garanzia.",
-          "Verificare con una banca o un confidi locale (Cosenza/Rende) le condizioni della sezione dedicata a start-up e nuove imprese: importo massimo garantito, percentuale di copertura, documentazione richiesta a un'impresa senza bilanci.",
-          "Non impegnare tempo di progettazione su questa notizia: tenere presidiata la pagina MIMIT per le vere misure a fondo perduto per PMI e nuove imprese.",
-          "Preparare intanto un business plan a 24 mesi con i ricavi da provvigione (Human Maple, catalogo RFID/TARIP, Junker) da usare sia in banca sia nei futuri bandi regionali."
-        ],
-        "aggiornato": "2026-09-16T11:13:52.901Z",
-        "automatica": true
       },
       "fasi": null,
       "segnalatoIl": "2026-09-16T11:14:00.059Z"
