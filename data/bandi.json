@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:33:08.777Z",
+  "generatedAt": "2026-10-29T12:46:10.357Z",
   "lastEmailSentAt": "2026-10-27T11:58:03.451Z",
   "nextEmailDueAt": "2026-11-03T11:58:03.451Z",
   "settings": {
@@ -10,18 +10,18 @@
   },
   "counts": {
     "nuovi": 9,
-    "attivi": 21,
+    "attivi": 22,
     "inScadenza": 1,
-    "scaduti": 44,
-    "totale": 65,
-    "nostri": 1,
+    "scaduti": 45,
+    "totale": 67,
+    "nostri": 2,
     "rete": 20,
-    "fuoriTema": 161
+    "fuoriTema": 137
   },
   "perFonte": {
     "Calabria Europa": {
-      "totale": 11,
-      "attivi": 2
+      "totale": 13,
+      "attivi": 3
     },
     "Fincalabra": {
       "totale": 6,
@@ -69,12 +69,13 @@
     }
   },
   "perAmbito": {
-    "regionale": 8,
+    "regionale": 9,
     "europeo": 11,
     "nazionale": 2
   },
   "perPartecipazione": {
     "partenariato": 12,
+    "daVerificare": 1,
     "singola": 9
   },
   "bandi": [
@@ -132,6 +133,68 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-07T10:02:36.429Z"
+    },
+    {
+      "attivo": true,
+      "id": "calabria-57880",
+      "title": "“FEERI” - Fondo Efficienza Energetica e Rinnovabili per le Imprese",
+      "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "daVerificare",
+      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
+      "ancheSu": [
+        {
+          "fonte": "Fincalabra",
+          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+        }
+      ],
+      "date": "2026-06-16T17:42:25.000Z",
+      "deadline": "2026-12-30T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 6,
+      "relevanceKeywords": [
+        "imprese",
+        "rinnovabil",
+        "efficienza energetica"
+      ],
+      "classe": "nostro",
+      "ruolo": "intermediazione con provvigione",
+      "motivi": [
+        "investimenti e innovazione d'impresa",
+        "aiuti a PMI e nuove imprese",
+        "contributo a fondo perduto"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "intermediazione con provvigione",
+        "nota": "FEERI (efficienza energetica e rinnovabili, scadenza 30/12/2026): il bando perfetto per monetizzare subito il modello di intermediazione — provvigioni 3-8% sui contratti dei fornitori tecnici, più cross-selling dei pannelli.",
+        "perche": [
+          "Fondo regionale da 45 M€ con copertura fino al 100% tra fondo perduto e finanziamento all'1%: un'esca fortissima per le PMI calabresi energivore, che rende facilissimo il nostro lavoro di segnalazione.",
+          "Modello di revenue immediato: accordi provvigionali con impiantisti, ESCo e fornitori di macchinari (3-8% del valore della commessa, su impianti da 100k a oltre 1M€), più success fee con le società di finanza agevolata.",
+          "Cross-selling: se il progetto include l'isolamento dell'immobile (Linea A.2) possiamo inserire nel computo metrico i nostri pannelli termoisolanti circolari.",
+          "Ci accredita come punto di riferimento per la transizione ecologica ed energetica in Calabria."
+        ],
+        "come": [
+          "Mappare le PMI industriali calabresi con alti consumi o capannoni da riqualificare e presentare loro il pacchetto chiavi in mano: bando FEERI + partner tecnici qualificati + supporto alla candidatura.",
+          "Stringere a monte gli accordi provvigionali con impiantisti fotovoltaico, ESCo e fornitori, definendo quando matura il compenso (accettazione preventivo o pagamento SAL).",
+          "Tutele contrattuali indispensabili: accordo di segnalazione madre, patto di non elusione (NCNDA), clausola di esclusione di responsabilità operativa (la responsabilità tecnica resta a fornitori e azienda richiedente).",
+          "Coinvolgere uno studio di europrogettazione per diagnosi energetica e presentazione della domanda."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-26T10:59:50.419Z"
     },
     {
       "attivo": true,
@@ -2089,10 +2152,6 @@
       "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
       "ancheSu": [
         {
-          "fonte": "Fincalabra",
-          "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
-        },
-        {
           "fonte": "CNA Calabria",
           "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/"
         }
@@ -2533,6 +2592,45 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": false,
+      "id": "calabria-53664",
+      "title": "Avviso pubblico per il sostegno a progetti di internazionalizzazione delle PMI e loro aggregazioni",
+      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "ancheSu": [
+        {
+          "fonte": "Fincalabra",
+          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+        }
+      ],
+      "date": "2026-10-12T14:53:23.000Z",
+      "deadline": "2026-05-31T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "In valutazione",
+      "isOpen": false,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "pmi"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiario diretto",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "investimenti e innovazione d'impresa"
+      ],
+      "decisoDaTe": false,
+      "valutazione": null,
+      "fasi": null,
+      "segnalatoIl": "2026-07-26T10:59:50.419Z"
     },
     {
       "attivo": false,
