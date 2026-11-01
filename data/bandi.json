@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T12:34:49.581Z",
-  "lastEmailSentAt": "2026-10-27T11:58:03.451Z",
-  "nextEmailDueAt": "2026-11-03T11:58:03.451Z",
+  "generatedAt": "2026-11-01T13:02:54.099Z",
+  "lastEmailSentAt": "2026-11-01T13:02:54.097Z",
+  "nextEmailDueAt": "2026-11-08T13:02:54.097Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -12,11 +12,11 @@
     "nuovi": 9,
     "attivi": 21,
     "inScadenza": 1,
-    "scaduti": 44,
-    "totale": 65,
+    "scaduti": 45,
+    "totale": 66,
     "nostri": 1,
     "rete": 20,
-    "fuoriTema": 162
+    "fuoriTema": 156
   },
   "perFonte": {
     "Calabria Europa": {
@@ -56,7 +56,7 @@
       "attivi": 0
     },
     "CNA Calabria": {
-      "totale": 1,
+      "totale": 2,
       "attivi": 0
     },
     "Confartigianato Cosenza": {
@@ -2087,10 +2087,6 @@
         {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
-        },
-        {
-          "fonte": "CNA Calabria",
-          "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/"
         }
       ],
       "date": "2026-07-22T11:06:48.000Z",
@@ -2302,6 +2298,62 @@
         "partecipazione": "singola",
         "partner": "nessuno",
         "aggiornato": "2026-09-25T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": false,
+      "id": "cnacal-6658",
+      "title": "HERITAGETEX: CNA Calabria rilancia la selezione delle imprese tessili calabresi",
+      "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/",
+      "source": "CNA Calabria",
+      "sourceUrl": "https://calabria.cna.it/categorie/bandi-finanziamenti-agevolati-leggi-di-incentivo/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessun consorzio richiesto: si candida la singola impresa tessile calabrese; noi non abbiamo codice ATECO né produzione tessile, quindi non siamo beneficiari diretti",
+      "ancheSu": null,
+      "date": "2026-07-22T11:06:48.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 6,
+      "relevanceKeywords": [
+        "innovazione",
+        "imprese",
+        "calabria"
+      ],
+      "classe": "rete",
+      "ruolo": "segnalazione alla rete",
+      "motivi": [
+        "tessile post-consumo"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "B",
+        "ruolo": "segnalazione alla rete",
+        "partecipazione": "singola",
+        "partner": "Nessun consorzio richiesto: si candida la singola impresa tessile calabrese; noi non abbiamo codice ATECO né produzione tessile, quindi non siamo beneficiari diretti",
+        "nota": "Selezione CNA Calabria riservata a imprese tessili del territorio: non siamo ammissibili come beneficiari, ma è un'occasione per entrare in relazione con CNA Calabria e con le imprese tessili locali da agganciare al filone del tessile post-consumo.",
+        "perche": [
+          "Il bando seleziona imprese tessili calabresi: la società è un intermediario di economia circolare, non un'impresa manifatturiera tessile, quindi non ha i requisiti di beneficiaria diretta.",
+          "Il tema tessile post-consumo è però un filone della rete (riciclo e valorizzazione di frazioni tessili): le imprese selezionate diventano potenziali clienti o fornitori da mappare.",
+          "CNA Calabria è un moltiplicatore utile: presidia le PMI del territorio ed è un canale per far conoscere l'offerta (RFID porta a porta, TARIP, Junker, pannelli Human Maple per l'edilizia) alle imprese associate.",
+          "La rete di Comuni calabresi resta spendibile come territorio pilota per eventuali filoni dimostrativi del progetto."
+        ],
+        "come": [
+          "Chiedere a CNA Calabria il regolamento di HERITAGETEX (requisiti, benefici per le imprese selezionate, se esiste un ruolo per fornitori di servizi tecnologici o per partner di progetto).",
+          "Individuare nel catalogo e tra i contatti le imprese tessili calabresi candidabili e segnalare loro il bando, firmando prima accordo provvigionale e patto di non elusione.",
+          "Proporsi a CNA Calabria come supporto tecnico su circolarità, tracciabilità e CAM per le imprese selezionate (workshop, scouting fornitori), aprendo un canale stabile con l'associazione.",
+          "Registrare l'occasione come contatto di rete e non come progetto proprio: non impegnare ore di lavoro oltre lo scouting, la priorità resta sui bandi in cui siamo beneficiari diretti."
+        ],
+        "aggiornato": "2026-09-03T20:23:55.066Z",
+        "automatica": true
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
