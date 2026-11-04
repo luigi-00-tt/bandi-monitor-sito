@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T14:00:44.250Z",
-  "lastEmailSentAt": "2026-11-01T13:02:54.097Z",
-  "nextEmailDueAt": "2026-11-08T13:02:54.097Z",
+  "generatedAt": "2026-11-04T14:09:08.226Z",
+  "lastEmailSentAt": "2026-11-04T14:09:08.224Z",
+  "nextEmailDueAt": "2026-11-11T14:09:08.224Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,19 +9,19 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 9,
-    "attivi": 21,
+    "nuovi": 10,
+    "attivi": 23,
     "inScadenza": 1,
-    "scaduti": 44,
-    "totale": 65,
-    "nostri": 1,
+    "scaduti": 45,
+    "totale": 68,
+    "nostri": 2,
     "rete": 20,
-    "fuoriTema": 163
+    "fuoriTema": 143
   },
   "perFonte": {
     "Calabria Europa": {
-      "totale": 11,
-      "attivi": 2
+      "totale": 13,
+      "attivi": 3
     },
     "Fincalabra": {
       "totale": 6,
@@ -30,6 +30,10 @@
     "EU Funding & Tenders": {
       "totale": 24,
       "attivi": 11
+    },
+    "Regione Calabria": {
+      "totale": 1,
+      "attivi": 1
     },
     "Confcommercio Cosenza": {
       "totale": 5,
@@ -69,12 +73,13 @@
     }
   },
   "perAmbito": {
-    "regionale": 8,
+    "regionale": 10,
     "europeo": 11,
     "nazionale": 2
   },
   "perPartecipazione": {
     "partenariato": 12,
+    "daVerificare": 2,
     "singola": 9
   },
   "bandi": [
@@ -132,6 +137,68 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-07T10:02:36.429Z"
+    },
+    {
+      "attivo": true,
+      "id": "calabria-57880",
+      "title": "“FEERI” - Fondo Efficienza Energetica e Rinnovabili per le Imprese",
+      "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "daVerificare",
+      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
+      "ancheSu": [
+        {
+          "fonte": "Fincalabra",
+          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+        }
+      ],
+      "date": "2026-06-16T17:42:25.000Z",
+      "deadline": "2026-12-30T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "Aperto",
+      "isOpen": true,
+      "relevanceScore": 6,
+      "relevanceKeywords": [
+        "imprese",
+        "rinnovabil",
+        "efficienza energetica"
+      ],
+      "classe": "nostro",
+      "ruolo": "intermediazione con provvigione",
+      "motivi": [
+        "investimenti e innovazione d'impresa",
+        "aiuti a PMI e nuove imprese",
+        "contributo a fondo perduto"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "intermediazione con provvigione",
+        "nota": "FEERI (efficienza energetica e rinnovabili, scadenza 30/12/2026): il bando perfetto per monetizzare subito il modello di intermediazione — provvigioni 3-8% sui contratti dei fornitori tecnici, più cross-selling dei pannelli.",
+        "perche": [
+          "Fondo regionale da 45 M€ con copertura fino al 100% tra fondo perduto e finanziamento all'1%: un'esca fortissima per le PMI calabresi energivore, che rende facilissimo il nostro lavoro di segnalazione.",
+          "Modello di revenue immediato: accordi provvigionali con impiantisti, ESCo e fornitori di macchinari (3-8% del valore della commessa, su impianti da 100k a oltre 1M€), più success fee con le società di finanza agevolata.",
+          "Cross-selling: se il progetto include l'isolamento dell'immobile (Linea A.2) possiamo inserire nel computo metrico i nostri pannelli termoisolanti circolari.",
+          "Ci accredita come punto di riferimento per la transizione ecologica ed energetica in Calabria."
+        ],
+        "come": [
+          "Mappare le PMI industriali calabresi con alti consumi o capannoni da riqualificare e presentare loro il pacchetto chiavi in mano: bando FEERI + partner tecnici qualificati + supporto alla candidatura.",
+          "Stringere a monte gli accordi provvigionali con impiantisti fotovoltaico, ESCo e fornitori, definendo quando matura il compenso (accettazione preventivo o pagamento SAL).",
+          "Tutele contrattuali indispensabili: accordo di segnalazione madre, patto di non elusione (NCNDA), clausola di esclusione di responsabilità operativa (la responsabilità tecnica resta a fornitori e azienda richiedente).",
+          "Coinvolgere uno studio di europrogettazione per diagnosi energetica e presentazione della domanda."
+        ],
+        "partecipazione": null,
+        "partner": null,
+        "aggiornato": "2026-08-21T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-07-26T10:59:50.419Z"
     },
     {
       "attivo": true,
@@ -751,6 +818,57 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-10-06T13:06:47.107Z"
+    },
+    {
+      "attivo": true,
+      "id": "rcal-ripristino-dellofficiosita-idraulica-e-ricostruzione-argini-del-fiume-vitravo-codice-rendis-18ir295-g1-cup-j45j16000050001-cig-8764781e14",
+      "title": "Ripristino dell'officiosità idraulica e ricostruzione argini del Fiume Vitravo” Codice ReNDIS 18IR295/G1, CUP: J45J16000050001 - CIG: 8764781E14",
+      "link": "https://www.regione.calabria.it/bandi/ripristino-dellofficiosita-idraulica-e-ricostruzione-argini-del-fiume-vitravo-codice-rendis-18ir295-g1-cup-j45j16000050001-cig-8764781e14/",
+      "source": "Regione Calabria",
+      "sourceUrl": "https://www.regione.calabria.it/bandi-e-avvisi-di-gara/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "daVerificare",
+      "partnerRichiesti": "Non rilevante: è un intervento di lavori pubblici in capo a Regione/Comune, eventualmente affidato a imprese edili o di ingegneria idraulica tramite gara, non un bando a cui candidarsi come impresa di",
+      "ancheSu": null,
+      "date": "2026-11-04T14:07:11.052Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "fuori",
+      "ruolo": "partner tecnologico",
+      "motivi": [
+        "edilizia circolare e CAM"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "no",
+        "priorita": "C",
+        "ruolo": null,
+        "partecipazione": "daVerificare",
+        "partner": "Non rilevante: è un intervento di lavori pubblici in capo a Regione/Comune, eventualmente affidato a imprese edili o di ingegneria idraulica tramite gara, non un bando a cui candidarsi come impresa di",
+        "nota": "Intervento di difesa idraulica sul Fiume Vitravo con CUP e CIG già assegnati: è un lavoro pubblico, non un contributo a imprese. Nessun fornitore del catalogo ha una soluzione vendibile in questo cantiere.",
+        "descrizione": "Scheda della Regione Calabria relativa all'intervento di ripristino dell'officiosità idraulica e ricostruzione degli argini del Fiume Vitravo, censito nel ReNDIS (Repertorio Nazionale degli interventi per la Difesa del Suolo) con codice 18IR295/G1 e dotato di CUP e CIG. Si tratta di un'opera pubblica di mitigazione del rischio idrogeologico già programmata e avviata sul piano procedurale, non di un avviso di finanziamento rivolto a imprese.",
+        "perche": [
+          "Non è un bando a fondo perduto: è un intervento di difesa del suolo con CUP e CIG già assegnati, quindi una procedura di appalto di lavori riservata a imprese edili/idrauliche qualificate.",
+          "La società non esegue lavori, non ha struttura, SOA né requisiti per partecipare a gare di lavori pubblici.",
+          "Il segnale automatico 'edilizia circolare e CAM' è un falso positivo: argini e opere idrauliche non impiegano pannelli termoisolanti o fonoassorbenti da acetato di cellulosa, quindi non c'è un contratto per Human Maple né per gli altri fornitori mappati.",
+          "Nessun Comune beneficiario riceve qui risorse per acquistare raccolta differenziata, TARIP, RFID o efficienza energetica: non nasce alcuna provvigione."
+        ],
+        "come": [
+          "Scartare e tenere il filtro più stretto: escludere dalle segnalazioni le schede ReNDIS e gli interventi con CUP/CIG già assegnati, che sono lavori pubblici e non avvisi per imprese.",
+          "Se il Comune interessato dal Vitravo (area Crotone-Cirò) è nella rete, usarlo solo come aggancio relazionale per proporre i temi veri: TARIP, raccolta porta a porta con RFID e app Junker."
+        ],
+        "aggiornato": "2026-11-04T14:09:06.428Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-11-04T14:09:08.208Z"
     },
     {
       "attivo": true,
@@ -2085,10 +2203,6 @@
       "partnerRichiesti": "Nessuno: si aderisce da soli come impresa della filiera. Il partenariato è già formato (Comune di Martina Franca capofila, Camera di Commercio di Lefkada, ITS Academy MI.TI. Moda, CNA Calabria): noi e",
       "ancheSu": [
         {
-          "fonte": "Fincalabra",
-          "link": "https://www.fincalabra.it/web/index.php?option=com_content&view=article&id=11661&catid=66"
-        },
-        {
           "fonte": "CNA Calabria",
           "link": "https://calabria.cna.it/heritagetex-cna-calabria-rilancia-la-selezione-delle-imprese-tessili-calabresi/"
         }
@@ -2529,6 +2643,45 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": false,
+      "id": "calabria-53664",
+      "title": "Avviso pubblico per il sostegno a progetti di internazionalizzazione delle PMI e loro aggregazioni",
+      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
+      "ancheSu": [
+        {
+          "fonte": "Fincalabra",
+          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+        }
+      ],
+      "date": "2026-10-12T14:53:23.000Z",
+      "deadline": "2026-05-31T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "In valutazione",
+      "isOpen": false,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "pmi"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiario diretto",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "investimenti e innovazione d'impresa"
+      ],
+      "decisoDaTe": false,
+      "valutazione": null,
+      "fasi": null,
+      "segnalatoIl": "2026-07-26T10:59:50.419Z"
     },
     {
       "attivo": false,
