@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T14:09:08.226Z",
+  "generatedAt": "2026-11-05T14:31:27.386Z",
   "lastEmailSentAt": "2026-11-04T14:09:08.224Z",
   "nextEmailDueAt": "2026-11-11T14:09:08.224Z",
   "settings": {
@@ -9,14 +9,14 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 10,
-    "attivi": 23,
+    "nuovi": 9,
+    "attivi": 22,
     "inScadenza": 1,
     "scaduti": 45,
-    "totale": 68,
+    "totale": 67,
     "nostri": 2,
     "rete": 20,
-    "fuoriTema": 143
+    "fuoriTema": 135
   },
   "perFonte": {
     "Calabria Europa": {
@@ -30,10 +30,6 @@
     "EU Funding & Tenders": {
       "totale": 24,
       "attivi": 11
-    },
-    "Regione Calabria": {
-      "totale": 1,
-      "attivi": 1
     },
     "Confcommercio Cosenza": {
       "totale": 5,
@@ -73,13 +69,13 @@
     }
   },
   "perAmbito": {
-    "regionale": 10,
+    "regionale": 9,
     "europeo": 11,
     "nazionale": 2
   },
   "perPartecipazione": {
     "partenariato": 12,
-    "daVerificare": 2,
+    "daVerificare": 1,
     "singola": 9
   },
   "bandi": [
@@ -818,57 +814,6 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-10-06T13:06:47.107Z"
-    },
-    {
-      "attivo": true,
-      "id": "rcal-ripristino-dellofficiosita-idraulica-e-ricostruzione-argini-del-fiume-vitravo-codice-rendis-18ir295-g1-cup-j45j16000050001-cig-8764781e14",
-      "title": "Ripristino dell'officiosità idraulica e ricostruzione argini del Fiume Vitravo” Codice ReNDIS 18IR295/G1, CUP: J45J16000050001 - CIG: 8764781E14",
-      "link": "https://www.regione.calabria.it/bandi/ripristino-dellofficiosita-idraulica-e-ricostruzione-argini-del-fiume-vitravo-codice-rendis-18ir295-g1-cup-j45j16000050001-cig-8764781e14/",
-      "source": "Regione Calabria",
-      "sourceUrl": "https://www.regione.calabria.it/bandi-e-avvisi-di-gara/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Non rilevante: è un intervento di lavori pubblici in capo a Regione/Comune, eventualmente affidato a imprese edili o di ingegneria idraulica tramite gara, non un bando a cui candidarsi come impresa di",
-      "ancheSu": null,
-      "date": "2026-11-04T14:07:11.052Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "fuori",
-      "ruolo": "partner tecnologico",
-      "motivi": [
-        "edilizia circolare e CAM"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "no",
-        "priorita": "C",
-        "ruolo": null,
-        "partecipazione": "daVerificare",
-        "partner": "Non rilevante: è un intervento di lavori pubblici in capo a Regione/Comune, eventualmente affidato a imprese edili o di ingegneria idraulica tramite gara, non un bando a cui candidarsi come impresa di",
-        "nota": "Intervento di difesa idraulica sul Fiume Vitravo con CUP e CIG già assegnati: è un lavoro pubblico, non un contributo a imprese. Nessun fornitore del catalogo ha una soluzione vendibile in questo cantiere.",
-        "descrizione": "Scheda della Regione Calabria relativa all'intervento di ripristino dell'officiosità idraulica e ricostruzione degli argini del Fiume Vitravo, censito nel ReNDIS (Repertorio Nazionale degli interventi per la Difesa del Suolo) con codice 18IR295/G1 e dotato di CUP e CIG. Si tratta di un'opera pubblica di mitigazione del rischio idrogeologico già programmata e avviata sul piano procedurale, non di un avviso di finanziamento rivolto a imprese.",
-        "perche": [
-          "Non è un bando a fondo perduto: è un intervento di difesa del suolo con CUP e CIG già assegnati, quindi una procedura di appalto di lavori riservata a imprese edili/idrauliche qualificate.",
-          "La società non esegue lavori, non ha struttura, SOA né requisiti per partecipare a gare di lavori pubblici.",
-          "Il segnale automatico 'edilizia circolare e CAM' è un falso positivo: argini e opere idrauliche non impiegano pannelli termoisolanti o fonoassorbenti da acetato di cellulosa, quindi non c'è un contratto per Human Maple né per gli altri fornitori mappati.",
-          "Nessun Comune beneficiario riceve qui risorse per acquistare raccolta differenziata, TARIP, RFID o efficienza energetica: non nasce alcuna provvigione."
-        ],
-        "come": [
-          "Scartare e tenere il filtro più stretto: escludere dalle segnalazioni le schede ReNDIS e gli interventi con CUP/CIG già assegnati, che sono lavori pubblici e non avvisi per imprese.",
-          "Se il Comune interessato dal Vitravo (area Crotone-Cirò) è nella rete, usarlo solo come aggancio relazionale per proporre i temi veri: TARIP, raccolta porta a porta con RFID e app Junker."
-        ],
-        "aggiornato": "2026-11-04T14:09:06.428Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-11-04T14:09:08.208Z"
     },
     {
       "attivo": true,
