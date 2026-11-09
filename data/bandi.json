@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T14:06:00.039Z",
+  "generatedAt": "2026-11-09T15:51:52.861Z",
   "lastEmailSentAt": "2026-11-04T14:09:08.224Z",
   "nextEmailDueAt": "2026-11-11T14:09:08.224Z",
   "settings": {
@@ -10,13 +10,13 @@
   },
   "counts": {
     "nuovi": 9,
-    "attivi": 22,
+    "attivi": 21,
     "inScadenza": 1,
-    "scaduti": 45,
+    "scaduti": 46,
     "totale": 67,
-    "nostri": 2,
+    "nostri": 1,
     "rete": 20,
-    "fuoriTema": 143
+    "fuoriTema": 142
   },
   "perFonte": {
     "Calabria Europa": {
@@ -37,7 +37,7 @@
     },
     "Federterziario Calabria": {
       "totale": 8,
-      "attivi": 3
+      "attivi": 2
     },
     "Unical – Bandi nazionali": {
       "totale": 1,
@@ -69,14 +69,14 @@
     }
   },
   "perAmbito": {
-    "regionale": 9,
+    "regionale": 8,
     "europeo": 11,
     "nazionale": 2
   },
   "perPartecipazione": {
     "partenariato": 12,
     "daVerificare": 1,
-    "singola": 9
+    "singola": 8
   },
   "bandi": [
     {
@@ -1181,60 +1181,6 @@
       "segnalatoIl": "2026-08-27T17:30:52.516Z"
     },
     {
-      "attivo": true,
-      "id": "federterziario-6788",
-      "title": "Bando Sviluppo Competenze 2026: 50% formazione PMI | Invitalia",
-      "link": "https://www.federterziariocalabria.it/bando-sviluppo-competenze-2026/",
-      "source": "Federterziario Calabria",
-      "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "nessuno",
-      "ancheSu": null,
-      "date": "2026-08-10T10:12:40.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 5,
-      "relevanceKeywords": [
-        "pmi",
-        "bando",
-        "formazione",
-        "competenze"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta (più avanti)",
-      "motivi": [
-        "aiuti a PMI e nuove imprese",
-        "contributo a fondo perduto"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "forse",
-        "priorita": "C",
-        "ruolo": "beneficiaria diretta (più avanti)",
-        "nota": "Copre il 50% della formazione del personale: oggi non abbiamo dipendenti né società costituita, quindi non ci serve. Può diventare una leva da proporre alle imprese clienti che devono formare il personale su un servizio nuovo.",
-        "perche": [
-          "Finanzia la formazione dei dipendenti: i tre soci-amministratori di una società appena nata di solito non bastano.",
-          "Richiede l'impresa già attiva.",
-          "Come leva per altri è debole: i nostri fornitori vendono servizi e impianti, non corsi."
-        ],
-        "come": [
-          "Rivalutarlo quando la società avrà il primo dipendente.",
-          "Chiedere a Federterziario se ci sono nuove finestre nel 2027."
-        ],
-        "partecipazione": "singola",
-        "partner": "nessuno",
-        "aggiornato": "2026-09-25T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
       "attivo": false,
       "id": "eu-SMP-FOOD-2026-FW-STAKEHOLDERS-PJ",
       "title": "EU support to Stakeholders to improve measurement of food waste and help implement food waste prevention in their operations and organisation - 2026-2027",
@@ -2243,6 +2189,60 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
+    },
+    {
+      "attivo": false,
+      "id": "federterziario-6788",
+      "title": "Bando Sviluppo Competenze 2026: 50% formazione PMI | Invitalia",
+      "link": "https://www.federterziariocalabria.it/bando-sviluppo-competenze-2026/",
+      "source": "Federterziario Calabria",
+      "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "nessuno",
+      "ancheSu": null,
+      "date": "2026-08-10T10:12:40.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 5,
+      "relevanceKeywords": [
+        "pmi",
+        "bando",
+        "formazione",
+        "competenze"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria diretta (più avanti)",
+      "motivi": [
+        "aiuti a PMI e nuove imprese",
+        "contributo a fondo perduto"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "forse",
+        "priorita": "C",
+        "ruolo": "beneficiaria diretta (più avanti)",
+        "nota": "Copre il 50% della formazione del personale: oggi non abbiamo dipendenti né società costituita, quindi non ci serve. Può diventare una leva da proporre alle imprese clienti che devono formare il personale su un servizio nuovo.",
+        "perche": [
+          "Finanzia la formazione dei dipendenti: i tre soci-amministratori di una società appena nata di solito non bastano.",
+          "Richiede l'impresa già attiva.",
+          "Come leva per altri è debole: i nostri fornitori vendono servizi e impianti, non corsi."
+        ],
+        "come": [
+          "Rivalutarlo quando la società avrà il primo dipendente.",
+          "Chiedere a Federterziario se ci sono nuove finestre nel 2027."
+        ],
+        "partecipazione": "singola",
+        "partner": "nessuno",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": false,
