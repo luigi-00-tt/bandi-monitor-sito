@@ -841,5 +841,26 @@
       "Se il Comune interessato dal Vitravo (area Crotone-Cirò) è nella rete, usarlo solo come aggancio relazionale per proporre i temi veri: TARIP, raccolta porta a porta con RFID e app Junker."
     ],
     "aggiornato": "2026-11-04T14:09:06.428Z"
+  },
+  "unicalnaz-26132-mimit-voucher-cybersecurity-e-cloud-per-pmi-e-autonomi": {
+    "verdetto": "forse",
+    "priorita": "C",
+    "ruolo": "beneficiaria diretta eventuale",
+    "partecipazione": "singola",
+    "partner": "nessuno: domanda presentata dalla sola impresa, da verificare se l'acquisto va fatto presso fornitori accreditati dal Mimit",
+    "nota": "Voucher per servizi cloud e cybersecurity: utilizzabile solo da noi come beneficiari dopo l'iscrizione al Registro Imprese, e su una spesa marginale rispetto alle nostre priorità di avvio. Nessun fornitore del catalogo da proporre.",
+    "descrizione": "Misura del Ministero delle Imprese e del Made in Italy che riconosce un voucher a fondo perduto a PMI e lavoratori autonomi per l'acquisto di servizi di sicurezza informatica e di soluzioni cloud. La scheda indica come termine il 20 gennaio 2027; importi, percentuali di copertura e modalità di accesso vanno letti nel decreto attuativo e nello sportello di riferimento.",
+    "perche": [
+      "Il bando finanzia servizi digitali (cloud e cybersecurity) che non rientrano nell'offerta di Human Maple, delle 19 aziende RFID/TARIP, di Junker o degli altri fornitori mappati: non genera alcun contratto su cui incassare provvigione.",
+      "Come beneficiari diretti la società è oggi in costituzione e non iscritta al Registro Imprese, requisito quasi certo per un voucher Mimit rivolto a PMI e autonomi.",
+      "La scadenza lunga (gennaio 2027) lascia il tempo di costituirsi e attivarsi, quindi la misura resta recuperabile, ma copre una spesa secondaria rispetto a computer, sito, coworking e consulenze commerciali.",
+      "Possibile uso indiretto come argomento commerciale verso PMI clienti (digitalizzazione), senza però un fornitore del catalogo da abbinare."
+    ],
+    "come": [
+      "Verificare sul sito Mimit il decreto attuativo: data effettiva di apertura dello sportello, requisito di impresa attiva e iscritta, eventuale anzianità minima e se l'acquisto deve avvenire presso fornitori accreditati.",
+      "Rimandare ogni valutazione al dopo-costituzione e alla titolarità di partita IVA e PEC, poi confrontare la spesa ammissibile (abbonamenti cloud e sicurezza) con il piano di avvio reale.",
+      "Non impegnare tempo commerciale su questo bando: tenerlo in agenda come promemoria 2026 e concentrarsi sui bandi che finanziano acquisti dei Comuni e delle imprese presso i fornitori rappresentati."
+    ],
+    "aggiornato": "2026-11-15T13:50:16.854Z"
   }
 }
