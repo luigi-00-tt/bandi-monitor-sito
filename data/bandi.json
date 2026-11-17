@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T13:50:20.264Z",
-  "lastEmailSentAt": "2026-11-15T13:50:20.263Z",
-  "nextEmailDueAt": "2026-11-22T13:50:20.263Z",
+  "generatedAt": "2026-11-17T15:44:44.065Z",
+  "lastEmailSentAt": "2026-11-17T15:44:44.063Z",
+  "nextEmailDueAt": "2026-11-24T15:44:44.063Z",
   "settings": {
     "emailIntervalDays": 7,
     "expiringAlertDays": 30,
@@ -9,39 +9,35 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 10,
-    "attivi": 22,
+    "nuovi": 12,
+    "attivi": 24,
     "inScadenza": 1,
-    "scaduti": 46,
+    "scaduti": 44,
     "totale": 68,
-    "nostri": 2,
-    "rete": 20,
-    "fuoriTema": 143
+    "nostri": 3,
+    "rete": 19,
+    "fuoriTema": 146
   },
   "perFonte": {
     "Calabria Europa": {
       "totale": 13,
       "attivi": 3
     },
-    "Fincalabra": {
-      "totale": 6,
-      "attivi": 1
-    },
     "Unical – Bandi nazionali": {
       "totale": 2,
       "attivi": 2
     },
-    "EU Funding & Tenders": {
-      "totale": 24,
-      "attivi": 11
-    },
-    "Confcommercio Cosenza": {
-      "totale": 5,
-      "attivi": 2
-    },
     "Federterziario Calabria": {
       "totale": 8,
-      "attivi": 2
+      "attivi": 3
+    },
+    "EU Funding & Tenders": {
+      "totale": 25,
+      "attivi": 12
+    },
+    "Confcommercio Cosenza": {
+      "totale": 6,
+      "attivi": 3
     },
     "MIMIT": {
       "totale": 4,
@@ -66,17 +62,21 @@
     "Unindustria Calabria": {
       "totale": 1,
       "attivi": 0
+    },
+    "Fincalabra": {
+      "totale": 4,
+      "attivi": 0
     }
   },
   "perAmbito": {
-    "regionale": 8,
+    "regionale": 9,
     "nazionale": 3,
-    "europeo": 11
+    "europeo": 12
   },
   "perPartecipazione": {
-    "partenariato": 12,
+    "partenariato": 13,
     "daVerificare": 1,
-    "singola": 9
+    "singola": 10
   },
   "bandi": [
     {
@@ -150,7 +150,7 @@
       "ancheSu": [
         {
           "fonte": "Fincalabra",
-          "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/"
         }
       ],
       "date": "2026-06-16T17:42:25.000Z",
@@ -195,71 +195,6 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
-    },
-    {
-      "attivo": true,
-      "id": "fincalabra-feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-impre",
-      "title": "“FEERI” - Fondo Efficienza Energetica e Rinnovabili per le Imprese",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/",
-      "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "nessuno per l'impresa beneficiaria; noi portiamo il fornitore tecnico e prendiamo la provvigione",
-      "ancheSu": [
-        {
-          "fonte": "Calabria Europa",
-          "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/"
-        }
-      ],
-      "date": "2026-09-05T10:18:55.953Z",
-      "deadline": "2026-12-30T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 31,
-      "relevanceKeywords": [
-        "ambiente",
-        "ambientale",
-        "sostenibilit",
-        "pmi",
-        "imprese",
-        "energia"
-      ],
-      "classe": "rete",
-      "ruolo": "intermediazione con provvigione",
-      "motivi": [
-        "investimenti e innovazione d'impresa",
-        "aiuti a PMI e nuove imprese",
-        "contributo a fondo perduto"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "A",
-        "ruolo": "intermediazione con provvigione",
-        "nota": "È il caso da manuale del nostro mestiere: le PMI calabresi comprano impianti e lavori di efficienza energetica con il 30-35% a fondo perduto e un prestito all'1%, e noi portiamo loro il fornitore. Aperto fino al 30/12/2026, investimento da 80.000 € a 3 M€.",
-        "perche": [
-          "Verificato il 25/09/2026 sulla pagina Calabria Europa: aperto dal 9/06/2025 al 30/12/2026, dotazione 45 M€ (30 per l'efficienza, 15 per le rinnovabili).",
-          "Le spese ammissibili sono proprio quello che si compra da un fornitore: progettazione, opere murarie, macchinari, impianti rinnovabili e accumuli. Ogni domanda è un contratto fra un'impresa e un fornitore, cioè una provvigione per noi.",
-          "Il contributo (35% per le micro, 30% per le PMI) più il prestito all'1% su 96 mesi rendono l'impresa molto più disposta a firmare: è la leva commerciale di cui parliamo.",
-          "Non serve che la nostra società sia costituita per cominciare a mappare fornitori e imprese interessate; per incassare le provvigioni sì."
-        ],
-        "come": [
-          "Individuare 2-3 fornitori calabresi di efficienza energetica e fotovoltaico/accumulo e firmare con ciascuno accordo provvigionale e patto di non elusione (percentuale di riferimento 3-8%).",
-          "Fare la lista delle PMI energivore della rete (lavorazioni, freddo, piattaforme rifiuti) con investimenti sopra gli 80.000 €.",
-          "Portare all'impresa un pacchetto chiavi in mano: diagnosi del fornitore, preventivo, domanda FEERI preparata con il loro consulente.",
-          "Muoversi entro novembre: la domanda richiede la diagnosi e la progettazione, che hanno bisogno di settimane."
-        ],
-        "partecipazione": "singola",
-        "partner": "nessuno per l'impresa beneficiaria; noi portiamo il fornitore tecnico e prendiamo la provvigione",
-        "aggiornato": "2026-09-25T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-05T10:20:34.262Z"
     },
     {
       "attivo": true,
@@ -315,6 +250,59 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-11-15T13:50:20.251Z"
+    },
+    {
+      "attivo": true,
+      "id": "federterziario-7290",
+      "title": "Fondo Screening DAE 2026: contributi alle imprese per screening e defibrillatori",
+      "link": "https://www.federterziariocalabria.it/fondo-screening-dae-2026-contributi-imprese/",
+      "source": "Federterziario Calabria",
+      "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "nessuno: è un contributo a singola impresa, ma non ci riguarda",
+      "ancheSu": null,
+      "date": "2026-11-17T09:14:23.000Z",
+      "deadline": "2027-01-31T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "imprese"
+      ],
+      "classe": "fuori",
+      "ruolo": "beneficiario diretto",
+      "motivi": [
+        "aiuti diretti alle imprese del territorio"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "no",
+        "priorita": "C",
+        "ruolo": null,
+        "partecipazione": "singola",
+        "partner": "nessuno: è un contributo a singola impresa, ma non ci riguarda",
+        "nota": "Contributo per screening sanitari dei dipendenti e acquisto di defibrillatori: rimborsa costi di salute e sicurezza, non acquisti di impianti o servizi di economia circolare. Nessun fornitore del catalogo da proporre.",
+        "descrizione": "Il Fondo Screening DAE 2026 riconosce alle imprese un contributo fino a 2.000 € per gli screening sanitari dei lavoratori e fino a 1.000 € per l'acquisto di un defibrillatore. Sono ammesse le spese sostenute nel 2026 e le domande si presentano entro il 31 gennaio 2027.",
+        "perche": [
+          "La società è in costituzione e non ha dipendenti: non ci sono lavoratori da sottoporre a screening né un luogo di lavoro attivo dove installare un DAE.",
+          "È un rimborso di costi di salute e sicurezza, non un finanziamento con cui un cliente acquista impianti, forniture o servizi: non nasce alcun contratto su cui maturare provvigione.",
+          "Nessuno dei fornitori mappati (Human Maple, RFID/TARIP, Junker, riciclo pannolini, efficienza energetica) vende ciò che il fondo finanzia.",
+          "Le imprese beneficiarie non diventano per questa via clienti di soluzioni di economia circolare: non c'è nemmeno un uso indiretto come leva commerciale."
+        ],
+        "come": [
+          "Archiviarlo e tenerlo eventualmente come promemoria interno per quando la società avrà dipendenti e una sede operativa a Rende, verificando in quel momento se il fondo viene riproposto.",
+          "Concentrare il tempo sui bandi che finanziano acquisti dei Comuni (raccolta differenziata, TARIP, retrofit contenitori) e investimenti delle PMI in efficienza e materiali CAM."
+        ],
+        "aggiornato": "2026-11-17T15:44:30.975Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-11-17T15:44:44.046Z"
     },
     {
       "attivo": true,
@@ -522,6 +510,58 @@
         "2027-09-16T00:00:00.000Z"
       ],
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
+    },
+    {
+      "attivo": true,
+      "id": "eu-HORIZON-INFRA-2027-TECH-01-01",
+      "title": "Testing and optimising models of co-creation of advanced research infrastructure technologies",
+      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-TECH-01-01",
+      "source": "EU Funding & Tenders",
+      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "europeo",
+      "programma": "Altri programmi europei",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "Consorzio Horizon di almeno 3 soggetti di 3 Paesi UE, tipicamente guidato da grandi infrastrutture di ricerca (sincrotroni, laboratori europei) con università e imprese tecnologiche fornitrici di stru",
+      "ancheSu": null,
+      "date": "2027-03-09T00:00:00.000Z",
+      "deadline": "2027-06-15T00:00:00.000Z",
+      "aSportello": false,
+      "statoLabel": "In arrivo",
+      "isOpen": true,
+      "relevanceScore": 2,
+      "relevanceKeywords": [
+        "research"
+      ],
+      "classe": "fuori",
+      "ruolo": "living lab con i Comuni",
+      "motivi": [
+        "cittadini, sensibilizzazione e gamification"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "no",
+        "priorita": "C",
+        "ruolo": null,
+        "partecipazione": "partenariato",
+        "partner": "Consorzio Horizon di almeno 3 soggetti di 3 Paesi UE, tipicamente guidato da grandi infrastrutture di ricerca (sincrotroni, laboratori europei) con università e imprese tecnologiche fornitrici di stru",
+        "nota": "Bando di ricerca sulle tecnologie per le infrastrutture di ricerca europee: nessun Comune o impresa calabrese compra nulla dai fornitori del catalogo. Da scartare.",
+        "descrizione": "Topic Horizon Europe del cluster Infrastrutture di ricerca (RIA) che finanzia la sperimentazione e l'ottimizzazione di modelli di co-creazione fra infrastrutture di ricerca e industria per sviluppare tecnologie avanzate di strumentazione scientifica. Si rivolge a consorzi transnazionali composti da infrastrutture di ricerca, enti scientifici e imprese fornitrici di tecnologia. Scadenza indicata 15 giugno 2027, bando in arrivo.",
+        "perche": [
+          "Il tema è lo sviluppo congiunto di tecnologie per le grandi infrastrutture di ricerca: non esiste un acquisto di impianti o servizi di raccolta differenziata, isolamento edilizio o TARIP su cui maturare una provvigione.",
+          "Il segnale automatico su 'cittadini, sensibilizzazione e gamification' è un falso positivo: qui la co-creazione riguarda il rapporto fra laboratori scientifici e industria della strumentazione, non i cittadini e i Comuni.",
+          "Si tratta di una Research and Innovation Action che richiede personale di ricerca, laboratori e track record: la società non ha struttura, dipendenti né bilanci e non può entrare in consorzio come partner.",
+          "Nessun fornitore del catalogo (Human Maple, RFID/TARIP, Junker, riciclo pannolini) ha un prodotto collocabile in questa filiera."
+        ],
+        "come": [
+          "Scartare e non monitorare: nel programma Horizon concentrare l'attenzione sui topic Cluster 6 / CBE JU / Mission Climate-Neutral Cities dove i Comuni calabresi possono entrare come città pilota e Human Maple come partner tecnologico."
+        ],
+        "aggiornato": "2026-11-17T15:44:43.042Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-11-17T15:44:44.046Z"
     },
     {
       "attivo": true,
@@ -1186,6 +1226,71 @@
     },
     {
       "attivo": true,
+      "id": "confcommcs-229647",
+      "title": "Voucher Cloud e Cybersecurity: contributi fino a 20.000 euro per le imprese",
+      "link": "https://confcommerciocosenza.it/voucher-cloud-e-cybersecurity-contributi-fino-a-20-000-euro-per-le-imprese/",
+      "source": "Confcommercio Cosenza",
+      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
+      "ancheSu": [
+        {
+          "fonte": "Federterziario Calabria",
+          "link": "https://www.federterziariocalabria.it/voucher-cloud-e-cybersecurity-2026-requisiti-e-contributi/"
+        }
+      ],
+      "date": "2026-08-27T11:48:33.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 10,
+      "relevanceKeywords": [
+        "piccole e medie imprese",
+        "imprese",
+        "digitalizzazione",
+        "digital",
+        "tecnolog"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria diretta",
+      "motivi": [
+        "contributo a fondo perduto",
+        "aiuti a PMI e nuove imprese",
+        "digitalizzazione e competenze"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "beneficiaria diretta",
+        "partecipazione": "singola",
+        "partner": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
+        "nota": "Voucher digitale fino a 20.000 euro sul territorio di Cosenza: occasione da prima fila per finanziare la nostra infrastruttura cloud, CRM e sicurezza dati. Nodo unico: l'ammissibilità di una società ancora in costituzione.",
+        "perche": [
+          "Bando su territorio Cosenza, dove apriamo la sede operativa a Rende: siamo esattamente nel perimetro dei beneficiari",
+          "Si presenta da soli, senza consorzi: istruttoria e domanda gestibili in poche settimane, a differenza dei bandi europei",
+          "Il nostro modello di intermediazione vive su strumenti cloud: CRM per Comuni e fornitori, gestione dati TARIP/RFID, dashboard di monitoraggio, integrazioni con Junker e Iotilize; la cybersecurity è un requisito reale trattando dati di enti pubblici",
+          "Un fondo perduto sulle spese digitali abbatte i costi fissi di avvio della SRLS senza intaccare la liquidità necessaria all'attività commerciale"
+        ],
+        "come": [
+          "Verificare come primo passo se una società appena costituita o in costituzione è ammissibile: data limite di iscrizione al Registro Imprese, eventuale anzianità minima, codice ATECO ammesso, iscrizione/regolarità con la Camera di commercio di Cosenza e con il diritto annuale; se serve, accelerare la costituzione presso il notaio prima della scadenza",
+          "Recuperare il testo integrale e l'ente gestore effettivo (Confcommercio è il canale informativo, il bando è probabilmente camerale o regionale): sportello a graduatoria o a sportello, percentuale di contributo, spesa minima ammissibile",
+          "Preparare il pacchetto tecnico: preventivi da fornitori ICT qualificati per CRM/gestionale in cloud, backup, MFA e protezione dati, con descrizione degli output attesi (piattaforma di gestione contratti e provvigioni, portale per i Comuni)",
+          "Predisporre in anticipo documenti societari, DURC, SPID/firma digitale del legale rappresentante e conto dedicato, per non perdere la finestra di presentazione"
+        ],
+        "aggiornato": "2026-09-03T11:00:49.729Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
+    },
+    {
+      "attivo": true,
       "id": "calabria-58265",
       "title": "FRI Calabria",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/fri-calabria/",
@@ -1197,7 +1302,12 @@
       "programma": "Calabria",
       "partecipazione": "singola",
       "partnerRichiesti": "nessuno per l'impresa beneficiaria",
-      "ancheSu": null,
+      "ancheSu": [
+        {
+          "fonte": "Fincalabra",
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/fri-calabria/"
+        }
+      ],
       "date": "2026-08-26T15:48:39.000Z",
       "deadline": null,
       "aSportello": true,
@@ -2028,12 +2138,12 @@
       "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria. L’unico nodo è il requisito soggettivo (MPMI già costituita), non i partner.",
       "ancheSu": [
         {
-          "fonte": "Federterziario Calabria",
-          "link": "https://www.federterziariocalabria.it/bando-agenda-urbana-cosenza-rende/"
-        },
-        {
           "fonte": "Confartigianato Cosenza",
           "link": "https://www.confartigianatocosenza.it/2026/06/16/agenda-urbana-cosenza-rende-2021-2027/"
+        },
+        {
+          "fonte": "Federterziario Calabria",
+          "link": "https://www.federterziariocalabria.it/bando-agenda-urbana-cosenza-rende/"
         }
       ],
       "date": "2026-07-09T00:00:00.000Z",
@@ -2661,6 +2771,10 @@
         {
           "fonte": "Fincalabra",
           "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi"
+        },
+        {
+          "fonte": "Fincalabra",
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/"
         }
       ],
       "date": "2026-10-12T14:53:23.000Z",
@@ -2881,7 +2995,12 @@
       "programma": null,
       "partecipazione": "singola",
       "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
-      "ancheSu": null,
+      "ancheSu": [
+        {
+          "fonte": "Federterziario Calabria",
+          "link": "https://www.federterziariocalabria.it/bando-lavoro-giovani-calabria-2026-tirocini-retribuiti-under-35/"
+        }
+      ],
       "date": "2026-01-08T15:17:58.000Z",
       "deadline": "2026-05-12T00:00:00.000Z",
       "aSportello": false,
@@ -2936,42 +3055,6 @@
       "motivi": [
         "economia circolare e riciclo",
         "investimenti e innovazione d'impresa"
-      ],
-      "decisoDaTe": false,
-      "valutazione": null,
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
-    },
-    {
-      "attivo": false,
-      "id": "federterziario-5853",
-      "title": "Bando Lavoro Giovani Calabria 2026: Tirocini Retribuiti Under 35",
-      "link": "https://www.federterziariocalabria.it/bando-lavoro-giovani-calabria-2026-tirocini-retribuiti-under-35/",
-      "source": "Federterziario Calabria",
-      "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
-      "ancheSu": null,
-      "date": "2026-04-21T07:08:09.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 6,
-      "relevanceKeywords": [
-        "calabria",
-        "giovani",
-        "bando",
-        "lavoro"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiario diretto",
-      "motivi": [
-        "incentivi all'occupazione"
       ],
       "decisoDaTe": false,
       "valutazione": null,
@@ -3050,49 +3133,6 @@
     },
     {
       "attivo": false,
-      "id": "fincalabra-avviso-pubblico-per-il-sostegno-a-progetti-di-internazionali",
-      "title": "Avviso pubblico per il sostegno a progetti di internazionalizzazione delle PMI e loro aggregazioni",
-      "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/",
-      "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Aiuto alle imprese: di norma si presenta da soli. Da confermare sul testo dell'avviso.",
-      "ancheSu": [
-        {
-          "fonte": "Calabria Europa",
-          "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-e-loro-aggregazioni/"
-        }
-      ],
-      "date": "2026-09-05T10:18:55.953Z",
-      "deadline": "2026-03-15T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 9,
-      "relevanceKeywords": [
-        "pmi",
-        "piccole e medie imprese",
-        "imprese",
-        "digital",
-        "agevolazione"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiario diretto",
-      "motivi": [
-        "aiuti a PMI e nuove imprese",
-        "investimenti e innovazione d'impresa"
-      ],
-      "decisoDaTe": false,
-      "valutazione": null,
-      "fasi": null,
-      "segnalatoIl": "2026-09-05T10:20:34.262Z"
-    },
-    {
-      "attivo": false,
       "id": "calabria-58719",
       "title": "Avviso pubblico per la prevenzione e riduzione dei rifiuti",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-la-prevenzione-e-riduzione-di-rifiuti/",
@@ -3132,7 +3172,7 @@
       "title": "FONDO COMPETITIVITA' IMPRESE (FCI)",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/fondo-competitivita-imprese-fci/",
       "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "sourceUrl": "https://www.fincalabra.it/web/index.php/bandi",
       "documenti": null,
       "linkNotizia": null,
       "ambito": "regionale",
@@ -3172,7 +3212,7 @@
       "title": "AVVISO N. 3 - GERACE, PORTA DEL SOLE INTERVENTO 1 INCENTIVI FINALIZZATI A SVILUPPO IMPRENDITORIALE, NUOVA OCCUPAZIONE E FORMAZIONE, CONCESSI NEL RISPETTO DELLA NORMATIVA IN MATERIA DI AIUTI STATO",
       "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi/66-contenuti-statici/11564-avviso-n-2-gerace-porta-del-sole-intervento-1-incentivi-finalizzati-a-sviluppo-imprenditoriale-nuova-occupazione-e-formazione-concessi-nel-rispetto-della-normativa-in-materia-di-aiuti-stato",
       "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "sourceUrl": "https://www.fincalabra.it/web/index.php/bandi",
       "documenti": null,
       "linkNotizia": null,
       "ambito": "regionale",
@@ -3212,7 +3252,7 @@
       "title": "AVVISO N. 2 - GERACE, PORTA DEL SOLE INTERVENTO 1 INCENTIVI FINALIZZATI A SVILUPPO IMPRENDITORIALE, NUOVA OCCUPAZIONE E FORMAZIONE, CONCESSI NEL RISPETTO DELLA NORMATIVA IN MATERIA DI AIUTI STATO",
       "link": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi/66-contenuti-statici/11564-avviso-n-2-gerace-porta-del-sole-intervento-1-incentivi-finalizzati-a-sviluppo-imprenditoriale-nuova-occupazione-e-formazione-concessi-nel-rispetto-della-normativa-in-materia-di-aiuti-stato",
       "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "sourceUrl": "https://www.fincalabra.it/web/index.php/bandi",
       "documenti": null,
       "linkNotizia": null,
       "ambito": "regionale",
@@ -3252,7 +3292,7 @@
       "title": "Avviso pubblico per il sostegno a progetti di attività di ricerca, sviluppo e innovazione",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/avviso-pubblico-per-il-sostegno-a-progetti-di-attivita-di-ricerca-sviluppo-e-innovazione/",
       "source": "Fincalabra",
-      "sourceUrl": "https://www.fincalabra.it/web/index.php/aiuti-alle-imprese/bandi",
+      "sourceUrl": "https://www.fincalabra.it/web/index.php/bandi",
       "documenti": null,
       "linkNotizia": null,
       "ambito": "regionale",
