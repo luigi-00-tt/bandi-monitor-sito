@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:44:44.065Z",
+  "generatedAt": "2026-11-18T15:24:31.117Z",
   "lastEmailSentAt": "2026-11-17T15:44:44.063Z",
   "nextEmailDueAt": "2026-11-24T15:44:44.063Z",
   "settings": {
@@ -9,11 +9,11 @@
     "monthlyReport": true
   },
   "counts": {
-    "nuovi": 12,
-    "attivi": 24,
+    "nuovi": 10,
+    "attivi": 22,
     "inScadenza": 1,
     "scaduti": 44,
-    "totale": 68,
+    "totale": 66,
     "nostri": 3,
     "rete": 19,
     "fuoriTema": 146
@@ -27,17 +27,17 @@
       "totale": 2,
       "attivi": 2
     },
-    "Federterziario Calabria": {
-      "totale": 8,
-      "attivi": 3
-    },
     "EU Funding & Tenders": {
-      "totale": 25,
-      "attivi": 12
+      "totale": 24,
+      "attivi": 11
     },
     "Confcommercio Cosenza": {
       "totale": 6,
       "attivi": 3
+    },
+    "Federterziario Calabria": {
+      "totale": 7,
+      "attivi": 2
     },
     "MIMIT": {
       "totale": 4,
@@ -69,14 +69,14 @@
     }
   },
   "perAmbito": {
-    "regionale": 9,
+    "regionale": 8,
     "nazionale": 3,
-    "europeo": 12
+    "europeo": 11
   },
   "perPartecipazione": {
-    "partenariato": 13,
+    "partenariato": 12,
     "daVerificare": 1,
-    "singola": 10
+    "singola": 9
   },
   "bandi": [
     {
@@ -93,10 +93,6 @@
       "partecipazione": "partenariato",
       "partnerRichiesti": "impresa calabrese + organismo di ricerca (Unical) + partner esteri",
       "ancheSu": [
-        {
-          "fonte": "Unical – Bandi regionali",
-          "link": "http://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/23204-m-eranet-call-2026-pre-informazione-avviso-per-progetti-di-ricerca-sui-materiali-innovativi-co-finanziamento-regionale-per-beneficiari-con-sede-in-calabria/"
-        },
         {
           "fonte": "Calabria Europa",
           "link": "https://calabriaeuropa.regione.calabria.it/bando/m-era-net-call-2025/"
@@ -250,59 +246,6 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-11-15T13:50:20.251Z"
-    },
-    {
-      "attivo": true,
-      "id": "federterziario-7290",
-      "title": "Fondo Screening DAE 2026: contributi alle imprese per screening e defibrillatori",
-      "link": "https://www.federterziariocalabria.it/fondo-screening-dae-2026-contributi-imprese/",
-      "source": "Federterziario Calabria",
-      "sourceUrl": "https://www.federterziariocalabria.it/category/bandi/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "nessuno: è un contributo a singola impresa, ma non ci riguarda",
-      "ancheSu": null,
-      "date": "2026-11-17T09:14:23.000Z",
-      "deadline": "2027-01-31T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "imprese"
-      ],
-      "classe": "fuori",
-      "ruolo": "beneficiario diretto",
-      "motivi": [
-        "aiuti diretti alle imprese del territorio"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "no",
-        "priorita": "C",
-        "ruolo": null,
-        "partecipazione": "singola",
-        "partner": "nessuno: è un contributo a singola impresa, ma non ci riguarda",
-        "nota": "Contributo per screening sanitari dei dipendenti e acquisto di defibrillatori: rimborsa costi di salute e sicurezza, non acquisti di impianti o servizi di economia circolare. Nessun fornitore del catalogo da proporre.",
-        "descrizione": "Il Fondo Screening DAE 2026 riconosce alle imprese un contributo fino a 2.000 € per gli screening sanitari dei lavoratori e fino a 1.000 € per l'acquisto di un defibrillatore. Sono ammesse le spese sostenute nel 2026 e le domande si presentano entro il 31 gennaio 2027.",
-        "perche": [
-          "La società è in costituzione e non ha dipendenti: non ci sono lavoratori da sottoporre a screening né un luogo di lavoro attivo dove installare un DAE.",
-          "È un rimborso di costi di salute e sicurezza, non un finanziamento con cui un cliente acquista impianti, forniture o servizi: non nasce alcun contratto su cui maturare provvigione.",
-          "Nessuno dei fornitori mappati (Human Maple, RFID/TARIP, Junker, riciclo pannolini, efficienza energetica) vende ciò che il fondo finanzia.",
-          "Le imprese beneficiarie non diventano per questa via clienti di soluzioni di economia circolare: non c'è nemmeno un uso indiretto come leva commerciale."
-        ],
-        "come": [
-          "Archiviarlo e tenerlo eventualmente come promemoria interno per quando la società avrà dipendenti e una sede operativa a Rende, verificando in quel momento se il fondo viene riproposto.",
-          "Concentrare il tempo sui bandi che finanziano acquisti dei Comuni (raccolta differenziata, TARIP, retrofit contenitori) e investimenti delle PMI in efficienza e materiali CAM."
-        ],
-        "aggiornato": "2026-11-17T15:44:30.975Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-11-17T15:44:44.046Z"
     },
     {
       "attivo": true,
@@ -510,58 +453,6 @@
         "2027-09-16T00:00:00.000Z"
       ],
       "segnalatoIl": "2026-08-01T11:07:11.591Z"
-    },
-    {
-      "attivo": true,
-      "id": "eu-HORIZON-INFRA-2027-TECH-01-01",
-      "title": "Testing and optimising models of co-creation of advanced research infrastructure technologies",
-      "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-TECH-01-01",
-      "source": "EU Funding & Tenders",
-      "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "europeo",
-      "programma": "Altri programmi europei",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "Consorzio Horizon di almeno 3 soggetti di 3 Paesi UE, tipicamente guidato da grandi infrastrutture di ricerca (sincrotroni, laboratori europei) con università e imprese tecnologiche fornitrici di stru",
-      "ancheSu": null,
-      "date": "2027-03-09T00:00:00.000Z",
-      "deadline": "2027-06-15T00:00:00.000Z",
-      "aSportello": false,
-      "statoLabel": "In arrivo",
-      "isOpen": true,
-      "relevanceScore": 2,
-      "relevanceKeywords": [
-        "research"
-      ],
-      "classe": "fuori",
-      "ruolo": "living lab con i Comuni",
-      "motivi": [
-        "cittadini, sensibilizzazione e gamification"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "no",
-        "priorita": "C",
-        "ruolo": null,
-        "partecipazione": "partenariato",
-        "partner": "Consorzio Horizon di almeno 3 soggetti di 3 Paesi UE, tipicamente guidato da grandi infrastrutture di ricerca (sincrotroni, laboratori europei) con università e imprese tecnologiche fornitrici di stru",
-        "nota": "Bando di ricerca sulle tecnologie per le infrastrutture di ricerca europee: nessun Comune o impresa calabrese compra nulla dai fornitori del catalogo. Da scartare.",
-        "descrizione": "Topic Horizon Europe del cluster Infrastrutture di ricerca (RIA) che finanzia la sperimentazione e l'ottimizzazione di modelli di co-creazione fra infrastrutture di ricerca e industria per sviluppare tecnologie avanzate di strumentazione scientifica. Si rivolge a consorzi transnazionali composti da infrastrutture di ricerca, enti scientifici e imprese fornitrici di tecnologia. Scadenza indicata 15 giugno 2027, bando in arrivo.",
-        "perche": [
-          "Il tema è lo sviluppo congiunto di tecnologie per le grandi infrastrutture di ricerca: non esiste un acquisto di impianti o servizi di raccolta differenziata, isolamento edilizio o TARIP su cui maturare una provvigione.",
-          "Il segnale automatico su 'cittadini, sensibilizzazione e gamification' è un falso positivo: qui la co-creazione riguarda il rapporto fra laboratori scientifici e industria della strumentazione, non i cittadini e i Comuni.",
-          "Si tratta di una Research and Innovation Action che richiede personale di ricerca, laboratori e track record: la società non ha struttura, dipendenti né bilanci e non può entrare in consorzio come partner.",
-          "Nessun fornitore del catalogo (Human Maple, RFID/TARIP, Junker, riciclo pannolini) ha un prodotto collocabile in questa filiera."
-        ],
-        "come": [
-          "Scartare e non monitorare: nel programma Horizon concentrare l'attenzione sui topic Cluster 6 / CBE JU / Mission Climate-Neutral Cities dove i Comuni calabresi possono entrare come città pilota e Human Maple come partner tecnologico."
-        ],
-        "aggiornato": "2026-11-17T15:44:43.042Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-11-17T15:44:44.046Z"
     },
     {
       "attivo": true,
