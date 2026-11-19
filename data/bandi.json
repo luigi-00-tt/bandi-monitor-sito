@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:24:31.117Z",
+  "generatedAt": "2026-11-19T15:30:19.406Z",
   "lastEmailSentAt": "2026-11-17T15:44:44.063Z",
   "nextEmailDueAt": "2026-11-24T15:44:44.063Z",
   "settings": {
@@ -10,18 +10,18 @@
   },
   "counts": {
     "nuovi": 10,
-    "attivi": 22,
-    "inScadenza": 1,
-    "scaduti": 44,
+    "attivi": 21,
+    "inScadenza": 0,
+    "scaduti": 45,
     "totale": 66,
     "nostri": 3,
-    "rete": 19,
-    "fuoriTema": 146
+    "rete": 18,
+    "fuoriTema": 148
   },
   "perFonte": {
     "Calabria Europa": {
       "totale": 13,
-      "attivi": 3
+      "attivi": 2
     },
     "Unical – Bandi nazionali": {
       "totale": 2,
@@ -69,67 +69,16 @@
     }
   },
   "perAmbito": {
-    "regionale": 8,
+    "regionale": 7,
     "nazionale": 3,
     "europeo": 11
   },
   "perPartecipazione": {
-    "partenariato": 12,
     "daVerificare": 1,
-    "singola": 9
+    "singola": 9,
+    "partenariato": 11
   },
   "bandi": [
-    {
-      "attivo": true,
-      "id": "manuale-mera-net-call-2026-calabria",
-      "title": "M-ERA.NET Call 2026 – progetti di ricerca sui materiali innovativi, co-finanziamento regionale per beneficiari con sede in Calabria",
-      "link": "https://calabriaeuropa.regione.calabria.it/m-era-net-call-2026-pubblicato-in-pre-informazione-lavviso-per-progetti-di-ricerca-sui-materiali-innovativi/",
-      "source": "Calabria Europa",
-      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
-      "documenti": null,
-      "linkNotizia": "https://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/23204-m-eranet-call-2026-pre-informazione-avviso-per-progetti-di-ricerca-sui-materiali-innovativi-co-finanziamento-regionale-per-beneficiari-con-sede-in-calabria/",
-      "ambito": "regionale",
-      "programma": "Calabria",
-      "partecipazione": "partenariato",
-      "partnerRichiesti": "impresa calabrese + organismo di ricerca (Unical) + partner esteri",
-      "ancheSu": [
-        {
-          "fonte": "Calabria Europa",
-          "link": "https://calabriaeuropa.regione.calabria.it/bando/m-era-net-call-2025/"
-        }
-      ],
-      "date": "2026-05-05T00:00:00.000Z",
-      "deadline": "2026-11-18T22:59:00.000Z",
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 0,
-      "relevanceKeywords": [],
-      "classe": "rete",
-      "ruolo": "intermediazione (edizione 2027)",
-      "motivi": [
-        "inserito a mano"
-      ],
-      "decisoDaTe": true,
-      "valutazione": {
-        "verdetto": "rete",
-        "priorita": "C",
-        "ruolo": "intermediazione (edizione 2027)",
-        "nota": "Per il 2026 il treno è passato: la pre-proposta, obbligatoria, si è chiusa il 12 maggio. Per il 2027 è il bando giusto per Human Maple con Unical; noi non facciamo ricerca, il nostro ruolo è metterli insieme.",
-        "perche": [
-          "Il 18/11/2026 è la scadenza delle proposte complete, riservata a chi ha passato la pre-proposta di maggio.",
-          "Il beneficiario deve fare ricerca sui materiali: Human Maple e Unical, non una società di intermediazione."
-        ],
-        "come": [
-          "Segnalarlo a Human Maple per l'edizione 2027 (pre-proposte in primavera) e mettere in contatto Human Maple e Unical, con accordo scritto sulla nostra provvigione."
-        ],
-        "partecipazione": "partenariato",
-        "partner": "impresa calabrese + organismo di ricerca (Unical) + partner esteri",
-        "aggiornato": "2026-09-25T00:00:00.000Z"
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-07T10:02:36.429Z"
-    },
     {
       "attivo": true,
       "id": "calabria-57880",
@@ -1235,6 +1184,57 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-08-27T17:30:52.516Z"
+    },
+    {
+      "attivo": false,
+      "id": "manuale-mera-net-call-2026-calabria",
+      "title": "M-ERA.NET Call 2026 – progetti di ricerca sui materiali innovativi, co-finanziamento regionale per beneficiari con sede in Calabria",
+      "link": "https://calabriaeuropa.regione.calabria.it/m-era-net-call-2026-pubblicato-in-pre-informazione-lavviso-per-progetti-di-ricerca-sui-materiali-innovativi/",
+      "source": "Calabria Europa",
+      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "documenti": null,
+      "linkNotizia": "https://www.unical.it/ricerca/attivita-di-ricerca/opportunita-di-finanziamento/contents/news/view/23204-m-eranet-call-2026-pre-informazione-avviso-per-progetti-di-ricerca-sui-materiali-innovativi-co-finanziamento-regionale-per-beneficiari-con-sede-in-calabria/",
+      "ambito": "regionale",
+      "programma": "Calabria",
+      "partecipazione": "partenariato",
+      "partnerRichiesti": "impresa calabrese + organismo di ricerca (Unical) + partner esteri",
+      "ancheSu": [
+        {
+          "fonte": "Calabria Europa",
+          "link": "https://calabriaeuropa.regione.calabria.it/bando/m-era-net-call-2025/"
+        }
+      ],
+      "date": "2026-05-05T00:00:00.000Z",
+      "deadline": "2026-11-18T22:59:00.000Z",
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 0,
+      "relevanceKeywords": [],
+      "classe": "rete",
+      "ruolo": "intermediazione (edizione 2027)",
+      "motivi": [
+        "inserito a mano"
+      ],
+      "decisoDaTe": true,
+      "valutazione": {
+        "verdetto": "rete",
+        "priorita": "C",
+        "ruolo": "intermediazione (edizione 2027)",
+        "nota": "Per il 2026 il treno è passato: la pre-proposta, obbligatoria, si è chiusa il 12 maggio. Per il 2027 è il bando giusto per Human Maple con Unical; noi non facciamo ricerca, il nostro ruolo è metterli insieme.",
+        "perche": [
+          "Il 18/11/2026 è la scadenza delle proposte complete, riservata a chi ha passato la pre-proposta di maggio.",
+          "Il beneficiario deve fare ricerca sui materiali: Human Maple e Unical, non una società di intermediazione."
+        ],
+        "come": [
+          "Segnalarlo a Human Maple per l'edizione 2027 (pre-proposte in primavera) e mettere in contatto Human Maple e Unical, con accordo scritto sulla nostra provvigione."
+        ],
+        "partecipazione": "partenariato",
+        "partner": "impresa calabrese + organismo di ricerca (Unical) + partner esteri",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-07T10:02:36.429Z"
     },
     {
       "attivo": false,
