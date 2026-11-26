@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:59:07.541Z",
+  "generatedAt": "2026-11-26T16:39:41.594Z",
   "lastEmailSentAt": "2026-11-17T15:44:44.063Z",
   "nextEmailDueAt": "2026-11-24T15:44:44.063Z",
   "settings": {
@@ -10,18 +10,18 @@
   },
   "counts": {
     "nuovi": 9,
-    "attivi": 21,
+    "attivi": 20,
     "inScadenza": 0,
-    "scaduti": 45,
+    "scaduti": 46,
     "totale": 66,
-    "nostri": 3,
-    "rete": 18,
-    "fuoriTema": 147
+    "nostri": 1,
+    "rete": 19,
+    "fuoriTema": 149
   },
   "perFonte": {
-    "Calabria Europa": {
-      "totale": 13,
-      "attivi": 2
+    "Fincalabra": {
+      "totale": 5,
+      "attivi": 1
     },
     "Unical – Bandi nazionali": {
       "totale": 2,
@@ -33,7 +33,7 @@
     },
     "Confcommercio Cosenza": {
       "totale": 6,
-      "attivi": 3
+      "attivi": 2
     },
     "Federterziario Calabria": {
       "totale": 7,
@@ -41,6 +41,10 @@
     },
     "MIMIT": {
       "totale": 4,
+      "attivi": 1
+    },
+    "Calabria Europa": {
+      "totale": 12,
       "attivi": 1
     },
     "Interreg Grecia-Italia": {
@@ -62,39 +66,34 @@
     "Unindustria Calabria": {
       "totale": 1,
       "attivi": 0
-    },
-    "Fincalabra": {
-      "totale": 4,
-      "attivi": 0
     }
   },
   "perAmbito": {
-    "regionale": 7,
+    "regionale": 6,
     "nazionale": 3,
     "europeo": 11
   },
   "perPartecipazione": {
-    "daVerificare": 1,
     "singola": 9,
     "partenariato": 11
   },
   "bandi": [
     {
       "attivo": true,
-      "id": "calabria-57880",
-      "title": "“FEERI” - Fondo Efficienza Energetica e Rinnovabili per le Imprese",
+      "id": "fincalabra-feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-impre",
+      "title": "“FEERI” – Fondo Efficienza Energetica e Rinnovabili per le Imprese",
       "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/",
-      "source": "Calabria Europa",
-      "sourceUrl": "https://calabriaeuropa.regione.calabria.it/bandi/",
+      "source": "Fincalabra",
+      "sourceUrl": "https://www.fincalabra.it/web/index.php/bandi",
       "documenti": null,
       "linkNotizia": null,
       "ambito": "regionale",
       "programma": "Calabria",
-      "partecipazione": "daVerificare",
-      "partnerRichiesti": "Dal titolo non si capisce: va letto l'avviso per sapere se serve un partner.",
+      "partecipazione": "singola",
+      "partnerRichiesti": "nessuno per l'impresa beneficiaria; noi portiamo il fornitore tecnico e prendiamo la provvigione",
       "ancheSu": [
         {
-          "fonte": "Fincalabra",
+          "fonte": "Calabria Europa",
           "link": "https://calabriaeuropa.regione.calabria.it/bando/feeri-fondo-efficienza-energetica-e-rinnovabili-per-le-imprese/"
         }
       ],
@@ -103,13 +102,15 @@
       "aSportello": false,
       "statoLabel": "Aperto",
       "isOpen": true,
-      "relevanceScore": 6,
+      "relevanceScore": 10,
       "relevanceKeywords": [
+        "ambientale",
+        "sostenibilit",
         "imprese",
         "rinnovabil",
         "efficienza energetica"
       ],
-      "classe": "nostro",
+      "classe": "rete",
       "ruolo": "intermediazione con provvigione",
       "motivi": [
         "investimenti e innovazione d'impresa",
@@ -118,28 +119,28 @@
       ],
       "decisoDaTe": true,
       "valutazione": {
-        "verdetto": "si",
+        "verdetto": "rete",
         "priorita": "A",
         "ruolo": "intermediazione con provvigione",
-        "nota": "FEERI (efficienza energetica e rinnovabili, scadenza 30/12/2026): il bando perfetto per monetizzare subito il modello di intermediazione — provvigioni 3-8% sui contratti dei fornitori tecnici, più cross-selling dei pannelli.",
+        "nota": "È il caso da manuale del nostro mestiere: le PMI calabresi comprano impianti e lavori di efficienza energetica con il 30-35% a fondo perduto e un prestito all'1%, e noi portiamo loro il fornitore. Aperto fino al 30/12/2026, investimento da 80.000 € a 3 M€.",
         "perche": [
-          "Fondo regionale da 45 M€ con copertura fino al 100% tra fondo perduto e finanziamento all'1%: un'esca fortissima per le PMI calabresi energivore, che rende facilissimo il nostro lavoro di segnalazione.",
-          "Modello di revenue immediato: accordi provvigionali con impiantisti, ESCo e fornitori di macchinari (3-8% del valore della commessa, su impianti da 100k a oltre 1M€), più success fee con le società di finanza agevolata.",
-          "Cross-selling: se il progetto include l'isolamento dell'immobile (Linea A.2) possiamo inserire nel computo metrico i nostri pannelli termoisolanti circolari.",
-          "Ci accredita come punto di riferimento per la transizione ecologica ed energetica in Calabria."
+          "Verificato il 25/09/2026 sulla pagina Calabria Europa: aperto dal 9/06/2025 al 30/12/2026, dotazione 45 M€ (30 per l'efficienza, 15 per le rinnovabili).",
+          "Le spese ammissibili sono proprio quello che si compra da un fornitore: progettazione, opere murarie, macchinari, impianti rinnovabili e accumuli. Ogni domanda è un contratto fra un'impresa e un fornitore, cioè una provvigione per noi.",
+          "Il contributo (35% per le micro, 30% per le PMI) più il prestito all'1% su 96 mesi rendono l'impresa molto più disposta a firmare: è la leva commerciale di cui parliamo.",
+          "Non serve che la nostra società sia costituita per cominciare a mappare fornitori e imprese interessate; per incassare le provvigioni sì."
         ],
         "come": [
-          "Mappare le PMI industriali calabresi con alti consumi o capannoni da riqualificare e presentare loro il pacchetto chiavi in mano: bando FEERI + partner tecnici qualificati + supporto alla candidatura.",
-          "Stringere a monte gli accordi provvigionali con impiantisti fotovoltaico, ESCo e fornitori, definendo quando matura il compenso (accettazione preventivo o pagamento SAL).",
-          "Tutele contrattuali indispensabili: accordo di segnalazione madre, patto di non elusione (NCNDA), clausola di esclusione di responsabilità operativa (la responsabilità tecnica resta a fornitori e azienda richiedente).",
-          "Coinvolgere uno studio di europrogettazione per diagnosi energetica e presentazione della domanda."
+          "Individuare 2-3 fornitori calabresi di efficienza energetica e fotovoltaico/accumulo e firmare con ciascuno accordo provvigionale e patto di non elusione (percentuale di riferimento 3-8%).",
+          "Fare la lista delle PMI energivore della rete (lavorazioni, freddo, piattaforme rifiuti) con investimenti sopra gli 80.000 €.",
+          "Portare all'impresa un pacchetto chiavi in mano: diagnosi del fornitore, preventivo, domanda FEERI preparata con il loro consulente.",
+          "Muoversi entro novembre: la domanda richiede la diagnosi e la progettazione, che hanno bisogno di settimane."
         ],
-        "partecipazione": null,
-        "partner": null,
-        "aggiornato": "2026-08-21T00:00:00.000Z"
+        "partecipazione": "singola",
+        "partner": "nessuno per l'impresa beneficiaria; noi portiamo il fornitore tecnico e prendiamo la provvigione",
+        "aggiornato": "2026-09-25T00:00:00.000Z"
       },
       "fasi": null,
-      "segnalatoIl": "2026-07-26T10:59:50.419Z"
+      "segnalatoIl": "2026-09-05T10:20:34.262Z"
     },
     {
       "attivo": true,
@@ -1063,71 +1064,6 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-09-10T11:00:17.760Z"
-    },
-    {
-      "attivo": true,
-      "id": "confcommcs-229647",
-      "title": "Voucher Cloud e Cybersecurity: contributi fino a 20.000 euro per le imprese",
-      "link": "https://confcommerciocosenza.it/voucher-cloud-e-cybersecurity-contributi-fino-a-20-000-euro-per-le-imprese/",
-      "source": "Confcommercio Cosenza",
-      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
-      "documenti": null,
-      "linkNotizia": null,
-      "ambito": "regionale",
-      "programma": "Associazioni di categoria",
-      "partecipazione": "singola",
-      "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
-      "ancheSu": [
-        {
-          "fonte": "Federterziario Calabria",
-          "link": "https://www.federterziariocalabria.it/voucher-cloud-e-cybersecurity-2026-requisiti-e-contributi/"
-        }
-      ],
-      "date": "2026-08-27T11:48:33.000Z",
-      "deadline": null,
-      "aSportello": false,
-      "statoLabel": null,
-      "isOpen": null,
-      "relevanceScore": 10,
-      "relevanceKeywords": [
-        "piccole e medie imprese",
-        "imprese",
-        "digitalizzazione",
-        "digital",
-        "tecnolog"
-      ],
-      "classe": "nostro",
-      "ruolo": "beneficiaria diretta",
-      "motivi": [
-        "contributo a fondo perduto",
-        "aiuti a PMI e nuove imprese",
-        "digitalizzazione e competenze"
-      ],
-      "decisoDaTe": false,
-      "valutazione": {
-        "verdetto": "si",
-        "priorita": "A",
-        "ruolo": "beneficiaria diretta",
-        "partecipazione": "singola",
-        "partner": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
-        "nota": "Voucher digitale fino a 20.000 euro sul territorio di Cosenza: occasione da prima fila per finanziare la nostra infrastruttura cloud, CRM e sicurezza dati. Nodo unico: l'ammissibilità di una società ancora in costituzione.",
-        "perche": [
-          "Bando su territorio Cosenza, dove apriamo la sede operativa a Rende: siamo esattamente nel perimetro dei beneficiari",
-          "Si presenta da soli, senza consorzi: istruttoria e domanda gestibili in poche settimane, a differenza dei bandi europei",
-          "Il nostro modello di intermediazione vive su strumenti cloud: CRM per Comuni e fornitori, gestione dati TARIP/RFID, dashboard di monitoraggio, integrazioni con Junker e Iotilize; la cybersecurity è un requisito reale trattando dati di enti pubblici",
-          "Un fondo perduto sulle spese digitali abbatte i costi fissi di avvio della SRLS senza intaccare la liquidità necessaria all'attività commerciale"
-        ],
-        "come": [
-          "Verificare come primo passo se una società appena costituita o in costituzione è ammissibile: data limite di iscrizione al Registro Imprese, eventuale anzianità minima, codice ATECO ammesso, iscrizione/regolarità con la Camera di commercio di Cosenza e con il diritto annuale; se serve, accelerare la costituzione presso il notaio prima della scadenza",
-          "Recuperare il testo integrale e l'ente gestore effettivo (Confcommercio è il canale informativo, il bando è probabilmente camerale o regionale): sportello a graduatoria o a sportello, percentuale di contributo, spesa minima ammissibile",
-          "Preparare il pacchetto tecnico: preventivi da fornitori ICT qualificati per CRM/gestionale in cloud, backup, MFA e protezione dati, con descrizione degli output attesi (piattaforma di gestione contratti e provvigioni, portale per i Comuni)",
-          "Predisporre in anticipo documenti societari, DURC, SPID/firma digitale del legale rappresentante e conto dedicato, per non perdere la finestra di presentazione"
-        ],
-        "aggiornato": "2026-09-03T11:00:49.729Z",
-        "automatica": true
-      },
-      "fasi": null,
-      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": true,
@@ -2245,6 +2181,71 @@
       },
       "fasi": null,
       "segnalatoIl": "2026-07-26T10:59:50.419Z"
+    },
+    {
+      "attivo": false,
+      "id": "confcommcs-229647",
+      "title": "Voucher Cloud e Cybersecurity: contributi fino a 20.000 euro per le imprese",
+      "link": "https://confcommerciocosenza.it/voucher-cloud-e-cybersecurity-contributi-fino-a-20-000-euro-per-le-imprese/",
+      "source": "Confcommercio Cosenza",
+      "sourceUrl": "https://confcommerciocosenza.it/category/bandi-e-finanziamenti/",
+      "documenti": null,
+      "linkNotizia": null,
+      "ambito": "regionale",
+      "programma": "Associazioni di categoria",
+      "partecipazione": "singola",
+      "partnerRichiesti": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
+      "ancheSu": [
+        {
+          "fonte": "Federterziario Calabria",
+          "link": "https://www.federterziariocalabria.it/voucher-cloud-e-cybersecurity-2026-requisiti-e-contributi/"
+        }
+      ],
+      "date": "2026-08-27T11:48:33.000Z",
+      "deadline": null,
+      "aSportello": false,
+      "statoLabel": null,
+      "isOpen": null,
+      "relevanceScore": 10,
+      "relevanceKeywords": [
+        "piccole e medie imprese",
+        "imprese",
+        "digitalizzazione",
+        "digital",
+        "tecnolog"
+      ],
+      "classe": "nostro",
+      "ruolo": "beneficiaria diretta",
+      "motivi": [
+        "contributo a fondo perduto",
+        "aiuti a PMI e nuove imprese",
+        "digitalizzazione e competenze"
+      ],
+      "decisoDaTe": false,
+      "valutazione": {
+        "verdetto": "si",
+        "priorita": "A",
+        "ruolo": "beneficiaria diretta",
+        "partecipazione": "singola",
+        "partner": "Nessuno: si presenta la sola società come impresa beneficiaria; eventuali fornitori ICT vanno solo individuati come soggetti attuatori delle spese",
+        "nota": "Voucher digitale fino a 20.000 euro sul territorio di Cosenza: occasione da prima fila per finanziare la nostra infrastruttura cloud, CRM e sicurezza dati. Nodo unico: l'ammissibilità di una società ancora in costituzione.",
+        "perche": [
+          "Bando su territorio Cosenza, dove apriamo la sede operativa a Rende: siamo esattamente nel perimetro dei beneficiari",
+          "Si presenta da soli, senza consorzi: istruttoria e domanda gestibili in poche settimane, a differenza dei bandi europei",
+          "Il nostro modello di intermediazione vive su strumenti cloud: CRM per Comuni e fornitori, gestione dati TARIP/RFID, dashboard di monitoraggio, integrazioni con Junker e Iotilize; la cybersecurity è un requisito reale trattando dati di enti pubblici",
+          "Un fondo perduto sulle spese digitali abbatte i costi fissi di avvio della SRLS senza intaccare la liquidità necessaria all'attività commerciale"
+        ],
+        "come": [
+          "Verificare come primo passo se una società appena costituita o in costituzione è ammissibile: data limite di iscrizione al Registro Imprese, eventuale anzianità minima, codice ATECO ammesso, iscrizione/regolarità con la Camera di commercio di Cosenza e con il diritto annuale; se serve, accelerare la costituzione presso il notaio prima della scadenza",
+          "Recuperare il testo integrale e l'ente gestore effettivo (Confcommercio è il canale informativo, il bando è probabilmente camerale o regionale): sportello a graduatoria o a sportello, percentuale di contributo, spesa minima ammissibile",
+          "Preparare il pacchetto tecnico: preventivi da fornitori ICT qualificati per CRM/gestionale in cloud, backup, MFA e protezione dati, con descrizione degli output attesi (piattaforma di gestione contratti e provvigioni, portale per i Comuni)",
+          "Predisporre in anticipo documenti societari, DURC, SPID/firma digitale del legale rappresentante e conto dedicato, per non perdere la finestra di presentazione"
+        ],
+        "aggiornato": "2026-09-03T11:00:49.729Z",
+        "automatica": true
+      },
+      "fasi": null,
+      "segnalatoIl": "2026-09-03T11:01:30.164Z"
     },
     {
       "attivo": false,
